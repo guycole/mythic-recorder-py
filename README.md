@@ -9,7 +9,7 @@ I have a AWS EC2 instance w/windows which I to harvest information from https://
 
 "mythic recorder" is a python3 application which parses the files created by "data client" and writes the results to a MySQL database.  I have been collecting files from eoddata.com for several years and have a largish data set.  Despite the size mythic-recorder/MySQL continue to perform well on a AWS M5 instance.
 
-"data client" writes XML and CSV files depending upon the content.  Symbol lists and exchange lists are XML files while price quotes are CSV files.  The raw directory hierarchy is segragated by market, which will contain session quotes and symbol lists.  Note that a directory named "5" resides within some directories, these contain 5 minute bar files.  A representative data set is provided witin the "EODData" directory.
+"data client" writes XML and CSV files depending upon the content.  Symbol lists and exchange lists are XML files while price quotes are CSV files.  The raw directory hierarchy is segregated by market, which will contain session quotes and symbol lists.  Note that a directory named "5" resides within some directories, these contain 5 minute bar files.  A representative data set is provided witin the "EODData" directory.
 
 ****
 
@@ -38,7 +38,7 @@ I have a AWS EC2 instance w/windows which I to harvest information from https://
 
 ### Application Notes
 
-1. Every load operation is a "task", with an entry in "task_log" table.  You will see references to "task_log" scattered throughout the applications, this is to help determine when certain rows appeared in the data set.
+1. Every load operation is a "task", with an entry in "task_log" table.  You will see references to "task_log" scattered throughout the application, this is to help determine when certain rows appeared in the data set.
 
 1. Logging is stored within MySQL in the "application_log" table
 
