@@ -53,10 +53,20 @@ class Loader:
         except:
             context.alert_log.log_writer(self.facility, 4, "discovery failure noted")
         finally:
+            discovery_session.commit()
             discovery_session.close()
 
-        parser = Parser()
-        parser.execute(context)
+        parse_session = sql_table.session_factory()
+        context.set_session(parse_session)
+
+        try:
+            parser = Parser()
+            parser.execute(context)
+        except:
+            context.alert_log.log_writer(self.facility, 4, "parse failure noted")
+        finally:
+            parse_session.commit()
+            parse_session.close()
 
         alert_log.log_writer(self.facility, 6, 'stop')
 

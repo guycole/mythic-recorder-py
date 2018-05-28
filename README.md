@@ -1,9 +1,9 @@
 # mythic-recorder-py
-Store your data from https://eoddata.com in a https://www.mysql.com database.
+Store your data from [eoddata](https://eoddata.com) in a [MySQL](https://www.mysql.com) database using [python](https://wwww.python.org) and [SQL Alchemy](https://www.sqlalchemy.org)
 
 ***
 
-https://eoddata.com provides stock market price information as a commercial service.  You can acquire data from a variety of mechanisms including their "data client" which only runs on windows.  
+[eoddata](https://eoddata.com) provides stock market price information as a commercial service.  You can acquire data from a variety of mechanisms including their "data client" which only runs on windows.  
 
 I have a AWS EC2 instance w/windows which I to harvest information from https://eoddata.com once a week.  Once "data client" has completed the download I zip the current week and migrate it to an UNIX EC2 instance where proper tools exist for analysis.
 
