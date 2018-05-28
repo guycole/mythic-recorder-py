@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSYMBOL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SYMBOL Code="AJK18" Name="AJC {May 18}" />
+  <SYMBOL Code="AJN18" Name="AJC {Jul 18}" />
+  <SYMBOL Code="DW" Name="Durum Wheat" />
+  <SYMBOL Code="IC" Name="NCI National Corn" />
+  <SYMBOL Code="IC.C" Name="NCI National Corn Continuation" />
+  <SYMBOL Code="ICJ18" Name="NCI National Corn {Apr 18}" />
+  <SYMBOL Code="ICK18" Name="NCI National Corn {May 18}" />
+  <SYMBOL Code="ICM18" Name="NCI National Corn {Jun 18}" />
+  <SYMBOL Code="IH" Name="HRWI Hard Red" />
+  <SYMBOL Code="IH.C" Name="HRWI Hard Red Continuation" />
+  <SYMBOL Code="IHJ18" Name="HRWI Hard Red {Apr 18}" />
+  <SYMBOL Code="IHK18" Name="HRWI Hard Red {May 18}" />
+  <SYMBOL Code="IHM18" Name="HRWI Hard Red {Jun 18}" />
+  <SYMBOL Code="IP" Name="HRSI Hard Red Spring" />
+  <SYMBOL Code="IP.C" Name="HRSI Hard Red Spring Continuation" />
+  <SYMBOL Code="IPJ18" Name="HRSI Hard Red Spring {Apr 18}" />
+  <SYMBOL Code="IPK18" Name="HRSI Hard Red Spring {May 18}" />
+  <SYMBOL Code="IPM18" Name="HRSI Hard Red Spring {Jun 18}" />
+  <SYMBOL Code="IS" Name="NSI National Soybean" />
+  <SYMBOL Code="IS.C" Name="NSI National Soybean Continuation" />
+  <SYMBOL Code="ISJ18" Name="NSI National Soybean {Apr 18}" />
+  <SYMBOL Code="ISK18" Name="NSI National Soybean {May 18}" />
+  <SYMBOL Code="ISM18" Name="NSI National Soybean {Jun 18}" />
+  <SYMBOL Code="IW" Name="SRWI Soft Red Wheat" />
+  <SYMBOL Code="IW.C" Name="SRWI Soft Red Wheat Continuation" />
+  <SYMBOL Code="IWJ18" Name="SRWI Soft Red Wheat {Apr 18}" />
+  <SYMBOL Code="IWK18" Name="SRWI Soft Red Wheat {May 18}" />
+  <SYMBOL Code="IWM18" Name="SRWI Soft Red Wheat {Jun 18}" />
+  <SYMBOL Code="MW" Name="Spring Wheat" />
+  <SYMBOL Code="MW.C" Name="Spring Wheat Continuation" />
+  <SYMBOL Code="MWH19" Name="Spring Wheat {Mar 19}" />
+  <SYMBOL Code="MWK18" Name="Spring Wheat {May 18}" />
+  <SYMBOL Code="MWK19" Name="Spring Wheat {May 19}" />
+  <SYMBOL Code="MWN18" Name="Spring Wheat {Jul 18}" />
+  <SYMBOL Code="MWN19" Name="Spring Wheat {Jul 19}" />
+  <SYMBOL Code="MWU18" Name="Spring Wheat {Sep 18}" />
+  <SYMBOL Code="MWU19" Name="Spring Wheat {Sep 19}" />
+  <SYMBOL Code="MWZ18" Name="Spring Wheat {Dec 18}" />
+  <SYMBOL Code="MWZ19" Name="Spring Wheat {Dec 19}" />
+  <SYMBOL Code="NW" Name="White Wheat" />
+</ArrayOfSYMBOL>

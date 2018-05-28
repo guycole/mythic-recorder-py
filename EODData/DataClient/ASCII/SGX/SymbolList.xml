@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSYMBOL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SYMBOL Code="1A0" Name="Katrina Group Ltd." />
+  <SYMBOL Code="1A1" Name="Wong Fong Industries Limited" />
+  <SYMBOL Code="1A4" Name="Agv Group Limited" />
+  <SYMBOL Code="1A5W" Name="Eindec Corporation  W190822" />
+  <SYMBOL Code="1B0" Name="Mm2 Asia Ltd." />
+  <SYMBOL Code="1B1" Name="Hc Surgical Specialistslimited" />
+  <SYMBOL Code="1B5W" Name="Charisma Energyservicesw211128" />
+  <SYMBOL Code="1B6" Name="Ocean Sky International Ltd" />
+  <SYMBOL Code="1C0" Name="Cedar Strategic Holdings Ltd" />
+  <SYMBOL Code="1C1W" Name="Jep Holdings Ltd.w191220" />
+  <SYMBOL Code="1C3" Name="Samurai 2k Aerosol Limited" />
+  <SYMBOL Code="1C4W" Name="Abundance Internationalw210130" />
+  <SYMBOL Code="1C5" Name="Pacific Star Development Ltd" />
+  <SYMBOL Code="1C9W" Name="Asiaphos Limited W200323" />
+  <SYMBOL Code="1D0" Name="Kimly Limited" />
+  <SYMBOL Code="1D1" Name="Unusual Limited" />
+  <SYMBOL Code="1D3" Name="Lifebrandz Ltd." />
+  <SYMBOL Code="1D4" Name="Aoxin Q &amp; M Dental Grp Limited" />
+  <SYMBOL Code="1D5" Name="Capital World Limited." />
+  <SYMBOL Code="1D8" Name="Singapore O&amp;g Ltd." />
+  <SYMBOL Code="1E0W" Name="3cnergy Limited W200528" />
+  <SYMBOL Code="1E1W" Name="Lifebrandz Ltd W190602" />
+  <SYMBOL Code="1E3" Name="Sanli Environmental Limited" />
+  <SYMBOL Code="1E6" Name="World Class Global Limited" />
+  <SYMBOL Code="1E7W" Name="Viking Offshore And Ma W220701" />
+  <SYMBOL Code="1F0" Name="Shopper360 Limited" />
+  <SYMBOL Code="1F1" Name="Y Ventures Group Ltd." />
+  <SYMBOL Code="1F2" Name="Union Gas Holdings Limited" />
+  <SYMBOL Code="1F3" Name="Aspen (group) Holdings Limited" />
+  <SYMBOL Code="1F4" Name="Vashion Group Ltd." />
+  <SYMBOL Code="1F6W" Name="China Med (intl) W201029" />
+  <SYMBOL Code="1F9W" Name="Koh Brothers Eco Engg W211112" />
+  <SYMBOL Code="1G1" Name="Re&amp;s Holdings Limited" />
+  <SYMBOL Code="1G5W" Name="Cwx Global Limited W221213" />
+  <SYMBOL Code="1G6" Name="No Signboard Holdings Ltd." />
+  <SYMBOL Code="1G7W" Name="Amplefield Limited W221218" />
+  <SYMBOL Code="1H1W" Name="Vallianz Holdings Ltd W191226" />
+  <SYMBOL Code="1H2" Name="Olive Tree Estates Limited" />
+  <SYMBOL Code="1H3" Name="Clearbridge Health Limited" />
+  <SYMBOL Code="1H4" Name="Memories Group Limited" />
+  <SYMBOL Code="1H7W" Name="Asia-pacific Strategic W230130" />
+  <SYMBOL Code="1H8" Name="Ly Corporation Limited" />
+  <SYMBOL Code="1I2W" Name="Jubilee Ind Hldgs Ltd.w200301" />
+  <SYMBOL Code="1I3W" Name="Vashion Group Ltd. W210311" />
+  <SYMBOL Code="1I5" Name="Ayondo Ltd." />
+  <SYMBOL Code="1J0" Name="Slb Development Ltd." />
+  <SYMBOL Code="1J1W" Name="Pine Capital Group W230506" />
+  <SYMBOL Code="1J3" Name="Asian Healthcare Specialists" />
+  <SYMBOL Code="1J4" Name="Jep Holdings Ltd." />
+  <SYMBOL Code="1J5" Name="Hyphens Pharma Intl Limited" />
+  <SYMBOL Code="3UIS" Name="Nx09100w 190601" />
+  <SYMBOL Code="3UJS" Name="Ny09100h 240901" />
+  <SYMBOL Code="40B" Name="Smj International Holdingsltd." />
+  <SYMBOL Code="40D" Name="Starburst Holdings Limited" />
+  <SYMBOL Code="40E" Name="Spackman Entertainment Grp Ltd" />
+  <SYMBOL Code="40F" Name="Alliance Mineral Assetslimited" />
+  <SYMBOL Code="40N" Name="Versalink Holdings Limited" />
+  <SYMBOL Code="40R" Name="Serrano Limited" />
+  <SYMBOL Code="40S" Name="Perennial Real Estate Hldgsltd" />
+  <SYMBOL Code="40T" Name="Isec Healthcare Ltd." />
+  <SYMBOL Code="40U" Name="Ms Holdings Limited" />
+  <SYMBOL Code="40V" Name="Singapore Edevelopment Ltd" />
+  <SYMBOL Code="40W" Name="Zico Holdings Inc." />
+  <SYMBOL Code="41A" Name="Ug Healthcare Corporation Ltd" />
+  <SYMBOL Code="41B" Name="Huationg Global Limited" />
+  <SYMBOL Code="41F" Name="Gss Energy Limited" />
+  <SYMBOL Code="41H" Name="Blackgold Natural Resourcesltd" />
+  <SYMBOL Code="41O" Name="Lhn Limited" />
+  <SYMBOL Code="41RW" Name="Elektromotive Group W200505" />
+  <SYMBOL Code="41S" Name="Magnus Energy Group Ltd." />
+  <SYMBOL Code="41T" Name="Gccp Resources Limited" />
+  <SYMBOL Code="42C" Name="Ix Biopharma Ltd." />
+  <SYMBOL Code="42D" Name="Nauticawt Limited" />
+  <SYMBOL Code="42E" Name="Choo Chiang Holdings Ltd." />
+  <SYMBOL Code="42F" Name="Cmc Infocomm Limited" />
+  <SYMBOL Code="42G" Name="Soo Kee Group Ltd." />
+  <SYMBOL Code="42H" Name="Lereno Bio-chem Ltd." />
+  <SYMBOL Code="42L" Name="Tlv Holdings Limited" />
+  <SYMBOL Code="42N" Name="Ips Securex Holdings Limited" />
+  <SYMBOL Code="42O" Name="Ems Energy Limited" />
+  <SYMBOL Code="42QW" Name="Asia-pacific Strategic W201119" />
+  <SYMBOL Code="42R" Name="Jumbo Group Limited" />
+  <SYMBOL Code="42S" Name="Astaka Holdings Limited" />
+  <SYMBOL Code="42T" Name="The Trendlines Group Ltd." />
+  <SYMBOL Code="42U" Name="Axcelasia Inc." />
+  <SYMBOL Code="42VW" Name="Ntegrator Intl Ltd W181123" />
+  <SYMBOL Code="42W" Name="China Star Food Group Limited" />
+  <SYMBOL Code="42Z" Name="Eindec Corporation Limited" />
+  <SYMBOL Code="43A" Name="Gs Holdings Limited" />
+  <SYMBOL Code="43B" Name="Secura Group Limited" />
+  <SYMBOL Code="43CW" Name="Secura Group W190125" />
+  <SYMBOL Code="43E" Name="Anchor Resources Limited" />
+  <SYMBOL Code="43F" Name="Acromec Limited" />
+  <SYMBOL Code="43MW" Name="Starburst Holdings Ltd W210614" />
+  <SYMBOL Code="43P" Name="United Global Limited" />
+  <SYMBOL Code="43Q" Name="Advancer Global Limited" />
+  <SYMBOL Code="500" Name="Tai Sin Electric Limited" />
+  <SYMBOL Code="502" Name="Hsr Global Limited" />
+  <SYMBOL Code="504" Name="Klw Holdings Ltd" />
+  <SYMBOL Code="505" Name="Asiamedic Limited" />
+  <SYMBOL Code="508" Name="Fuji Offset Plates Mfg Ltd" />
+  <SYMBOL Code="510" Name="Hiap Seng Engineering Ltd" />
+  <SYMBOL Code="528" Name="Second Chance Properties Ltd" />
+  <SYMBOL Code="532" Name="DISA" />
+  <SYMBOL Code="533" Name="Abr Holdings Limited" />
+  <SYMBOL Code="539" Name="Cph Ltd" />
+  <SYMBOL Code="540" Name="Tung Lok Restaurants 2000 Ltd" />
+  <SYMBOL Code="541" Name="Craft Print International Ltd" />
+  <SYMBOL Code="543" Name="Noel Gifts International Ltd" />
+  <SYMBOL Code="544" Name="Cse Global Ltd" />
+  <SYMBOL Code="545" Name="Vallianz Holdings Limited" />
+  <SYMBOL Code="546" Name="Medtecs International Corp Ltd" />
+  <SYMBOL Code="554" Name="King Wan Corporation Limited" />
+  <SYMBOL Code="557" Name="Viking Offshore And Marine Ltd" />
+  <SYMBOL Code="558" Name="Ums Holdings Limited" />
+  <SYMBOL Code="561" Name="Teckwah Industrial Corp Ltd" />
+  <SYMBOL Code="564" Name="Spindex Industries Limited" />
+  <SYMBOL Code="566" Name="See Hup Seng Limited" />
+  <SYMBOL Code="567" Name="Colex Holdings Limited" />
+  <SYMBOL Code="569" Name="Vicplas International Ltd" />
+  <SYMBOL Code="570" Name="Transit-mixed Concrete Ltd" />
+  <SYMBOL Code="571" Name="International Press Softcom" />
+  <SYMBOL Code="573" Name="Challenger Technologies Ltd" />
+  <SYMBOL Code="574" Name="Tsh Corporation Limited" />
+  <SYMBOL Code="575" Name="Asti Holdings Limited" />
+  <SYMBOL Code="578" Name="Ks Energy Limited" />
+  <SYMBOL Code="579" Name="Oceanus Group Limited" />
+  <SYMBOL Code="580" Name="Santak Holdings Limited" />
+  <SYMBOL Code="581" Name="Ite Electric Co Ltd" />
+  <SYMBOL Code="583" Name="Progen Holdings Ltd" />
+  <SYMBOL Code="584" Name="Oakwell Engineering Limited" />
+  <SYMBOL Code="585" Name="Asian Micro Holdings Ltd" />
+  <SYMBOL Code="586" Name="Tmc Education Corporation Ltd" />
+  <SYMBOL Code="588" Name="Health Management Intl Ltd" />
+  <SYMBOL Code="593" Name="Lee Metal Group Ltd" />
+  <SYMBOL Code="594" Name="Loyz Energy Limited" />
+  <SYMBOL Code="595" Name="Van Der Horst Energy Limited" />
+  <SYMBOL Code="596" Name="Thai Village Holdings Ltd" />
+  <SYMBOL Code="5AB" Name="Trek 2000 Int'l Ltd" />
+  <SYMBOL Code="5AE" Name="Pollux Properties Ltd." />
+  <SYMBOL Code="5AI" Name="Sunlight Group Hldg Ltd" />
+  <SYMBOL Code="5AL" Name="Annica Holdings Limited" />
+  <SYMBOL Code="5AM" Name="Asiatravel.com Holdings Ltd" />
+  <SYMBOL Code="5AU" Name="Ap Oil International Limited" />
+  <SYMBOL Code="5BI" Name="Carriernet Global Ltd" />
+  <SYMBOL Code="5BS" Name="Pne Micron Holdings Ltd" />
+  <SYMBOL Code="5CF" Name="Okp Holdings Limited" />
+  <SYMBOL Code="5CJ" Name="Chinese Global Investors Group Ltd" />
+  <SYMBOL Code="5CN" Name="Sinwa Limited" />
+  <SYMBOL Code="5CP" Name="Silverlake Axis Ltd" />
+  <SYMBOL Code="5CQ" Name="Technics Oil &amp; Gas Limited" />
+  <SYMBOL Code="5CR" Name="Asiatic Group (holdings) Ltd" />
+  <SYMBOL Code="5CT" Name="Ecowise Holdings Limited" />
+  <SYMBOL Code="5DA" Name="Breadtalk Group Limited" />
+  <SYMBOL Code="5DD" Name="Micro-mechanics (holdings) Ltd" />
+  <SYMBOL Code="5DL" Name="Koon Holdings Limited" />
+  <SYMBOL Code="5DM" Name="Ying Li Intl Real Estate Ltd" />
+  <SYMBOL Code="5DN" Name="Ezra Holdings Limited" />
+  <SYMBOL Code="5DO" Name="Sakae Holdings Ltd." />
+  <SYMBOL Code="5DP" Name="Heeton Holdings Limited" />
+  <SYMBOL Code="5DS" Name="Megachem Limited" />
+  <SYMBOL Code="5DW" Name="Renewable Energy Asia Grp Ltd" />
+  <SYMBOL Code="5DX" Name="Metal Component Engg Ltd" />
+  <SYMBOL Code="5EB" Name="Cfm Holdings Limited" />
+  <SYMBOL Code="5EC" Name="ISR Capital" />
+  <SYMBOL Code="5EF" Name="Adventus Holdings Limited" />
+  <SYMBOL Code="5EG" Name="New Lakeside Holdings Limited" />
+  <SYMBOL Code="5EK" Name="Armarda Group Limited" />
+  <SYMBOL Code="5EL" Name="Lasseters Intl Holdings Ltd" />
+  <SYMBOL Code="5EN" Name="Midas Hldgs Limited" />
+  <SYMBOL Code="5ET" Name="Asiasons Capital Limited" />
+  <SYMBOL Code="5EV" Name="Hosen Group Ltd" />
+  <SYMBOL Code="5EW" Name="Pan Asian Holdings Limited" />
+  <SYMBOL Code="5F4" Name="Figtree Holdings Limited" />
+  <SYMBOL Code="5F7" Name="Hartawan Hldgs Ltd" />
+  <SYMBOL Code="5FA" Name="Jep Holdings Ltd." />
+  <SYMBOL Code="5FH" Name="Advance Sct Limited" />
+  <SYMBOL Code="5FI" Name="Oriental Food (holdings) Ltd." />
+  <SYMBOL Code="5FL" Name="Falcon Energy Group Limited" />
+  <SYMBOL Code="5FW" Name="Linair Technologies Limited" />
+  <SYMBOL Code="5FX" Name="New Wave Holdings Ltd." />
+  <SYMBOL Code="5G1" Name="Eurosports Global Limited" />
+  <SYMBOL Code="5G2" Name="Kimheng Offshore&amp;marine Hldltd" />
+  <SYMBOL Code="5G3" Name="Talkmed Group Limited" />
+  <SYMBOL Code="5G4" Name="Infinio Group Limited" />
+  <SYMBOL Code="5G9" Name="Tritech Group Limited" />
+  <SYMBOL Code="5GC" Name="Cna Group Ltd." />
+  <SYMBOL Code="5GD" Name="Sunpower Group Ltd." />
+  <SYMBOL Code="5GF" Name="Nico Steel Holdings Limited" />
+  <SYMBOL Code="5GI" Name="Interra Resources Limited" />
+  <SYMBOL Code="5GJ" Name="Ausgroup Limited" />
+  <SYMBOL Code="5GZ" Name="Aa Group Holdings Ltd." />
+  <SYMBOL Code="5H0" Name="Singhaiyi Group Ltd." />
+  <SYMBOL Code="5H7W" Name="Tritech Group Limited W190329" />
+  <SYMBOL Code="5HC" Name="Ntegrator International Ltd" />
+  <SYMBOL Code="5HG" Name="Oniontech Limited" />
+  <SYMBOL Code="5HH" Name="Hln Technologies Limited" />
+  <SYMBOL Code="5HJ" Name="Cityneon Holdings Limited" />
+  <SYMBOL Code="5HT" Name="Communication Design Intl Ltd" />
+  <SYMBOL Code="5HV" Name="Metax Engineering Corp Limited" />
+  <SYMBOL Code="5I0" Name="Qt Vascular Ltd." />
+  <SYMBOL Code="5I1" Name="Kop Limited" />
+  <SYMBOL Code="5I2W" Name="Asia-pacific Strategic W190506" />
+  <SYMBOL Code="5I3" Name="Jason Holdings Limited" />
+  <SYMBOL Code="5I4" Name="Icp Ltd" />
+  <SYMBOL Code="5IB" Name="China Medical International Group" />
+  <SYMBOL Code="5IC" Name="Sing Holdings Limited" />
+  <SYMBOL Code="5IE" Name="Lorenzo International Limited" />
+  <SYMBOL Code="5IF" Name="Natural Cool Holdings Limited" />
+  <SYMBOL Code="5IG" Name="Gallant Venture Ltd." />
+  <SYMBOL Code="5JK" Name="Hiap Hoe Limited" />
+  <SYMBOL Code="5JS" Name="Indofood Agri Resources Ltd." />
+  <SYMBOL Code="5KI" Name="Soup Restaurant Group Limited" />
+  <SYMBOL Code="5KT" Name="Fujian Zhenyun Plas Ind Co Ltd" />
+  <SYMBOL Code="5LE" Name="Sitra Holdings (intl) Limited" />
+  <SYMBOL Code="5LY" Name="Marco Polo Marine Ltd." />
+  <SYMBOL Code="5MD" Name="Soon Lian Holdings Limited" />
+  <SYMBOL Code="5ME" Name="Ezion Holdings Limited" />
+  <SYMBOL Code="5ML" Name="Old Chang Kee Ltd." />
+  <SYMBOL Code="5MM" Name="Sky One Holdings Limited" />
+  <SYMBOL Code="5MQ" Name="Epicentre Holdings Limited" />
+  <SYMBOL Code="5MS" Name="Memstar Technology Ltd." />
+  <SYMBOL Code="5MZ" Name="Kingsmen Creatives Ltd" />
+  <SYMBOL Code="5NF" Name="Mencast Holdings Ltd." />
+  <SYMBOL Code="5NG" Name="Healthway Medical Corp Ltd" />
+  <SYMBOL Code="5NK" Name="Artivision Technologies Ltd." />
+  <SYMBOL Code="5NV" Name="Chasen Holdings Limited" />
+  <SYMBOL Code="5OC" Name="Koyo International Limited" />
+  <SYMBOL Code="5OI" Name="Japan Foods Holding Ltd." />
+  <SYMBOL Code="5OQ" Name="Teho International Inc Ltd." />
+  <SYMBOL Code="5OR" Name="Heatec Jietong Holdings Ltd." />
+  <SYMBOL Code="5OS" Name="Jlj Holdings Limited" />
+  <SYMBOL Code="5OT" Name="Singapore Medical Group Ltd" />
+  <SYMBOL Code="5OU" Name="China Environment Ltd." />
+  <SYMBOL Code="5OX" Name="Mary Chia Holdings Limited" />
+  <SYMBOL Code="5PC" Name="Goodland Group Limited" />
+  <SYMBOL Code="5PD" Name="Hengyang Petrochem Log Limited" />
+  <SYMBOL Code="5PF" Name="Jason Marine Group Limited" />
+  <SYMBOL Code="5PI" Name="Plato Capital Limited" />
+  <SYMBOL Code="5PL" Name="Sbi Offshore Limited" />
+  <SYMBOL Code="5PO" Name="Hiap Tong Corporation Ltd." />
+  <SYMBOL Code="5QR" Name="Mann Seng Metal Intl Limited" />
+  <SYMBOL Code="5QT" Name="Charisma Energy" />
+  <SYMBOL Code="5QY" Name="Net Pacific Fin Hldgs Ltd" />
+  <SYMBOL Code="5RA" Name="Asia-pacific Strategic Inv Ltd" />
+  <SYMBOL Code="5RC" Name="Es Group (holdings) Limited" />
+  <SYMBOL Code="5RE" Name="Smartflex Holdings Ltd" />
+  <SYMBOL Code="5RF" Name="Friven &amp; Co. Ltd." />
+  <SYMBOL Code="5RJ" Name="We Holdings Ltd." />
+  <SYMBOL Code="5SO" Name="Duty Free Internationallimited" />
+  <SYMBOL Code="5SR" Name="Zhongmin Baihui Retail Grp Ltd" />
+  <SYMBOL Code="5SY" Name="Chew's Group Limited" />
+  <SYMBOL Code="5TG" Name="800 Super Holdings Limited" />
+  <SYMBOL Code="5TI" Name="Kitchen Culture Holdings Ltd." />
+  <SYMBOL Code="5TJ" Name="Far East Group Limited" />
+  <SYMBOL Code="5TN" Name="Iev Holdings Limited" />
+  <SYMBOL Code="5TP" Name="Cnmc Goldmine Holdings Limited" />
+  <SYMBOL Code="5TR" Name="Libra Group Limited" />
+  <SYMBOL Code="5TS" Name="Jk Tech Holdings Limited" />
+  <SYMBOL Code="5TT" Name="Keong Hong Holdings Limited" />
+  <SYMBOL Code="5TW" Name="Chaswood Resources Hldgs Ltd." />
+  <SYMBOL Code="5TY" Name="Advanced Systems Automation" />
+  <SYMBOL Code="5UA" Name="Starland Holdings Limited" />
+  <SYMBOL Code="5UF" Name="Maxi-cash Fin Svcs Corp Ltd" />
+  <SYMBOL Code="5UJ" Name="Neo Group Limited" />
+  <SYMBOL Code="5UL" Name="Atlantic Navigation Hldg(s)ltd" />
+  <SYMBOL Code="5UN" Name="Sincap Group Limited" />
+  <SYMBOL Code="5UO" Name="Sysma Holdings Limited" />
+  <SYMBOL Code="5UX" Name="Oxley Holdings Limited" />
+  <SYMBOL Code="5UZ" Name="Declout Limited" />
+  <SYMBOL Code="5VC" Name="Kori Holdings Limited" />
+  <SYMBOL Code="5VI" Name="Logistics Holdings Limited" />
+  <SYMBOL Code="5VJ" Name="Halcyon Agri Corporation Ltd" />
+  <SYMBOL Code="5VOW" Name="Viking Offshore And Ma W180425" />
+  <SYMBOL Code="5VP" Name="Gds Global Limited" />
+  <SYMBOL Code="5VS" Name="Hafary Holdings Limited" />
+  <SYMBOL Code="5VU" Name="Arion Entertainment Singapore Limited" />
+  <SYMBOL Code="5VZW" Name="Asia-pacific Strategic W180716" />
+  <SYMBOL Code="5WA" Name="Intl Healthway Corp Limited" />
+  <SYMBOL Code="5WD" Name="Ps Group Holdings Ltd." />
+  <SYMBOL Code="5WE" Name="Moya Holdings Asia Limited" />
+  <SYMBOL Code="5WF" Name="Isoteam Ltd." />
+  <SYMBOL Code="5WG" Name="Singapore Kitchen Equipmentltd" />
+  <SYMBOL Code="5WH" Name="Rex International Holding Ltd" />
+  <SYMBOL Code="5WJ" Name="Moneymax Financial Servicesltd" />
+  <SYMBOL Code="5WV" Name="Asiaphos Limited" />
+  <SYMBOL Code="600" Name="Hyflux Ltd" />
+  <SYMBOL Code="6SUS" Name="Ny05100n 200901" />
+  <SYMBOL Code="7PMS" Name="Ny07100x 220901" />
+  <SYMBOL Code="7QQS" Name="Nz07100s 270301" />
+  <SYMBOL Code="A04" Name="Asl Marine Holdings Ltd" />
+  <SYMBOL Code="A05" Name="Avjennings Limited" />
+  <SYMBOL Code="A0W" Name="Lyxor Commodities Crb Fund 10" />
+  <SYMBOL Code="A13" Name="Allied Technologies Limited" />
+  <SYMBOL Code="A17U" Name="Ascendas Real Estate Inv Trust" />
+  <SYMBOL Code="A26" Name="Sinarmas Land Limited" />
+  <SYMBOL Code="A27" Name="Mdr Limited" />
+  <SYMBOL Code="A30" Name="Aspial Corporation Limited" />
+  <SYMBOL Code="A31" Name="Addvalue Technologies Ltd" />
+  <SYMBOL Code="A33" Name="Blumont Group Ltd." />
+  <SYMBOL Code="A34" Name="Amara Holdings Ltd" />
+  <SYMBOL Code="A35" Name="Abf Spore Bond Index Fund Etf" />
+  <SYMBOL Code="A50" Name="Rowsley Ltd." />
+  <SYMBOL Code="A52" Name="Annaik Limited" />
+  <SYMBOL Code="A55" Name="Asia Enterprises Holding Ltd" />
+  <SYMBOL Code="A68U" Name="Ascott Residence Trust" />
+  <SYMBOL Code="A75" Name="Ace Achieve Infocom Limited" />
+  <SYMBOL Code="A78" Name="Liongold Corp Ltd" />
+  <SYMBOL Code="A7RU" Name="Cityspring Infrastruct Trust" />
+  <SYMBOL Code="A7S" Name="Sunvic Chemical Holdings Ltd" />
+  <SYMBOL Code="A9A" Name="Lyxor Msci Taiwan Index Fund10" />
+  <SYMBOL Code="A9B" Name="Lyxor Hang Seng Index Fund 10" />
+  <SYMBOL Code="AAJ" Name="Sunmoon Food Company Limited" />
+  <SYMBOL Code="ACV" Name="Frasers Hospitality Trust" />
+  <SYMBOL Code="ACW" Name="Chiwayland International Ltd" />
+  <SYMBOL Code="AD7" Name="China Bearing (singapore) Ltd." />
+  <SYMBOL Code="AD8" Name="Sino Techfibre Limited" />
+  <SYMBOL Code="ADJ" Name="Ols Enterprise Ltd." />
+  <SYMBOL Code="ADN" Name="First Sponsor Group Limited" />
+  <SYMBOL Code="ADP" Name="Swissco Holdings Limited" />
+  <SYMBOL Code="ADQU" Name="Accordia Golf Trust" />
+  <SYMBOL Code="AFC" Name="Yuuzoo Corporation" />
+  <SYMBOL Code="AFUS" Name="Nx15100z 250601" />
+  <SYMBOL Code="AFVS" Name="N515100s 200701" />
+  <SYMBOL Code="AGS" Name="The Hour Glass Limited" />
+  <SYMBOL Code="AIY" Name="Ifast Corporation Ltd." />
+  <SYMBOL Code="AJ2" Name="Ouhua Energy Holdings Limited" />
+  <SYMBOL Code="AJBU" Name="Keppel Dc Reit" />
+  <SYMBOL Code="AJHW" Name="Shs Holdings W191216" />
+  <SYMBOL Code="AO9" Name="Lyxor Korea 10" />
+  <SYMBOL Code="AOF" Name="Amplefield Limited" />
+  <SYMBOL Code="AP4" Name="Riverstone Holdings Limited" />
+  <SYMBOL Code="AU8U" Name="Capitaretail China Trust" />
+  <SYMBOL Code="AUE" Name="United Fiber System Limited" />
+  <SYMBOL Code="AVM" Name="Boustead Projects Limited" />
+  <SYMBOL Code="AVV" Name="Cei Contract Manufacturing Ltd" />
+  <SYMBOL Code="AVX" Name="Hl Global Enterprises Limited" />
+  <SYMBOL Code="AW9U" Name="First Real Estate Inv Trust" />
+  <SYMBOL Code="AWC" Name="Lindeteves-jacoberg Ltd" />
+  <SYMBOL Code="AWE" Name="Sp Corporation Limited" />
+  <SYMBOL Code="AWG" Name="Aei Corporation Ltd" />
+  <SYMBOL Code="AWI" Name="Thakral Corporation Ltd" />
+  <SYMBOL Code="AWK" Name="Fuxing China Group Limited" />
+  <SYMBOL Code="AWM" Name="Shanghai Turbo Enterprises Ltd" />
+  <SYMBOL Code="AWO" Name="Mirach Energy Limited" />
+  <SYMBOL Code="AWS" Name="Global Yellow Pages Limited" />
+  <SYMBOL Code="AWUW" Name="Global Yellow Pages W190625" />
+  <SYMBOL Code="AWV" Name="Captii Limited" />
+  <SYMBOL Code="AWX" Name="Aem Holdings Ltd" />
+  <SYMBOL Code="AWZ" Name="Multi-chem Limited" />
+  <SYMBOL Code="AXB" Name="Yongnam Holdings Limited" />
+  <SYMBOL Code="AXL" Name="China Fibretech Ltd." />
+  <SYMBOL Code="AXXZ" Name="Fcl Trea S$500m3.65%b220522" />
+  <SYMBOL Code="AYB" Name="Lafe Corporation Limited" />
+  <SYMBOL Code="AYD" Name="Plastoform Holdings Limited" />
+  <SYMBOL Code="AYL" Name="Star Pharmaceutical Limited" />
+  <SYMBOL Code="AYN" Name="Global Testing Corporation Ltd" />
+  <SYMBOL Code="AYV" Name="Acma Ltd." />
+  <SYMBOL Code="AZA" Name="Ipc Corporation Limited" />
+  <SYMBOL Code="AZG" Name="8telecom Intl Holdings Co Ltd" />
+  <SYMBOL Code="AZI" Name="Ausnet Services Ltd" />
+  <SYMBOL Code="AZR" Name="United Food Holdings Limited" />
+  <SYMBOL Code="AZT" Name="Lottvision Limited" />
+  <SYMBOL Code="AZW" Name="China Taisan Tech Grp Hldgsltd" />
+  <SYMBOL Code="AZY" Name="Pan Ocean Co., Ltd." />
+  <SYMBOL Code="AZZ" Name="China Gaoxian Fibrefab Hldgltd" />
+  <SYMBOL Code="B07" Name="Next-gen Satellite Comm Ltd" />
+  <SYMBOL Code="B0I" Name="Foreland Fabrictech Hlds Ltd" />
+  <SYMBOL Code="B0Z" Name="China Fishery Group Limited" />
+  <SYMBOL Code="B10" Name="Boardroom Limited" />
+  <SYMBOL Code="B16" Name="Guocoleisure Limited" />
+  <SYMBOL Code="B26" Name="Ban Leong Technologies Limited" />
+  <SYMBOL Code="B28" Name="Bonvests Holdings Ltd" />
+  <SYMBOL Code="B2F" Name="M1 Limited" />
+  <SYMBOL Code="B49" Name="World Precision Machinery Ltd" />
+  <SYMBOL Code="B58" Name="Banyan Tree Holdings Limited" />
+  <SYMBOL Code="B61" Name="Bukit Sembawang Estates Ltd" />
+  <SYMBOL Code="B66" Name="Pt Berlian Laju Tanker Tbk" />
+  <SYMBOL Code="B69" Name="Broadway Industrial Group Ltd" />
+  <SYMBOL Code="B73" Name="Global Investments Limited" />
+  <SYMBOL Code="B7K" Name="Sin Ghee Huat Corporation Ltd." />
+  <SYMBOL Code="B9S" Name="Cosmosteel Holdings Limited" />
+  <SYMBOL Code="BABW" Name="China Gaoxian Fibrefab W180918" />
+  <SYMBOL Code="BAC" Name="Jacks International Limited" />
+  <SYMBOL Code="BAI" Name="S I2i Limited" />
+  <SYMBOL Code="BAZ" Name="Lion Asiapac Ltd" />
+  <SYMBOL Code="BBP" Name="Hor Kew Corporation Limited" />
+  <SYMBOL Code="BBW" Name="Azeus Systems Holdings Ltd." />
+  <SYMBOL Code="BCD" Name="China Yuanbang Prop Hldgs Ltd" />
+  <SYMBOL Code="BCV" Name="Qian Hu Corporation Limited" />
+  <SYMBOL Code="BCY" Name="Powermatic Data Systems Ltd" />
+  <SYMBOL Code="BCZ" Name="Travelite Holdings Ltd." />
+  <SYMBOL Code="BDA" Name="Pne Industries Ltd" />
+  <SYMBOL Code="BDF" Name="Excelpoint Technology Ltd" />
+  <SYMBOL Code="BDN" Name="Ryobi Kiso Holdings Ltd." />
+  <SYMBOL Code="BDR" Name="Willas-array Elec (hldgs) Ltd" />
+  <SYMBOL Code="BDU" Name="Federal Int(2000) Ltd" />
+  <SYMBOL Code="BDX" Name="Gsh Corporation Limited" />
+  <SYMBOL Code="BEC" Name="Brc Asia Limited" />
+  <SYMBOL Code="BEH" Name="China International Hldgs Ltd" />
+  <SYMBOL Code="BEI" Name="Lht Holdings Limited" />
+  <SYMBOL Code="BEV" Name="Swing Media Technology Grp Ltd" />
+  <SYMBOL Code="BEW" Name="Jb Foods Limited" />
+  <SYMBOL Code="BEYZ" Name="Aspial Trea S$150m5.25%b200828" />
+  <SYMBOL Code="BEZ" Name="Beng Kuang Marine Limited" />
+  <SYMBOL Code="BFI" Name="Tiong Seng Holdings Limited" />
+  <SYMBOL Code="BFK" Name="Pharmesis International Ltd." />
+  <SYMBOL Code="BFT" Name="Fabchem China Limited" />
+  <SYMBOL Code="BFU" Name="Tye Soon Ltd" />
+  <SYMBOL Code="BGK" Name="Swiber Holdings Limited" />
+  <SYMBOL Code="BGO" Name="Universal Resource &amp; Svcs Ltd" />
+  <SYMBOL Code="BHD" Name="China Mining International Ltd" />
+  <SYMBOL Code="BHK" Name="Siic Environment Holdings Ltd." />
+  <SYMBOL Code="BHO" Name="Top Global Limited" />
+  <SYMBOL Code="BHQ" Name="Sunningdale Tech Ltd" />
+  <SYMBOL Code="BHU" Name="Sutl Enterprise Limited" />
+  <SYMBOL Code="BIOZ" Name="Perennial S$300m4.65%n181023" />
+  <SYMBOL Code="BIP" Name="Vibrant Group Limited" />
+  <SYMBOL Code="BIX" Name="Ellipsiz Ltd" />
+  <SYMBOL Code="BJD" Name="Vibropower Corporation Limited" />
+  <SYMBOL Code="BJFZ" Name="Oxley Mtn S$300m 5% B191105" />
+  <SYMBOL Code="BJGS" Name="Na16100h 460301" />
+  <SYMBOL Code="BJHS" Name="Nx16100f 260601" />
+  <SYMBOL Code="BJIS" Name="Nz16100x 360801" />
+  <SYMBOL Code="BJJS" Name="N516100z 211001" />
+  <SYMBOL Code="BJL" Name="Longcheer Holdings Limited" />
+  <SYMBOL Code="BJV" Name="Yamada Green Resources Limited" />
+  <SYMBOL Code="BJW" Name="Shinvest Holding Ltd." />
+  <SYMBOL Code="BJZ" Name="Koda Ltd" />
+  <SYMBOL Code="BKA" Name="Sin Heng Heavy Machinery Ltd" />
+  <SYMBOL Code="BKK" Name="Luxking Group Holdings Limited" />
+  <SYMBOL Code="BKV" Name="Dukang Distillers Hldgs Ltd" />
+  <SYMBOL Code="BKW" Name="Datapulse Technology Limited" />
+  <SYMBOL Code="BKX" Name="Yongmao Holdings Limited" />
+  <SYMBOL Code="BKY" Name="Avi-tech Electronics Limited" />
+  <SYMBOL Code="BKZ" Name="Suntar Eco-city Limited" />
+  <SYMBOL Code="BLA" Name="Union Steel Holdings Limited" />
+  <SYMBOL Code="BLH" Name="Hai Leck Holdings Limited" />
+  <SYMBOL Code="BLIW" Name="Hai Leck Holdings W190513" />
+  <SYMBOL Code="BLL" Name="Psl Holdings Ltd" />
+  <SYMBOL Code="BLR" Name="Darco Water Technologies Ltd" />
+  <SYMBOL Code="BLS" Name="Hotung Investment Hldgs Ltd" />
+  <SYMBOL Code="BLU" Name="Grp Ltd" />
+  <SYMBOL Code="BLW" Name="Global Palm Resources Hlgs Ltd" />
+  <SYMBOL Code="BLZ" Name="Advanced Holdings Ltd." />
+  <SYMBOL Code="BMA" Name="Weiye Holdings Limited" />
+  <SYMBOL Code="BMGU" Name="Bhg Retail Reit" />
+  <SYMBOL Code="BMH" Name="Hupsteel Ltd" />
+  <SYMBOL Code="BMNW" Name="Csc Holdings W201229" />
+  <SYMBOL Code="BMT" Name="New Silkroutes Group Limited" />
+  <SYMBOL Code="BN2" Name="Valuetronics Holdings Limited" />
+  <SYMBOL Code="BN4" Name="Keppel Corporation Limited" />
+  <SYMBOL Code="BNE" Name="Kencana Agri Limited" />
+  <SYMBOL Code="BOL" Name="Memtech International Ltd" />
+  <SYMBOL Code="BOU" Name="Informatics Education Ltd." />
+  <SYMBOL Code="BPF" Name="Yhi International Limited" />
+  <SYMBOL Code="BQC" Name="Xpress Holdings Ltd" />
+  <SYMBOL Code="BQD" Name="Envictus International Hldgltd" />
+  <SYMBOL Code="BQF" Name="Xmh Holdings Ltd." />
+  <SYMBOL Code="BQI" Name="Asia Fashion Holdings Limited" />
+  <SYMBOL Code="BQM" Name="Tiong Woon Corp Holding Ltd" />
+  <SYMBOL Code="BQN" Name="Bh Global Corporation Limited" />
+  <SYMBOL Code="BQO" Name="Delong Holdings Limited" />
+  <SYMBOL Code="BQP" Name="Southern Packaging Group Ltd" />
+  <SYMBOL Code="BR9" Name="China Hongxing Sports Limited" />
+  <SYMBOL Code="BRD" Name="Sapphire Corporation Limited" />
+  <SYMBOL Code="BRE" Name="Linc Energy Ltd" />
+  <SYMBOL Code="BRHW" Name="New Silkroutes Group W190329" />
+  <SYMBOL Code="BRQZ" Name="Aspial Trea S$200m5.3%b200401" />
+  <SYMBOL Code="BRR" Name="The Stratech Group Limited" />
+  <SYMBOL Code="BRS" Name="Usp Group Limited" />
+  <SYMBOL Code="BS6" Name="Yangzijiang Shipbldg Hldgs Ltd" />
+  <SYMBOL Code="BSHW" Name="Ezion Holdings W200424" />
+  <SYMBOL Code="BSKZ" Name="Perennial S$280m4.55%n200429" />
+  <SYMBOL Code="BSL" Name="Raffles Medical Group Ltd" />
+  <SYMBOL Code="BTE" Name="Bund Center Investment Ltd" />
+  <SYMBOL Code="BTF" Name="Debao Property Development Ltd" />
+  <SYMBOL Code="BTG" Name="Hg Metal Manufacturing Ltd" />
+  <SYMBOL Code="BTJ" Name="A-sonic Aerospace Limited" />
+  <SYMBOL Code="BTM" Name="Penguin International Limited" />
+  <SYMBOL Code="BTNZ" Name="Oxley Mtn S$150m 5.15%b200518" />
+  <SYMBOL Code="BTOU" Name="Manulife Us Reit" />
+  <SYMBOL Code="BTP" Name="Baker Technology Limited" />
+  <SYMBOL Code="BTWZ" Name="Hyflux S$500m6%perpcapsec" />
+  <SYMBOL Code="BTX" Name="Anchun International Hldgs Ltd" />
+  <SYMBOL Code="BTY" Name="Full Apex (holdings) Limited" />
+  <SYMBOL Code="BUOU" Name="Frasers Logistics &amp; Ind Trust" />
+  <SYMBOL Code="BUPW" Name="Soilbuild Construction W210715" />
+  <SYMBOL Code="BVA" Name="Top Glove Corporation Bhd" />
+  <SYMBOL Code="BVP" Name="Aims Property Securities Fund" />
+  <SYMBOL Code="BVQ" Name="Procurri Corporation Limited" />
+  <SYMBOL Code="BWCU" Name="Ec World Reit" />
+  <SYMBOL Code="BWM" Name="China Jinjiang Env Hldg Co Ltd" />
+  <SYMBOL Code="BWQU" Name="Frasers Logistics&amp;ind Trustaud" />
+  <SYMBOL Code="BXE" Name="Cdw Holding Limited" />
+  <SYMBOL Code="BXLW" Name="Ramba Energy Limited W190918" />
+  <SYMBOL Code="BYI" Name="Phillip Sgx Apac Div Reit Etf" />
+  <SYMBOL Code="BYJ" Name="Phillip Sgx Apacdiv Reit Etfs$" />
+  <SYMBOL Code="BZKS" Name="N517100f 220401" />
+  <SYMBOL Code="C04" Name="Casa Holdings Limited" />
+  <SYMBOL Code="C05" Name="Chemical Industries (f.e.) Ltd" />
+  <SYMBOL Code="C06" Name="Csc Holdings Ltd" />
+  <SYMBOL Code="C07" Name="Jardine Cycle &amp; Carriage Ltd" />
+  <SYMBOL Code="C09" Name="City Developments Limited" />
+  <SYMBOL Code="C13" Name="Ch Offshore Ltd" />
+  <SYMBOL Code="c29" Name="Chip Eng Seng Corporation Ltd" />
+  <SYMBOL Code="C2PU" Name="Parkwaylife Reit" />
+  <SYMBOL Code="C31" Name="Capitaland Limited" />
+  <SYMBOL Code="C33" Name="Chuan Hup Holdings Limited" />
+  <SYMBOL Code="C38U" Name="Capitamall Trust" />
+  <SYMBOL Code="C41" Name="Cortina Holdings Limited" />
+  <SYMBOL Code="C50" Name="Cheung Woh Technologies Ltd" />
+  <SYMBOL Code="C52" Name="Comfortdelgro Corporation Ltd" />
+  <SYMBOL Code="C56" Name="Celestial Nutrifoods Limited" />
+  <SYMBOL Code="C61U" Name="Capitacommercial Trust" />
+  <SYMBOL Code="C6L" Name="Singapore Airlines Ltd" />
+  <SYMBOL Code="C70" Name="City Developments Ltd Nccps" />
+  <SYMBOL Code="C71" Name="China Paper Holdings Limited" />
+  <SYMBOL Code="C76" Name="Creative Technology Ltd" />
+  <SYMBOL Code="C86" Name="China Sun Biochem Tech Gp Co." />
+  <SYMBOL Code="C8R" Name="Jiutian Chemical Group Limited" />
+  <SYMBOL Code="C92" Name="China Haida Ltd." />
+  <SYMBOL Code="C9Q" Name="Sinostar Pec Holdings Limited" />
+  <SYMBOL Code="CC3" Name="Starhub Ltd" />
+  <SYMBOL Code="CDVZ" Name="Krisenergy S$139.464mz240131" />
+  <SYMBOL Code="CDWW" Name="Second Chance Prop W200123" />
+  <SYMBOL Code="CDXW" Name="Krisenergy Ltd. W240131" />
+  <SYMBOL Code="CEDU" Name="Dasin Retail Trust" />
+  <SYMBOL Code="CEE" Name="Citic Envirotech Ltd." />
+  <SYMBOL Code="CEGW" Name="Upp Holdings Limited W200212" />
+  <SYMBOL Code="CFA" Name="Nikkoam-stc Asia_xj Reit Etf" />
+  <SYMBOL Code="CFN" Name="Onestoxxasean Fund" />
+  <SYMBOL Code="CGN" Name="Best World International Ltd" />
+  <SYMBOL Code="CGOW" Name="Ta Corporation Ltd W220520" />
+  <SYMBOL Code="CGP" Name="Noble Group Limited" />
+  <SYMBOL Code="CH8" Name="China Sunsine Chem Hldgs Ltd." />
+  <SYMBOL Code="CHBW" Name="Duty Free Internationalw220513" />
+  <SYMBOL Code="CHJ" Name="Uni-asia Group Limited" />
+  <SYMBOL Code="CHZ" Name="Hrnetgroup Limited" />
+  <SYMBOL Code="CIN" Name="Courage Marine Group Limited" />
+  <SYMBOL Code="CIOW" Name="Dlc Socgen5xlongmsg 200714" />
+  <SYMBOL Code="CIPW" Name="Dlc Socgen5xshorthsc 200714" />
+  <SYMBOL Code="CIQW" Name="Dlc Socgen5xlonghsc 200714" />
+  <SYMBOL Code="CIRW" Name="Dlc Socgen3xshorthsc 200714" />
+  <SYMBOL Code="CISW" Name="Dlc Socgen3xlonghsc 200714" />
+  <SYMBOL Code="CITW" Name="Dlc Socgen5xshorthsi 200714" />
+  <SYMBOL Code="CIUW" Name="Dlc Socgen5xlonghsi 200714" />
+  <SYMBOL Code="CIVW" Name="Dlc Socgen3xshorthsi 200714" />
+  <SYMBOL Code="CIWW" Name="Dlc Socgen3xlonghsi 200714" />
+  <SYMBOL Code="CIXW" Name="Dlc Socgen5xshortmsg 200714" />
+  <SYMBOL Code="CJLU" Name="Netlink Nbn Trust" />
+  <SYMBOL Code="CJN" Name="British &amp; Malayan Hldg Limited" />
+  <SYMBOL Code="CLN" Name="Apac Realty Limited" />
+  <SYMBOL Code="CLR" Name="Lion-phillip S-reit Etf" />
+  <SYMBOL Code="CMEW" Name="S&amp;p500 2800 Mb Ecw180618" />
+  <SYMBOL Code="CMFW" Name="S&amp;p500 2400 Mb Epw180618" />
+  <SYMBOL Code="CMJW" Name="Nikkei225 22000 Mb Ecw180608" />
+  <SYMBOL Code="CMKW" Name="Nikkei225 24000 Mb Ecw180608" />
+  <SYMBOL Code="CMLW" Name="Nikkei225 19000 Mb Epw180608" />
+  <SYMBOL Code="CMMW" Name="Nikkei225 21000 Mb Epw180608" />
+  <SYMBOL Code="CMNW" Name="Nikkei225 23000 Mb Epw180608" />
+  <SYMBOL Code="CMOU" Name="Keppel-kbs Us Reit" />
+  <SYMBOL Code="CMWW" Name="Singapore Post Mb Ecw180604" />
+  <SYMBOL Code="CMXW" Name="Yangzijiang Mb Ecw180702" />
+  <SYMBOL Code="CNE" Name="Mindchamps Preschool Limited" />
+  <SYMBOL Code="CNGW" Name="Genting Sin Mb Ecw180702" />
+  <SYMBOL Code="CNLW" Name="Ocbc Bk Mb Epw180702" />
+  <SYMBOL Code="CNMW" Name="Ocbc Bk Mb Ecw180702" />
+  <SYMBOL Code="CNNU" Name="Cromwell European Reit" />
+  <SYMBOL Code="CNSW" Name="Hsi 32188 Vt Ecw180427" />
+  <SYMBOL Code="CNTW" Name="Hsi 30688 Vt Epw180427" />
+  <SYMBOL Code="CNVW" Name="Hsi 30200 Ub Ecw180628" />
+  <SYMBOL Code="CNWW" Name="Hsi 31000 Ub Ecw180628" />
+  <SYMBOL Code="CNXW" Name="Hsi 31800 Ub Ecw180927" />
+  <SYMBOL Code="CNYW" Name="Hsi 28000 Ub Epw180628" />
+  <SYMBOL Code="COAW" Name="Hscei 12400 Ub Ecw180628" />
+  <SYMBOL Code="COBW" Name="Hscei 11200 Ub Epw180628" />
+  <SYMBOL Code="COEW" Name="Hsi 29288 Vt Ecw180530" />
+  <SYMBOL Code="COFW" Name="Hsi 27688 Vt Ecw180530" />
+  <SYMBOL Code="COGW" Name="Hsi 26988 Vt Epw180530" />
+  <SYMBOL Code="COHW" Name="Hsi 28188 Vt Epw180530" />
+  <SYMBOL Code="COI" Name="Nikkoam-stc Asia_xj Reit Us$" />
+  <SYMBOL Code="COQW" Name="Sti 3450 Mb Epw180629" />
+  <SYMBOL Code="CORW" Name="Sti 3700 Mb Ecw180629" />
+  <SYMBOL Code="COSW" Name="Sti 3250 Mb Epw180629" />
+  <SYMBOL Code="COTW" Name="Sti 3500 Mb Ecw180629" />
+  <SYMBOL Code="COUW" Name="Singtel Mb Ecw181015" />
+  <SYMBOL Code="COVW" Name="Singtel Mb Ecw181008" />
+  <SYMBOL Code="COWW" Name="Capitaland Mb Ecw181009" />
+  <SYMBOL Code="COXW" Name="Yangzijiang Mb Ecw181009" />
+  <SYMBOL Code="COYW" Name="Uob Mb Ecw180802" />
+  <SYMBOL Code="COZW" Name="Uob Mb Ecw180801" />
+  <SYMBOL Code="CPAW" Name="Uob Mb Epw180710" />
+  <SYMBOL Code="CPBW" Name="Uob Mb Epw180709" />
+  <SYMBOL Code="CPCW" Name="Ocbc Bk Mb Ecw180731" />
+  <SYMBOL Code="CPDW" Name="Ocbc Bk Mb Ecw180726" />
+  <SYMBOL Code="CPEW" Name="Ocbc Bk Mb Epw180816" />
+  <SYMBOL Code="CPFW" Name="Dbs Mb Ecw180807" />
+  <SYMBOL Code="CPGW" Name="Dbs Mb Ecw180806" />
+  <SYMBOL Code="CPHW" Name="Dbs Mb Epw180718" />
+  <SYMBOL Code="CPIW" Name="Dbs Mb Epw180716" />
+  <SYMBOL Code="CPMW" Name="Kepcorp Mb Ecw180910" />
+  <SYMBOL Code="CPPW" Name="Hsi 32400 Jp Ecw180427" />
+  <SYMBOL Code="CPQW" Name="Hsi 29000 Jp Epw180427" />
+  <SYMBOL Code="CPRW" Name="Dlc Socgen7xlonghsi 210114" />
+  <SYMBOL Code="CPSW" Name="Dlc Socgen7xshorthsi 210114" />
+  <SYMBOL Code="CPTW" Name="Dlc Socgen7xlonghsc 210114" />
+  <SYMBOL Code="CPUW" Name="Dlc Socgen7xshorthsc 210114" />
+  <SYMBOL Code="CPVW" Name="Dlc Socgen7xlongmsg 210114" />
+  <SYMBOL Code="CPWW" Name="Dlc Socgen7xshortmsg 210114" />
+  <SYMBOL Code="CPZW" Name="Uob Mb Ecw180806" />
+  <SYMBOL Code="CQEW" Name="Bm Mobility Ltd. W210213" />
+  <SYMBOL Code="CQHW" Name="Dbs Mb Ecw180810" />
+  <SYMBOL Code="CQIW" Name="Kepcorp Mb Ecw181001" />
+  <SYMBOL Code="CQJW" Name="Simsci 450 Mbl Ecw180629" />
+  <SYMBOL Code="CQKW" Name="Simsci 380 Mbl Epw180629" />
+  <SYMBOL Code="CQLW" Name="Marco Polo Marine Ltd. W230129" />
+  <SYMBOL Code="CQNW" Name="Sembcorp Marine Mb Ecw181101" />
+  <SYMBOL Code="CQOW" Name="Hsi 35688 Vt Ecw180730" />
+  <SYMBOL Code="CQPW" Name="Hsi 33188 Vt Ecw180730" />
+  <SYMBOL Code="CQQW" Name="Hsi 31688 Vt Epw180730" />
+  <SYMBOL Code="CQRW" Name="Hsi 33688 Vt Epw180730" />
+  <SYMBOL Code="CQUW" Name="Hsi 31600 Mb Ecw180427" />
+  <SYMBOL Code="CQWW" Name="Hsi 28800 Mb Epw180427" />
+  <SYMBOL Code="CQXW" Name="Dbs Mb Ecw180808" />
+  <SYMBOL Code="CQYW" Name="Dbs Mb Epw180717" />
+  <SYMBOL Code="CQZW" Name="Hsi 32600 Mb Ecw180427" />
+  <SYMBOL Code="CRAW" Name="Hsi 29800 Mb Epw180427" />
+  <SYMBOL Code="CRBW" Name="Dbs Mb Epw180719" />
+  <SYMBOL Code="CRCW" Name="Sti 3450 Mb Epw180629a" />
+  <SYMBOL Code="CRHW" Name="Genting Sin Mb Ecw180924" />
+  <SYMBOL Code="CRIW" Name="Sembcorp Marine Mb Ecw181217" />
+  <SYMBOL Code="CRJW" Name="F J Benjamin W210405" />
+  <SYMBOL Code="CRKW" Name="Hsi 30800 Mb Epw180427" />
+  <SYMBOL Code="CRPU" Name="Sasseur Reit" />
+  <SYMBOL Code="CRSW" Name="Simsci 400 Mbl Ecw180928" />
+  <SYMBOL Code="CRTW" Name="Simsci 350 Mbl Epw180928" />
+  <SYMBOL Code="CRUW" Name="Kepcorp Mb Ecw181022" />
+  <SYMBOL Code="CRVW" Name="Yangzijiang Mb Ecw181101" />
+  <SYMBOL Code="CRWW" Name="Mtq Corporation Limitedw230417" />
+  <SYMBOL Code="CRXW" Name="Hsi 30400 Mb Ecw180530" />
+  <SYMBOL Code="CRYW" Name="Hsi 31200 Mb Ecw180530" />
+  <SYMBOL Code="CRZW" Name="Hsi 29200 Mb Epw180530" />
+  <SYMBOL Code="CSAW" Name="Hsi 30000 Mb Epw180530" />
+  <SYMBOL Code="CSBW" Name="Hsi 30800 Mb Ecw180427" />
+  <SYMBOL Code="CSCW" Name="Ocbc Bk Mb Ecw181101" />
+  <SYMBOL Code="CSDW" Name="Ocbc Bk Mb Epw181101" />
+  <SYMBOL Code="CSEB" Name="Firstsponsors$162m 3.98% Pccs" />
+  <SYMBOL Code="CSFU" Name="Cromwell European Reit S$" />
+  <SYMBOL Code="CSGW" Name="S&amp;p500 2900 Mb Ecw180921" />
+  <SYMBOL Code="CSHW" Name="S&amp;p500 2450 Mb Epw180921" />
+  <SYMBOL Code="CSIW" Name="Thomson Med Grp Ltd W190424" />
+  <SYMBOL Code="CSJW" Name="Singtel Mb Ecw181105" />
+  <SYMBOL Code="CSKW" Name="Singapore Post Mb Ecw181122" />
+  <SYMBOL Code="CSLW" Name="Hsi 32200 Mb Ecw180628" />
+  <SYMBOL Code="CSMW" Name="Hsi 28600 Mb Epw180628" />
+  <SYMBOL Code="CSNW" Name="Sti 3600 Mb Ecw180928" />
+  <SYMBOL Code="CSOW" Name="Sti 3350 Mb Epw180928" />
+  <SYMBOL Code="CSTW" Name="Ocbc Bk Mb Ecw181203" />
+  <SYMBOL Code="CSUW" Name="Ocbc Bk Mb Epw181203" />
+  <SYMBOL Code="CSVW" Name="Dbs Mb Epw181001" />
+  <SYMBOL Code="CSWW" Name="Uob Mb Epw181001" />
+  <SYMBOL Code="CSXW" Name="Hsi 32000 Mb Ecw180530" />
+  <SYMBOL Code="CSYW" Name="Hsi 30800 Mb Epw180530" />
+  <SYMBOL Code="CTAW" Name="Nikkei225 22500 Mb Ecw181214" />
+  <SYMBOL Code="CTBW" Name="Nikkei225 25000 Mb Ecw181214" />
+  <SYMBOL Code="CTCW" Name="Nikkei225 18000 Mb Epw181214" />
+  <SYMBOL Code="CTDW" Name="Nikkei225 20500 Mb Epw181214" />
+  <SYMBOL Code="CTEW" Name="Nikkei225 23000 Mb Epw181214" />
+  <SYMBOL Code="CTFW" Name="Simsci 450 Mbl Ecw180928" />
+  <SYMBOL Code="CTGW" Name="Hsi 29400 Mb Epw180628" />
+  <SYMBOL Code="CTHW" Name="Hsi 28000 Mb Epw180730" />
+  <SYMBOL Code="CTIW" Name="Hsi 29000 Mb Epw180830" />
+  <SYMBOL Code="CTJW" Name="Hsi 31400 Mb Ecw180628" />
+  <SYMBOL Code="CTKW" Name="Hsi 33400 Mb Ecw180730" />
+  <SYMBOL Code="CTLW" Name="Hsi 32000 Mb Ecw180830" />
+  <SYMBOL Code="CTMW" Name="Tee Intl Limited W201030" />
+  <SYMBOL Code="CTN" Name="Breadtalk Group Limited" />
+  <SYMBOL Code="CTO" Name="Hong Lai Huat Group Limited" />
+  <SYMBOL Code="CTRW" Name="Hsi 31000 Mb Epw180628" />
+  <SYMBOL Code="CTSW" Name="Hsi 30200 Mb Epw180628" />
+  <SYMBOL Code="CTTW" Name="Uob Mb Ecw181126" />
+  <SYMBOL Code="CTUW" Name="Uob Mb Epw181126" />
+  <SYMBOL Code="CTVW" Name="Dbs Mb Ecw181126" />
+  <SYMBOL Code="CTWW" Name="Dbs Mb Epw181126" />
+  <SYMBOL Code="CY6U" Name="Ascendas India Trust" />
+  <SYMBOL Code="CZ4" Name="Dutech Holdings Limited" />
+  <SYMBOL Code="D01" Name="Dairy Farm Int'l Holdings Ltd" />
+  <SYMBOL Code="D03" Name="Del Monte Pacific Limited" />
+  <SYMBOL Code="D05" Name="Dbs Group Holdings Ltd" />
+  <SYMBOL Code="D07" Name="Spdr Djia Etf Trust" />
+  <SYMBOL Code="D11" Name="Design Studio Furniture Mfrltd" />
+  <SYMBOL Code="D2U" Name="Cacola Furniture Intl Limited" />
+  <SYMBOL Code="D50" Name="China Great Land Holdings Ltd." />
+  <SYMBOL Code="D5IU" Name="Lippo Malls Indo Retail Trust" />
+  <SYMBOL Code="D6U" Name="Dynamic Colours Limited" />
+  <SYMBOL Code="D79" Name="C&amp;g Env Protect Hldgs Ltd" />
+  <SYMBOL Code="D8DU" Name="First Ship Lease Trust" />
+  <SYMBOL Code="DK2" Name="Fibrechem Technologies Ncps" />
+  <SYMBOL Code="DM0" Name="Psc Corporation Ltd" />
+  <SYMBOL Code="DU4" Name="Mermaid Maritime Public Co Ltd" />
+  <SYMBOL Code="E16" Name="Elec &amp; Eltek Int Co Ltd" />
+  <SYMBOL Code="E23" Name="Europtronic Group Ltd" />
+  <SYMBOL Code="E27" Name="Eucon Holding Limited" />
+  <SYMBOL Code="E28" Name="Frencken Group Limited" />
+  <SYMBOL Code="E3B" Name="Wee Hur Holdings Ltd." />
+  <SYMBOL Code="E5H" Name="Golden Agri-resources Ltd" />
+  <SYMBOL Code="E6R" Name="Samko Timber Limited" />
+  <SYMBOL Code="E8Z" Name="Roxy-pacific Holdings Limited" />
+  <SYMBOL Code="E90" Name="China Sky Chem Fibre Co. Ltd." />
+  <SYMBOL Code="E9L" Name="Joyas International Hldgs Ltd" />
+  <SYMBOL Code="EB5" Name="First Resources Limited" />
+  <SYMBOL Code="EB7" Name="Ktl Global Limited" />
+  <SYMBOL Code="EE6" Name="Mercator Lines (singapore) Ltd" />
+  <SYMBOL Code="EG0" Name="Jes International Holdings Ltd" />
+  <SYMBOL Code="EH5" Name="United Overseas Australia Ltd" />
+  <SYMBOL Code="ER0" Name="Ksh Holdings Limited" />
+  <SYMBOL Code="ES3" Name="Sti Etf" />
+  <SYMBOL Code="F03" Name="Food Empire Holdings Limited" />
+  <SYMBOL Code="F10" Name="F J Benjamin Holdings Ltd" />
+  <SYMBOL Code="F12" Name="Fibrechem Technologies Limited" />
+  <SYMBOL Code="F13" Name="Fu Yu Corporation Ltd" />
+  <SYMBOL Code="F17" Name="Guocoland Limited" />
+  <SYMBOL Code="F1E" Name="Low Keng Huat (singapore) Ltd" />
+  <SYMBOL Code="F25U" Name="Fortune Real Estate Inv Trust" />
+  <SYMBOL Code="F31" Name="Fragrance Group Limited" />
+  <SYMBOL Code="F34" Name="Wilmar International Limited" />
+  <SYMBOL Code="F3V" Name="Sino Construction Limited" />
+  <SYMBOL Code="F83" Name="Cosco Corporation (s) Ltd" />
+  <SYMBOL Code="F86" Name="Cougar Logistics Corpn Ltd" />
+  <SYMBOL Code="F99" Name="Fraser And Neave Limited" />
+  <SYMBOL Code="F9D" Name="Boustead Singapore Limited" />
+  <SYMBOL Code="FP1" Name="Dapai Intl Hldg Co. Ltd." />
+  <SYMBOL Code="FQ7" Name="Jasper Investments Limited" />
+  <SYMBOL Code="FQ8" Name="China Sports Intl Limited" />
+  <SYMBOL Code="G07" Name="Great Eastern Hldgs Ltd" />
+  <SYMBOL Code="G0I" Name="Nam Lee Pressed Metal Inds Ltd" />
+  <SYMBOL Code="G11" Name="Global Tech (hldgs) Limited" />
+  <SYMBOL Code="G13" Name="Genting Singapore Plc" />
+  <SYMBOL Code="G1K" Name="Lyxor Etf Msci Asia Apex 50 10" />
+  <SYMBOL Code="G1M" Name="Lyxor Etf Msci Malaysia 10" />
+  <SYMBOL Code="G1N" Name="Lyxor Etf Msci India 10" />
+  <SYMBOL Code="G1O" Name="Lyxor Commodities Crbnonenergy" />
+  <SYMBOL Code="G20" Name="Gp Industries Limited" />
+  <SYMBOL Code="G3B" Name="Dbs Singapore Sti Etf" />
+  <SYMBOL Code="G41" Name="G. K. Goh Holdings Limited" />
+  <SYMBOL Code="G50" Name="Grand Banks Yachts Limited" />
+  <SYMBOL Code="G54" Name="China Essence Group Ltd." />
+  <SYMBOL Code="G5X" Name="Anwell Technologies Limited" />
+  <SYMBOL Code="G92" Name="China Aviation Oil(s) Corp Ltd" />
+  <SYMBOL Code="GG0" Name="Ocbccapcorp(2008) 5.1%ncps 100" />
+  <SYMBOL Code="GU5" Name="China Kunda Tech Holdings Ltd" />
+  <SYMBOL Code="H02" Name="Haw Par Corp Ltd" />
+  <SYMBOL Code="H07" Name="Stamford Land Corporation Ltd" />
+  <SYMBOL Code="H12" Name="Hotel Royal Ltd" />
+  <SYMBOL Code="H13" Name="Ho Bee Investment Limited" />
+  <SYMBOL Code="H15" Name="Hotel Properties Ltd" />
+  <SYMBOL Code="H16" Name="Huan Hsin Holdings Ltd" />
+  <SYMBOL Code="H17" Name="Hi-p International Limited" />
+  <SYMBOL Code="H18" Name="Hotel Grand Central Ltd" />
+  <SYMBOL Code="H19" Name="Hwa Hong Corporation Limited" />
+  <SYMBOL Code="H1N" Name="Lyxor Etf Msci Emerging Mkt 10" />
+  <SYMBOL Code="H1O" Name="Lyxoretf Msci Em Latin America" />
+  <SYMBOL Code="H1P" Name="Lyxor Etf Msci World 10" />
+  <SYMBOL Code="H1Q" Name="Lyxor Etf Nasdaq100 10" />
+  <SYMBOL Code="H20" Name="Hoe Leong Corporation Ltd." />
+  <SYMBOL Code="H22" Name="Hong Leong Asia Ltd." />
+  <SYMBOL Code="H27" Name="Hlh Group Limited" />
+  <SYMBOL Code="H30" Name="Hong Fok Corporation Ltd" />
+  <SYMBOL Code="H78" Name="Hongkong Land Holdings Limited" />
+  <SYMBOL Code="HD6" Name="Dbxt S&amp;p 500 Short Etf 10" />
+  <SYMBOL Code="HD7" Name="Dbxt Msci Taiwan Etf 10" />
+  <SYMBOL Code="HD8" Name="Dbxt Ft China 25 Etf 10" />
+  <SYMBOL Code="HD9" Name="Dbxt Ftse Vietnam Etf 10" />
+  <SYMBOL Code="HE0" Name="Dbxt S&amp;p Cnx Nifty Etf 10" />
+  <SYMBOL Code="i06" Name="Intraco Limited" />
+  <SYMBOL Code="i07" Name="Isdn Holdings Limited" />
+  <SYMBOL Code="i11" Name="Ipco Int'l Limited" />
+  <SYMBOL Code="i15" Name="Isetan (singapore) Ltd" />
+  <SYMBOL Code="i26" Name="Inno-pacific Holdings Ltd" />
+  <SYMBOL Code="i49" Name="Ifs Capital Limited" />
+  <SYMBOL Code="I5H" Name="Great Group Holdings Limited" />
+  <SYMBOL Code="I98" Name="Is Msci India 100" />
+  <SYMBOL Code="I9T" Name="Ziwo Holdings Ltd." />
+  <SYMBOL Code="IH0" Name="Dbxt Euro Stoxx 50 Etf 10" />
+  <SYMBOL Code="IH1" Name="Dbxt Msci Asia Ex Japan Etf 10" />
+  <SYMBOL Code="IH2" Name="Dbxt Msci Korea Etf 10" />
+  <SYMBOL Code="IH3" Name="Dbxt Msci Europe Etf 10" />
+  <SYMBOL Code="IW5" Name="Seroja Investments Limited" />
+  <SYMBOL Code="IX2" Name="Pec Ltd." />
+  <SYMBOL Code="J03" Name="Jadason Enterprises Ltd" />
+  <SYMBOL Code="J0O" Name="Dbxt Msci Brazil Trn Etf 10" />
+  <SYMBOL Code="J0P" Name="Dbxt Msci World Trn Etf 10" />
+  <SYMBOL Code="J0Q" Name="Dbxt Msci Pacific Exjap Etf 10" />
+  <SYMBOL Code="J0R" Name="Dbxt Msci Russia Cap 25 Etf 10" />
+  <SYMBOL Code="J17" Name="Jackspeed Corporation Limited" />
+  <SYMBOL Code="J18" Name="China Jishan Holdings Limited" />
+  <SYMBOL Code="J2T" Name="Hock Lian Seng Holdings Ltd" />
+  <SYMBOL Code="J36" Name="Jardine Matheson Hldgs Ltd" />
+  <SYMBOL Code="J37" Name="Jardine Strategic Hldgs Ltd" />
+  <SYMBOL Code="J69U" Name="Frasers Centrepoint Trust" />
+  <SYMBOL Code="J85" Name="Cdl Hospitality Trusts" />
+  <SYMBOL Code="J91U" Name="Cambridge Industrial Trust" />
+  <SYMBOL Code="JC5" Name="Lyxor Etf Msci Europe 10" />
+  <SYMBOL Code="JC6" Name="Lyxor Etf Dow Jones Ia 10" />
+  <SYMBOL Code="JC7" Name="Lyxor Etf Russia 10" />
+  <SYMBOL Code="JK8" Name="United Sse 50 China Etf" />
+  <SYMBOL Code="K03" Name="Khong Guan Flour Milling Ltd" />
+  <SYMBOL Code="K11" Name="Keppel Tele &amp; Tran" />
+  <SYMBOL Code="K14" Name="Kingboard Copper Foil Hdgs Ltd" />
+  <SYMBOL Code="K1Q" Name="Ttj Holdings Limited" />
+  <SYMBOL Code="K22" Name="Kian Ho Bearings Ltd" />
+  <SYMBOL Code="K29" Name="Karin Technology Hldgs Limited" />
+  <SYMBOL Code="K2LU" Name="Cache Logistics Trust" />
+  <SYMBOL Code="K3CD" Name="China Eastern Air Adr 10" />
+  <SYMBOL Code="K3DD" Name="Sinopec Petrochemical Adr 10" />
+  <SYMBOL Code="K3ED" Name="China Telecom Adr 10" />
+  <SYMBOL Code="K3FD" Name="Huaneng Power Intl Adr 10" />
+  <SYMBOL Code="K3HD" Name="Aluminum Corp Of China Adr 10" />
+  <SYMBOL Code="K3ID" Name="China Unicom Hk Ltd Adr 10" />
+  <SYMBOL Code="K3JD" Name="Changyou.com Adr 10" />
+  <SYMBOL Code="K3MD" Name="Netease.com Adr 10" />
+  <SYMBOL Code="K3OD" Name="Petrochina Adr 10" />
+  <SYMBOL Code="K3PD" Name="Chinamobile Adr 10" />
+  <SYMBOL Code="K3RD" Name="Ctrip.com International Adr 10" />
+  <SYMBOL Code="K3SD" Name="Baidu.com Adr 10" />
+  <SYMBOL Code="K3TD" Name="China Southern Air Adr 10" />
+  <SYMBOL Code="K6K" Name="Dbxt S&amp;p500 Etf 10" />
+  <SYMBOL Code="K6S" Name="Prudential Plc" />
+  <SYMBOL Code="K71U" Name="K-reit Asia" />
+  <SYMBOL Code="K75" Name="Koh Brothers Group Limited" />
+  <SYMBOL Code="KF8" Name="Dbxt Msci Usa Etf 10" />
+  <SYMBOL Code="KI3" Name="Hu An Cable Holdings Ltd." />
+  <SYMBOL Code="KJ5" Name="Bbr Holdings (s) Ltd" />
+  <SYMBOL Code="KJ7" Name="Dbxt Msci Indonesia Etf 10" />
+  <SYMBOL Code="KT3" Name="Dbxt Stoxx Glob Div 100 Etf 10" />
+  <SYMBOL Code="KT4" Name="Dbxt Csi300 Etf 10" />
+  <SYMBOL Code="KT9" Name="Qingmei Group Holdings Limited" />
+  <SYMBOL Code="KV4" Name="Dbxt Iboxx Singapore Etf 5" />
+  <SYMBOL Code="L02" Name="Manhattan Resources Limited" />
+  <SYMBOL Code="L03" Name="Lian Beng Group Ltd" />
+  <SYMBOL Code="L09" Name="Lung Kee (bermuda) Hldgs Ltd" />
+  <SYMBOL Code="L17" Name="Lion Teck Chiang Ltd" />
+  <SYMBOL Code="L19" Name="Lum Chang Holdings Limited" />
+  <SYMBOL Code="L22" Name="Lankom Electronics Limited" />
+  <SYMBOL Code="L23" Name="Enviro-hub Holdings Ltd" />
+  <SYMBOL Code="L38" Name="L.c.development Ltd" />
+  <SYMBOL Code="L46" Name="Luzhou Bio-chem Technology Ltd" />
+  <SYMBOL Code="L5I" Name="Abterra Ltd" />
+  <SYMBOL Code="LF1" Name="Dbxt S&amp;p/asx 200 Etf 10" />
+  <SYMBOL Code="LF2" Name="Dbxt Msci Japan Trn Etf 10" />
+  <SYMBOL Code="LG6" Name="Dbxt Msci Malaysia Trn Etf 10" />
+  <SYMBOL Code="LG7" Name="Dbxt Msci Thailand Trn Etf 10" />
+  <SYMBOL Code="LG8" Name="Dbxt Msci India Trn Etf 10" />
+  <SYMBOL Code="LG9" Name="Dbxt Msci China Trn Etf 10" />
+  <SYMBOL Code="LJ3" Name="Overseas Union Enterprise Ltd" />
+  <SYMBOL Code="LS9" Name="Leader Environmental Tech Ltd" />
+  <SYMBOL Code="M01" Name="Metro Holdings Limited" />
+  <SYMBOL Code="M03" Name="Miyoshi Precision Limited" />
+  <SYMBOL Code="M04" Name="Mandarin Oriental Intl Ltd" />
+  <SYMBOL Code="M05" Name="Mtq Corporation Limited" />
+  <SYMBOL Code="M11" Name="Mfg Integration Technology Ltd" />
+  <SYMBOL Code="M14" Name="Innotek Limited" />
+  <SYMBOL Code="M15" Name="Matex International Limited" />
+  <SYMBOL Code="M1GU" Name="Sabana Shari'ah Compliant Reit" />
+  <SYMBOL Code="M1Z" Name="Tee International Limited" />
+  <SYMBOL Code="M30" Name="Meghmani Organics Limited" />
+  <SYMBOL Code="M35" Name="Wheelock Properties (s) Ltd" />
+  <SYMBOL Code="M44U" Name="Mapletree Logistics Trust" />
+  <SYMBOL Code="M62" Name="Cimb Ftse Asean40 100" />
+  <SYMBOL Code="ME8U" Name="Mapletree Industrial Trust" />
+  <SYMBOL Code="MF6" Name="Mun Siong Engineering Limited" />
+  <SYMBOL Code="MR7" Name="Nordic Group Limited" />
+  <SYMBOL Code="MR8" Name="Novo Group Ltd." />
+  <SYMBOL Code="MS7" Name="Stx Osv Holdings Limited" />
+  <SYMBOL Code="MT1" Name="Dragon Group Intl Limited" />
+  <SYMBOL Code="MU7" Name="Dbs S$800m 4.7% Ncps" />
+  <SYMBOL Code="MV4" Name="Mewah International Inc." />
+  <SYMBOL Code="N01" Name="Neratelecommunications Ltd" />
+  <SYMBOL Code="N02" Name="Nsl Ltd." />
+  <SYMBOL Code="N08" Name="New Toyo Int Hldgs Ltd" />
+  <SYMBOL Code="N0Z" Name="Combine Will Intl Hldgs Ltd" />
+  <SYMBOL Code="N14" Name="M Development Ltd." />
+  <SYMBOL Code="N2E" Name="Dbxt Msci Philippines Etf 10" />
+  <SYMBOL Code="N2H" Name="Hyflux 6% Cum Pref Class A 10" />
+  <SYMBOL Code="N2IU" Name="Mapletree Commercial Trust" />
+  <SYMBOL Code="N32" Name="Nippecraft Limited" />
+  <SYMBOL Code="N33" Name="Nomura Holdings Inc" />
+  <SYMBOL Code="N4E" Name="Nam Cheong Limited" />
+  <SYMBOL Code="N5YD" Name="Mufj Financial Adr 10" />
+  <SYMBOL Code="N6DD" Name="Mizuho Financial Adr 10" />
+  <SYMBOL Code="N6ED" Name="Ntt Docomo Adr 10" />
+  <SYMBOL Code="N6FD" Name="Toyota Motor Adr 10" />
+  <SYMBOL Code="N6M" Name="Ishares Usd Asia Bond Etf" />
+  <SYMBOL Code="NC2" Name="Sri Trang Agro-industry Pcl" />
+  <SYMBOL Code="NC9" Name="Malaysia Smelting Corp Bhd 100" />
+  <SYMBOL Code="ND8U" Name="Frasers Commercial Trust" />
+  <SYMBOL Code="NO4" Name="Dyna-mac Holdings Ltd." />
+  <SYMBOL Code="NR7" Name="Raffles Education Corp Ltd" />
+  <SYMBOL Code="NS8U" Name="Hutchison Port Holdings Trust" />
+  <SYMBOL Code="O08" Name="Ossia International Ltd" />
+  <SYMBOL Code="O10" Name="Orchard Parade Holdings Ltd" />
+  <SYMBOL Code="O2I" Name="Avic Intl Investments Limited" />
+  <SYMBOL Code="O32" Name="Olam International Limited" />
+  <SYMBOL Code="O39" Name="Oversea-chinese Banking Corp" />
+  <SYMBOL Code="O5RU" Name="Aims Amp Cap Industrial Reit" />
+  <SYMBOL Code="O6Z" Name="Lonza Group Ltd" />
+  <SYMBOL Code="O87" Name="Spdr Gold Shares" />
+  <SYMBOL Code="O9A" Name="Dbxt Msci Singapore Im Etf 10" />
+  <SYMBOL Code="O9C" Name="Dbxt Msci Bangladesh Im Etf 10" />
+  <SYMBOL Code="O9D" Name="Dbxt Msci Pakistan Im Etf 10" />
+  <SYMBOL Code="O9E" Name="Parkson Retail Asia Limited" />
+  <SYMBOL Code="O9P" Name="Ishares Usd Asia Hy Bond Etf" />
+  <SYMBOL Code="OL9S" Name="Nz10100f 300901" />
+  <SYMBOL Code="OM0S" Name="Nx11100x 210601" />
+  <SYMBOL Code="OM5S" Name="Ny03100a 180901" />
+  <SYMBOL Code="OU8" Name="Centurion Corporation Limited" />
+  <SYMBOL Code="OV8" Name="Sheng Siong Group Ltd" />
+  <SYMBOL Code="P11" Name="Pacific Andes Resources Devltd" />
+  <SYMBOL Code="P15" Name="Pacific Century Regional Devts" />
+  <SYMBOL Code="P19" Name="Pci Ltd" />
+  <SYMBOL Code="P2P" Name="Lyxor Etf Thai Set 10" />
+  <SYMBOL Code="P2Q" Name="Lyxor Etf Indonesia 10" />
+  <SYMBOL Code="P34" Name="Petra Foods Limited" />
+  <SYMBOL Code="P36" Name="Pan Hong Property Group Ltd" />
+  <SYMBOL Code="P40U" Name="Starhill Global Reit" />
+  <SYMBOL Code="P52" Name="Pan-united Corporation Ltd" />
+  <SYMBOL Code="P58" Name="Lyxor China H 10" />
+  <SYMBOL Code="P5P" Name="Cimb S&amp;p Asia Pacific Dividend" />
+  <SYMBOL Code="P60" Name="Lyxor Asia 10" />
+  <SYMBOL Code="P74" Name="China Kangda Food Company Ltd" />
+  <SYMBOL Code="P7VU" Name="Hutchison Port Hldgs Trust S$" />
+  <SYMBOL Code="P8A" Name="Cordlife Group Limited" />
+  <SYMBOL Code="P8Z" Name="Bumitama Agri Ltd." />
+  <SYMBOL Code="P9D" Name="Civmec Limited" />
+  <SYMBOL Code="PA3" Name="Ta Corporation Ltd" />
+  <SYMBOL Code="PH0" Name="Hatten Land" />
+  <SYMBOL Code="PH1S" Name="Na12100n 420202" />
+  <SYMBOL Code="PU6D" Name="Hsbc Adr 10" />
+  <SYMBOL Code="Q01" Name="Qaf Ltd" />
+  <SYMBOL Code="Q0F" Name="Ihh Healthcare Berhad" />
+  <SYMBOL Code="Q0X" Name="Ultro Technologies Limited" />
+  <SYMBOL Code="Q1P" Name="Ascendas Hospitality Trust" />
+  <SYMBOL Code="Q5T" Name="Far East Hospitality Trust" />
+  <SYMBOL Code="QC7" Name="Q &amp; M Dental Group (s) Limited" />
+  <SYMBOL Code="QF6" Name="Swee Hong Limited" />
+  <SYMBOL Code="QG1" Name="Metech International Limited" />
+  <SYMBOL Code="QK9" Name="Is Msci India 100 S$" />
+  <SYMBOL Code="QL2" Name="Ishares Usd Asia Bond Etf S$" />
+  <SYMBOL Code="QL3" Name="Ishares Usd Asia Hy Bond Etfs$" />
+  <SYMBOL Code="QR9" Name="Cimb S&amp;p Asia Pac Dividend S$" />
+  <SYMBOL Code="QS0" Name="Cimb Ft Asean 40 100 S$" />
+  <SYMBOL Code="QS9" Name="Radiance Group Limited" />
+  <SYMBOL Code="R14" Name="Ramba Energy Limited" />
+  <SYMBOL Code="R1MS" Name="Nx13100h 230701" />
+  <SYMBOL Code="R1NS" Name="Nz13100v 330901" />
+  <SYMBOL Code="RC5" Name="Triyards Holdings Limited" />
+  <SYMBOL Code="RE2" Name="Courts Asia Limited" />
+  <SYMBOL Code="RE4" Name="Geo Energy Resources Limited" />
+  <SYMBOL Code="RF1U" Name="Religare Health Trust" />
+  <SYMBOL Code="RF7" Name="Gaylin Holdings Limited" />
+  <SYMBOL Code="RQ1" Name="Overseas Education Limited" />
+  <SYMBOL Code="RS1" Name="China Environmental Res Gp Ltd" />
+  <SYMBOL Code="RW0U" Name="Mapletree Greater Chinacomm Tr" />
+  <SYMBOL Code="S07" Name="Shangri-la Asia Limited" />
+  <SYMBOL Code="S08" Name="Singapore Post Limited" />
+  <SYMBOL Code="S19" Name="Singapore Shipping Corp Ltd" />
+  <SYMBOL Code="S20" Name="Straits Trading Co. Ltd" />
+  <SYMBOL Code="S23" Name="Singapura Finance Ltd" />
+  <SYMBOL Code="S27" Name="Spdr S&amp;p 500 Etf Trust" />
+  <SYMBOL Code="S29" Name="Stamford Tyres Corporationltd" />
+  <SYMBOL Code="S2D" Name="Tosei Corporation" />
+  <SYMBOL Code="S35" Name="Sing Investments &amp; Finance Ltd" />
+  <SYMBOL Code="S3N" Name="Okh Global Ltd." />
+  <SYMBOL Code="S41" Name="Hong Leong Finance Limited" />
+  <SYMBOL Code="S44" Name="Engro Corporation Limited" />
+  <SYMBOL Code="S45U" Name="Singapore Index Fund" />
+  <SYMBOL Code="S46" Name="San Teh Limited" />
+  <SYMBOL Code="S49" Name="Singapore Reinsurance Cor Ltd" />
+  <SYMBOL Code="S51" Name="Sembcorp Marine Ltd" />
+  <SYMBOL Code="S56" Name="Samudera Shipping Line Ltd" />
+  <SYMBOL Code="S58" Name="Sats Ltd." />
+  <SYMBOL Code="S59" Name="Sia Engineering Co Ltd" />
+  <SYMBOL Code="S61" Name="Sbs Transit Ltd" />
+  <SYMBOL Code="S63" Name="Singapore Tech Engineering Ltd" />
+  <SYMBOL Code="S68" Name="Singapore Exchange Limited" />
+  <SYMBOL Code="S69" Name="Serial System Ltd" />
+  <SYMBOL Code="S71" Name="Sunright Ltd" />
+  <SYMBOL Code="S7OU" Name="Asian Pay Television Trust" />
+  <SYMBOL Code="S7P" Name="Soilbuild Construction Grp Ltd" />
+  <SYMBOL Code="S85" Name="Straco Corporation Limited" />
+  <SYMBOL Code="S91" Name="Chinavision Media Grp Limited" />
+  <SYMBOL Code="S9B" Name="Tee Land Limited" />
+  <SYMBOL Code="SK3" Name="Krisenergy Ltd." />
+  <SYMBOL Code="SK6U" Name="Sph Reit" />
+  <SYMBOL Code="SK7" Name="Oue Hospitality Trust" />
+  <SYMBOL Code="SO7" Name="Yangzijiang Shipbldg Hldgs Rmb" />
+  <SYMBOL Code="SV3U" Name="Soilbuild Business Space Reit" />
+  <SYMBOL Code="T03" Name="Tat Hong Holdings Ltd" />
+  <SYMBOL Code="T09" Name="Tt International Limited" />
+  <SYMBOL Code="T12" Name="Tat Seng Packaging Group Ltd" />
+  <SYMBOL Code="T13" Name="Rh Petrogas Limited" />
+  <SYMBOL Code="T14" Name="Tianjin Zhong Xin Pharm Group" />
+  <SYMBOL Code="T15" Name="Tan Chong Int'l Ltd" />
+  <SYMBOL Code="T18" Name="Tpv Technology Limited" />
+  <SYMBOL Code="T19" Name="Transview Holdings Limited" />
+  <SYMBOL Code="T24" Name="Tuan Sing Holdings Limited" />
+  <SYMBOL Code="T39" Name="Singapore Press Hldgs Ltd" />
+  <SYMBOL Code="T41" Name="Telechoice International Ltd" />
+  <SYMBOL Code="T43" Name="Techcomp (holdings) Limited" />
+  <SYMBOL Code="T4B" Name="Sino Grandness Food Ind Gp Ltd" />
+  <SYMBOL Code="T4E" Name="Compact Metal Industries Ltd" />
+  <SYMBOL Code="T55" Name="Transpac Industrial Hldgs Ltd" />
+  <SYMBOL Code="T6I" Name="Valuemax Group Limited" />
+  <SYMBOL Code="T82U" Name="Suntec Real Estate Inv Trust" />
+  <SYMBOL Code="T8B" Name="Viva Industrial Trust" />
+  <SYMBOL Code="T8FS" Name="Ny14100e 290701" />
+  <SYMBOL Code="T8GS" Name="N514100h 191001" />
+  <SYMBOL Code="T8UW" Name="Isdn Holdings Limited W181110" />
+  <SYMBOL Code="T8V" Name="Pacific Radiance Ltd." />
+  <SYMBOL Code="TQ5" Name="Frasers Centrepoint Limited" />
+  <SYMBOL Code="TS0U" Name="Oue Commercial Reit" />
+  <SYMBOL Code="TY6Z" Name="Capitamalltrs$350m3.08%b210220" />
+  <SYMBOL Code="U04" Name="United Engineers Ltd Ord" />
+  <SYMBOL Code="U05" Name="United Engineers 7.5% Cum Pref" />
+  <SYMBOL Code="U06" Name="United Industrial Corp Ltd" />
+  <SYMBOL Code="U09" Name="Upp Holdings Limited" />
+  <SYMBOL Code="U10" Name="Uob-kay Hian Holdings Limited" />
+  <SYMBOL Code="U11" Name="United Overseas Bank Ltd" />
+  <SYMBOL Code="U13" Name="United Overseas Insurance Ltd" />
+  <SYMBOL Code="U14" Name="Uol Group Limited" />
+  <SYMBOL Code="U6C" Name="Pacc Offshore Svcs Hldg Ltd." />
+  <SYMBOL Code="U77" Name="Sarin Technologies Ltd" />
+  <SYMBOL Code="U96" Name="Sembcorp Industries Ltd" />
+  <SYMBOL Code="U9E" Name="Hankore Environment Tec Grpltd" />
+  <SYMBOL Code="UD1U" Name="Ireit Global" />
+  <SYMBOL Code="UD2" Name="Japfa Ltd." />
+  <SYMBOL Code="UQ4" Name="Emas Offshore Limited" />
+  <SYMBOL Code="UV1" Name="Hisaka Holdings Ltd." />
+  <SYMBOL Code="V01" Name="Vicom Ltd" />
+  <SYMBOL Code="V03" Name="Venture Corporation Limited" />
+  <SYMBOL Code="W05" Name="Wing Tai Hldgs Ltd" />
+  <SYMBOL Code="X06" Name="Sinopipe Holdings Limited" />
+  <SYMBOL Code="Y03" Name="Yeo Hiap Seng Ltd" />
+  <SYMBOL Code="Y06" Name="Youcan Foods International Ltd" />
+  <SYMBOL Code="Y35" Name="Sun East Group Limited" />
+  <SYMBOL Code="Y45" Name="Singapore Windsor Holdings Ltd" />
+  <SYMBOL Code="Y92" Name="Thai Beverage Public Co Ltd" />
+  <SYMBOL Code="Z25" Name="Yanlord Land Group Limited" />
+  <SYMBOL Code="Z59" Name="Yoma Strategic Holdings Ltd" />
+  <SYMBOL Code="Z74" Name="Singtel" />
+  <SYMBOL Code="Z77" Name="Singtel 10" />
+</ArrayOfSYMBOL>

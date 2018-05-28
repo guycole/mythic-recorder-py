@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSYMBOL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SYMBOL Code="KE" Name="Hard Red Wheat" />
+  <SYMBOL Code="KE.C" Name="Hard Red Wheat Continuation" />
+  <SYMBOL Code="KEH19" Name="Hard Red Wheat {Mar 19}" />
+  <SYMBOL Code="KEH20" Name="Hard Red Wheat {Mar 20}" />
+  <SYMBOL Code="KEK18" Name="Hard Red Wheat {May 18}" />
+  <SYMBOL Code="KEK19" Name="Hard Red Wheat {May 19}" />
+  <SYMBOL Code="KEK20" Name="Hard Red Wheat {May 20}" />
+  <SYMBOL Code="KEN18" Name="Hard Red Wheat {Jul 18}" />
+  <SYMBOL Code="KEN19" Name="Hard Red Wheat {Jul 19}" />
+  <SYMBOL Code="KEN20" Name="Hard Red Wheat {Jul 20}" />
+  <SYMBOL Code="KEU18" Name="Hard Red Wheat {Sep 18}" />
+  <SYMBOL Code="KEU19" Name="Hard Red Wheat {Sep 19}" />
+  <SYMBOL Code="KEZ18" Name="Hard Red Wheat {Dec 18}" />
+  <SYMBOL Code="KEZ19" Name="Hard Red Wheat {Dec 19}" />
+  <SYMBOL Code="KW" Name="Hard Red Wheat (Pit)" />
+  <SYMBOL Code="KW.C" Name="Hard Red Wheat (Pit) Continuation" />
+  <SYMBOL Code="KWH19" Name="Hard Red Wheat (Pit) {Mar 19}" />
+  <SYMBOL Code="KWH20" Name="Hard Red Wheat (Pit) {Mar 20}" />
+  <SYMBOL Code="KWK18" Name="Hard Red Wheat (Pit) {May 18}" />
+  <SYMBOL Code="KWK19" Name="Hard Red Wheat (Pit) {May 19}" />
+  <SYMBOL Code="KWK20" Name="Hard Red Wheat (Pit) {May 20}" />
+  <SYMBOL Code="KWN18" Name="Hard Red Wheat (Pit) {Jul 18}" />
+  <SYMBOL Code="KWN19" Name="Hard Red Wheat (Pit) {Jul 19}" />
+  <SYMBOL Code="KWN20" Name="Hard Red Wheat (Pit) {Jul 20}" />
+  <SYMBOL Code="KWU18" Name="Hard Red Wheat (Pit) {Sep 18}" />
+  <SYMBOL Code="KWU19" Name="Hard Red Wheat (Pit) {Sep 19}" />
+  <SYMBOL Code="KWZ18" Name="Hard Red Wheat (Pit) {Dec 18}" />
+  <SYMBOL Code="KWZ19" Name="Hard Red Wheat (Pit) {Dec 19}" />
+</ArrayOfSYMBOL>

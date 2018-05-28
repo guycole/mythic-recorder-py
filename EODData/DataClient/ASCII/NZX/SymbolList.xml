@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSYMBOL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SYMBOL Code="ABA" Name="Abano Healthcare Group" />
+  <SYMBOL Code="ABB030" Name="" />
+  <SYMBOL Code="ABB040" Name="" />
+  <SYMBOL Code="ABB050" Name="" />
+  <SYMBOL Code="ABB060" Name="" />
+  <SYMBOL Code="AFC" Name="" />
+  <SYMBOL Code="AFI" Name="Australian Foundation Investment" />
+  <SYMBOL Code="AFT" Name="" />
+  <SYMBOL Code="AIA" Name="Auckland International Airport" />
+  <SYMBOL Code="AIA120" Name="" />
+  <SYMBOL Code="AIA130" Name="" />
+  <SYMBOL Code="AIA200" Name="" />
+  <SYMBOL Code="AIA210" Name="" />
+  <SYMBOL Code="AIR" Name="Air New Zealand" />
+  <SYMBOL Code="AIR020" Name="" />
+  <SYMBOL Code="AKC060" Name="" />
+  <SYMBOL Code="AKC070" Name="" />
+  <SYMBOL Code="AKC080" Name="" />
+  <SYMBOL Code="AKC090" Name="" />
+  <SYMBOL Code="AKC100" Name="" />
+  <SYMBOL Code="ALF" Name="Allied Farmers" />
+  <SYMBOL Code="AMP" Name="AMP" />
+  <SYMBOL Code="ANB100" Name="" />
+  <SYMBOL Code="ANB110" Name="" />
+  <SYMBOL Code="ANBFA" Name="" />
+  <SYMBOL Code="ANBHA" Name="ANB 00/00/00  0.00% ANZ NATIONAL BANK Perpetual Bond" />
+  <SYMBOL Code="ANBHB" Name="" />
+  <SYMBOL Code="ANZ" Name="Australia and NZ Banking Group" />
+  <SYMBOL Code="AOR" Name="Aorere Resources Limited Ordinary Shares" />
+  <SYMBOL Code="AORWA" Name="" />
+  <SYMBOL Code="APA" Name="" />
+  <SYMBOL Code="ARG" Name="Argosy Property Trust Units" />
+  <SYMBOL Code="ARV" Name="Arvida Group Limited (NS) Ordinary Shares" />
+  <SYMBOL Code="ASBPA" Name="ASB Capital Preference" />
+  <SYMBOL Code="ASBPB" Name="ASB Capital No. Preference" />
+  <SYMBOL Code="ASD" Name="Australian Dividend Index Trust (NS) Units" />
+  <SYMBOL Code="ASF" Name="Australian Financials Index Trust" />
+  <SYMBOL Code="ASP" Name="Australian Property Index Trust (NS) Units" />
+  <SYMBOL Code="ASR" Name="Australian Resources Index Trust" />
+  <SYMBOL Code="ATM" Name="A2 Corporation" />
+  <SYMBOL Code="AUG" Name="Augusta Capital Limited" />
+  <SYMBOL Code="AWF" Name="Allied Work Force Group" />
+  <SYMBOL Code="BFW" Name="Burger Fuel Worldwide" />
+  <SYMBOL Code="BGP" Name="" />
+  <SYMBOL Code="BIT" Name="The Bankers Investment Trust Plc Units" />
+  <SYMBOL Code="BLT" Name="BLIS Technology" />
+  <SYMBOL Code="BNZ090" Name="" />
+  <SYMBOL Code="BNZ100" Name="" />
+  <SYMBOL Code="BRM" Name="Barramundi" />
+  <SYMBOL Code="CAV" Name="Cavalier Corporation" />
+  <SYMBOL Code="CBL" Name="CBL Corporation Limited" />
+  <SYMBOL Code="CDI" Name="CDL Investments" />
+  <SYMBOL Code="CEN" Name="Contact Energy" />
+  <SYMBOL Code="CEN020" Name="" />
+  <SYMBOL Code="CEN030" Name="" />
+  <SYMBOL Code="CEN040" Name="" />
+  <SYMBOL Code="CGF" Name="Cooks Global Foods Limited" />
+  <SYMBOL Code="CGL" Name="Caci Group Ltd" />
+  <SYMBOL Code="CMO" Name="Colonial Motor Company" />
+  <SYMBOL Code="CNU" Name="Chorus Limited" />
+  <SYMBOL Code="CNU010" Name="" />
+  <SYMBOL Code="CRP" Name="Chatham Rock Phosphate Limited Ordinary Shares" />
+  <SYMBOL Code="CSM" Name="" />
+  <SYMBOL Code="CVT" Name="Comvita" />
+  <SYMBOL Code="DGL" Name="Delegat's Group" />
+  <SYMBOL Code="DIV" Name="New Zealand Dividend Index Trust" />
+  <SYMBOL Code="DOW" Name="Downer EDI" />
+  <SYMBOL Code="EBO" Name="Ebos Group" />
+  <SYMBOL Code="EMF" Name="" />
+  <SYMBOL Code="ENS" Name="Enprise Group Limited" />
+  <SYMBOL Code="ERD" Name="EROAD Limited Ordinary Shares" />
+  <SYMBOL Code="EUF" Name="" />
+  <SYMBOL Code="EVO" Name="Evolve Education Group Limited" />
+  <SYMBOL Code="FBI110" Name="" />
+  <SYMBOL Code="FBI120" Name="" />
+  <SYMBOL Code="FBI130" Name="" />
+  <SYMBOL Code="FBI140" Name="" />
+  <SYMBOL Code="FBI150" Name="" />
+  <SYMBOL Code="FBI160" Name="" />
+  <SYMBOL Code="FBU" Name="Fletcher Building" />
+  <SYMBOL Code="FCG" Name="Fonterra Co-operative Group Limited Shares" />
+  <SYMBOL Code="FCG030" Name="" />
+  <SYMBOL Code="FCG040" Name="" />
+  <SYMBOL Code="FCGHA" Name="FCG 00/00/00 7.0% Fonterra Co-operative" />
+  <SYMBOL Code="FCT" Name="Foreign &amp; Colonial Investment Trust Units" />
+  <SYMBOL Code="FFW" Name="Foley Family Wines Limited Ordinary Shares" />
+  <SYMBOL Code="FIN" Name="Finzsoft Solutions Ltd" />
+  <SYMBOL Code="FMS" Name="" />
+  <SYMBOL Code="FNZ" Name="SmartFONZ" />
+  <SYMBOL Code="FPH" Name="Fisher and Paykel Healthcare" />
+  <SYMBOL Code="FRE" Name="Freightways" />
+  <SYMBOL Code="FSF" Name="Fonterra Shareholders' Fund Units" />
+  <SYMBOL Code="GBF" Name="" />
+  <SYMBOL Code="GEO" Name="GeoOP Limited" />
+  <SYMBOL Code="GFL" Name="GFNZ Group Limited Ordinary Shares" />
+  <SYMBOL Code="GMB020" Name="" />
+  <SYMBOL Code="GMB030" Name="" />
+  <SYMBOL Code="GMB040" Name="" />
+  <SYMBOL Code="GMT" Name="Goodman Property Trust Units" />
+  <SYMBOL Code="GNE" Name="Genesis Energy" />
+  <SYMBOL Code="GNE030" Name="" />
+  <SYMBOL Code="GNE040" Name="" />
+  <SYMBOL Code="GOV390" Name="GOV 15/05/21 6.00% - New Zealand Government" />
+  <SYMBOL Code="GOV400" Name="GOV 15/03/19 5.00% - New Zealand Government" />
+  <SYMBOL Code="GOV410" Name="GOV 15/04/23 5.50% - New Zealand Government" />
+  <SYMBOL Code="GPLFA" Name="GPL 15/07/2041 8.5% Bonds" />
+  <SYMBOL Code="GTK" Name="Gentrack Group Limited Ordinary Shares" />
+  <SYMBOL Code="GXH" Name="Green Cross Health" />
+  <SYMBOL Code="HBL" Name="Heartland Bank Limited" />
+  <SYMBOL Code="HFL" Name="Henderson Far East Income" />
+  <SYMBOL Code="HLG" Name="Hallenstein Glasson" />
+  <SYMBOL Code="IAGFB" Name="" />
+  <SYMBOL Code="IFT" Name="Infratil" />
+  <SYMBOL Code="IFT090" Name="IFT 15/02/20 8.5% - Infratil Infrastructure Bonds" />
+  <SYMBOL Code="IFT180" Name="" />
+  <SYMBOL Code="IFT190" Name="" />
+  <SYMBOL Code="IFT200" Name="ikeGPS Group Limited (NS) Ordinary Shares" />
+  <SYMBOL Code="IFT210" Name="" />
+  <SYMBOL Code="IFT220" Name="" />
+  <SYMBOL Code="IFT230" Name="" />
+  <SYMBOL Code="IFT240" Name="" />
+  <SYMBOL Code="IFT250" Name="" />
+  <SYMBOL Code="IFTHA" Name="IFTHA Perpetual 9.00% Bonds" />
+  <SYMBOL Code="IKE" Name="ikeGPS Group Limited (NS) Ordinary Shares" />
+  <SYMBOL Code="IPL" Name="" />
+  <SYMBOL Code="JPG" Name="" />
+  <SYMBOL Code="JWI" Name="Just Water International" />
+  <SYMBOL Code="KCF010" Name="" />
+  <SYMBOL Code="KCFHA" Name="" />
+  <SYMBOL Code="KFL" Name="Kingfish" />
+  <SYMBOL Code="KMD" Name="Kathmandu Holdings" />
+  <SYMBOL Code="KPG" Name="Kiwi Property Group Limited Ordinary Shares" />
+  <SYMBOL Code="KPG010" Name="" />
+  <SYMBOL Code="KPG020" Name="" />
+  <SYMBOL Code="LGF020" Name="" />
+  <SYMBOL Code="LGF030" Name="" />
+  <SYMBOL Code="LGF040" Name="" />
+  <SYMBOL Code="LGF050" Name="" />
+  <SYMBOL Code="LGF060" Name="" />
+  <SYMBOL Code="LGF070" Name="" />
+  <SYMBOL Code="LGF080" Name="" />
+  <SYMBOL Code="LIC" Name="Livestock Improvement Corporation Ltd Investment" />
+  <SYMBOL Code="MAD" Name="Energy Mad Limited Ordinary Shares" />
+  <SYMBOL Code="MCK" Name="Millennium &amp; Copthorne Hotels NZ" />
+  <SYMBOL Code="MCKPA" Name="" />
+  <SYMBOL Code="MCY" Name="" />
+  <SYMBOL Code="MCY010" Name="" />
+  <SYMBOL Code="MDZ" Name="SmartMIDZ" />
+  <SYMBOL Code="MEL" Name="" />
+  <SYMBOL Code="MEL030" Name="" />
+  <SYMBOL Code="MEL040" Name="" />
+  <SYMBOL Code="MET" Name="Metlifegroup" />
+  <SYMBOL Code="MFT" Name="Mainfreight" />
+  <SYMBOL Code="MGL" Name="Mercer Group Limited Ordinary Shares" />
+  <SYMBOL Code="MHJ" Name="" />
+  <SYMBOL Code="MLN" Name="Marlin Global" />
+  <SYMBOL Code="MMH" Name="Marsden Maritime Holdings Limited (NS) Ordinary Shares" />
+  <SYMBOL Code="MOA" Name="Moa Group Limited Ordinary Shares" />
+  <SYMBOL Code="MPG" Name="Metro Performance Glass Limited Ordinary Shares" />
+  <SYMBOL Code="MTFHC" Name="MTF 00/00/00 9.75% - Motor Trade Finances" />
+  <SYMBOL Code="MVN" Name="Methven Ordinary" />
+  <SYMBOL Code="MVT" Name="" />
+  <SYMBOL Code="MWE" Name="" />
+  <SYMBOL Code="MYK" Name="Mykris Limited" />
+  <SYMBOL Code="MZY" Name="SmartMOZY" />
+  <SYMBOL Code="NFFHA" Name="NFF 00/00/00 8.00% Nufarm Finance (NZ) Ltd S" />
+  <SYMBOL Code="NPF" Name="" />
+  <SYMBOL Code="NPT" Name="NPT Limited Ordinary Shares" />
+  <SYMBOL Code="NTL" Name="New Talisman Gold Mines Limited" />
+  <SYMBOL Code="NWF" Name="New Zealand Windfarms" />
+  <SYMBOL Code="NZB" Name="" />
+  <SYMBOL Code="NZC" Name="" />
+  <SYMBOL Code="NZK" Name="NZ King Salmon Investments" />
+  <SYMBOL Code="NZM" Name="" />
+  <SYMBOL Code="NZO" Name="New Zealand Oil &amp; Gas" />
+  <SYMBOL Code="NZP010" Name="NZP 30/11/39 7.50% - New Zealand Post Group Finance" />
+  <SYMBOL Code="NZR" Name="NZ Refining" />
+  <SYMBOL Code="NZX" Name="New Zealand Exchange" />
+  <SYMBOL Code="OCA" Name="Oceania Healthcare Ltd" />
+  <SYMBOL Code="OHE" Name="Orion Health Group Limited" />
+  <SYMBOL Code="ONL" Name="" />
+  <SYMBOL Code="OZY" Name="SmartOZZY" />
+  <SYMBOL Code="PCT" Name="Precinct Properties New Zealand Limited Ordinary Shares" />
+  <SYMBOL Code="PCT010" Name="PCT 17/12/21 5.54% Precinct Properties New Zealand Ltd Bonds" />
+  <SYMBOL Code="PEB" Name="Pacific Edge Biotechnology" />
+  <SYMBOL Code="PFI" Name="Property For Industry" />
+  <SYMBOL Code="PGC" Name="Pyne Gould Corporation" />
+  <SYMBOL Code="PGW" Name="PGG Wrightson" />
+  <SYMBOL Code="PIL" Name="Promisia Integrative Limited" />
+  <SYMBOL Code="PLX" Name="" />
+  <SYMBOL Code="POT" Name="Port of Tauranga" />
+  <SYMBOL Code="PPH" Name="Push Pay Holdings Limited" />
+  <SYMBOL Code="QHLHA" Name="Quayside Holdings Perpetual Preference" />
+  <SYMBOL Code="RAK" Name="Rakon" />
+  <SYMBOL Code="RBC" Name="Rubicon" />
+  <SYMBOL Code="RBD" Name="Restaurant Brands NZ" />
+  <SYMBOL Code="RBO010" Name="" />
+  <SYMBOL Code="RCSHA" Name="Rabo Capital Securities Ltd 8.7864% PIE Capital Securities" />
+  <SYMBOL Code="RYM" Name="Ryman Healthcare" />
+  <SYMBOL Code="SAN" Name="Sanford" />
+  <SYMBOL Code="SCL" Name="Scales Corporation Ltd" />
+  <SYMBOL Code="SCT" Name="Scott Technology" />
+  <SYMBOL Code="SCY" Name="Smiths City Group" />
+  <SYMBOL Code="SDL" Name="Solution Dynamics" />
+  <SYMBOL Code="SEA" Name="SeaDragon Limited Ordinary Shares" />
+  <SYMBOL Code="SEK" Name="Seeka Kiwifruit Industries" />
+  <SYMBOL Code="SKC" Name="Sky City" />
+  <SYMBOL Code="SKC040" Name="" />
+  <SYMBOL Code="SKL" Name="Skellerup Holdings" />
+  <SYMBOL Code="SKO" Name="Serko Limited Ordinary Shares" />
+  <SYMBOL Code="SKT" Name="Sky Network Television" />
+  <SYMBOL Code="SKT020" Name="" />
+  <SYMBOL Code="SLI" Name="SLI Systems Limited Ordinary Shares" />
+  <SYMBOL Code="SML" Name="Synlait Milk Ltd" />
+  <SYMBOL Code="SNK" Name="Snakk Media Limited Ordinary Shares" />
+  <SYMBOL Code="SPF560" Name="" />
+  <SYMBOL Code="SPF570" Name="" />
+  <SYMBOL Code="SPG" Name="" />
+  <SYMBOL Code="SPK" Name="Spark New Zealand Limited Ordinary Shares" />
+  <SYMBOL Code="SPN" Name="Southport New Zealand" />
+  <SYMBOL Code="SPY" Name="Smartpay" />
+  <SYMBOL Code="SRF" Name="" />
+  <SYMBOL Code="STU" Name="Steel &amp; Tube Holdings" />
+  <SYMBOL Code="SUM" Name="Summerset Group Holdings Limited Ordinary Shares" />
+  <SYMBOL Code="TCL" Name="The City of London Investment Trust" />
+  <SYMBOL Code="TEM" Name="Templeton Emerging Markets Investment Trust Units" />
+  <SYMBOL Code="TGG" Name="T&amp;G Global Limited" />
+  <SYMBOL Code="TGH" Name="" />
+  <SYMBOL Code="THL" Name="Tourism Holdings" />
+  <SYMBOL Code="TIL" Name="Trilogy International Limited Ordinary Shares" />
+  <SYMBOL Code="TLS" Name="Telstra" />
+  <SYMBOL Code="TLT" Name="" />
+  <SYMBOL Code="TME" Name="Trade Me Group Limited" />
+  <SYMBOL Code="TNZ" Name="SmartTENZ" />
+  <SYMBOL Code="TPW" Name="TrustPower" />
+  <SYMBOL Code="TPW140" Name="" />
+  <SYMBOL Code="TPW150" Name="" />
+  <SYMBOL Code="TPW160" Name="" />
+  <SYMBOL Code="TRA" Name="" />
+  <SYMBOL Code="TRAHB" Name="" />
+  <SYMBOL Code="TRP010" Name="" />
+  <SYMBOL Code="TRP020" Name="" />
+  <SYMBOL Code="TRP030" Name="" />
+  <SYMBOL Code="TRP040" Name="" />
+  <SYMBOL Code="TRS" Name="E-cademy Holdings" />
+  <SYMBOL Code="TRU" Name="" />
+  <SYMBOL Code="TTK" Name="TeamTalk" />
+  <SYMBOL Code="TWF" Name="" />
+  <SYMBOL Code="TWR" Name="Tower Ltd" />
+  <SYMBOL Code="UOC010" Name="UOC 15/12/19 7.25% - University of Canterbury" />
+  <SYMBOL Code="USF" Name="" />
+  <SYMBOL Code="USG" Name="" />
+  <SYMBOL Code="USM" Name="" />
+  <SYMBOL Code="USS" Name="" />
+  <SYMBOL Code="USV" Name="" />
+  <SYMBOL Code="VCT" Name="Vector" />
+  <SYMBOL Code="VCT080" Name="" />
+  <SYMBOL Code="VGL" Name="Vista Group International Limited Ordinary Shares" />
+  <SYMBOL Code="VHP" Name="Vital Healthcare Property Trust Units" />
+  <SYMBOL Code="VIL" Name="Veritas Investments Limited" />
+  <SYMBOL Code="WBC" Name="Westpac Banking Corporation" />
+  <SYMBOL Code="WBC010" Name="" />
+  <SYMBOL Code="WDT" Name="Wellington Drive Technologies" />
+  <SYMBOL Code="WHS" Name="The Warehouse Group" />
+  <SYMBOL Code="WHS020" Name="" />
+  <SYMBOL Code="WIA020" Name="" />
+  <SYMBOL Code="WIA030" Name="" />
+  <SYMBOL Code="WIA040" Name="" />
+  <SYMBOL Code="WIA050" Name="" />
+  <SYMBOL Code="WKSHA" Name="" />
+  <SYMBOL Code="WTL" Name="Windflow Technology" />
+  <SYMBOL Code="ZEL" Name="Z Energy Limited" />
+  <SYMBOL Code="ZEL020" Name="ZEL 15/08/18 7.25 - Z Energy Ltd Bonds" />
+  <SYMBOL Code="ZEL030" Name="" />
+  <SYMBOL Code="ZEL040" Name="" />
+  <SYMBOL Code="ZEL050" Name="" />
+</ArrayOfSYMBOL>

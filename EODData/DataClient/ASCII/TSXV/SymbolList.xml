@@ -1,0 +1,1737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSYMBOL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SYMBOL Code="A" Name="Armor Minerals Inc" />
+  <SYMBOL Code="AA" Name="Alba Minerals Inc" />
+  <SYMBOL Code="AAD" Name="Added Capital Inc" />
+  <SYMBOL Code="AAG.H" Name="Aftermath Silver Ltd" />
+  <SYMBOL Code="AAL" Name="Advantage Lithium Corp" />
+  <SYMBOL Code="AAN" Name="Aton Resources Inc" />
+  <SYMBOL Code="AAO" Name="Augusta Industries Inc" />
+  <SYMBOL Code="AAP" Name="Alpha Peak Leisure Inc" />
+  <SYMBOL Code="AAX" Name="Advance Gold Corp" />
+  <SYMBOL Code="AAZ" Name="Azincourt Energy Corp." />
+  <SYMBOL Code="AB.H" Name="Asbestos Corporation Limited" />
+  <SYMBOL Code="ABCN" Name="Abcann Global Corp" />
+  <SYMBOL Code="ABI" Name="Abcourt Mines Inc" />
+  <SYMBOL Code="ABM" Name="Athabasca Minerals Inc" />
+  <SYMBOL Code="ABN" Name="Aben Resources Ltd" />
+  <SYMBOL Code="ABR" Name="Ashburton Ventures Inc" />
+  <SYMBOL Code="ABRA" Name="Abraplata Resource Corp" />
+  <SYMBOL Code="ABZ" Name="Asiabasemetals Inc" />
+  <SYMBOL Code="ACE.H" Name="Ace Aviation Holdings Inc" />
+  <SYMBOL Code="ACP" Name="Arcpacific Resources Corp" />
+  <SYMBOL Code="ACS" Name="Archon Minerals Limited" />
+  <SYMBOL Code="ACST" Name="Acasti Pharma Inc" />
+  <SYMBOL Code="ACU" Name="Aurora Solar Technologies Inc" />
+  <SYMBOL Code="ADD" Name="Arctic Star Exploration Corp" />
+  <SYMBOL Code="ADE" Name="Adex Mining Inc" />
+  <SYMBOL Code="ADG" Name="Arcus Development Group Inc" />
+  <SYMBOL Code="ADK" Name="Diagnos Inc" />
+  <SYMBOL Code="ADYA" Name="Adya Inc" />
+  <SYMBOL Code="ADZ" Name="Adamera Minerals Corp" />
+  <SYMBOL Code="ADZN" Name="Adventus Zinc Corp" />
+  <SYMBOL Code="AEC" Name="Anfield Energy Inc." />
+  <SYMBOL Code="AEP" Name="Atlas Engineered Products Ltd." />
+  <SYMBOL Code="AET" Name="Aethon Minerals Corporation" />
+  <SYMBOL Code="AFCC" Name="Automotive Finco Corp" />
+  <SYMBOL Code="AFE" Name="Africa Energy Corp" />
+  <SYMBOL Code="AFF" Name="Affinity Metals Corp" />
+  <SYMBOL Code="AFM" Name="Alphamin Resources Corp" />
+  <SYMBOL Code="AGB" Name="Atlantic Gold Corp" />
+  <SYMBOL Code="AGB.WT" Name="Atlantic Gold Corp Wts" />
+  <SYMBOL Code="AGC" Name="Amarillo Gold Corp" />
+  <SYMBOL Code="AGD" Name="Antioquia Gold Inc" />
+  <SYMBOL Code="AGD.RT" Name="Antioquia Gold Inc RTS" />
+  <SYMBOL Code="AGG" Name="African Gold Group Inc" />
+  <SYMBOL Code="AGH.H" Name="Canadian Silver Hunter Inc" />
+  <SYMBOL Code="AGL" Name="Aguila American Gold Ltd" />
+  <SYMBOL Code="AGLD" Name="Austral Gold Limited" />
+  <SYMBOL Code="AGM" Name="Aldridge Minerals Inc" />
+  <SYMBOL Code="AGO" Name="Aurcrest Gold Inc" />
+  <SYMBOL Code="AGRL" Name="Aguia Resources Limited" />
+  <SYMBOL Code="AGY.H" Name="Atom Energy Inc" />
+  <SYMBOL Code="AGZ" Name="Ashanti Gold Corp" />
+  <SYMBOL Code="AHE" Name="American Helium Inc." />
+  <SYMBOL Code="AHI" Name="Agility Health Inc" />
+  <SYMBOL Code="AHM.H" Name="Antler Hill Mining Ltd" />
+  <SYMBOL Code="AHP" Name="Allied Hotel Properties Inc" />
+  <SYMBOL Code="AHR" Name="Amarc Resources Ltd" />
+  <SYMBOL Code="AHS" Name="Alta Natural Herbs and S" />
+  <SYMBOL Code="AHU" Name="Arctic Hunter Energy Inc" />
+  <SYMBOL Code="AII" Name="Almonty Industries Inc" />
+  <SYMBOL Code="AIII.P" Name="Apolo III Acquisition Corp" />
+  <SYMBOL Code="AIIM" Name="Albert Mining Inc" />
+  <SYMBOL Code="AIMB.P" Name="Aim2 Ventures Inc" />
+  <SYMBOL Code="AIS" Name="Ais Resources Limited" />
+  <SYMBOL Code="AKH" Name="Alaska Hydro Corp" />
+  <SYMBOL Code="AKR" Name="Ackroo Inc" />
+  <SYMBOL Code="AL" Name="Alx Uranium Corp" />
+  <SYMBOL Code="ALD" Name="Aldever Resources Inc" />
+  <SYMBOL Code="ALEF" Name="Aleafia Health Inc." />
+  <SYMBOL Code="ALG" Name="Algold Resources Ltd" />
+  <SYMBOL Code="ALI" Name="Altitude Resources Inc" />
+  <SYMBOL Code="ALK.H" Name="Alkali3 Resources Inc" />
+  <SYMBOL Code="ALL.H" Name="Allante Resources Ltd" />
+  <SYMBOL Code="ALM" Name="Alliance Mining Corp" />
+  <SYMBOL Code="ALT" Name="Alturas Minerals Corp" />
+  <SYMBOL Code="ALTA" Name="Altamira Gold Corp" />
+  <SYMBOL Code="ALV" Name="Alvopetro Energy Ltd" />
+  <SYMBOL Code="ALY" Name="Analytixinsight Inc" />
+  <SYMBOL Code="ALZ" Name="Aldershot Resources Ltd" />
+  <SYMBOL Code="AME" Name="Abacus Mining and Exploration" />
+  <SYMBOL Code="AMK" Name="American Creek Resources Ltd" />
+  <SYMBOL Code="AMO" Name="Altan Rio Minerals Limited" />
+  <SYMBOL Code="AMX" Name="AMEX Exploration Inc" />
+  <SYMBOL Code="AMY" Name="American Manganese Inc" />
+  <SYMBOL Code="AMZ" Name="Almadex Minerals Limited" />
+  <SYMBOL Code="AN" Name="Arena Minerals Inc" />
+  <SYMBOL Code="ANB" Name="Anglo Bomarc Mines Ltd" />
+  <SYMBOL Code="ANE" Name="Altan Nevada Minerals Limited" />
+  <SYMBOL Code="ANG" Name="Angel Gold Corp" />
+  <SYMBOL Code="ANK" Name="Angkor Gold Corp" />
+  <SYMBOL Code="ANL.H" Name="Atlantic Industrial Minerals Inc" />
+  <SYMBOL Code="ANTL" Name="Antler Gold Inc" />
+  <SYMBOL Code="ANZ" Name="Alianza Minerals Ltd" />
+  <SYMBOL Code="AORO" Name="Aloro Mining Corp" />
+  <SYMBOL Code="AOT" Name="Ascot Resources Ltd" />
+  <SYMBOL Code="APC" Name="Advanced Proteome Therapeutics Corp" />
+  <SYMBOL Code="APE" Name="Apogee Opportunities Inc" />
+  <SYMBOL Code="APII.P" Name="Apolo II Acquisition Corp" />
+  <SYMBOL Code="APN" Name="Altiplano Minerals Ltd" />
+  <SYMBOL Code="APX" Name="Apex Resources Inc" />
+  <SYMBOL Code="AQR.P" Name="Anquiro Ventures Ltd" />
+  <SYMBOL Code="AQS" Name="Aequus Pharmaceuticals Inc" />
+  <SYMBOL Code="ARA" Name="Anconia Resources Corp" />
+  <SYMBOL Code="ARCH" Name="Arch Biopartners Inc" />
+  <SYMBOL Code="ARD" Name="Armada Data Corp" />
+  <SYMBOL Code="ARH" Name="Altima Resources Ltd" />
+  <SYMBOL Code="ARIC" Name="Awale Resources Ltd." />
+  <SYMBOL Code="ART" Name="Arht Media Inc" />
+  <SYMBOL Code="ARU" Name="Aurania Resources Ltd" />
+  <SYMBOL Code="ASB.H" Name="Asb Capital Inc" />
+  <SYMBOL Code="ASG" Name="Aurora Spine Corp" />
+  <SYMBOL Code="ASI" Name="Ashanti Sankofa Inc" />
+  <SYMBOL Code="ASL" Name="Argentum Silver Corp" />
+  <SYMBOL Code="ASN" Name="Asian Mineral Res Ltd" />
+  <SYMBOL Code="ASQ" Name="Astorius Resources Ltd" />
+  <SYMBOL Code="AT" Name="Acuityads Holdings Inc" />
+  <SYMBOL Code="ATC" Name="Atac Resources Ltd" />
+  <SYMBOL Code="ATE" Name="Antibe Therapeutics Inc" />
+  <SYMBOL Code="ATG" Name="Atlanta Gold Inc" />
+  <SYMBOL Code="ATI" Name="Altai Resources Inc" />
+  <SYMBOL Code="ATM" Name="Atacama Pacific Gold Corp" />
+  <SYMBOL Code="ATU" Name="Altura Energy Inc" />
+  <SYMBOL Code="ATV" Name="Alto Ventures Ltd" />
+  <SYMBOL Code="ATW" Name="Atmanco Inc" />
+  <SYMBOL Code="ATY" Name="Atico Mining Corp" />
+  <SYMBOL Code="AU" Name="Aurion Resources Ltd" />
+  <SYMBOL Code="AUAU" Name="Allegiant Gold Ltd" />
+  <SYMBOL Code="AUL" Name="Aurelius Minerals Inc" />
+  <SYMBOL Code="AUN" Name="Aurcana Corp" />
+  <SYMBOL Code="AUOC.P" Name="Aumento Capital Vii Corporation" />
+  <SYMBOL Code="AUR.H" Name="Aurora Royalties Inc" />
+  <SYMBOL Code="AUT" Name="Austin Resources Ltd" />
+  <SYMBOL Code="AUU" Name="Aura Silver Resources Inc" />
+  <SYMBOL Code="AUX" Name="Auramex Resource Corp" />
+  <SYMBOL Code="AVE" Name="Aveda Transport and Energy Svcs" />
+  <SYMBOL Code="AVG" Name="Avidian Gold Corp" />
+  <SYMBOL Code="AVN" Name="Avanti Energy Inc" />
+  <SYMBOL Code="AVU" Name="Avrupa Minerals Ltd" />
+  <SYMBOL Code="AVX" Name="Altair Resources Inc" />
+  <SYMBOL Code="AWE" Name="Thunderstruck Resources Ltd" />
+  <SYMBOL Code="AWI" Name="Advent Awi Holdings Inc" />
+  <SYMBOL Code="AWS" Name="Arrowstar Resources Ltd" />
+  <SYMBOL Code="AXE" Name="Acceleware Ltd" />
+  <SYMBOL Code="AXIS" Name="Axis Auto Finance Inc" />
+  <SYMBOL Code="AXM" Name="Axmin Inc" />
+  <SYMBOL Code="AXQ" Name="Axe Exploration Inc" />
+  <SYMBOL Code="AXV" Name="Axion Ventures Inc" />
+  <SYMBOL Code="AZM" Name="Azimut Exploration Inc" />
+  <SYMBOL Code="AZN.H" Name="Arcturus Ventures Inc" />
+  <SYMBOL Code="AZR" Name="Azarga Metals Corp" />
+  <SYMBOL Code="AZS" Name="Arizona Silver Exploration Inc" />
+  <SYMBOL Code="AZT" Name="Aztec Minerals Corp" />
+  <SYMBOL Code="AZX" Name="Alexandria Minerals Corp" />
+  <SYMBOL Code="B" Name="Bcm Resources Corp" />
+  <SYMBOL Code="BAL.H" Name="Balto Resources Ltd" />
+  <SYMBOL Code="BANC" Name="Bankers Cobalt Corp." />
+  <SYMBOL Code="BAT" Name="Batero Gold Corp" />
+  <SYMBOL Code="BATT" Name="Bluebird Battery Metals Inc." />
+  <SYMBOL Code="BAV.H" Name="Bravern Ventures Ltd" />
+  <SYMBOL Code="BAY" Name="Aston Bay Holdings Ltd" />
+  <SYMBOL Code="BBB" Name="Brixton Metals Corp" />
+  <SYMBOL Code="BBI" Name="Blackbird Energy Inc" />
+  <SYMBOL Code="BBI.WT" Name="Blackbird Energy Inc Wts" />
+  <SYMBOL Code="BCF" Name="Builders Capital Mortgage Corp" />
+  <SYMBOL Code="BCK" Name="Blind Creek Resources Ltd" />
+  <SYMBOL Code="BCM" Name="Bear Creek Mining Corp" />
+  <SYMBOL Code="BCP" Name="Broome Capital Corp" />
+  <SYMBOL Code="BCT" Name="Briacell Therapeutics Corp" />
+  <SYMBOL Code="BCU" Name="Bell Copper Corporation" />
+  <SYMBOL Code="BDG" Name="Black Dragon Gold Corp" />
+  <SYMBOL Code="BEA" Name="Belmont Resources Inc" />
+  <SYMBOL Code="BEAN" Name="Peekaboo Beans Inc" />
+  <SYMBOL Code="BEE" Name="Bee Vectoring Technologies Intl Inc" />
+  <SYMBOL Code="BEL" Name="Belvedere Resources Ltd" />
+  <SYMBOL Code="BEN.H" Name="Butte Energy Inc" />
+  <SYMBOL Code="BER" Name="BE Resources Inc" />
+  <SYMBOL Code="BEW" Name="Bewhere Holdings Inc" />
+  <SYMBOL Code="BEX" Name="Benton Resources Inc" />
+  <SYMBOL Code="BEY" Name="Blacksteel Energy Inc" />
+  <SYMBOL Code="BFD" Name="Beaufield Resources Inc" />
+  <SYMBOL Code="BFF" Name="Nevada Energy Metals Inc" />
+  <SYMBOL Code="BGA" Name="Bioneutra Global Corp" />
+  <SYMBOL Code="BGG" Name="Buccaneer Gold Corp" />
+  <SYMBOL Code="BGL" Name="Bandera Gold Ltd" />
+  <SYMBOL Code="BGM" Name="Barkerville Gold Mines Ltd" />
+  <SYMBOL Code="BGS" Name="Baroyeca Gold and Silver Inc" />
+  <SYMBOL Code="BHR" Name="Blackheath Resources Inc" />
+  <SYMBOL Code="BHS" Name="Bayhorse Silver Inc" />
+  <SYMBOL Code="BHT" Name="Braveheart Resources Inc" />
+  <SYMBOL Code="BIT" Name="Black Isle Resources Corp" />
+  <SYMBOL Code="BKD" Name="Breaking Data Corp" />
+  <SYMBOL Code="BKM" Name="Pacific Booker Minerals Inc" />
+  <SYMBOL Code="BKR" Name="Berkwood Resources Ltd" />
+  <SYMBOL Code="BLM" Name="Blumetric Environmental Inc" />
+  <SYMBOL Code="BLN" Name="Blackline Safety Corp" />
+  <SYMBOL Code="BLOK" Name="Block One Capital Inc." />
+  <SYMBOL Code="BLS" Name="Black Sea Copper and Gold Corp" />
+  <SYMBOL Code="BM.H" Name="Bc Moly Ltd" />
+  <SYMBOL Code="BME" Name="Barsele Minerals Corp" />
+  <SYMBOL Code="BMET.H" Name="Bemetals Corp" />
+  <SYMBOL Code="BMK" Name="Macdonald Mines Expl Ltd" />
+  <SYMBOL Code="BML" Name="Barker Minerals Ltd" />
+  <SYMBOL Code="BMM" Name="Black Mammoth Metals Corp" />
+  <SYMBOL Code="BMX" Name="Boreal Metals Corp" />
+  <SYMBOL Code="BMX.WT" Name="Boreal Metals Corp Wts" />
+  <SYMBOL Code="BN.H" Name="Bluenose Gold Corp" />
+  <SYMBOL Code="BOL" Name="Bold Ventures Inc" />
+  <SYMBOL Code="BOR" Name="Border Petroleum Limited" />
+  <SYMBOL Code="BP.H" Name="Backstageplay Inc" />
+  <SYMBOL Code="BPLI" Name="Bluedrop Performance Learning Inc" />
+  <SYMBOL Code="BPWR.UN" Name="Blockchain Power Trust" />
+  <SYMBOL Code="BPX" Name="Bruin Point Helium Corp." />
+  <SYMBOL Code="BQE" Name="Bqe Water Inc" />
+  <SYMBOL Code="BRC" Name="Blackrock Gold Corp" />
+  <SYMBOL Code="BRD" Name="Broadway Gold Mining Ltd" />
+  <SYMBOL Code="BRG.H" Name="Brigadier Gold Limited" />
+  <SYMBOL Code="BRL" Name="Bearclaw Capital Corp" />
+  <SYMBOL Code="BRM" Name="Biorem Inc" />
+  <SYMBOL Code="BRN.PR.A" Name="Brookfield Investments Corp Pref A" />
+  <SYMBOL Code="BRO" Name="Barksdale Capital Corp" />
+  <SYMBOL Code="BRS" Name="Brs Resources Ltd" />
+  <SYMBOL Code="BRU" Name="Brunswick Resources Inc" />
+  <SYMBOL Code="BRZ" Name="Bearing Lithium Corp" />
+  <SYMBOL Code="BSH" Name="Bayshore Petroleum Corp" />
+  <SYMBOL Code="BSK" Name="Blue Sky Uranium Corp" />
+  <SYMBOL Code="BSR" Name="Bluestone Resources Inc" />
+  <SYMBOL Code="BTI" Name="Bioasis Technologies Inc" />
+  <SYMBOL Code="BTL" Name="Btl Group Ltd" />
+  <SYMBOL Code="BTR" Name="Bonterra Resources Inc" />
+  <SYMBOL Code="BTRU" Name="Betteru Education Corp" />
+  <SYMBOL Code="BTT" Name="Bitterroot Resources Ltd" />
+  <SYMBOL Code="BTU" Name="Btu Metals Corp" />
+  <SYMBOL Code="BTV" Name="Bluerush Inc." />
+  <SYMBOL Code="BUD" Name="Satori Resources Inc" />
+  <SYMBOL Code="BUF" Name="Buffalo Coal Corp" />
+  <SYMBOL Code="BUS" Name="Grande West Transportation Group Inc" />
+  <SYMBOL Code="BVA" Name="Bravada Gold Corp" />
+  <SYMBOL Code="BVO" Name="Bevo Agro Inc" />
+  <SYMBOL Code="BWR" Name="Bwr Exploration Inc" />
+  <SYMBOL Code="BXR" Name="Blue River Resources Ltd" />
+  <SYMBOL Code="BYM.H" Name="Baymount Incorporated" />
+  <SYMBOL Code="BYN" Name="Banyan Gold Corp" />
+  <SYMBOL Code="BZ" Name="Benz Mining Corp" />
+  <SYMBOL Code="C" Name="Contact Gold Inc" />
+  <SYMBOL Code="CA.H" Name="Catalina Gold Corp" />
+  <SYMBOL Code="CAD" Name="Colonial Coal International Corp" />
+  <SYMBOL Code="CAF" Name="Canaf Group Inc" />
+  <SYMBOL Code="CAK.H" Name="Capricorn Business Acquisitions Inc" />
+  <SYMBOL Code="CANB.P" Name="Canadabis Capital Inc" />
+  <SYMBOL Code="CAND" Name="Candelaria Mining Corp" />
+  <SYMBOL Code="CANX" Name="Canex Metals Inc" />
+  <SYMBOL Code="CAP" Name="Castle Peak Mining Ltd" />
+  <SYMBOL Code="CASA" Name="Casa Minerals Inc" />
+  <SYMBOL Code="CAT" Name="Chimata Gold Corp" />
+  <SYMBOL Code="CAU.H" Name="China Goldcorp Ltd" />
+  <SYMBOL Code="CAV" Name="Camrova Resources Inc" />
+  <SYMBOL Code="CAY" Name="Cache Exploration Inc" />
+  <SYMBOL Code="CBA" Name="Champion Bear Res Ltd" />
+  <SYMBOL Code="CBE" Name="Cabo Drilling Corp" />
+  <SYMBOL Code="CBG" Name="Chibougamau Independent Mines Inc" />
+  <SYMBOL Code="CBI" Name="Colibri Resource Corp" />
+  <SYMBOL Code="CBLT" Name="Cblt Inc" />
+  <SYMBOL Code="CBM.H" Name="Cbd Med Research Corp" />
+  <SYMBOL Code="CBR" Name="Cabr Al Gold Inc" />
+  <SYMBOL Code="CBS" Name="Bard Ventures Ltd" />
+  <SYMBOL Code="CBV" Name="Cobra Venture Corp" />
+  <SYMBOL Code="CBW" Name="Cannabis Wheaton Income Corp" />
+  <SYMBOL Code="CBX" Name="Cortex Business Solutions Inc" />
+  <SYMBOL Code="CCB" Name="Canada Carbon Inc" />
+  <SYMBOL Code="CCC" Name="Cornerstone Metals Inc" />
+  <SYMBOL Code="CCD" Name="Cascadero Copper Corp" />
+  <SYMBOL Code="CCE" Name="Commerce Resources Corp" />
+  <SYMBOL Code="CCK" Name="Canada Coal Inc" />
+  <SYMBOL Code="CCW" Name="Canada Cobalt Works Inc." />
+  <SYMBOL Code="CD" Name="Cantex Mine Development Corp" />
+  <SYMBOL Code="CDA" Name="Canuc Resources Corp" />
+  <SYMBOL Code="CDB" Name="Cordoba Minerals Corp" />
+  <SYMBOL Code="CDC" Name="Cadillac Ventures Inc" />
+  <SYMBOL Code="CDG" Name="Candente Gold Corp" />
+  <SYMBOL Code="CDU" Name="Cardero Resource Corp" />
+  <SYMBOL Code="CE" Name="Canada Energy Partners Inc" />
+  <SYMBOL Code="CEL.H" Name="Columbus Energy Limited" />
+  <SYMBOL Code="CEM" Name="Constantine Metal Resources Ltd" />
+  <SYMBOL Code="CEN" Name="Claren Energy Corp" />
+  <SYMBOL Code="CEP" Name="Cliffside Capital Ltd" />
+  <SYMBOL Code="CFI.P" Name="Califfi Capital Corp" />
+  <SYMBOL Code="CFM" Name="Confederation Minerals Ltd" />
+  <SYMBOL Code="CFY" Name="Changfeng Energy Inc" />
+  <SYMBOL Code="CGD" Name="Carlin Gold Corp" />
+  <SYMBOL Code="CGLD" Name="Core Gold Inc." />
+  <SYMBOL Code="CGM" Name="California Gold Mining Inc" />
+  <SYMBOL Code="CGP" Name="Cornerstone Capital Resources Inc" />
+  <SYMBOL Code="CH" Name="Urban Select Captial Corp" />
+  <SYMBOL Code="CHC" Name="Chc Student Housing Corp" />
+  <SYMBOL Code="CHEM" Name="Canadian Energy Materials Corp." />
+  <SYMBOL Code="CHN" Name="China Education Resources Inc" />
+  <SYMBOL Code="CID" Name="Cicada Ventures Ltd" />
+  <SYMBOL Code="CIFR" Name="Cipher Resources Inc." />
+  <SYMBOL Code="CIO" Name="Central Iron Ore Limited" />
+  <SYMBOL Code="CIP.H" Name="Canadian International Pharma Corp" />
+  <SYMBOL Code="CIT" Name="Cr Capital Corp" />
+  <SYMBOL Code="CJC" Name="Canada Strategic Metals Inc" />
+  <SYMBOL Code="CKG" Name="Chesapeake Gold Corp" />
+  <SYMBOL Code="CKK" Name="Cordy Oilfield Services Inc" />
+  <SYMBOL Code="CKZ.H" Name="Caspian Energy Inc" />
+  <SYMBOL Code="CLB" Name="Colombia Crest Gold Corp" />
+  <SYMBOL Code="CLE" Name="Clean Commodities Corp" />
+  <SYMBOL Code="CLH" Name="Coral Gold Resources Ltd" />
+  <SYMBOL Code="CLI" Name="Clearford Water Systems Inc" />
+  <SYMBOL Code="CLM" Name="Crystal Lake Mining Corp" />
+  <SYMBOL Code="CLN.H" Name="Cluny Capital Corp" />
+  <SYMBOL Code="CLY" Name="Clarocity Corp" />
+  <SYMBOL Code="CLZ" Name="Canasil Resources Inc" />
+  <SYMBOL Code="CMB" Name="Cmc Metals Ltd" />
+  <SYMBOL Code="CMD" Name="Commander Resources Ltd" />
+  <SYMBOL Code="CMI" Name="C-Com Satellite Systems Inc" />
+  <SYMBOL Code="CML" Name="Canickel Mining Limited" />
+  <SYMBOL Code="CMU" Name="Comet Industries Ltd" />
+  <SYMBOL Code="CMV" Name="China Minerals Mining Corp" />
+  <SYMBOL Code="CMX" Name="Chilean Metals Inc" />
+  <SYMBOL Code="CN" Name="Condor Resources Inc" />
+  <SYMBOL Code="CNA.H" Name="Canasia Financial Inc" />
+  <SYMBOL Code="CNC" Name="Canyon Copper Corp" />
+  <SYMBOL Code="CNH" Name="Crownia Holdings Ltd" />
+  <SYMBOL Code="CNO" Name="California Nanotechnologies Corp" />
+  <SYMBOL Code="CNS" Name="Contagious Gaming Inc" />
+  <SYMBOL Code="CNX" Name="Callinex Mines Inc" />
+  <SYMBOL Code="COB.U" Name="Cohbar Inc" />
+  <SYMBOL Code="COBC" Name="Cobalt Blockchain Inc." />
+  <SYMBOL Code="COL" Name="Copper North Mining Corp" />
+  <SYMBOL Code="COLS.P" Name="Colson Capital Corp" />
+  <SYMBOL Code="CONE" Name="Canada One Mining Corp" />
+  <SYMBOL Code="COO" Name="Naturebank Asset Management Inc" />
+  <SYMBOL Code="COPS" Name="Crops Inc." />
+  <SYMBOL Code="COR" Name="Camino Minerals Corp" />
+  <SYMBOL Code="CORE" Name="Canadian Orebodies Inc" />
+  <SYMBOL Code="COT" Name="Cotinga Pharmaceuticals Inc." />
+  <SYMBOL Code="COV" Name="Covalon Technologies Ltd" />
+  <SYMBOL Code="CPA.H" Name="Chinapintza Mining Corp" />
+  <SYMBOL Code="CPC" Name="Canadian Platinum Corp" />
+  <SYMBOL Code="CPL" Name="Copper Lake Resources Ltd" />
+  <SYMBOL Code="CPM" Name="Crystal Peak Minerals Inc" />
+  <SYMBOL Code="CPO" Name="Cobalt Power Group Inc" />
+  <SYMBOL Code="CPS" Name="Claim Post Resources Inc" />
+  <SYMBOL Code="CPV" Name="Copper Creek Gold Corp." />
+  <SYMBOL Code="CQR" Name="Conquest Resources Ltd" />
+  <SYMBOL Code="CQV.H" Name="Canadian Imperial Venture Corp" />
+  <SYMBOL Code="CRB" Name="Cariboo Rose Resources Ltd" />
+  <SYMBOL Code="CRD.H" Name="Coronado Resources Ltd" />
+  <SYMBOL Code="CRE" Name="Critical Elements Corp" />
+  <SYMBOL Code="CRON" Name="Cronos Group Inc" />
+  <SYMBOL Code="CRU" Name="Cameo Resources Corp" />
+  <SYMBOL Code="CRX.H" Name="Cerro Mining Corp" />
+  <SYMBOL Code="CSC.H" Name="Canex Energy Corp" />
+  <SYMBOL Code="CSL" Name="Comstock Metals Ltd" />
+  <SYMBOL Code="CSO" Name="Corsa Coal Corp" />
+  <SYMBOL Code="CSQ" Name="Canamex Gold Corp." />
+  <SYMBOL Code="CST" Name="Co2 Solutions Inc" />
+  <SYMBOL Code="CSV.H" Name="Caracara Silver Inc" />
+  <SYMBOL Code="CSX" Name="Clean Seed Capital Group Ltd" />
+  <SYMBOL Code="CT" Name="Centenara Mining Corp" />
+  <SYMBOL Code="CTI" Name="Caiterra International E" />
+  <SYMBOL Code="CTM" Name="Canterra Minerals Corp" />
+  <SYMBOL Code="CTN" Name="Centurion Minerals Ltd" />
+  <SYMBOL Code="CTO" Name="Circa Enterprises Inc" />
+  <SYMBOL Code="CTU" Name="Le Chateau Inc Cl B" />
+  <SYMBOL Code="CTZ" Name="Namsys Inc" />
+  <SYMBOL Code="CUC" Name="Carube Copper Corp" />
+  <SYMBOL Code="CUI" Name="Currie Rose Resources Inc" />
+  <SYMBOL Code="CUO" Name="Copper One Inc" />
+  <SYMBOL Code="CUU" Name="Copper Fox Metals Inc" />
+  <SYMBOL Code="CUV" Name="Cuv Ventures Corp." />
+  <SYMBOL Code="CUX" Name="Carmax Mining Corp" />
+  <SYMBOL Code="CUZ" Name="Cruz Cobalt Corp" />
+  <SYMBOL Code="CV.H" Name="Chantrell Ventures Corp" />
+  <SYMBOL Code="CVA" Name="Cava Resources Inc" />
+  <SYMBOL Code="CVB" Name="Compass Gold Corporation" />
+  <SYMBOL Code="CVM" Name="Cvr Medical Corp" />
+  <SYMBOL Code="CVR" Name="CDN Oil Recovery Remediation Ent Ltd" />
+  <SYMBOL Code="CVS.P" Name="Canvass Ventures Ltd" />
+  <SYMBOL Code="CVV" Name="Canalaska Uranium Ltd" />
+  <SYMBOL Code="CVX" Name="Cematrix Corp" />
+  <SYMBOL Code="CWC" Name="Cwc Energy Services Corp" />
+  <SYMBOL Code="CWM" Name="Crown Mining Corp" />
+  <SYMBOL Code="CWV" Name="Crown Point Energy Inc" />
+  <SYMBOL Code="CWV.RT" Name="Crownpoint Energy Inc RTS" />
+  <SYMBOL Code="CX" Name="Clarmin Explorations Inc" />
+  <SYMBOL Code="CXA.H" Name="Consolidated Hci Holdings Corporation" />
+  <SYMBOL Code="CXB" Name="Calibre Mining Corp" />
+  <SYMBOL Code="CXO" Name="Colorado Resources Ltd" />
+  <SYMBOL Code="CXV" Name="Blvd Centers Corp" />
+  <SYMBOL Code="CYF" Name="Canyon Creek Food Co Ltd" />
+  <SYMBOL Code="CYL" Name="Ceylon Graphite Corp" />
+  <SYMBOL Code="CYM" Name="Cymat Technologies Ltd" />
+  <SYMBOL Code="CYP" Name="Cypress Development Corp" />
+  <SYMBOL Code="CYX" Name="Calyx Ventures Inc." />
+  <SYMBOL Code="CZ.H" Name="Cassius Ventures Ltd" />
+  <SYMBOL Code="CZO" Name="Ceapro Inc" />
+  <SYMBOL Code="CZQ.H" Name="Continental Precious Minerals Inc" />
+  <SYMBOL Code="CZX" Name="Canada Zinc Metals Corp" />
+  <SYMBOL Code="CZZ" Name="Cleghorn Minerals Ltd" />
+  <SYMBOL Code="DAL" Name="Dalmac Energy Inc" />
+  <SYMBOL Code="DAN" Name="Arianne Phosphate Inc" />
+  <SYMBOL Code="DAP.U" Name="Xpel Technologies Corp" />
+  <SYMBOL Code="DAR" Name="Darelle Online Solutions Inc" />
+  <SYMBOL Code="DASH" Name="Neptune Dash Technologies Corp" />
+  <SYMBOL Code="DAU" Name="Desert Gold Ventures Inc" />
+  <SYMBOL Code="DBD.H" Name="Darien Business Development Corp" />
+  <SYMBOL Code="DBV" Name="Doubleview Capital Corp" />
+  <SYMBOL Code="DCY" Name="Discovery-Corp. Enterprises Inc" />
+  <SYMBOL Code="DE" Name="Decisive Dividend Corp" />
+  <SYMBOL Code="DEC" Name="Decade Resources Ltd" />
+  <SYMBOL Code="DEF" Name="Defiance Silver Corp" />
+  <SYMBOL Code="DELX" Name="Delphx Capital Markets Inc" />
+  <SYMBOL Code="DFR" Name="Diamond Fields Resources Inc." />
+  <SYMBOL Code="DFS" Name="Global Daily Fantasy Sports Inc" />
+  <SYMBOL Code="DGO" Name="Durango Resources Inc" />
+  <SYMBOL Code="DIA" Name="Margaret Lake Diamonds Inc" />
+  <SYMBOL Code="DJI" Name="Dajin Resources Corp" />
+  <SYMBOL Code="DLC" Name="Dlc Holdings Corp" />
+  <SYMBOL Code="DLI" Name="Desert Lion Energy Inc." />
+  <SYMBOL Code="DLS" Name="Dealnet Capital Corp" />
+  <SYMBOL Code="DLV.H" Name="Dv Resources Ltd" />
+  <SYMBOL Code="DM" Name="Datametrex Ai Ltd" />
+  <SYMBOL Code="DMA" Name="Diamedica Therapeutics Inc" />
+  <SYMBOL Code="DMC.H" Name="Dataminers Capital Corp" />
+  <SYMBOL Code="DME" Name="Desert Mountain Energy Corp." />
+  <SYMBOL Code="DMG.H" Name="Dmd Digital Health Connections Group Inc" />
+  <SYMBOL Code="DMGI" Name="Dmg Blockchain Solutions Inc" />
+  <SYMBOL Code="DMI" Name="Diamcor Mining Inc" />
+  <SYMBOL Code="DMR" Name="Damara Gold Corp" />
+  <SYMBOL Code="DNX" Name="Dynex Power Inc" />
+  <SYMBOL Code="DOS" Name="Dios Exploration Inc" />
+  <SYMBOL Code="DPH" Name="Duncan Park Holdings Corp" />
+  <SYMBOL Code="DRC.H" Name="Dragonfly Capital Corp" />
+  <SYMBOL Code="DRV" Name="Duran Ventures Inc" />
+  <SYMBOL Code="DSM" Name="Deep South Resources Inc" />
+  <SYMBOL Code="DSV" Name="Discovery Metals Corp" />
+  <SYMBOL Code="DSY" Name="Destiny Media Technologies Inc" />
+  <SYMBOL Code="DUG" Name="Distinct Infrastructure Group Inc" />
+  <SYMBOL Code="DV" Name="Dolly Varden Silver Corp" />
+  <SYMBOL Code="DVA" Name="Delivra Corp" />
+  <SYMBOL Code="DVG" Name="Divergent Energy Services Corp" />
+  <SYMBOL Code="DVI" Name="Dunnedin Ventures Inc" />
+  <SYMBOL Code="DVT" Name="Divestco Inc" />
+  <SYMBOL Code="DWS" Name="Diamond Estates Wines and Spirits Inc" />
+  <SYMBOL Code="DXA" Name="Doxa Energy Ltd" />
+  <SYMBOL Code="DXD" Name="3D Signatures Inc" />
+  <SYMBOL Code="DYA" Name="Dynacert Inc" />
+  <SYMBOL Code="DYG" Name="Dynasty Gold Corp" />
+  <SYMBOL Code="EAM" Name="East Africa Metals Inc" />
+  <SYMBOL Code="EAS" Name="East Asia Minerals Corp" />
+  <SYMBOL Code="EBM" Name="Eastwood Bio Medical Canada Inc" />
+  <SYMBOL Code="EBY" Name="Emerald Bay Energy Inc" />
+  <SYMBOL Code="ECC" Name="Ethos Gold Corp" />
+  <SYMBOL Code="ECM" Name="Ecolomondo Corporation" />
+  <SYMBOL Code="ECR" Name="Cartier Resources Inc" />
+  <SYMBOL Code="ECT" Name="Ellipsiz Communications Ltd" />
+  <SYMBOL Code="EDG" Name="Endurance Gold Corp" />
+  <SYMBOL Code="EDW.H" Name="Edgewater Exploration Ltd" />
+  <SYMBOL Code="EGA" Name="Eagle Graphite Incorporated" />
+  <SYMBOL Code="EGD" Name="Energold Drilling Corp" />
+  <SYMBOL Code="EGM" Name="Engold Mines Ltd" />
+  <SYMBOL Code="EGT" Name="Eguana Technologies Inc" />
+  <SYMBOL Code="EHT" Name="Enerdynamic Hybrid Tech Corp" />
+  <SYMBOL Code="EIL" Name="Empire Industries Ltd" />
+  <SYMBOL Code="EKG" Name="Cardiocomm Solutions Inc" />
+  <SYMBOL Code="EL" Name="Engagement Labs Inc" />
+  <SYMBOL Code="ELC" Name="Elysee Development Corp" />
+  <SYMBOL Code="ELM" Name="Element Lifestyle Retirement Inc" />
+  <SYMBOL Code="ELN" Name="El Nino Ventures Inc" />
+  <SYMBOL Code="ELO" Name="Eloro Resources Ltd" />
+  <SYMBOL Code="ELT" Name="Electra Stone Ltd" />
+  <SYMBOL Code="ELY" Name="Ely Gold Royalties Inc." />
+  <SYMBOL Code="EMC" Name="Emblem Corp" />
+  <SYMBOL Code="EMC.WT" Name="Emblem Corp Wts" />
+  <SYMBOL Code="EMC.WT.A" Name="Emblem Corp Wts" />
+  <SYMBOL Code="EMC.WT.B" Name="Emblem Corp Wts B" />
+  <SYMBOL Code="EMH" Name="Emerald Health Therapeutics Inc" />
+  <SYMBOL Code="EMO" Name="Emerita Resources Corp" />
+  <SYMBOL Code="EMR" Name="Emgold Mining Corp" />
+  <SYMBOL Code="EMX" Name="Emx Royalty Corp" />
+  <SYMBOL Code="ENA" Name="Enablence Technologies Inc" />
+  <SYMBOL Code="ENRG" Name="New Energy Metals Corp." />
+  <SYMBOL Code="ENV.H" Name="Enssolutions Group Inc" />
+  <SYMBOL Code="ENW" Name="Enwave Corp" />
+  <SYMBOL Code="ENW.WT" Name="Enwave Corporation Wts" />
+  <SYMBOL Code="EOG" Name="Eco Atlantic Oil and Gas Ltd" />
+  <SYMBOL Code="EP" Name="Empire Metals Corp" />
+  <SYMBOL Code="EPI" Name="Essa Pharma Inc" />
+  <SYMBOL Code="EPL" Name="Eagle Plains Resources Ltd" />
+  <SYMBOL Code="EPO" Name="Encanto Potash Corp" />
+  <SYMBOL Code="EPWR" Name="Epower Metals Inc." />
+  <SYMBOL Code="EQ" Name="Eq Inc" />
+  <SYMBOL Code="EQG" Name="Eqube Gaming Limited" />
+  <SYMBOL Code="EQX" Name="Equinox Gold Corp." />
+  <SYMBOL Code="EQX.WT" Name="Equinox Gold Corp Wts" />
+  <SYMBOL Code="ERA" Name="Elcora Advanced Materials Corp" />
+  <SYMBOL Code="ERC" Name="Eros Resources Corp" />
+  <SYMBOL Code="ERE.UN" Name="European Commercial REIT" />
+  <SYMBOL Code="ERL.H" Name="Earl Resources Limited" />
+  <SYMBOL Code="ERN.H" Name="Earny Resources Ltd" />
+  <SYMBOL Code="ES" Name="Eight Solutions Inc" />
+  <SYMBOL Code="ESK" Name="Eskay Mining Corp" />
+  <SYMBOL Code="ESR" Name="Esrey Resources Ltd." />
+  <SYMBOL Code="ESU" Name="Eestor Corp" />
+  <SYMBOL Code="ESV" Name="Esi Environmental Sensors Inc" />
+  <SYMBOL Code="ESX" Name="Essex Minerals Inc" />
+  <SYMBOL Code="ETF" Name="Eastfield Resources Ltd" />
+  <SYMBOL Code="ETMC" Name="E3 Metals Corp" />
+  <SYMBOL Code="EU" Name="Encore Energy Corp" />
+  <SYMBOL Code="EUO" Name="Eurocontrol Technics Group Inc" />
+  <SYMBOL Code="EV" Name="Erin Ventures Inc" />
+  <SYMBOL Code="EVM" Name="Evrim Resources Corp" />
+  <SYMBOL Code="EVR" Name="Everton Resources Inc" />
+  <SYMBOL Code="EVX" Name="European Electric Metals Inc." />
+  <SYMBOL Code="EW" Name="East West Petroleum Corp" />
+  <SYMBOL Code="EWK" Name="Earthworks Industries Inc" />
+  <SYMBOL Code="EWS" Name="Environmental Waste International Inc" />
+  <SYMBOL Code="EXG" Name="Exgen Resources Inc" />
+  <SYMBOL Code="EXS" Name="Explor Resources Inc" />
+  <SYMBOL Code="EXX" Name="Equitorial Exploration Corp" />
+  <SYMBOL Code="EYC" Name="Eyecarrot Innovations Corp" />
+  <SYMBOL Code="EZNC.H" Name="Eastern Zinc Corp" />
+  <SYMBOL Code="F" Name="Fiore Exploration Ltd" />
+  <SYMBOL Code="FA" Name="Fountain Asset Corp" />
+  <SYMBOL Code="FBF" Name="Fab-Form Industries Ltd" />
+  <SYMBOL Code="FBR.H" Name="Fibre-Crown Manufacturing  Inc" />
+  <SYMBOL Code="FBX" Name="First Bauxite Corp" />
+  <SYMBOL Code="FCA.U" Name="Firm Capital American Realty Part Corp" />
+  <SYMBOL Code="FCC" Name="First Cobalt Corp" />
+  <SYMBOL Code="FCD.UN" Name="Firm Capital Property Trust" />
+  <SYMBOL Code="FCF" Name="Founders Advantage Capital Corp" />
+  <SYMBOL Code="FDI" Name="Findev Inc" />
+  <SYMBOL Code="FE" Name="First Energy Metals Limited" />
+  <SYMBOL Code="FEO" Name="Oceanic Iron Ore Corp" />
+  <SYMBOL Code="FEX" Name="Fjordland Exploration Inc" />
+  <SYMBOL Code="FG" Name="Falcon Gold Corp" />
+  <SYMBOL Code="FGC" Name="Frontline Gold Corp" />
+  <SYMBOL Code="FGD" Name="First Global Data Limited" />
+  <SYMBOL Code="FGR" Name="Fengro Industries Corp." />
+  <SYMBOL Code="FIL" Name="Filo Mining Corp" />
+  <SYMBOL Code="FIRE" Name="The Supreme Cannabis Company Inc." />
+  <SYMBOL Code="FISH" Name="Sailfish Royalty Corp" />
+  <SYMBOL Code="FIX" Name="Firebird Resources Inc" />
+  <SYMBOL Code="FL" Name="Frontier Lithium Inc" />
+  <SYMBOL Code="FLGC" Name="Fanlogic Interactive Inc" />
+  <SYMBOL Code="FLM" Name="First Legacy Mining Corp" />
+  <SYMBOL Code="FLT" Name="Drone Delivery Canada Corp" />
+  <SYMBOL Code="FLY" Name="Flyht Aerospace Solutions Ltd" />
+  <SYMBOL Code="FMC" Name="Forum Energy Metals Corp." />
+  <SYMBOL Code="FMG" Name="First Mexican Gold Corp" />
+  <SYMBOL Code="FMR" Name="Fairmont Resources Inc" />
+  <SYMBOL Code="FMS" Name="Focus Graphite Inc" />
+  <SYMBOL Code="FNC" Name="Fancamp Exploration Ltd" />
+  <SYMBOL Code="FNR" Name="49 North Resources Inc" />
+  <SYMBOL Code="FO" Name="Falcon Oil &amp; Gas Ltd" />
+  <SYMBOL Code="FOM" Name="Foran Mining Corp" />
+  <SYMBOL Code="FOR" Name="Fortune Bay Corp" />
+  <SYMBOL Code="FP" Name="Fp Newspapers Inc" />
+  <SYMBOL Code="FPC" Name="Falco Resources Ltd" />
+  <SYMBOL Code="FPC.WT" Name="Falco Resources Ltd Wts" />
+  <SYMBOL Code="FPX" Name="Fpx Nickel Corp" />
+  <SYMBOL Code="FRE" Name="Fremont Gold Ltd" />
+  <SYMBOL Code="FREE" Name="Freedom Energy Inc" />
+  <SYMBOL Code="FRI" Name="Freeport Resources Inc" />
+  <SYMBOL Code="FRK" Name="Front Range Resources Ltd" />
+  <SYMBOL Code="FRN" Name="Feronia Inc" />
+  <SYMBOL Code="FSW" Name="Fireswirl  Technologies Inc" />
+  <SYMBOL Code="FTEC" Name="Fintech Select Ltd" />
+  <SYMBOL Code="FTI" Name="Fti Foodtech Internation" />
+  <SYMBOL Code="FTJ.H" Name="Fort ST James Nickel Corp" />
+  <SYMBOL Code="FTR" Name="Firesteel Resources Inc" />
+  <SYMBOL Code="FUND" Name="Katipult Technology Corp" />
+  <SYMBOL Code="FURA" Name="Fura GEMS Inc." />
+  <SYMBOL Code="FUU" Name="Fission 3.0 Corp" />
+  <SYMBOL Code="FV" Name="Firestone Ventures Inc" />
+  <SYMBOL Code="FWZ" Name="Fireweed Zinc Ltd" />
+  <SYMBOL Code="FYL" Name="Finlay Minerals Ltd" />
+  <SYMBOL Code="GAL" Name="Galantas Gold Corp" />
+  <SYMBOL Code="GAME" Name="Millennial Esports Corp" />
+  <SYMBOL Code="GAR" Name="Green Arrow Resources In" />
+  <SYMBOL Code="GAZ.UN" Name="Fronsac Capital REIT Units" />
+  <SYMBOL Code="GB" Name="Ginger Beef Corp" />
+  <SYMBOL Code="GBLT" Name="Gblt Corp" />
+  <SYMBOL Code="GBR" Name="Great Bear Resources Ltd" />
+  <SYMBOL Code="GBU" Name="Gabriel Resources Ltd" />
+  <SYMBOL Code="GCC.H" Name="Golden Cariboo Resources Ltd" />
+  <SYMBOL Code="GCCC" Name="Gcc Global Capital Corporation" />
+  <SYMBOL Code="GCN" Name="Goldcliff Resource Corp" />
+  <SYMBOL Code="GCR" Name="Gespeg Copper Resources Inc" />
+  <SYMBOL Code="GCX.H" Name="Granite Creek Gold Ltd" />
+  <SYMBOL Code="GDM" Name="Goldstar Minerals Inc" />
+  <SYMBOL Code="GDM.RT" Name="Goldstar Minerals Inc RTS" />
+  <SYMBOL Code="GDNP" Name="Good Natured Products Inc." />
+  <SYMBOL Code="GDX" Name="Goldex Resources Corp" />
+  <SYMBOL Code="GEL" Name="Tangelo Games Corp" />
+  <SYMBOL Code="GEM" Name="Pele Mountain Resources Inc." />
+  <SYMBOL Code="GEMC" Name="Global Energy Metals Corp" />
+  <SYMBOL Code="GENE" Name="Invictus MD Strategies Corp" />
+  <SYMBOL Code="GER" Name="Glen Eagle Resources Inc" />
+  <SYMBOL Code="GFG" Name="Gfg Resources Inc" />
+  <SYMBOL Code="GFL.H" Name="Gulfstream Acquisition 1 Corp" />
+  <SYMBOL Code="GFM.H" Name="Gfm Resources Ltd" />
+  <SYMBOL Code="GG" Name="Galane Gold Ltd" />
+  <SYMBOL Code="GGG" Name="Graphene 3D Lab Inc" />
+  <SYMBOL Code="GGI" Name="Garibaldi Resources Corp" />
+  <SYMBOL Code="GGL" Name="Ggl Resources Corp" />
+  <SYMBOL Code="GGM" Name="Granada Gold Mine Inc" />
+  <SYMBOL Code="GGS" Name="Golden Secret Ventures Ltd" />
+  <SYMBOL Code="GGX" Name="Ggx Gold Corp" />
+  <SYMBOL Code="GIGA" Name="Giga Metals Corp" />
+  <SYMBOL Code="GIII" Name="Gen III Oil Corp" />
+  <SYMBOL Code="GIS" Name="Genesis Metals Corp" />
+  <SYMBOL Code="GIT" Name="Gitennes Exploration Inc" />
+  <SYMBOL Code="GIX" Name="Geologix Explorations Inc" />
+  <SYMBOL Code="GLB" Name="Goldbank Mining Corp" />
+  <SYMBOL Code="GLD" Name="Goldon Resources Ltd" />
+  <SYMBOL Code="GLDN" Name="Golden Ridge Resources Ltd" />
+  <SYMBOL Code="GLI" Name="Glacier Lake Resources Inc" />
+  <SYMBOL Code="GLK" Name="Great Lakes Graphite Inc" />
+  <SYMBOL Code="GLO" Name="Global Atomic Corp." />
+  <SYMBOL Code="GLW" Name="Galway Gold Inc" />
+  <SYMBOL Code="GMA" Name="Geomega Resources Inc" />
+  <SYMBOL Code="GMN" Name="Gobimin Inc" />
+  <SYMBOL Code="GMV" Name="Gmv Minerals Inc" />
+  <SYMBOL Code="GNC" Name="Gainey Capital Corp" />
+  <SYMBOL Code="GNF" Name="Greenfields Petroleum Corp" />
+  <SYMBOL Code="GNG" Name="Golden Goliath Resources Ltd" />
+  <SYMBOL Code="GNH" Name="Golden Hope Mines Ltd" />
+  <SYMBOL Code="GNT" Name="Gentor Resources Inc" />
+  <SYMBOL Code="GOE" Name="Goldeneye Resources Corp" />
+  <SYMBOL Code="GOG" Name="Golden Tag Resources Ltd" />
+  <SYMBOL Code="GOLD" Name="Goldmining Inc" />
+  <SYMBOL Code="GOLD.WT" Name="Goldmining Inc Wts" />
+  <SYMBOL Code="GOM" Name="Golden Dawn Minerals Inc" />
+  <SYMBOL Code="GOOD" Name="Good Life Networks Inc" />
+  <SYMBOL Code="GOP" Name="Gourmet Ocean Products Inc" />
+  <SYMBOL Code="GOT" Name="Goliath Resources Limited" />
+  <SYMBOL Code="GPG" Name="Grande Portage Resources Ltd" />
+  <SYMBOL Code="GPH" Name="Graphite One Resources Inc" />
+  <SYMBOL Code="GPLY" Name="Goldplay Exploration Ltd." />
+  <SYMBOL Code="GPM" Name="Gpm Metals Inc" />
+  <SYMBOL Code="GPV" Name="Greenpower Motor Company Inc" />
+  <SYMBOL Code="GPY" Name="Golden Predator Mining Corp" />
+  <SYMBOL Code="GQ" Name="Great Quest Fertilizer Ltd" />
+  <SYMBOL Code="GQC" Name="Goldquest Mining Corp" />
+  <SYMBOL Code="GR" Name="Great Atlantic Resources Corp" />
+  <SYMBOL Code="GRA" Name="Nanoxplore Inc" />
+  <SYMBOL Code="GRAT" Name="Gratomic Inc." />
+  <SYMBOL Code="GRB" Name="Greenbriar Capital Corp" />
+  <SYMBOL Code="GRC" Name="Grenville Strategic Royalty Corp" />
+  <SYMBOL Code="GRC.DB" Name="Grenville Strategic Royalty 8 Pct Debs" />
+  <SYMBOL Code="GRCC.P" Name="Green Rise Capital Corporation" />
+  <SYMBOL Code="GRG" Name="Golden Arrow Res Corp" />
+  <SYMBOL Code="GRI" Name="Galore Resources Inc" />
+  <SYMBOL Code="GRK" Name="Gray Rock Resources Ltd" />
+  <SYMBOL Code="GRO" Name="Growmax Resources Corp" />
+  <SYMBOL Code="GROW" Name="Co2 Gro Inc" />
+  <SYMBOL Code="GRR" Name="Golden Reign Resources Ltd" />
+  <SYMBOL Code="GRX.H" Name="Greenshield Explorations Limited" />
+  <SYMBOL Code="GRZ" Name="Gold Reserve Inc" />
+  <SYMBOL Code="GSA" Name="Groundstar Resources Ltd" />
+  <SYMBOL Code="GSD" Name="Devonian Health Group Inc" />
+  <SYMBOL Code="GSH" Name="Golden Share Resources Corp" />
+  <SYMBOL Code="GSI" Name="Gatekeeper Systems Inc" />
+  <SYMBOL Code="GSP" Name="Gensource Potash Corp" />
+  <SYMBOL Code="GSR" Name="Goldstrike Resources Ltd" />
+  <SYMBOL Code="GSS" Name="Gossan Resources Limited" />
+  <SYMBOL Code="GSX.H" Name="Goldstream Minerals Inc" />
+  <SYMBOL Code="GTA" Name="Gta Resources and Mining Inc" />
+  <SYMBOL Code="GTB" Name="Greatbanks Resources Ltd" />
+  <SYMBOL Code="GTC" Name="Getty Copper Inc" />
+  <SYMBOL Code="GTG" Name="Great Thunder Gold Corp" />
+  <SYMBOL Code="GTT" Name="GT Gold Corp" />
+  <SYMBOL Code="GUF" Name="Gulf &amp; Pacific Equities Corp" />
+  <SYMBOL Code="GUG" Name="Gungnir Resources Inc" />
+  <SYMBOL Code="GUN" Name="Gunpoint Exploration Ltd" />
+  <SYMBOL Code="GUS.P" Name="Angus Ventures Inc" />
+  <SYMBOL Code="GV" Name="Guerrero Ventures Inc" />
+  <SYMBOL Code="GVR" Name="Grosvenor Resources Corp" />
+  <SYMBOL Code="GVY" Name="Green Valley Mine Incorporated" />
+  <SYMBOL Code="GWA" Name="Gowest Gold Ltd" />
+  <SYMBOL Code="GWM" Name="Galway Metals Inc" />
+  <SYMBOL Code="GXL" Name="Galileo Exploration Ltd" />
+  <SYMBOL Code="GXR" Name="Georox Resources Inc" />
+  <SYMBOL Code="GXS" Name="Goldsource Mines Inc" />
+  <SYMBOL Code="GXU" Name="Goviex Uranium Inc" />
+  <SYMBOL Code="GYA" Name="Guyana Goldstrike Inc" />
+  <SYMBOL Code="GZD" Name="Grizzly Discoveries Inc" />
+  <SYMBOL Code="GZZ" Name="Golden Valley Mines Ltd" />
+  <SYMBOL Code="HAN" Name="Hannan Metals Ltd" />
+  <SYMBOL Code="HAR" Name="Harfang Exploration Inc" />
+  <SYMBOL Code="HAW.P" Name="Haw Capital Corp" />
+  <SYMBOL Code="HAWK" Name="Hawkeye Gold and Diamond Inc" />
+  <SYMBOL Code="HBE" Name="Hornby Bay Mineral Exploration Ltd" />
+  <SYMBOL Code="HBK" Name="Highbank Resources Ltd" />
+  <SYMBOL Code="HEC" Name="Handa Copper Corp" />
+  <SYMBOL Code="HEI" Name="Huntington Exploration Inc" />
+  <SYMBOL Code="HEM" Name="Hemostemix Inc" />
+  <SYMBOL Code="HEMP" Name="Hempco Food and Fiber Inc" />
+  <SYMBOL Code="HEO" Name="H2O Innovation Inc" />
+  <SYMBOL Code="HFC" Name="Hampton Financial Corp" />
+  <SYMBOL Code="HFC.PR.A" Name="Hampton Financial Corporation Pref A" />
+  <SYMBOL Code="HI" Name="Highland Copper Company Inc" />
+  <SYMBOL Code="HIP" Name="Newstrike Resources Ltd" />
+  <SYMBOL Code="HIP.WT" Name="Newstrike Resources Ltd Wts" />
+  <SYMBOL Code="HIT" Name="Hit Technologies Inc" />
+  <SYMBOL Code="HIVE" Name="Hive Blockchain Technologies Inc." />
+  <SYMBOL Code="HIVE.WT" Name="Hive Blockchain Technologies Ltd Wts" />
+  <SYMBOL Code="HJI" Name="Helijet International Inc" />
+  <SYMBOL Code="HLS" Name="Hls Therapeutics Inc." />
+  <SYMBOL Code="HME" Name="Hemisphere Energy Corp" />
+  <SYMBOL Code="HMI" Name="Hinterland Metals Inc" />
+  <SYMBOL Code="HMX" Name="Hunt Mining Corp" />
+  <SYMBOL Code="HOC" Name="Hunter Oil Corp" />
+  <SYMBOL Code="HPL" Name="Horizon Petroleum Ltd" />
+  <SYMBOL Code="HPQ" Name="Hpq Silicon Resources Inc" />
+  <SYMBOL Code="HPY" Name="Happy Creek Minerals Ltd" />
+  <SYMBOL Code="HRC" Name="Helio Res Corp" />
+  <SYMBOL Code="HRE" Name="Stans Energy Corp" />
+  <SYMBOL Code="HRH" Name="Hillcrest Petroleum Ltd" />
+  <SYMBOL Code="HRL" Name="Hansa Resources Limited" />
+  <SYMBOL Code="HSI" Name="H Source Holdings Ltd" />
+  <SYMBOL Code="HTC" Name="Htc Purenergy Inc" />
+  <SYMBOL Code="HTL" Name="Hamilton Thorne Ltd" />
+  <SYMBOL Code="HTR" Name="Heatherdale Resources Ltd" />
+  <SYMBOL Code="HUD" Name="Hudson Resources Inc" />
+  <SYMBOL Code="HUT" Name="Hut 8 Mining Corp" />
+  <SYMBOL Code="HVG" Name="Harvest Gold Corp" />
+  <SYMBOL Code="HVT" Name="Harvest One Cannabis Inc" />
+  <SYMBOL Code="HVT.WT" Name="Harvest One Cannabis Inc Wts" />
+  <SYMBOL Code="HVT.WT.A" Name="Harvest One Cannabis Inc Wts A" />
+  <SYMBOL Code="HWY" Name="Highway 50 Gold Corp" />
+  <SYMBOL Code="HXC" Name="Hfx Holding Corp" />
+  <SYMBOL Code="HZ" Name="Hybrid Minerals Inc." />
+  <SYMBOL Code="IB" Name="Ibc Advanced Alloys Corp" />
+  <SYMBOL Code="IBC" Name="International Bethlehem Mining Corp" />
+  <SYMBOL Code="IBT" Name="Ibex Technologies Inc" />
+  <SYMBOL Code="IC" Name="International Corona Capital Corp" />
+  <SYMBOL Code="ICAU" Name="Intercontinental Gold and Metals Ltd." />
+  <SYMBOL Code="ICC" Name="Icc Labs Inc." />
+  <SYMBOL Code="ICI.P" Name="Inceptus Capital Ltd" />
+  <SYMBOL Code="ICL" Name="Itasca Capital Ltd" />
+  <SYMBOL Code="ICM" Name="Iconic Minerals Ltd" />
+  <SYMBOL Code="ICO" Name="Ico Therapeutics Inc" />
+  <SYMBOL Code="ID" Name="Identillect Technologies Corp" />
+  <SYMBOL Code="IDI" Name="Indico Resources Ltd" />
+  <SYMBOL Code="IDL" Name="Imaging Dynamics Company Ltd" />
+  <SYMBOL Code="IDM" Name="Idm Mining Ltd" />
+  <SYMBOL Code="IEI" Name="Imperial Equities Inc" />
+  <SYMBOL Code="IES" Name="Intercept Energy Services Inc" />
+  <SYMBOL Code="IFD.H" Name="Intrinsic4D Inc" />
+  <SYMBOL Code="IFOS" Name="Itafos" />
+  <SYMBOL Code="IFR" Name="International Frontier Resources Corpora" />
+  <SYMBOL Code="IFX" Name="Imaflex Inc" />
+  <SYMBOL Code="IGAM" Name="Integrity Gaming Corp." />
+  <SYMBOL Code="IGC.H" Name="Igc Resources Inc" />
+  <SYMBOL Code="IGO" Name="Independence Gold Corp" />
+  <SYMBOL Code="IGP" Name="Imperial Ginseng Products Ltd" />
+  <SYMBOL Code="IGX" Name="Intelgenx Technologies Corp" />
+  <SYMBOL Code="IGX.DB" Name="Intelgenx Technologies Corp 8.0 Pct Debs" />
+  <SYMBOL Code="IKM" Name="Ikkuma Resources Corp" />
+  <SYMBOL Code="ILA" Name="Ilookabout Corp" />
+  <SYMBOL Code="ILC" Name="International Lithium Corp" />
+  <SYMBOL Code="ILI" Name="Infinite Lithium Corp." />
+  <SYMBOL Code="IMA" Name="I-Minerals Inc" />
+  <SYMBOL Code="IMEX" Name="Imex Systems Inc" />
+  <SYMBOL Code="IMI" Name="International Millennium Mining Corp" />
+  <SYMBOL Code="IMIN" Name="Imining Blockchain &amp; Cryptocurrency Inc." />
+  <SYMBOL Code="IMR" Name="Imetal Resources Inc" />
+  <SYMBOL Code="IMT" Name="International Montoro Res. Inc" />
+  <SYMBOL Code="INP" Name="Input Capital Corp" />
+  <SYMBOL Code="INX" Name="Intouch Insight Ltd" />
+  <SYMBOL Code="IO" Name="Inca One Gold Corp" />
+  <SYMBOL Code="ION" Name="Alset Minerals Corp" />
+  <SYMBOL Code="IOT" Name="Innovotech Inc" />
+  <SYMBOL Code="IOU" Name="Iou Financial Inc" />
+  <SYMBOL Code="IPA" Name="Immunoprecise Antibodies Ltd" />
+  <SYMBOL Code="IPC" Name="Iplayco Corporation Ltd" />
+  <SYMBOL Code="IPD" Name="International Parkside Products Inc" />
+  <SYMBOL Code="IPG" Name="Imperial Mining Group Ltd" />
+  <SYMBOL Code="IPT" Name="Impact Silver Corp" />
+  <SYMBOL Code="IQ" Name="Airiq Inc" />
+  <SYMBOL Code="IRC" Name="Ironside Resources Inc" />
+  <SYMBOL Code="IRI" Name="Iemr Resources Inc" />
+  <SYMBOL Code="IRN.P" Name="Ironwood Capital Corp" />
+  <SYMBOL Code="IRO" Name="Inter-Rock Minerals Inc" />
+  <SYMBOL Code="IRR" Name="Inform Resources Corp" />
+  <SYMBOL Code="ISD" Name="Isign Media Solutions Inc" />
+  <SYMBOL Code="ISO" Name="Isoenergy Ltd" />
+  <SYMBOL Code="ISS" Name="International Samuel Exploration Corp" />
+  <SYMBOL Code="ITG" Name="Intact Gold Corp" />
+  <SYMBOL Code="ITM" Name="Intema Solutions Inc" />
+  <SYMBOL Code="ITR" Name="Integra Resources Corp." />
+  <SYMBOL Code="ITT" Name="Internet of Things Inc" />
+  <SYMBOL Code="IVC" Name="Interconnect Ventures Corp" />
+  <SYMBOL Code="IVF.H" Name="Invictus Financial Inc" />
+  <SYMBOL Code="IVI" Name="Ivrnet Inc" />
+  <SYMBOL Code="IVS" Name="Inventus Mining Corp" />
+  <SYMBOL Code="IVX" Name="Inventronics Limited" />
+  <SYMBOL Code="IXI" Name="Indigo Exploration Inc" />
+  <SYMBOL Code="IZ" Name="International Zeolite Corp." />
+  <SYMBOL Code="IZN" Name="Inzinc Mining Ltd" />
+  <SYMBOL Code="IZZ" Name="International Prospect Ventures Ltd" />
+  <SYMBOL Code="JADE" Name="Jade Leader Corp." />
+  <SYMBOL Code="JAX" Name="Jaxon Mining Inc" />
+  <SYMBOL Code="JCO" Name="Jericho Oil Corp" />
+  <SYMBOL Code="JDN" Name="Jayden Resources Inc" />
+  <SYMBOL Code="JET" Name="Canada Jetlines Ltd" />
+  <SYMBOL Code="JET.WT" Name="Canada Jetlines Ltd Wts" />
+  <SYMBOL Code="JET.WT.A" Name="Canada Jetlines Ltd Wts A" />
+  <SYMBOL Code="JFC" Name="Jaguar Financial Corp" />
+  <SYMBOL Code="JG" Name="Japan Gold Corp" />
+  <SYMBOL Code="JIM.H" Name="Jiminex Inc" />
+  <SYMBOL Code="JLR.H" Name="Jiulian Resources Inc" />
+  <SYMBOL Code="JNX" Name="Junex Inc" />
+  <SYMBOL Code="JOR" Name="Jourdan Resources Inc" />
+  <SYMBOL Code="JP" Name="Jackpot Digital Inc" />
+  <SYMBOL Code="JP.WT" Name="Jackpot Digital Inc Wts" />
+  <SYMBOL Code="JSE" Name="Jadestone Energy Inc" />
+  <SYMBOL Code="JSP" Name="Jasper Mining Corp" />
+  <SYMBOL Code="JTC" Name="Jemtec Inc" />
+  <SYMBOL Code="JTR" Name="Greenspace Brands Inc" />
+  <SYMBOL Code="JTR.WT" Name="Greenspace Brands Inc Wts" />
+  <SYMBOL Code="JUGR" Name="Juggernaut Exploration Ltd." />
+  <SYMBOL Code="JZR" Name="Jazz Resources Inc" />
+  <SYMBOL Code="KALY" Name="Kalytera Therapeutics Inc" />
+  <SYMBOL Code="KAP" Name="Kapuskasing Gold Corp" />
+  <SYMBOL Code="KAR" Name="Karmin Exploration Inc" />
+  <SYMBOL Code="KASH" Name="Hashchain Technologyinc" />
+  <SYMBOL Code="KAY.H" Name="Karsten Energy Corp" />
+  <SYMBOL Code="KBG" Name="Kings Bay Resources Corp" />
+  <SYMBOL Code="KBLT" Name="Cobalt 27 Capital Corp" />
+  <SYMBOL Code="KC" Name="Kutcho Copper Corp" />
+  <SYMBOL Code="KCC" Name="Kincora Copper Limited" />
+  <SYMBOL Code="KDA" Name="Kda Group Inc" />
+  <SYMBOL Code="KEN" Name="Kenadyr Mining Holdings Corp" />
+  <SYMBOL Code="KES" Name="Kesselrun Resources Ltd" />
+  <SYMBOL Code="KFG" Name="Kfg Resources Ltd" />
+  <SYMBOL Code="KG" Name="Klondike Gold Corp" />
+  <SYMBOL Code="KGC" Name="Kestrel Gold Inc" />
+  <SYMBOL Code="KGL" Name="Kilo Goldmines Ltd" />
+  <SYMBOL Code="KHA.H" Name="Knighthawk Inc" />
+  <SYMBOL Code="KIV" Name="Kivalliq Energy Corp" />
+  <SYMBOL Code="KLE.H" Name="Kingsland Energy Corp" />
+  <SYMBOL Code="KLM" Name="Kermode Resources Ltd" />
+  <SYMBOL Code="KMC.H" Name="Kmt Hansa Corp" />
+  <SYMBOL Code="KMT" Name="Komet Resources Inc" />
+  <SYMBOL Code="KNE" Name="Kane Biotech Inc" />
+  <SYMBOL Code="KNG" Name="Kingsmen Resources Ltd" />
+  <SYMBOL Code="KNT" Name="K92 Mining Inc" />
+  <SYMBOL Code="KNX" Name="Knick Exploration Inc" />
+  <SYMBOL Code="KR.H" Name="Kr Investment Ltd" />
+  <SYMBOL Code="KS" Name="Klondike Silver Corp" />
+  <SYMBOL Code="KSI" Name="Kneat.Com Inc" />
+  <SYMBOL Code="KTN" Name="Kootenay Silver Inc" />
+  <SYMBOL Code="KTN.WT" Name="Kootenay Silver Inc Wts" />
+  <SYMBOL Code="KTO" Name="K2 Gold Corp" />
+  <SYMBOL Code="KTR" Name="Kintavar Exploration Inc" />
+  <SYMBOL Code="KUB" Name="Cub Energy Inc" />
+  <SYMBOL Code="KUR.H" Name="Kure Technologies Inc" />
+  <SYMBOL Code="KUT" Name="Redishred Capital Corp" />
+  <SYMBOL Code="KUU" Name="Kuuhubb Inc" />
+  <SYMBOL Code="KYS.H" Name="Kaymus Resources Inc" />
+  <SYMBOL Code="KZD" Name="Kaizen Discovery Inc" />
+  <SYMBOL Code="LA" Name="Los Andes Copper Limited" />
+  <SYMBOL Code="LAB" Name="Labrador Gold Corp." />
+  <SYMBOL Code="LAD" Name="New Carolin Gold Corp" />
+  <SYMBOL Code="LAT" Name="Latin American Minerals Inc" />
+  <SYMBOL Code="LBC" Name="Libero Copper Corporation" />
+  <SYMBOL Code="LBI" Name="Lions Bay Capital Inc" />
+  <SYMBOL Code="LBL" Name="Lattice Biologics Ltd" />
+  <SYMBOL Code="LBY" Name="Liberty One Lithium Corp" />
+  <SYMBOL Code="LDI" Name="Lithoquest Diamonds Inc." />
+  <SYMBOL Code="LEM" Name="Leading Edge Materials Corp" />
+  <SYMBOL Code="LEN" Name="Lund Enterprises Corp" />
+  <SYMBOL Code="LEP" Name="Lithium Energy Products Inc" />
+  <SYMBOL Code="LES.H" Name="Leis Industries Limited" />
+  <SYMBOL Code="LET" Name="Letho Resources Corp" />
+  <SYMBOL Code="LEXI" Name="Lithium Energi Exploration Inc" />
+  <SYMBOL Code="LFC.P" Name="22 Capital Corp" />
+  <SYMBOL Code="LG" Name="Lgc Capital Ltd" />
+  <SYMBOL Code="LHR" Name="Lakeview Hotel Invest Corp" />
+  <SYMBOL Code="LI" Name="American Lithium Corp" />
+  <SYMBOL Code="LIC" Name="Lico Energy Metals Inc" />
+  <SYMBOL Code="LIO" Name="Lion One Metals Limited" />
+  <SYMBOL Code="LIT" Name="Argentina Lithium and Energy Corp" />
+  <SYMBOL Code="LITH" Name="Lithium Chile Inc." />
+  <SYMBOL Code="LJ" Name="Lucky Minerals Inc" />
+  <SYMBOL Code="LL" Name="Canada Rare Earth Corp" />
+  <SYMBOL Code="LLC" Name="Lorraine Copper Corp" />
+  <SYMBOL Code="LLG" Name="Mason Graphite Inc" />
+  <SYMBOL Code="LM" Name="Lingo Media Corp" />
+  <SYMBOL Code="LMD" Name="Led Medical Diagnostics Inc" />
+  <SYMBOL Code="LME" Name="Laurion Mineral Exploration Inc" />
+  <SYMBOL Code="LMG" Name="Lincoln Mining Corp" />
+  <SYMBOL Code="LMR" Name="Lomiko Metals Inc" />
+  <SYMBOL Code="LNC" Name="Lithion Energy Corp" />
+  <SYMBOL Code="LND" Name="Inspira Financial Inc" />
+  <SYMBOL Code="LNE.H" Name="Loon Energy Corporation" />
+  <SYMBOL Code="LOOP" Name="Loopshare Ltd" />
+  <SYMBOL Code="LOT" Name="Tomagold Corp" />
+  <SYMBOL Code="LPC" Name="Lorne Park Capital Partners Inc" />
+  <SYMBOL Code="LPK" Name="Lupaka Gold Corp" />
+  <SYMBOL Code="LPS" Name="Legend Power Systems Inc" />
+  <SYMBOL Code="LRA" Name="Lara Exploration Ltd" />
+  <SYMBOL Code="LRC.H" Name="Lovitt Resources Inc" />
+  <SYMBOL Code="LSC" Name="Lsc Lithium Corp" />
+  <SYMBOL Code="LTE" Name="Lite Access Technologies Inc" />
+  <SYMBOL Code="LTV" Name="Leonovus Inc" />
+  <SYMBOL Code="LTX" Name="Labrador Technologies Inc" />
+  <SYMBOL Code="LTY" Name="Liberty Biopharma Inc" />
+  <SYMBOL Code="LUM" Name="Lumina Gold Corp" />
+  <SYMBOL Code="LV.H" Name="Ladera Ventures Corp" />
+  <SYMBOL Code="LXE" Name="Leucrotta Exploration Inc" />
+  <SYMBOL Code="LXG" Name="Lexagene Holdings Inc" />
+  <SYMBOL Code="M" Name="Mosaic Capital Corp" />
+  <SYMBOL Code="M.DB" Name="Mosaic Capital Corp 7.0 Pct Debs" />
+  <SYMBOL Code="MAC" Name="Themac Resources Group Limited" />
+  <SYMBOL Code="MAD" Name="Miranda Gold Corp" />
+  <SYMBOL Code="MAE" Name="Maritime Resources Corp" />
+  <SYMBOL Code="MAH" Name="Marksmen Energy Inc" />
+  <SYMBOL Code="MAI" Name="Minera Alamos Inc" />
+  <SYMBOL Code="MAS" Name="Mas Gold Corp." />
+  <SYMBOL Code="MAT" Name="Matamec Explorations Inc" />
+  <SYMBOL Code="MAZ.H" Name="Mazarin Inc" />
+  <SYMBOL Code="MBI" Name="Med Biogene Inc" />
+  <SYMBOL Code="MBO" Name="Mobio Technologies Inc" />
+  <SYMBOL Code="MBR.H" Name="Mbmi Resources Inc" />
+  <SYMBOL Code="MC" Name="M2 Cobalt Group" />
+  <SYMBOL Code="MCA.H" Name="Milner Consolidated Silver Mines Ltd" />
+  <SYMBOL Code="MCF" Name="Pinedale Energy Limited" />
+  <SYMBOL Code="MCG" Name="Mountain China Resorts Holding Ltd" />
+  <SYMBOL Code="MCI" Name="Minnova Corp" />
+  <SYMBOL Code="MCLD" Name="Universal Mcloud Corp" />
+  <SYMBOL Code="MCM.A" Name="Matachewan Cons Mines" />
+  <SYMBOL Code="MCN" Name="Metron Capital Corp" />
+  <SYMBOL Code="MCO" Name="Magnolia Colombia Ltd" />
+  <SYMBOL Code="MCR" Name="Macro Enterprises Inc" />
+  <SYMBOL Code="MCS" Name="Mcchip Resources Inc" />
+  <SYMBOL Code="MCU" Name="Mega Copper Ltd." />
+  <SYMBOL Code="MCX" Name="Mcorpcx Inc" />
+  <SYMBOL Code="MD" Name="Midland Exploration Inc" />
+  <SYMBOL Code="MDL" Name="Medallion Resources Ltd" />
+  <SYMBOL Code="MDO" Name="Manado Gold Corp" />
+  <SYMBOL Code="MDV" Name="Megastar Development Corp" />
+  <SYMBOL Code="MDX" Name="Medx Health Corp" />
+  <SYMBOL Code="MED" Name="Medgold Resources Corp" />
+  <SYMBOL Code="MEK" Name="Metals Creek Resources Corp" />
+  <SYMBOL Code="MET" Name="Metalore Resources Limited" />
+  <SYMBOL Code="META" Name="National Access Cannabis Corp" />
+  <SYMBOL Code="MEX" Name="Mexican Gold Corp" />
+  <SYMBOL Code="MEZ.H" Name="Mezzotin Minerals Inc" />
+  <SYMBOL Code="MFM" Name="Marifil Mines Ltd" />
+  <SYMBOL Code="MFS" Name="Medifocus Inc" />
+  <SYMBOL Code="MFX" Name="Minfocus Exploration Corp" />
+  <SYMBOL Code="MGG" Name="Minaurum Gold Inc" />
+  <SYMBOL Code="MGI" Name="Magnum Goldcorp Inc" />
+  <SYMBOL Code="MGM" Name="Maple Gold Mines Ltd." />
+  <SYMBOL Code="MGM.WT" Name="Maple Gold Mines Ltd Wts" />
+  <SYMBOL Code="MGZ.H" Name="Mangazeya Mining Ltd" />
+  <SYMBOL Code="MHI" Name="Mineral Hill Industries Ltd" />
+  <SYMBOL Code="MINE" Name="Inomin Mines Inc" />
+  <SYMBOL Code="MIR" Name="Medmira Inc" />
+  <SYMBOL Code="MIRA.P" Name="Mira X Acquisition Corp" />
+  <SYMBOL Code="MIT" Name="The Mint Corp" />
+  <SYMBOL Code="MJS" Name="Majestic Gold Corp" />
+  <SYMBOL Code="MK.H" Name="Mk2 Ventures Ltd" />
+  <SYMBOL Code="MKA" Name="Mkango Resources Ltd" />
+  <SYMBOL Code="MKR" Name="Melkior Resources Inc" />
+  <SYMBOL Code="MKT" Name="Deepmarkit Corp" />
+  <SYMBOL Code="ML" Name="Millennial Lithium Corp" />
+  <SYMBOL Code="ML.WT" Name="Millennial Lithium Corp Wts" />
+  <SYMBOL Code="MLG" Name="ML Gold Corp" />
+  <SYMBOL Code="MLN" Name="Marlin Gold Mining Ltd" />
+  <SYMBOL Code="MLR" Name="Melior Resources Inc" />
+  <SYMBOL Code="MLY" Name="American Cumo Mining Corp" />
+  <SYMBOL Code="MMA" Name="Midnight Sun Mining Corp" />
+  <SYMBOL Code="MMG" Name="Metallic Minerals Corp" />
+  <SYMBOL Code="MMM" Name="Minco Gold Corp" />
+  <SYMBOL Code="MMN" Name="Monarca Minerals Inc" />
+  <SYMBOL Code="MMS" Name="Macarthur Minerals Limited" />
+  <SYMBOL Code="MMV" Name="Mineral Mountain Resources Ltd" />
+  <SYMBOL Code="MMX" Name="Maverix Metals Inc" />
+  <SYMBOL Code="MMY" Name="Monument Mining Limited" />
+  <SYMBOL Code="MN" Name="Manganese X Energy Corp" />
+  <SYMBOL Code="MNO" Name="Meridian Mining Societas Europaea" />
+  <SYMBOL Code="MNX" Name="Manitex Capital Inc" />
+  <SYMBOL Code="MNY" Name="Montan Mining Corp" />
+  <SYMBOL Code="MOE.H" Name="Metropolitan Energy Corp" />
+  <SYMBOL Code="MOL" Name="Molori Energy Inc" />
+  <SYMBOL Code="MON" Name="Montero Mining and Exploration Ltd" />
+  <SYMBOL Code="MOO" Name="Mooncor Oil and Gas Corp" />
+  <SYMBOL Code="MOON" Name="Blue Moon Zinc Corp" />
+  <SYMBOL Code="MOS" Name="Mobi724 Global Solutions Inc" />
+  <SYMBOL Code="MOX" Name="Morien Resources Corp" />
+  <SYMBOL Code="MPH" Name="Medicure Inc" />
+  <SYMBOL Code="MPT" Name="Midpoint Holdings Ltd" />
+  <SYMBOL Code="MQR" Name="Monarques Gold Corp" />
+  <SYMBOL Code="MQX" Name="Marquee Energy Ltd" />
+  <SYMBOL Code="MRL" Name="Margaux Resources Ltd" />
+  <SYMBOL Code="MRO" Name="Millrock Resources Inc" />
+  <SYMBOL Code="MRS" Name="Mission Ready Services Inc" />
+  <SYMBOL Code="MRZ" Name="Mirasol Resources Ltd" />
+  <SYMBOL Code="MSA" Name="Mesa Exploration Corp" />
+  <SYMBOL Code="MSP" Name="Minaean SP Construction Corp" />
+  <SYMBOL Code="MSR" Name="Minsud Resources Corp" />
+  <SYMBOL Code="MTA" Name="Metalla Royalty and Streaming Ltd" />
+  <SYMBOL Code="MTB" Name="Mountain Boy Minerals Ltd" />
+  <SYMBOL Code="MTC" Name="Metalcorp Ltd" />
+  <SYMBOL Code="MTH" Name="Mammoth Resources Corp" />
+  <SYMBOL Code="MTN.H" Name="Martina Minerals Corp" />
+  <SYMBOL Code="MTO" Name="Metanor Res Inc" />
+  <SYMBOL Code="MTS" Name="Metallis Resources Inc" />
+  <SYMBOL Code="MTT" Name="Magna Terra Minerals Inc" />
+  <SYMBOL Code="MTU" Name="Manitou Gold Inc" />
+  <SYMBOL Code="MTX" Name="Metalex Ventures Ltd" />
+  <SYMBOL Code="MTZ" Name="Montana Exploration Corp" />
+  <SYMBOL Code="MU.H" Name="Monster Uranium Corp" />
+  <SYMBOL Code="MUM" Name="Mustang Minerals Corp" />
+  <SYMBOL Code="MUN" Name="Mundoro Capital Inc" />
+  <SYMBOL Code="MUR" Name="Murchison Minerals Ltd" />
+  <SYMBOL Code="MVI" Name="Monitor Ventures Inc" />
+  <SYMBOL Code="MVN" Name="Madalena Energy Inc" />
+  <SYMBOL Code="MVP" Name="Mediavalet Inc" />
+  <SYMBOL Code="MVY" Name="Moovly Media Inc" />
+  <SYMBOL Code="MWI.UN" Name="Maplewood International REIT" />
+  <SYMBOL Code="MWX" Name="Mineworx Technologies Ltd" />
+  <SYMBOL Code="MXR" Name="Max Resource Corp" />
+  <SYMBOL Code="MXX" Name="Matrrix Energy Technologies Inc" />
+  <SYMBOL Code="MYA" Name="Maya Gold &amp; Silver Inc" />
+  <SYMBOL Code="MZZ" Name="Val Dor Mining Corp" />
+  <SYMBOL Code="N" Name="Namaste Technologies Inc." />
+  <SYMBOL Code="N.WT" Name="Namaste Technologies Inc. Wts" />
+  <SYMBOL Code="NAC" Name="National Access Cannabis Corp" />
+  <SYMBOL Code="NAM" Name="New Age Metals Inc" />
+  <SYMBOL Code="NAN" Name="North American Nickel Inc" />
+  <SYMBOL Code="NAP" Name="Napier Ventures Inc" />
+  <SYMBOL Code="NAR" Name="North Arrow Minerals Inc" />
+  <SYMBOL Code="NBR" Name="Nubian Resources Ltd" />
+  <SYMBOL Code="NBVA" Name="Nubeva Technologies Ltd." />
+  <SYMBOL Code="NBY" Name="Niobay Metals Inc" />
+  <SYMBOL Code="NCI" Name="Ntg Clarity Networks Inc" />
+  <SYMBOL Code="NCX" Name="Northisle Copper and Gold Inc" />
+  <SYMBOL Code="NDR" Name="New Dimension Resources Ltd" />
+  <SYMBOL Code="NDVA" Name="Indiva Limited" />
+  <SYMBOL Code="NDVA.WT" Name="Indiva Limited Wts" />
+  <SYMBOL Code="NED" Name="New Destiny Mining Corp." />
+  <SYMBOL Code="NEE" Name="Northern Vertex Mining Corp" />
+  <SYMBOL Code="NEM" Name="New Era Minerals Inc" />
+  <SYMBOL Code="NER" Name="Newmac Resources Inc" />
+  <SYMBOL Code="NEV" Name="Nevada Sunrise Gold Corp" />
+  <SYMBOL Code="NFD.A" Name="Northfield Capital Corp Cl.A Rv" />
+  <SYMBOL Code="NGC" Name="Northern Graphite Corp" />
+  <SYMBOL Code="NGE" Name="Nevada Exploration Inc" />
+  <SYMBOL Code="NGH.H" Name="Nexia Health Technologies Inc" />
+  <SYMBOL Code="NGZ" Name="NRG Metals Inc" />
+  <SYMBOL Code="NIC" Name="Pure Nickel Inc" />
+  <SYMBOL Code="NIM" Name="Nicola Mining Inc" />
+  <SYMBOL Code="NINE" Name="Delta 9 Cannabis Inc" />
+  <SYMBOL Code="NINE.WT" Name="Delta 9 Cannabis Inc Wts" />
+  <SYMBOL Code="NIO" Name="Niocan Inc" />
+  <SYMBOL Code="NIP" Name="Nippon Dragon Resources Inc" />
+  <SYMBOL Code="NIR" Name="Noble Iron Inc" />
+  <SYMBOL Code="NKW" Name="Naikun Wind Energy Group Inc" />
+  <SYMBOL Code="NLC" Name="NEO Lithium Corp" />
+  <SYMBOL Code="NLH" Name="Nova Leap Health Corp" />
+  <SYMBOL Code="NM" Name="Northern Empire Resources Corp" />
+  <SYMBOL Code="NMG" Name="Noble Metal Group Inc" />
+  <SYMBOL Code="NNA" Name="New Nadina Explorations Limited" />
+  <SYMBOL Code="NNN" Name="Nickel One Resources Inc" />
+  <SYMBOL Code="NNO" Name="Nano One Materials Corp" />
+  <SYMBOL Code="NNP" Name="Newnorth Projects Ltd" />
+  <SYMBOL Code="NNX" Name="Nickel North Exploration Corp" />
+  <SYMBOL Code="NOB" Name="Noble Mineral Exploration Inc" />
+  <SYMBOL Code="NOL.H" Name="Knol Resources Corp" />
+  <SYMBOL Code="NOT" Name="Noront Resources Ltd" />
+  <SYMBOL Code="NOU" Name="Nouveau Monde Graphite Inc" />
+  <SYMBOL Code="NPA" Name="Alphinat Inc" />
+  <SYMBOL Code="NRE" Name="Namibia Rare Earths Inc" />
+  <SYMBOL Code="NRG" Name="Newrange Gold Corp" />
+  <SYMBOL Code="NRM" Name="Noram Ventures Inc" />
+  <SYMBOL Code="NRN" Name="Northern Shield Resources Inc" />
+  <SYMBOL Code="NSE" Name="New Stratus Energy Inc" />
+  <SYMBOL Code="NSP" Name="Naturally Splendid Enterprises Ltd" />
+  <SYMBOL Code="NSX" Name="Nsgold Corp" />
+  <SYMBOL Code="NTE" Name="Network Media Group Inc" />
+  <SYMBOL Code="NTN.H" Name="Newton Energy Corporation" />
+  <SYMBOL Code="NTQ" Name="Novateqni Corp" />
+  <SYMBOL Code="NTRL" Name="Sweet Natural Trading Co." />
+  <SYMBOL Code="NTS" Name="Nanotech Security Corp" />
+  <SYMBOL Code="NTY" Name="92 Resources Corp" />
+  <SYMBOL Code="NU" Name="Neutrisci International Inc" />
+  <SYMBOL Code="NUAG" Name="New Pacific Metals Corp" />
+  <SYMBOL Code="NUG" Name="Nulegacy Gold Coporation" />
+  <SYMBOL Code="NVH" Name="Novoheart Holdings Inc" />
+  <SYMBOL Code="NVI" Name="Novra Technologies Inc" />
+  <SYMBOL Code="NVM" Name="Nevada Clean Magnesium Inc" />
+  <SYMBOL Code="NVO" Name="Novo Resources Corp" />
+  <SYMBOL Code="NVT" Name="Nortec Minerals Corp" />
+  <SYMBOL Code="NVV" Name="Norvista Capital Corp" />
+  <SYMBOL Code="NVX" Name="Nv Gold Corp" />
+  <SYMBOL Code="NVY" Name="Navy Resources Corp" />
+  <SYMBOL Code="NW" Name="New World Resources Corp" />
+  <SYMBOL Code="NWE" Name="New West Energy Services Inc" />
+  <SYMBOL Code="NWK.P" Name="Norwick Capital Corp" />
+  <SYMBOL Code="NWX" Name="Newport Exloration Ltd" />
+  <SYMBOL Code="NXG" Name="Nexgenrx Inc" />
+  <SYMBOL Code="NXN" Name="Nxgold Ltd" />
+  <SYMBOL Code="NXO" Name="Nexoptic Technology Corp" />
+  <SYMBOL Code="NXR.UN" Name="Nexus Real Estate Investment Trust" />
+  <SYMBOL Code="NXS" Name="Nexus Gold Corp" />
+  <SYMBOL Code="NXT" Name="Natcore Technology Inc" />
+  <SYMBOL Code="NZ" Name="New Zealand Energy Corp" />
+  <SYMBOL Code="NZN" Name="Nevada Zinc Corp" />
+  <SYMBOL Code="NZP" Name="Chatham Rock Phosphate Limited" />
+  <SYMBOL Code="NZZ" Name="Nitinat Minerals Corp" />
+  <SYMBOL Code="OCN" Name="Oceanus Resources Corp" />
+  <SYMBOL Code="OCO" Name="Oroco Resource Corp" />
+  <SYMBOL Code="ODX.H" Name="Odyssey Resources Ltd" />
+  <SYMBOL Code="OEC" Name="Oracle Energy Corp" />
+  <SYMBOL Code="OEE" Name="Memex Inc" />
+  <SYMBOL Code="OEG" Name="Onenergy Inc" />
+  <SYMBOL Code="OG" Name="Organic Garage Ltd" />
+  <SYMBOL Code="OGI" Name="Organigram Holdings Inc" />
+  <SYMBOL Code="OGI.DB" Name="Organigram Holdings Inc 6.00 Pct Debs" />
+  <SYMBOL Code="OGI.WT.A" Name="Organigram Holdings Inc Wts" />
+  <SYMBOL Code="OGO" Name="Organto Foods Inc" />
+  <SYMBOL Code="OIC" Name="Onecap Investment Corporation" />
+  <SYMBOL Code="OK" Name="Ok2 Minerals Ltd" />
+  <SYMBOL Code="OLA" Name="Orla Mining Ltd" />
+  <SYMBOL Code="OLV" Name="Olivut Resources Ltd" />
+  <SYMBOL Code="OM" Name="Osisko Metals Incorporated" />
+  <SYMBOL Code="OML" Name="Omni-Lite Industries Canada Inc" />
+  <SYMBOL Code="OMM" Name="Omineca Mining and Metals Ltd" />
+  <SYMBOL Code="OMNI" Name="Omni Commerce Corp." />
+  <SYMBOL Code="ONE" Name="01 Communique Laboratory Inc" />
+  <SYMBOL Code="ONV" Name="Oronova Energy Inc" />
+  <SYMBOL Code="OOO" Name="Otis Gold Corp" />
+  <SYMBOL Code="OOR" Name="Opus One Resources Inc" />
+  <SYMBOL Code="OPW" Name="Opawica Explorations Inc" />
+  <SYMBOL Code="ORC.B" Name="Orca Exploration Group Inc Cl B" />
+  <SYMBOL Code="ORE" Name="Orezone Gold Corp" />
+  <SYMBOL Code="ORG" Name="Orca Gold Inc" />
+  <SYMBOL Code="ORM" Name="Orford Mining Corporation" />
+  <SYMBOL Code="ORO" Name="New Oroperu Resources Inc" />
+  <SYMBOL Code="ORS" Name="Orestone Mining Corp" />
+  <SYMBOL Code="ORX" Name="Orefinders Resources Inc" />
+  <SYMBOL Code="OS" Name="Osprey Gold Development Ltd" />
+  <SYMBOL Code="OSS" Name="Onesoft Solutions Inc" />
+  <SYMBOL Code="OSU" Name="Orsu Metals Corp" />
+  <SYMBOL Code="OVT" Name="Oculus Visiontech Inc" />
+  <SYMBOL Code="OWL.P" Name="Two Owls Ventures Corp" />
+  <SYMBOL Code="OY" Name="Oyster Oil and Gas Ltd" />
+  <SYMBOL Code="OYL" Name="Cgx Energy Inc" />
+  <SYMBOL Code="PA" Name="Palamina Corp" />
+  <SYMBOL Code="PAC" Name="Pacton Gold Inc" />
+  <SYMBOL Code="PAD" Name="Pan Andean Minerals Ltd" />
+  <SYMBOL Code="PAL" Name="Parallel Mining Corp" />
+  <SYMBOL Code="PAM" Name="Power Americas Minerals Corp" />
+  <SYMBOL Code="PAN" Name="Pangolin Diamonds Corp" />
+  <SYMBOL Code="PAS" Name="Pascal Biosciences Inc" />
+  <SYMBOL Code="PAT" Name="Patriot One Technologies Inc" />
+  <SYMBOL Code="PAT.WT" Name="Patriot One Technology Inc Wts" />
+  <SYMBOL Code="PAT.WT.A" Name="Patriot One Technologies Inc Wts A" />
+  <SYMBOL Code="PAT.WT.B" Name="Patriot One Technologies Inc Wts B" />
+  <SYMBOL Code="PBM" Name="Pacific Bay Minerals Ltd" />
+  <SYMBOL Code="PBR" Name="Para Resources Inc" />
+  <SYMBOL Code="PBS" Name="Pacgen Life Science Corp" />
+  <SYMBOL Code="PBX" Name="Powerband Solutions Inc" />
+  <SYMBOL Code="PCI" Name="Perlite Canada Inc" />
+  <SYMBOL Code="PCO" Name="Phoenix Canada Oil Co.Ltd." />
+  <SYMBOL Code="PCQ" Name="Petrolympic Ltd" />
+  <SYMBOL Code="PCR" Name="Pinecrest Resources Ltd" />
+  <SYMBOL Code="PDP" Name="Pediapharm Inc" />
+  <SYMBOL Code="PDQ" Name="Petrodorado Energy Ltd" />
+  <SYMBOL Code="PE" Name="Pure Energy Minerals Limited" />
+  <SYMBOL Code="PEA" Name="Pieridae Energy Ltd." />
+  <SYMBOL Code="PED.H" Name="Pedro Resources Ltd" />
+  <SYMBOL Code="PEEK" Name="Peeks Social Ltd" />
+  <SYMBOL Code="PEH" Name="Primeline Energy Holdings Inc" />
+  <SYMBOL Code="PEMC" Name="Pacific Empire Minerals Corp" />
+  <SYMBOL Code="PEO" Name="People Corp" />
+  <SYMBOL Code="PERU" Name="Chakana Copper Corp." />
+  <SYMBOL Code="PEX" Name="Pacific Ridge Exploration Ltd" />
+  <SYMBOL Code="PFC" Name="Petrofrontier Corp" />
+  <SYMBOL Code="PFM" Name="Prontoforms Corp" />
+  <SYMBOL Code="PGC" Name="Plato Gold Corp" />
+  <SYMBOL Code="PGE" Name="Group Ten Metals Inc" />
+  <SYMBOL Code="PGM" Name="Pure Gold Mining Inc" />
+  <SYMBOL Code="PGV" Name="Prodigy Ventures Inc" />
+  <SYMBOL Code="PGX" Name="Prosper Gold Corp" />
+  <SYMBOL Code="PGZ" Name="Pan Global Resources Inc" />
+  <SYMBOL Code="PHD" Name="Providence Gold Mines Inc" />
+  <SYMBOL Code="PHI" Name="Philippine Metals Inc" />
+  <SYMBOL Code="PHL.H" Name="Planet Health Corp" />
+  <SYMBOL Code="PHM" Name="Protech Home Medical Corp." />
+  <SYMBOL Code="PHM.DB" Name="Patient Home Monitoring 7.50 Pct Debs" />
+  <SYMBOL Code="PHO" Name="Photon Control Inc" />
+  <SYMBOL Code="PINE.P" Name="Pine Trail Capital Trust" />
+  <SYMBOL Code="PJT" Name="Partner Jet Corp" />
+  <SYMBOL Code="PJX" Name="Pjx Resources Inc" />
+  <SYMBOL Code="PKC.H" Name="Pacific Link Mining Corp" />
+  <SYMBOL Code="PKT" Name="Parkit Enterprise Inc" />
+  <SYMBOL Code="PLA" Name="Plata Latina Minerals Corp" />
+  <SYMBOL Code="PLU" Name="Plateau Energy Metals Inc." />
+  <SYMBOL Code="PLX" Name="Point Loma Resources Ltd" />
+  <SYMBOL Code="PLY" Name="Playfair Mining Ltd" />
+  <SYMBOL Code="PMA" Name="Petromaroc Corporation Plc" />
+  <SYMBOL Code="PML" Name="Panoro Minerals Ltd" />
+  <SYMBOL Code="PMO.H" Name="Prime City One Capital Corp" />
+  <SYMBOL Code="PMX" Name="Proam Exploration Corp" />
+  <SYMBOL Code="PNG" Name="Kraken Robotics Inc." />
+  <SYMBOL Code="PNN" Name="Pennine Petroleum Corp" />
+  <SYMBOL Code="PNO" Name="Pentanova Energy Corp" />
+  <SYMBOL Code="PNO.WT" Name="Pentanova Energy Corp Wts" />
+  <SYMBOL Code="POC" Name="Pacific Iron Ore Corp" />
+  <SYMBOL Code="POCM.P" Name="Pocml 4 Inc" />
+  <SYMBOL Code="POE" Name="Pan Orient Energy Corp" />
+  <SYMBOL Code="POG" Name="Perisson Petroleum Corp" />
+  <SYMBOL Code="POI.H" Name="Pounce Technologies Inc" />
+  <SYMBOL Code="POND" Name="Pond Technologies Holdings Inc." />
+  <SYMBOL Code="POOL" Name="Pool Safe Inc" />
+  <SYMBOL Code="POR" Name="Portofino Resources Inc" />
+  <SYMBOL Code="PP" Name="Pacific Potash Corp" />
+  <SYMBOL Code="PPE.H" Name="Pacific Paradym Energy Inc" />
+  <SYMBOL Code="PPK" Name="Prospect Park Capital Corp" />
+  <SYMBOL Code="PPM" Name="Pacific Imperial Mines Inc" />
+  <SYMBOL Code="PPX" Name="Ppx Mining Corp" />
+  <SYMBOL Code="PQE" Name="Petroteq Energy Inc" />
+  <SYMBOL Code="PRB" Name="Probe Metals Inc" />
+  <SYMBOL Code="PRED.P" Name="Predator Blockchain Capital Corp" />
+  <SYMBOL Code="PRG" Name="Precipitate Gold Corp" />
+  <SYMBOL Code="PRN" Name="Profound Medical Corp" />
+  <SYMBOL Code="PRO" Name="Pershimex Resources Corp." />
+  <SYMBOL Code="PROS" Name="Prosmart Enterprises Inc" />
+  <SYMBOL Code="PRS" Name="Prism Resources Inc" />
+  <SYMBOL Code="PRV.UN" Name="Pro Real Estate Investment Trust" />
+  <SYMBOL Code="PRZ" Name="Prize Mining Corp" />
+  <SYMBOL Code="PSH" Name="Petroshale Inc" />
+  <SYMBOL Code="PSL" Name="Prospero Silver Corp" />
+  <SYMBOL Code="PST" Name="Pistol Bay Mining Inc" />
+  <SYMBOL Code="PTE" Name="Pioneering Technology Corp" />
+  <SYMBOL Code="PTF" Name="Pender Growth Fund Inc" />
+  <SYMBOL Code="PTK" Name="Poet Technologies Inc" />
+  <SYMBOL Code="PTP" Name="Petrichor Energy Inc" />
+  <SYMBOL Code="PTU" Name="Purepoint Uranium Group Inc" />
+  <SYMBOL Code="PTV.H" Name="Petro Vista Energy Corp" />
+  <SYMBOL Code="PUC" Name="Pancontinental Gold Corp" />
+  <SYMBOL Code="PUL" Name="Pulse Oil Corp" />
+  <SYMBOL Code="PUL.WT" Name="Pulse Oil Corp Wts" />
+  <SYMBOL Code="PUMA" Name="Puma Exploration Inc" />
+  <SYMBOL Code="PVF.PR.U" Name="Partners Value Investments Series 1 Pref" />
+  <SYMBOL Code="PVF.UN" Name="Partners Value Investments  LP" />
+  <SYMBOL Code="PVF.WT" Name="Partners Value Investments Warrants" />
+  <SYMBOL Code="PWM" Name="Power Metals Corp" />
+  <SYMBOL Code="PX" Name="Pelangio Exploration Inc" />
+  <SYMBOL Code="PXI" Name="Planet Ventures Inc" />
+  <SYMBOL Code="PYR" Name="Pyrogenesis Canada Inc" />
+  <SYMBOL Code="QGR" Name="Q Gold Resources Ltd" />
+  <SYMBOL Code="QI" Name="Q Investments Ltd." />
+  <SYMBOL Code="QIC" Name="Quantum International Income Corp" />
+  <SYMBOL Code="QIS" Name="Quorum Information Technologies Inc" />
+  <SYMBOL Code="QIT" Name="Quinto Resources Inc" />
+  <SYMBOL Code="QMC" Name="Qmc Quantum Minerals Corp" />
+  <SYMBOL Code="QMX" Name="Qmx Gold Corp" />
+  <SYMBOL Code="QNC" Name="Quantum Numbers Corp" />
+  <SYMBOL Code="QPT" Name="Quest Pharmatech Inc" />
+  <SYMBOL Code="QQ" Name="Quizam Media Corp" />
+  <SYMBOL Code="QST" Name="Questor Technology Inc" />
+  <SYMBOL Code="QTA" Name="Quaterra Resources Inc" />
+  <SYMBOL Code="QYOU" Name="Qyou Media Inc" />
+  <SYMBOL Code="RAB" Name="Rambler Metals and Mining Plc" />
+  <SYMBOL Code="RAK" Name="Rackla Metals Inc" />
+  <SYMBOL Code="RAU.H" Name="Regency Gold Corp" />
+  <SYMBOL Code="RB.H" Name="Russell Breweries Inc" />
+  <SYMBOL Code="RBL.P" Name="Rebel Capital Inc." />
+  <SYMBOL Code="RBX" Name="Robex Resources Inc" />
+  <SYMBOL Code="RCG" Name="Resource Capital Gold Corp" />
+  <SYMBOL Code="RCK" Name="Rock Tech Lithium Inc" />
+  <SYMBOL Code="RCLF" Name="Rockcliff Metals Corporation" />
+  <SYMBOL Code="RCT" Name="Rochester Resources Ltd" />
+  <SYMBOL Code="RDS" Name="Radisson Mining Resources Inc" />
+  <SYMBOL Code="RDU" Name="Radius Gold Inc" />
+  <SYMBOL Code="REG" Name="Regulus Resources Inc" />
+  <SYMBOL Code="REKO" Name="Reko International Group Inc" />
+  <SYMBOL Code="REL" Name="Roughrider Exploration Limited" />
+  <SYMBOL Code="REN" Name="Renaissance Gold Inc" />
+  <SYMBOL Code="REW" Name="Rewardstream Solutions Inc" />
+  <SYMBOL Code="REX" Name="Orex Minerals Inc" />
+  <SYMBOL Code="REZ" Name="Redzone Resources Ltd" />
+  <SYMBOL Code="RFC" Name="Rifco Inc" />
+  <SYMBOL Code="RG" Name="Romios Gold Resources Inc" />
+  <SYMBOL Code="RGC" Name="Redstar Gold Corp" />
+  <SYMBOL Code="RGD" Name="Reunion Gold Corp" />
+  <SYMBOL Code="RGI" Name="Reco International Group Inc" />
+  <SYMBOL Code="RGM" Name="Remington Resources Inc." />
+  <SYMBOL Code="RGZ.H" Name="Randsburg International Gold Corp" />
+  <SYMBOL Code="RHA" Name="Annidis Corp" />
+  <SYMBOL Code="RHC" Name="Rhc Capital Corp" />
+  <SYMBOL Code="RHT" Name="Reliq Health Technologies Inc" />
+  <SYMBOL Code="RIN" Name="Resinco Capital Partners Inc" />
+  <SYMBOL Code="RIO" Name="Rio2 Limited" />
+  <SYMBOL Code="RJX.A" Name="Rjk Explorations Ltd Cl.A Sv" />
+  <SYMBOL Code="RK" Name="Rockhaven Resources Ltd" />
+  <SYMBOL Code="RKR" Name="Rokmaster Resources Corp" />
+  <SYMBOL Code="RLV" Name="Relevium Technologies Inc" />
+  <SYMBOL Code="RM" Name="Routemaster Capital Inc" />
+  <SYMBOL Code="RMD" Name="Richmond Minerals Inc" />
+  <SYMBOL Code="RMI" Name="Ridgestone Mining Inc" />
+  <SYMBOL Code="RMK" Name="Red Moon Resources Inc" />
+  <SYMBOL Code="RML" Name="Rusoro Mining Ltd" />
+  <SYMBOL Code="RMO" Name="Rainy Mountain Royalty Corp" />
+  <SYMBOL Code="RMO.WT" Name="Rainy Mountain Royalty Corp Wts" />
+  <SYMBOL Code="RNP" Name="Royalty North Partners Ltd" />
+  <SYMBOL Code="ROC.H" Name="Red Oak Mining Corp" />
+  <SYMBOL Code="ROCK" Name="Rockridge Resources Ltd." />
+  <SYMBOL Code="ROE" Name="Renaissance Oil Corp" />
+  <SYMBOL Code="ROE.WT" Name="Renaissance Oil Corp Wts" />
+  <SYMBOL Code="ROE.WT.A" Name="Renaissance Oil Corp Wts A" />
+  <SYMBOL Code="ROI" Name="Route1 Inc" />
+  <SYMBOL Code="ROS" Name="Roscan Minerals Corp" />
+  <SYMBOL Code="ROT" Name="Rotation Minerals Ltd" />
+  <SYMBOL Code="RP" Name="Replicel Life Sciences Inc" />
+  <SYMBOL Code="RPC" Name="Raise Production Inc" />
+  <SYMBOL Code="RPM" Name="Rye Patch Gold Corp" />
+  <SYMBOL Code="RPX" Name="Red Pine Exploration Inc" />
+  <SYMBOL Code="RRI" Name="Riverside Resources Inc" />
+  <SYMBOL Code="RRL" Name="Relentless Resources Ltd" />
+  <SYMBOL Code="RRM.H" Name="Ross River Minerals Inc" />
+  <SYMBOL Code="RRS" Name="Rogue Resources Inc" />
+  <SYMBOL Code="RSS" Name="Resaas Services Inc" />
+  <SYMBOL Code="RST" Name="Rosita Mining Corp" />
+  <SYMBOL Code="RSV" Name="Resolve Ventures Inc" />
+  <SYMBOL Code="RSY" Name="Rsi International Systems Inc" />
+  <SYMBOL Code="RTH" Name="Rathdowney Resources Ltd" />
+  <SYMBOL Code="RTI" Name="Radient Technologies Inc" />
+  <SYMBOL Code="RTM" Name="Rt Minerals Corp" />
+  <SYMBOL Code="RTN" Name="Return Energy Inc" />
+  <SYMBOL Code="RUF.DB.U" Name="Pure Multi Family REIT LP 6.5 Pct Dbs" />
+  <SYMBOL Code="RUF.U" Name="Pure Multi Family REIT LP" />
+  <SYMBOL Code="RUF.UN" Name="Pure Multi Family REIT LP CAD" />
+  <SYMBOL Code="RUG" Name="Rugby Mining Limited" />
+  <SYMBOL Code="RUM" Name="Rocky Mountain Liquor Inc" />
+  <SYMBOL Code="RUM.DB.A" Name="Rocky Mountain Liquor Inc 7.5 Pct Debs" />
+  <SYMBOL Code="RUN" Name="Running Fox Resource Corp" />
+  <SYMBOL Code="RUP" Name="Rupert Resources Ltd" />
+  <SYMBOL Code="RVG" Name="Revival Gold Inc" />
+  <SYMBOL Code="RVL" Name="Revelo Resources Corp" />
+  <SYMBOL Code="RVV" Name="Revive Therapeutics Ltd" />
+  <SYMBOL Code="RW" Name="Renoworks Software Inc" />
+  <SYMBOL Code="RWR" Name="Rockwealth Resources Corp" />
+  <SYMBOL Code="RX" Name="Biosyent Inc" />
+  <SYMBOL Code="RYO" Name="Rio Silver Inc" />
+  <SYMBOL Code="RYR" Name="Royal Road Minerals Limited" />
+  <SYMBOL Code="RYU" Name="Ryu Apparel Inc" />
+  <SYMBOL Code="RZE" Name="Razor Energy Corp" />
+  <SYMBOL Code="RZL" Name="Rizal Resources Corp" />
+  <SYMBOL Code="RZZ" Name="Abitibi Royalties Inc" />
+  <SYMBOL Code="SA" Name="Southern Arc Minerals Inc" />
+  <SYMBOL Code="SAC.P" Name="Savanna Capital Corp" />
+  <SYMBOL Code="SAE" Name="Sable Resources Ltd" />
+  <SYMBOL Code="SAH" Name="Sahara Energy Ltd" />
+  <SYMBOL Code="SAND.P" Name="Steamsand Capital Corp" />
+  <SYMBOL Code="SAT" Name="Asian Television Network Int Ltd" />
+  <SYMBOL Code="SAY" Name="Sparta Capital Ltd" />
+  <SYMBOL Code="SB" Name="Stratabound Minerals Corp" />
+  <SYMBOL Code="SBCC.P" Name="Spirit Banner Capital Corp" />
+  <SYMBOL Code="SBM" Name="Sirona Biochem Corp" />
+  <SYMBOL Code="SBS.H" Name="Sebastiani Ventures Corp" />
+  <SYMBOL Code="SBW" Name="Strongbow Exploration Inc" />
+  <SYMBOL Code="SC.H" Name="Serrano Resources Ltd" />
+  <SYMBOL Code="SCA" Name="Savary Gold Corp" />
+  <SYMBOL Code="SCR" Name="Thescore Inc" />
+  <SYMBOL Code="SCYB" Name="Scythian Biosciences Corp" />
+  <SYMBOL Code="SCZ" Name="Santacruz Silver Mining Ltd" />
+  <SYMBOL Code="SDC" Name="Solidusgold Inc" />
+  <SYMBOL Code="SDE" Name="Standard Exploration Ltd" />
+  <SYMBOL Code="SDR" Name="Stroud Resources Ltd" />
+  <SYMBOL Code="SDX" Name="Sdx Energy Inc" />
+  <SYMBOL Code="SDZ" Name="Security Devices International Inc" />
+  <SYMBOL Code="SEB" Name="Smart Employee Benefits Inc" />
+  <SYMBOL Code="SEI" Name="Sintana Energy Inc" />
+  <SYMBOL Code="SEK" Name="Secova Metals Corp" />
+  <SYMBOL Code="SFR" Name="Sandfire Resources America Inc." />
+  <SYMBOL Code="SFT" Name="Softrock Minerals Ltd" />
+  <SYMBOL Code="SFX" Name="Sphinx Resources Ltd" />
+  <SYMBOL Code="SGA" Name="Samco Gold Limited" />
+  <SYMBOL Code="SGC" Name="Solstice Gold Corp" />
+  <SYMBOL Code="SGE" Name="Strategem Capital Corp" />
+  <SYMBOL Code="SGI" Name="Superior Gold Inc" />
+  <SYMBOL Code="SGM" Name="Sutter Gold Mining Inc" />
+  <SYMBOL Code="SGMA" Name="Margaux Red Capital Inc." />
+  <SYMBOL Code="SGN" Name="Scorpio Gold Corp" />
+  <SYMBOL Code="SGU" Name="Signature Resources Ltd" />
+  <SYMBOL Code="SGW" Name="Shoal Games Ltd" />
+  <SYMBOL Code="SGX" Name="Sage Gold Inc" />
+  <SYMBOL Code="SGZ" Name="Sego Resources Inc" />
+  <SYMBOL Code="SHJ" Name="Shoshoni Gold Ltd" />
+  <SYMBOL Code="SHL" Name="Spruce Ridge Resources Ltd" />
+  <SYMBOL Code="SHM" Name="Synstream Energycorp" />
+  <SYMBOL Code="SIC" Name="Sokoman Iron Corp" />
+  <SYMBOL Code="SIE" Name="Sienna Resources Inc" />
+  <SYMBOL Code="SIL" Name="Silvercrest Metals Inc" />
+  <SYMBOL Code="SIL.WT" Name="Silvercrest Metals Inc Wts" />
+  <SYMBOL Code="SILV.H" Name="Caracara Silver Inc" />
+  <SYMBOL Code="SIM" Name="Siyata Mobile Inc" />
+  <SYMBOL Code="SIQ" Name="Siq Mountain Industries Inc." />
+  <SYMBOL Code="SIR" Name="Serengeti Resources Inc" />
+  <SYMBOL Code="SJL" Name="Saint Jean Carbon Inc" />
+  <SYMBOL Code="SJR.A" Name="Shaw Communications Inc" />
+  <SYMBOL Code="SKE" Name="Skeena Resources Limited" />
+  <SYMBOL Code="SKK" Name="Strikewell Energy Corp." />
+  <SYMBOL Code="SKP" Name="Strikepoint Gold Inc" />
+  <SYMBOL Code="SKY.P" Name="Skyscape Capital Inc" />
+  <SYMBOL Code="SLAU" Name="Sandy Lake Gold Inc" />
+  <SYMBOL Code="SLG" Name="Sterling Resources Ltd" />
+  <SYMBOL Code="SLK" Name="Silk Road Energy Inc" />
+  <SYMBOL Code="SLL" Name="Standard Lithium Ltd" />
+  <SYMBOL Code="SMB" Name="Simba Essel Energy Inc" />
+  <SYMBOL Code="SMD" Name="Strategic Metals Ltd" />
+  <SYMBOL Code="SME" Name="Sama Resources Inc Ressources Sama Inc" />
+  <SYMBOL Code="SMI" Name="Saturn Oil and Gas Inc" />
+  <SYMBOL Code="SMM" Name="Silver Mountain Mines Inc" />
+  <SYMBOL Code="SMN" Name="San Marco Resources Inc" />
+  <SYMBOL Code="SMO" Name="Sonoro Metals Corp" />
+  <SYMBOL Code="SMV.H" Name="Smc Ventures Inc" />
+  <SYMBOL Code="SMY" Name="Search Minerals Inc" />
+  <SYMBOL Code="SN" Name="Sennen Potash Corp" />
+  <SYMBOL Code="SNF" Name="Sunora Foods Inc" />
+  <SYMBOL Code="SNG" Name="Silver Range Resources Ltd" />
+  <SYMBOL Code="SNM" Name="Shamaran Petroleum Corp" />
+  <SYMBOL Code="SNR" Name="Senator Minerals Inc" />
+  <SYMBOL Code="SNS" Name="Select Sands Corp" />
+  <SYMBOL Code="SNV" Name="Sonoro Energy Ltd" />
+  <SYMBOL Code="SNX.H" Name="Sixonine Ventures Corp" />
+  <SYMBOL Code="SOC" Name="Sonora Gold &amp; Silver Corp" />
+  <SYMBOL Code="SOCK" Name="Smooth Rock Ventures Corp." />
+  <SYMBOL Code="SOG" Name="Strategic Oil and Gas Ltd" />
+  <SYMBOL Code="SOI" Name="Sirios Resources Inc" />
+  <SYMBOL Code="SOJ" Name="Sojourn Explorations Inc" />
+  <SYMBOL Code="SOLR" Name="Solar Alliance Energy Inc" />
+  <SYMBOL Code="SPA" Name="Spanish Mountain Gold Ltd" />
+  <SYMBOL Code="SPD" Name="Silver Predator Corp" />
+  <SYMBOL Code="SPF" Name="Silver Pursuit Resources Ltd" />
+  <SYMBOL Code="SPI" Name="Canadian Spirit Resources Inc" />
+  <SYMBOL Code="SPK" Name="Sunset Pacific Petroleum Ltd" />
+  <SYMBOL Code="SPN" Name="Snipp Interactive Inc" />
+  <SYMBOL Code="SPP" Name="Spot Coffee Canada Ltd" />
+  <SYMBOL Code="SPS.A" Name="Sportscene Group Inc" />
+  <SYMBOL Code="SPX" Name="Stellar Africagold Inc" />
+  <SYMBOL Code="SQD" Name="Sqi Diagnostics Inc" />
+  <SYMBOL Code="SQG" Name="Spackman Equities Group Inc" />
+  <SYMBOL Code="SRA" Name="Stria Lithium Inc" />
+  <SYMBOL Code="SRC" Name="Stakeholder Gold Corp" />
+  <SYMBOL Code="SRE" Name="Saville Resources Inc" />
+  <SYMBOL Code="SRG" Name="Srg Graphite Inc" />
+  <SYMBOL Code="SRI" Name="Sparton Resources Inc" />
+  <SYMBOL Code="SRJ" Name="Spearmint Resources Inc" />
+  <SYMBOL Code="SRL" Name="Salazar Resources Limited" />
+  <SYMBOL Code="SSA" Name="Spectra Inc" />
+  <SYMBOL Code="SSC" Name="Smartcool Systems Inc" />
+  <SYMBOL Code="SSE" Name="Silver Spruce Resources Inc" />
+  <SYMBOL Code="SSG" Name="Sigma Industries Inc" />
+  <SYMBOL Code="SSP" Name="Sandspring Resources Ltd" />
+  <SYMBOL Code="SSS" Name="Sunvest Minerals Corp" />
+  <SYMBOL Code="SSV" Name="Southern Silver Exploration Corp" />
+  <SYMBOL Code="STA" Name="Sanatana Resources Inc" />
+  <SYMBOL Code="STAR" Name="Five Star Diamonds Limited" />
+  <SYMBOL Code="STC" Name="Sangoma Technologies Corp" />
+  <SYMBOL Code="STE" Name="Starr Peak Exploration Ltd" />
+  <SYMBOL Code="STH" Name="Stelmine Canada Ltd" />
+  <SYMBOL Code="STI" Name="Strategic Resources Inc" />
+  <SYMBOL Code="STMP" Name="Stamper Oil &amp; Gas Corp." />
+  <SYMBOL Code="STR.H" Name="Santa Rosa Resources Corp" />
+  <SYMBOL Code="STUS.A" Name="Starlight US Multi Family No 5" />
+  <SYMBOL Code="STUS.U" Name="Starlight US Multi Family No 5 USD" />
+  <SYMBOL Code="SUI.H" Name="Superior Mining International Corp" />
+  <SYMBOL Code="SUNM" Name="Sun Metals Corp." />
+  <SYMBOL Code="SUP" Name="Northern Superior Resources Inc" />
+  <SYMBOL Code="SUR" Name="Surge Exploration Inc." />
+  <SYMBOL Code="SURG" Name="Surge Copper Corp." />
+  <SYMBOL Code="SUVA.A" Name="Starlight US Multi Family No 1" />
+  <SYMBOL Code="SUVA.U" Name="Starlight US Multi Family No 1 USD" />
+  <SYMBOL Code="SVA" Name="Sernova Corp" />
+  <SYMBOL Code="SVE" Name="Silver One Resources Inc" />
+  <SYMBOL Code="SVG" Name="Silver Grail Resources Ltd" />
+  <SYMBOL Code="SVI" Name="Storagevault Canada Inc" />
+  <SYMBOL Code="SVS" Name="Solarvest Bioenergy Inc" />
+  <SYMBOL Code="SWA" Name="Sarama Resources Ltd" />
+  <SYMBOL Code="SXE" Name="Strata X Energy Ltd" />
+  <SYMBOL Code="SXL" Name="Slam Exploration Inc" />
+  <SYMBOL Code="SY" Name="Symbility Solutions Inc" />
+  <SYMBOL Code="SYH" Name="Skyharbour Resources Ltd" />
+  <SYMBOL Code="SYZ" Name="Sylogist Ltd" />
+  <SYMBOL Code="SZM" Name="Scozinc Mining Ltd" />
+  <SYMBOL Code="TAC" Name="Tasca Resources Ltd" />
+  <SYMBOL Code="TAE.H" Name="Transamerican Energy Inc" />
+  <SYMBOL Code="TAJ" Name="Tajiri Resources Corp" />
+  <SYMBOL Code="TAN" Name="Tanager Energy Inc" />
+  <SYMBOL Code="TBP" Name="Tetra Bio Pharma Inc" />
+  <SYMBOL Code="TBR" Name="Timberline Resources Corp" />
+  <SYMBOL Code="TCA" Name="Timia Capital Corp" />
+  <SYMBOL Code="TCC" Name="Trenchant Capital Corp" />
+  <SYMBOL Code="TCC.DB" Name="Trenchant Capital Corp 9.0 Pct Debs" />
+  <SYMBOL Code="TCI" Name="Target Capital Inc." />
+  <SYMBOL Code="TCO" Name="Transatlantic Mining Corp" />
+  <SYMBOL Code="TEG.H" Name="Troy Energy Corp" />
+  <SYMBOL Code="TEK" Name="Tekmodo Industries Inc" />
+  <SYMBOL Code="TEM" Name="Tembo Gold Corp" />
+  <SYMBOL Code="TEN" Name="Terraco Gold Corp" />
+  <SYMBOL Code="TES" Name="Tesoro Minerals Corp" />
+  <SYMBOL Code="TETH" Name="Tethyan Resources Plc" />
+  <SYMBOL Code="TG" Name="Trifecta Gold Ltd" />
+  <SYMBOL Code="TGH" Name="Tornado Global Hydrovacs Ltd" />
+  <SYMBOL Code="TGV" Name="Tango Mining Limited" />
+  <SYMBOL Code="TGX" Name="True North GEMS Inc" />
+  <SYMBOL Code="THCX" Name="The Hydropothecary Corp" />
+  <SYMBOL Code="THCX.WT" Name="The Hydropothecary Corp Wts" />
+  <SYMBOL Code="THH" Name="Theia Resources Ltd" />
+  <SYMBOL Code="THM" Name="Thunder Mountain Gold Inc" />
+  <SYMBOL Code="THP" Name="Totally Hip Technologies Inc" />
+  <SYMBOL Code="THRM" Name="Therma Bright Inc." />
+  <SYMBOL Code="THX" Name="Thor Explorations Ltd" />
+  <SYMBOL Code="TIC" Name="Titanium Corporation Inc" />
+  <SYMBOL Code="TIG" Name="Triumph Gold Corp" />
+  <SYMBOL Code="TII" Name="Terra Firma Capital Corp" />
+  <SYMBOL Code="TIL" Name="Till Capital Ltd" />
+  <SYMBOL Code="TIM" Name="Toachi Mining Inc" />
+  <SYMBOL Code="TIN" Name="Eurotin Inc" />
+  <SYMBOL Code="TIP.H" Name="Tyner Resources Ltd" />
+  <SYMBOL Code="TK" Name="Tinka Resources Ltd" />
+  <SYMBOL Code="TKU" Name="Tarku Resources Ltd" />
+  <SYMBOL Code="TKX" Name="Trackx Holdings Inc" />
+  <SYMBOL Code="TLA" Name="Titan Logix Corp" />
+  <SYMBOL Code="TLD.H" Name="Triangle Industries Ltd" />
+  <SYMBOL Code="TLG" Name="Troilus Gold Corp" />
+  <SYMBOL Code="TLK" Name="Frankly Inc" />
+  <SYMBOL Code="TLL.H" Name="Tilting Capital Corp" />
+  <SYMBOL Code="TLT" Name="Theralase Technologies Inc" />
+  <SYMBOL Code="TM" Name="Trigon Metals Inc" />
+  <SYMBOL Code="TMG" Name="Thermal Energy International Inc" />
+  <SYMBOL Code="TMS" Name="Targeted Microwave Solutions Inc" />
+  <SYMBOL Code="TNA" Name="Evergreen Gaming Corp" />
+  <SYMBOL Code="TNO.H" Name="Terreno Resources Corp" />
+  <SYMBOL Code="TNR" Name="Tnr Gold Corp" />
+  <SYMBOL Code="TOE" Name="Tri Origin Exploration Ltd" />
+  <SYMBOL Code="TOM" Name="Tolima Gold Inc" />
+  <SYMBOL Code="TORQ" Name="Torq Resources Inc" />
+  <SYMBOL Code="TORR" Name="Torrent Capital Ltd" />
+  <SYMBOL Code="TPL.H" Name="Tethys Petroleum Ltd" />
+  <SYMBOL Code="TRA" Name="Teras Resources Inc" />
+  <SYMBOL Code="TRAK" Name="Trakopolis Iot Corp" />
+  <SYMBOL Code="TRB" Name="Tribute Resources Inc" />
+  <SYMBOL Code="TRM" Name="Trueclaim Exploration Inc" />
+  <SYMBOL Code="TRO" Name="Taranis Resources Inc" />
+  <SYMBOL Code="TRS" Name="Tres-Or Resources Ltd" />
+  <SYMBOL Code="TRU" Name="Trius Investments Inc" />
+  <SYMBOL Code="TSD" Name="Tsodilo Resources Ltd" />
+  <SYMBOL Code="TSG" Name="Tristar Gold Inc" />
+  <SYMBOL Code="TSN" Name="Telson Mining Corp." />
+  <SYMBOL Code="TSP" Name="Titan Star Properties Inc" />
+  <SYMBOL Code="TTD" Name="Tinkerine Studios Ltd" />
+  <SYMBOL Code="TTM" Name="3Tl Technologies Corp" />
+  <SYMBOL Code="TTR" Name="Titanium Transportation Group Inc" />
+  <SYMBOL Code="TTS" Name="Tintina Mines Ltd" />
+  <SYMBOL Code="TTZ" Name="Total Telcom Inc" />
+  <SYMBOL Code="TUD" Name="Tudor Gold Corp" />
+  <SYMBOL Code="TUF" Name="Honey Badger Exploration Inc" />
+  <SYMBOL Code="TUO" Name="Teuton Resources Corp" />
+  <SYMBOL Code="TVI" Name="Tvi Pacific Inc" />
+  <SYMBOL Code="TVL" Name="Traverse Energy Ltd" />
+  <SYMBOL Code="TWR" Name="Tower Resources Ltd" />
+  <SYMBOL Code="TWY" Name="Twyford Ventures Inc" />
+  <SYMBOL Code="TXR" Name="Terrax Minerals Inc" />
+  <SYMBOL Code="TYE" Name="Troymet Exploration Corp" />
+  <SYMBOL Code="TYP" Name="Typhoon Exploration Inc" />
+  <SYMBOL Code="TZM.H" Name="Tanzania Minerals Corp" />
+  <SYMBOL Code="TZR" Name="Terrace Energy Corp" />
+  <SYMBOL Code="TZR.DB" Name="Terrace Energy Corp Debs" />
+  <SYMBOL Code="UCM.H" Name="Upper Canyon Minerals Corp" />
+  <SYMBOL Code="UCU" Name="Ucore Rare Metals Inc" />
+  <SYMBOL Code="UFC" Name="Urbanfund Corp" />
+  <SYMBOL Code="UGD" Name="Unigold Inc" />
+  <SYMBOL Code="UGE" Name="Uge International Ltd" />
+  <SYMBOL Code="UHO" Name="United Hunter Oil and Gas Corp" />
+  <SYMBOL Code="UI" Name="Urbanimmersive Inc" />
+  <SYMBOL Code="ULI" Name="Ultra Lithium Inc" />
+  <SYMBOL Code="UNI" Name="Unisync Corp Class B" />
+  <SYMBOL Code="UNO" Name="Northern Uranium Corp" />
+  <SYMBOL Code="URC" Name="Uracan Resources Ltd" />
+  <SYMBOL Code="URZ" Name="Urz Energy Corp" />
+  <SYMBOL Code="USCO" Name="US Cobalt Inc" />
+  <SYMBOL Code="USS" Name="Uniserve Communications Corp" />
+  <SYMBOL Code="UTY" Name="Unity Energy Corp" />
+  <SYMBOL Code="UVN" Name="Uravan Minerals Inc" />
+  <SYMBOL Code="VAL" Name="Valgold Resources Ltd" />
+  <SYMBOL Code="VAN" Name="Vangold Mining Corp" />
+  <SYMBOL Code="VANC" Name="Vanc Pharmaceuticals Inc" />
+  <SYMBOL Code="VAU" Name="Viva Gold Corp." />
+  <SYMBOL Code="VAX" Name="Vantex Resources Ltd" />
+  <SYMBOL Code="VCI" Name="Vitreous Glass Inc" />
+  <SYMBOL Code="VCV" Name="Vatic Ventures Corp" />
+  <SYMBOL Code="VDO" Name="Nevado Resources Corp" />
+  <SYMBOL Code="VEIN" Name="Enforcer Gold Corp" />
+  <SYMBOL Code="VENZ" Name="Venzee Technologies Inc." />
+  <SYMBOL Code="VERT.H" Name="Vertical Exploration Inc" />
+  <SYMBOL Code="VG" Name="Volcanic Gold Mines Inc" />
+  <SYMBOL Code="VGD" Name="Visible Gold Mines Inc" />
+  <SYMBOL Code="VGL" Name="Vigil Health Solutions Inc" />
+  <SYMBOL Code="VGM" Name="Global Gardens Group Inc" />
+  <SYMBOL Code="VGN" Name="Greencastle Res Ltd" />
+  <SYMBOL Code="VHI" Name="Vitalhub Corp" />
+  <SYMBOL Code="VIC.P" Name="Victory Capital Corp" />
+  <SYMBOL Code="VIO" Name="Societe D Exploration Miniere Vior Inc" />
+  <SYMBOL Code="VIPR" Name="Silver Viper Minerals Corp" />
+  <SYMBOL Code="VIR" Name="Viridium Pacific Group Ltd" />
+  <SYMBOL Code="VIS" Name="Visionstate Corp" />
+  <SYMBOL Code="VIT" Name="Victoria Gold Corp" />
+  <SYMBOL Code="VIV" Name="Avivagen Inc" />
+  <SYMBOL Code="VLC" Name="Velocity Minerals Ltd" />
+  <SYMBOL Code="VLI" Name="Vision Lithium Inc." />
+  <SYMBOL Code="VLI.WT" Name="Vision Lithium Inc Wts" />
+  <SYMBOL Code="VLT" Name="Voltaic Minerals Corp" />
+  <SYMBOL Code="VLU.P" Name="Value Capital Trust" />
+  <SYMBOL Code="VLV" Name="Venerable Ventures Ltd" />
+  <SYMBOL Code="VM" Name="Voyageur Minerals Ltd" />
+  <SYMBOL Code="VMD" Name="Viemed Healthcare Inc" />
+  <SYMBOL Code="VML" Name="Viscount Mining Corp" />
+  <SYMBOL Code="VMY.H" Name="Voice Mobility International Inc" />
+  <SYMBOL Code="VOLT" Name="Volt Energy Corp" />
+  <SYMBOL Code="VON.P" Name="Von Capital Corp" />
+  <SYMBOL Code="VONE" Name="Vanadium One Energy Corp" />
+  <SYMBOL Code="VPI" Name="Vitality Products Inc" />
+  <SYMBOL Code="VPT" Name="Ventripoint Diagnostics Ltd" />
+  <SYMBOL Code="VPY" Name="Versapay Corp" />
+  <SYMBOL Code="VQA" Name="Valterra Resource Corp" />
+  <SYMBOL Code="VQS" Name="Viq Solutions Inc" />
+  <SYMBOL Code="VR" Name="Victory Resources Corp" />
+  <SYMBOL Code="VRB" Name="Vanadiumcorp Resource Inc" />
+  <SYMBOL Code="VRR" Name="Vr Resources Ltd" />
+  <SYMBOL Code="VRS" Name="Verisante Technology Inc" />
+  <SYMBOL Code="VRY" Name="Petro Victory Energy Corp" />
+  <SYMBOL Code="VSR" Name="Vanstar Mining Resources Inc" />
+  <SYMBOL Code="VTI" Name="Valdor Technology International Inc" />
+  <SYMBOL Code="VTT" Name="Vendetta Mining Corp" />
+  <SYMBOL Code="VTX" Name="Vertex Resource Group Ltd." />
+  <SYMBOL Code="VUI" Name="Virginia Energy Resources Inc" />
+  <SYMBOL Code="VUL" Name="Vulcan Minerals Inc" />
+  <SYMBOL Code="VUX" Name="Vital Energy Inc" />
+  <SYMBOL Code="VVC" Name="Vvc Exploration Corp" />
+  <SYMBOL Code="VXL" Name="Vaxil Bio Ltd" />
+  <SYMBOL Code="VYC" Name="Vanity Capital Inc" />
+  <SYMBOL Code="WAF" Name="West African Resources Ltd" />
+  <SYMBOL Code="WAR" Name="War Eagle Mining Company Inc" />
+  <SYMBOL Code="WATR" Name="Current Water Technologies Inc." />
+  <SYMBOL Code="WAV" Name="Pepcap Resources Inc" />
+  <SYMBOL Code="WAV.H" Name="Pecap Resources Inc" />
+  <SYMBOL Code="WAVE" Name="Waverly Pharma Inc." />
+  <SYMBOL Code="WBE" Name="Westbond Enterprises Corp" />
+  <SYMBOL Code="WCC" Name="Consolidated Woodjam Copper Corp" />
+  <SYMBOL Code="WCE" Name="Wescan Energy Corp" />
+  <SYMBOL Code="WDG" Name="Giyani Metals Corp" />
+  <SYMBOL Code="WEB" Name="Westbridge Energy Corp" />
+  <SYMBOL Code="WED" Name="The Westaim Corp" />
+  <SYMBOL Code="WEE" Name="Wavefront Technology Solutions Inc" />
+  <SYMBOL Code="WELL" Name="Wellness Lifestyles Inc" />
+  <SYMBOL Code="WET.H" Name="Westcot Ventures Corp" />
+  <SYMBOL Code="WGF" Name="Wescan Goldfields Inc" />
+  <SYMBOL Code="WGO" Name="White Gold Corp" />
+  <SYMBOL Code="WHM" Name="White Metal Resources Corp" />
+  <SYMBOL Code="WHN" Name="Westhaven Ventures Inc" />
+  <SYMBOL Code="WHY" Name="West High Yield Resources Ltd" />
+  <SYMBOL Code="WI" Name="The Western Investment Co of Cda Ltd" />
+  <SYMBOL Code="WIL" Name="Wilton Resources Inc" />
+  <SYMBOL Code="WKG" Name="Westkam Gold Corp" />
+  <SYMBOL Code="WKM" Name="West Kirkland Mining Inc" />
+  <SYMBOL Code="WKM.WT" Name="West Kirkland Mining Inc Wts" />
+  <SYMBOL Code="WLF" Name="Wolfden Resources Corp" />
+  <SYMBOL Code="WMD" Name="Weedmd Inc" />
+  <SYMBOL Code="WMK.H" Name="Whitemud Resources Inc" />
+  <SYMBOL Code="WML" Name="Wealth Minerals Ltd" />
+  <SYMBOL Code="WMR" Name="Westminster Resources Ltd" />
+  <SYMBOL Code="WNDR" Name="The Wonderfilm Media Corporation" />
+  <SYMBOL Code="WOW.A" Name="Wow Unlimited Media Inc Cls A" />
+  <SYMBOL Code="WP" Name="Western Pacific Trust Company" />
+  <SYMBOL Code="WPQ" Name="Wpc Resources Inc" />
+  <SYMBOL Code="WR.H" Name="Worldwide Resources Corp" />
+  <SYMBOL Code="WRI" Name="Waseco Resources Inc" />
+  <SYMBOL Code="WRP" Name="Western Pacific Resources Corp" />
+  <SYMBOL Code="WRR" Name="Walker River Resources Corp" />
+  <SYMBOL Code="WRY" Name="Western Troy Cap Res Inc" />
+  <SYMBOL Code="WT.H" Name="Wangton Capital Corp" />
+  <SYMBOL Code="WTER" Name="The Alkaline Water Co Inc" />
+  <SYMBOL Code="WTR" Name="Westcore Energy Ltd" />
+  <SYMBOL Code="XAG" Name="Xtierra Inc" />
+  <SYMBOL Code="XBC" Name="Xebec Adsorption Inc" />
+  <SYMBOL Code="XCX" Name="Chinook Tyee Industry Limited" />
+  <SYMBOL Code="XIA" Name="Xiana Mining Inc" />
+  <SYMBOL Code="XIM" Name="Ximen Mining Corp" />
+  <SYMBOL Code="XL" Name="Xxl Energy Corp." />
+  <SYMBOL Code="XND" Name="Xander Resources Inc" />
+  <SYMBOL Code="XOP" Name="Canadian Overseas Petroleum Limited" />
+  <SYMBOL Code="XR" Name="Red Eagle Exploration Limited" />
+  <SYMBOL Code="XTM" Name="Transition Metals Corp" />
+  <SYMBOL Code="XTT" Name="X Terra Resources Inc" />
+  <SYMBOL Code="XX" Name="Avante Logixx Inc" />
+  <SYMBOL Code="YAK" Name="Mongolia Growth Group Ltd" />
+  <SYMBOL Code="YD" Name="Ydreams Global Interactive Tech Inc" />
+  <SYMBOL Code="YES" Name="Char Technologies Ltd" />
+  <SYMBOL Code="YFI" Name="Edgewater Wireless Systems Inc" />
+  <SYMBOL Code="YMI" Name="Yellowhead Mining Inc" />
+  <SYMBOL Code="YNV" Name="Ynvisible Interactive Inc" />
+  <SYMBOL Code="YOO" Name="Yangaroo Inc" />
+  <SYMBOL Code="YSC.H" Name="Yongsheng Capital Inc" />
+  <SYMBOL Code="YTY" Name="Wi2Wi Corp" />
+  <SYMBOL Code="Z" Name="Zinc One Resources Inc" />
+  <SYMBOL Code="ZAD" Name="Zadar Ventures Ltd" />
+  <SYMBOL Code="ZC" Name="Zimtu Capital Corp" />
+  <SYMBOL Code="ZCC.H" Name="Zena Mining Corp" />
+  <SYMBOL Code="ZDC" Name="Zedcor Energy Inc" />
+  <SYMBOL Code="ZEE" Name="Zenith Energy Ltd" />
+  <SYMBOL Code="ZEN" Name="Zenyatta Ventures Ltd" />
+  <SYMBOL Code="ZFR" Name="Zephyr Minerals Ltd" />
+  <SYMBOL Code="ZKL" Name="China Keli Electric Company Ltd" />
+  <SYMBOL Code="ZMA" Name="Zoomaway Travel Inc" />
+  <SYMBOL Code="ZMD" Name="Zoommed Inc" />
+  <SYMBOL Code="ZMS" Name="Zecotek Photonics Inc" />
+  <SYMBOL Code="ZNC.H" Name="Zincore Metals Inc" />
+  <SYMBOL Code="ZNG" Name="Group Eleven Resources Corp" />
+  <SYMBOL Code="ZNX" Name="Zincx Resources Corp." />
+  <SYMBOL Code="ZOM" Name="Zomedica Pharmaceuticals Corp" />
+  <SYMBOL Code="ZON" Name="Zonte Metals Inc" />
+  <SYMBOL Code="ZUM" Name="Zoomermedia Limited" />
+</ArrayOfSYMBOL>

@@ -1,0 +1,1968 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSYMBOL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SYMBOL Code="00001" Name="Cheung Kong (Holdings) Ltd" />
+  <SYMBOL Code="00002" Name="CLP Holdings Ltd" />
+  <SYMBOL Code="00003" Name="Hong Kong and China Gas Co. Ltd" />
+  <SYMBOL Code="00004" Name="Wharf (Holdings) Ltd" />
+  <SYMBOL Code="00005" Name="HSBC Holdings plc" />
+  <SYMBOL Code="00006" Name="Power Asset Holdings" />
+  <SYMBOL Code="00007" Name="Hoifu Energy" />
+  <SYMBOL Code="00008" Name="PCCW Ltd" />
+  <SYMBOL Code="00009" Name="Mandarin Entertainment (Holdings) Ltd" />
+  <SYMBOL Code="00010" Name="Hang Lung Group Ltd" />
+  <SYMBOL Code="00011" Name="Hang Seng Bank Ltd" />
+  <SYMBOL Code="00012" Name="Henderson Land Development Co. Ltd" />
+  <SYMBOL Code="00014" Name="Hysan Development Co. Ltd" />
+  <SYMBOL Code="00015" Name="Vantage International (Holdings) Ltd" />
+  <SYMBOL Code="00016" Name="Sun Hung Kai Properties Ltd" />
+  <SYMBOL Code="00017" Name="New World Development Co. Ltd" />
+  <SYMBOL Code="00018" Name="Oriental Press Group Ltd" />
+  <SYMBOL Code="00019" Name="Swire Pacific Ltd 'A'" />
+  <SYMBOL Code="00020" Name="Wheelock and Co. Ltd" />
+  <SYMBOL Code="00021" Name="Beauforte Investors Corporation Ltd" />
+  <SYMBOL Code="00022" Name="Mexan Ltd" />
+  <SYMBOL Code="00023" Name="Bank of East Asia Ltd" />
+  <SYMBOL Code="00024" Name="Burwill Holdings Ltd" />
+  <SYMBOL Code="00025" Name="Chevalier International Holdings Ltd" />
+  <SYMBOL Code="00026" Name="China Motor Bus Co. Ltd" />
+  <SYMBOL Code="00027" Name="Galaxy Entertainment Group Ltd" />
+  <SYMBOL Code="00028" Name="Tian An China Investments Co. Ltd" />
+  <SYMBOL Code="00029" Name="Dynamic Holdings Ltd" />
+  <SYMBOL Code="00030" Name="ABC Communications Ltd" />
+  <SYMBOL Code="00031" Name="China Aerospace International Holdings Ltd" />
+  <SYMBOL Code="00032" Name="Cross-Harbour (Holdings) Ltd" />
+  <SYMBOL Code="00033" Name="Elec &amp; Eltek International Holdings Ltd" />
+  <SYMBOL Code="00034" Name="Kowloon Development Co. Ltd" />
+  <SYMBOL Code="00035" Name="Far East Consortium International Ltd" />
+  <SYMBOL Code="00036" Name="Far East Technology International Ltd" />
+  <SYMBOL Code="00037" Name="Far East Hotels &amp; Entertainment Ltd" />
+  <SYMBOL Code="00038" Name="First Tractor Co Ltd" />
+  <SYMBOL Code="00039" Name="Wealthmark International (Holdings) Ltd" />
+  <SYMBOL Code="00040" Name="Gold Peak Industries (Holdings) Ltd" />
+  <SYMBOL Code="00041" Name="Great Eagle Holdings Ltd" />
+  <SYMBOL Code="00042" Name="Northeast Electric Development Co. Ltd" />
+  <SYMBOL Code="00043" Name="C. P. Pokphand Co. Ltd" />
+  <SYMBOL Code="00044" Name="HAECO" />
+  <SYMBOL Code="00045" Name="Hongkong and Shanghai Hotels Ltd" />
+  <SYMBOL Code="00046" Name="Computer And Technologies Holdings Ltd" />
+  <SYMBOL Code="00047" Name="Hop Hing Holdings Ltd" />
+  <SYMBOL Code="00048" Name="C Auto Int Deco" />
+  <SYMBOL Code="00050" Name="Hong Kong Ferry (Holdings) Co. Ltd" />
+  <SYMBOL Code="00051" Name="Harbour Centre Development Ltd" />
+  <SYMBOL Code="00052" Name="Fairwood Holdings Ltd" />
+  <SYMBOL Code="00053" Name="Guoco Group Ltd" />
+  <SYMBOL Code="00054" Name="Hopewell Holdings Ltd" />
+  <SYMBOL Code="00055" Name="Chung Tai Printing Holdings Ltd" />
+  <SYMBOL Code="00056" Name="Allied Properties (HK) Ltd" />
+  <SYMBOL Code="00057" Name="Chen Hsong Holdings Ltd" />
+  <SYMBOL Code="00058" Name="Sunway International Holdings Ltd" />
+  <SYMBOL Code="00059" Name="Skyfame Realty (Holdings) Ltd" />
+  <SYMBOL Code="00060" Name="Four Seas Food Investment Holdings Ltd" />
+  <SYMBOL Code="00061" Name="Venture International Investment Holdings Ltd" />
+  <SYMBOL Code="00062" Name="Transport International Holdings Ltd" />
+  <SYMBOL Code="00063" Name="Winfoong International Ltd" />
+  <SYMBOL Code="00064" Name="Get Nice Holdings Ltd" />
+  <SYMBOL Code="00065" Name="Pacific Century Insurance Holdings Ltd" />
+  <SYMBOL Code="00066" Name="MTR Corporation Ltd" />
+  <SYMBOL Code="00067" Name="Lumena Resources" />
+  <SYMBOL Code="00068" Name="Lee Hing Development Ltd" />
+  <SYMBOL Code="00069" Name="Shangri-La Asia Ltd" />
+  <SYMBOL Code="00070" Name="Massive Resources International Corporation Ltd" />
+  <SYMBOL Code="00071" Name="Miramar Hotel &amp; Investment Co. Ltd" />
+  <SYMBOL Code="00072" Name="King Pacific International Holdings Ltd" />
+  <SYMBOL Code="00073" Name="Alpha General (holdings)" />
+  <SYMBOL Code="00075" Name="Y. T. Realty Group Ltd" />
+  <SYMBOL Code="00076" Name="South Sea Petroleum Holdings Ltd" />
+  <SYMBOL Code="00077" Name="AMS Public Transport Holdings Ltd" />
+  <SYMBOL Code="00078" Name="Regal Hotels International Holdings Ltd" />
+  <SYMBOL Code="00079" Name="Century Legend (Holdings) Ltd" />
+  <SYMBOL Code="00080" Name="Shaw Brothers (Hong Kong) Ltd" />
+  <SYMBOL Code="00081" Name="Shell Electric Mfg (Holdings) Co. Ltd" />
+  <SYMBOL Code="00082" Name="Yanion International Holdings Ltd" />
+  <SYMBOL Code="00083" Name="Sino Land Co. Ltd" />
+  <SYMBOL Code="00084" Name="Stelux Holdings International Ltd" />
+  <SYMBOL Code="00085" Name="China Electronics Corporation Holdings Co. Ltd" />
+  <SYMBOL Code="00086" Name="Sun Hung Kai &amp; Co. Ltd" />
+  <SYMBOL Code="00087" Name="Swire Pacific Ltd 'B'" />
+  <SYMBOL Code="00088" Name="Tai Cheung Holdings Ltd" />
+  <SYMBOL Code="00089" Name="Tai Sang Land Development Ltd" />
+  <SYMBOL Code="00090" Name="Gold Wo International Holdings" />
+  <SYMBOL Code="00091" Name="New Smart Holdings Ltd" />
+  <SYMBOL Code="00092" Name="Champion Technology Holdings Ltd" />
+  <SYMBOL Code="00093" Name="Termbray Industries International (Holdings) Ltd" />
+  <SYMBOL Code="00094" Name="Greenheart Group Limited" />
+  <SYMBOL Code="00095" Name="New Heritage Holdings Ltd" />
+  <SYMBOL Code="00096" Name="Wing Lung Bank Ltd" />
+  <SYMBOL Code="00097" Name="Henderson Investment Ltd" />
+  <SYMBOL Code="00098" Name="Xingfa Aluminium Holdings Ltd" />
+  <SYMBOL Code="00099" Name="Wong's International (Holdings) Ltd" />
+  <SYMBOL Code="00100" Name="Clear Media Ltd" />
+  <SYMBOL Code="00101" Name="Hang Lung Properties Ltd" />
+  <SYMBOL Code="00102" Name="Arnhold Holdings Ltd" />
+  <SYMBOL Code="00103" Name="Shougang Concord Century Holdings Ltd" />
+  <SYMBOL Code="00104" Name="Asia Commercial Holdings Ltd" />
+  <SYMBOL Code="00105" Name="Associated International Hotels Ltd" />
+  <SYMBOL Code="00106" Name="Shenzhen High-Tech Holdings Ltd" />
+  <SYMBOL Code="00107" Name="Sichuan Expressway Co. Ltd" />
+  <SYMBOL Code="00108" Name="Buildmore International Ltd" />
+  <SYMBOL Code="00109" Name="Wonderful World Holdings Ltd" />
+  <SYMBOL Code="00110" Name="Fortune Telecom Holdings Ltd" />
+  <SYMBOL Code="00111" Name="Hantec Investment Holdings Ltd" />
+  <SYMBOL Code="00112" Name="Chi Cheung Investment Co. Ltd" />
+  <SYMBOL Code="00113" Name="Dickson Concepts (International) Ltd" />
+  <SYMBOL Code="00114" Name="Herald Holdings Ltd" />
+  <SYMBOL Code="00115" Name="Grand Field Group Holdings Ltd" />
+  <SYMBOL Code="00116" Name="Chow Sang Sang Holdings International Ltd" />
+  <SYMBOL Code="00117" Name="Eyang Holdings Group" />
+  <SYMBOL Code="00118" Name="Cosmos Machinery Enterprises Ltd" />
+  <SYMBOL Code="00119" Name="Poly (Hong Kong) Investments Ltd" />
+  <SYMBOL Code="00120" Name="Cosmopolitan International Holdings Ltd" />
+  <SYMBOL Code="00121" Name="Chia Tai Enterprises International Ltd" />
+  <SYMBOL Code="00122" Name="Crocodile Garments Ltd" />
+  <SYMBOL Code="00123" Name="Yuexiu Property" />
+  <SYMBOL Code="00124" Name="Kingway Brewery Holdings Ltd" />
+  <SYMBOL Code="00125" Name="Sun Hing Vision Group Holdings Ltd" />
+  <SYMBOL Code="00126" Name="Tak Sing Alliance Holdings Ltd" />
+  <SYMBOL Code="00127" Name="Chinese Estates Holdings Ltd" />
+  <SYMBOL Code="00128" Name="ENM Holdings Ltd" />
+  <SYMBOL Code="00129" Name="Asia Standard International Group Ltd" />
+  <SYMBOL Code="00130" Name="Moiselle International Holdings Ltd" />
+  <SYMBOL Code="00131" Name="Cheuk Nang (Holdings) Ltd" />
+  <SYMBOL Code="00132" Name="China Investments Holdings Ltd" />
+  <SYMBOL Code="00133" Name="China Merchants China Direct Investments Ltd" />
+  <SYMBOL Code="00135" Name="Kunlun Energy" />
+  <SYMBOL Code="00136" Name="Mascotte Holdings Ltd" />
+  <SYMBOL Code="00137" Name="Jinhui Holdings Co. Ltd" />
+  <SYMBOL Code="00138" Name="CCT Telecom Holdings Ltd" />
+  <SYMBOL Code="00139" Name="139 Holdings Ltd" />
+  <SYMBOL Code="00141" Name="Great China Holdings Ltd" />
+  <SYMBOL Code="00142" Name="First Pacific Co. Ltd" />
+  <SYMBOL Code="00143" Name="Global Tech (Holdings) Ltd" />
+  <SYMBOL Code="00144" Name="China Merchants Holdings (International) Co. Ltd" />
+  <SYMBOL Code="00145" Name="Hong Kong Building and Loan Agency Ltd" />
+  <SYMBOL Code="00146" Name="Tai Ping Carpets International Ltd" />
+  <SYMBOL Code="00147" Name="Graneagle Holdings Ltd" />
+  <SYMBOL Code="00148" Name="Kingboard Chemical Holdings Ltd" />
+  <SYMBOL Code="00149" Name="China Velocity Group Ltd" />
+  <SYMBOL Code="00151" Name="Want Want China Holdings Ltd" />
+  <SYMBOL Code="00152" Name="Shenzhen International Holdings Ltd" />
+  <SYMBOL Code="00153" Name="QPL International Holdings Ltd Warrants 2007" />
+  <SYMBOL Code="00154" Name="Beijing Development (Hong Kong) Ltd" />
+  <SYMBOL Code="00155" Name="China Solar Energy Holdings Ltd" />
+  <SYMBOL Code="00156" Name="Lippo China Resources Ltd" />
+  <SYMBOL Code="00157" Name="Natural Beauty Bio-Technology Ltd" />
+  <SYMBOL Code="00158" Name="Melbourne Enterprises Ltd" />
+  <SYMBOL Code="00159" Name="Wah Nam International Holdings Ltd" />
+  <SYMBOL Code="00160" Name="Hon Kwok Land Investment Co. Ltd" />
+  <SYMBOL Code="00161" Name="CATIC Shenzhen Holdings Ltd" />
+  <SYMBOL Code="00162" Name="China Golden Development Holdings Ltd" />
+  <SYMBOL Code="00163" Name="Emperor International Holdings Ltd" />
+  <SYMBOL Code="00164" Name="Premium Land Ltd" />
+  <SYMBOL Code="00165" Name="China Everbright Ltd" />
+  <SYMBOL Code="00166" Name="New Times Group Holdings Ltd" />
+  <SYMBOL Code="00167" Name="IDT International Ltd" />
+  <SYMBOL Code="00168" Name="Tsingtao Brewery Co. Ltd" />
+  <SYMBOL Code="00169" Name="China Fair Land Holdings Ltd" />
+  <SYMBOL Code="00171" Name="Silver Grant International Industries Ltd" />
+  <SYMBOL Code="00172" Name="Goldbond Group Holdings Ltd" />
+  <SYMBOL Code="00173" Name="K. Wah International Holdings Ltd" />
+  <SYMBOL Code="00174" Name="Kee Shing (Holdings) Ltd" />
+  <SYMBOL Code="00175" Name="Geely Automobile Holdings Ltd" />
+  <SYMBOL Code="00176" Name="United Pacific Industries Ltd" />
+  <SYMBOL Code="00177" Name="Jiangsu Expressway Co. Ltd" />
+  <SYMBOL Code="00178" Name="Sa Sa International Holdings Ltd" />
+  <SYMBOL Code="00179" Name="Johnson Electric Holdings Ltd" />
+  <SYMBOL Code="00180" Name="Kader Holdings Co. Ltd" />
+  <SYMBOL Code="00181" Name="Fujian Holdings Ltd" />
+  <SYMBOL Code="00182" Name="China WindPower Group Ltd" />
+  <SYMBOL Code="00183" Name="CITIC International Financial Holdings Ltd" />
+  <SYMBOL Code="00184" Name="Keck Seng Investments (Hong Kong) Ltd" />
+  <SYMBOL Code="00185" Name="China Credit Holdings Ltd" />
+  <SYMBOL Code="00186" Name="Grande Holdings Ltd" />
+  <SYMBOL Code="00187" Name="Beiren Printing Machinery Holdings Ltd" />
+  <SYMBOL Code="00188" Name="SW Kingsway Capital Holdings Ltd" />
+  <SYMBOL Code="00189" Name="Dongyue Group Ltd" />
+  <SYMBOL Code="00190" Name="Hong Kong Construction (Holdings) Ltd" />
+  <SYMBOL Code="00191" Name="Lai Sun Garment (International) Ltd" />
+  <SYMBOL Code="00193" Name="Capital Estate Ltd" />
+  <SYMBOL Code="00194" Name="Liu Chong Hing Investment Ltd" />
+  <SYMBOL Code="00195" Name="Grand Hotel Holdings A" />
+  <SYMBOL Code="00196" Name="Honghua Group Ltd" />
+  <SYMBOL Code="00197" Name="Heng Tai Consumables Group Ltd" />
+  <SYMBOL Code="00198" Name="SMI Corporation Ltd" />
+  <SYMBOL Code="00199" Name="Macau Prime Properties Holdings Ltd" />
+  <SYMBOL Code="00200" Name="Melco International Development Ltd" />
+  <SYMBOL Code="00201" Name="Magnificent Estates Ltd" />
+  <SYMBOL Code="00202" Name="Interchina Holdings Co. Ltd" />
+  <SYMBOL Code="00204" Name="China Investment Development" />
+  <SYMBOL Code="00205" Name="SEEC Media Group Ltd" />
+  <SYMBOL Code="00206" Name="ITC Corporation Ltd - Preference" />
+  <SYMBOL Code="00207" Name="Hong Kong Parkview Group Ltd" />
+  <SYMBOL Code="00208" Name="Polytec Asset Holdings Ltd" />
+  <SYMBOL Code="00209" Name="Winshine Entertainment &amp; Media" />
+  <SYMBOL Code="00210" Name="Daphne International" />
+  <SYMBOL Code="00211" Name="Styland Holdings" />
+  <SYMBOL Code="00212" Name="Nanyang Holdings Ltd" />
+  <SYMBOL Code="00213" Name="National Electronics Holdings Ltd" />
+  <SYMBOL Code="00214" Name="Asia Orient Holdings Ltd" />
+  <SYMBOL Code="00215" Name="Hutchison Telecommunications" />
+  <SYMBOL Code="00216" Name="Chinney Investments Ltd" />
+  <SYMBOL Code="00217" Name="China Chengtong Development Group Ltd" />
+  <SYMBOL Code="00218" Name="Shenyin Wanguo (H.K.) Ltd" />
+  <SYMBOL Code="00219" Name="Shun Ho Technology Holdings Ltd" />
+  <SYMBOL Code="00220" Name="Uni-President China Holdings Ltd" />
+  <SYMBOL Code="00221" Name="LeRoi Holdings Ltd" />
+  <SYMBOL Code="00222" Name="Min Xin Holdings Ltd" />
+  <SYMBOL Code="00223" Name="Kenfair International (Holdings) Ltd" />
+  <SYMBOL Code="00224" Name="Pioneer Global Group Ltd" />
+  <SYMBOL Code="00225" Name="Pokfulam Development Co. Ltd" />
+  <SYMBOL Code="00226" Name="Lippo Ltd" />
+  <SYMBOL Code="00227" Name="First Shanghai Investments Ltd" />
+  <SYMBOL Code="00228" Name="Hon Po Group (Lobster King) Ltd" />
+  <SYMBOL Code="00229" Name="Raymond Industrial Ltd" />
+  <SYMBOL Code="00230" Name="Minmetals Land" />
+  <SYMBOL Code="00231" Name="Dynamic Global Holdings Ltd" />
+  <SYMBOL Code="00232" Name="AVIC International" />
+  <SYMBOL Code="00233" Name="Mingyuan Medicare Development Co. Ltd" />
+  <SYMBOL Code="00234" Name="New Century Group Hong Kong Ltd" />
+  <SYMBOL Code="00235" Name="China Strategic Holdings Ltd" />
+  <SYMBOL Code="00236" Name="San Miguel Brewery Hong Kong Ltd" />
+  <SYMBOL Code="00237" Name="Safety Godown Co. Ltd" />
+  <SYMBOL Code="00238" Name="Lei Shing Hong Ltd" />
+  <SYMBOL Code="00239" Name="Pak Fah Yeow International Ltd" />
+  <SYMBOL Code="00240" Name="Build King Holdings Ltd" />
+  <SYMBOL Code="00241" Name="CITIC 21CN Co. Ltd" />
+  <SYMBOL Code="00242" Name="Shun Tak Holdings Ltd" />
+  <SYMBOL Code="00243" Name="QPL International Holdings Ltd" />
+  <SYMBOL Code="00244" Name="Sincere Co. Ltd" />
+  <SYMBOL Code="00245" Name="Landune International Ltd" />
+  <SYMBOL Code="00246" Name="Henderson China Holdings Limtied" />
+  <SYMBOL Code="00247" Name="Tsim Sha Tsui Properties Ltd" />
+  <SYMBOL Code="00248" Name="HKC International Holdings Ltd" />
+  <SYMBOL Code="00250" Name="Sino-i Technology Ltd" />
+  <SYMBOL Code="00251" Name="S E A Holdings Ltd" />
+  <SYMBOL Code="00252" Name="Southeast Asia Properties &amp; Finance Ltd" />
+  <SYMBOL Code="00253" Name="Shun Ho Resources Holdings Ltd" />
+  <SYMBOL Code="00254" Name="eCyberChina Holdings Ltd" />
+  <SYMBOL Code="00255" Name="Lung Kee (Bermuda) Holdings Ltd" />
+  <SYMBOL Code="00256" Name="China Haidian Holdings Ltd" />
+  <SYMBOL Code="00257" Name="China Everbright International Ltd" />
+  <SYMBOL Code="00258" Name="Tomson Group Ltd" />
+  <SYMBOL Code="00259" Name="Yeebo (International Holdings) Ltd" />
+  <SYMBOL Code="00260" Name="Sino Gas Group Ltd" />
+  <SYMBOL Code="00261" Name="CCT Tech International Ltd" />
+  <SYMBOL Code="00262" Name="Deson Development International Holdings Ltd" />
+  <SYMBOL Code="00263" Name="Poly Investments Holdings Ltd" />
+  <SYMBOL Code="00264" Name="Chanco International Group Ltd" />
+  <SYMBOL Code="00265" Name="South China Holdings Ltd" />
+  <SYMBOL Code="00266" Name="Tian Teck Land Ltd" />
+  <SYMBOL Code="00267" Name="CITIC Pacific Ltd" />
+  <SYMBOL Code="00268" Name="Kingdee International Software Group Co. Ltd" />
+  <SYMBOL Code="00269" Name="Seapower Resources International Ltd" />
+  <SYMBOL Code="00270" Name="Guangdong Investment Ltd" />
+  <SYMBOL Code="00271" Name="Dan Form Holdings Co. Ltd" />
+  <SYMBOL Code="00272" Name="Shui On Land" />
+  <SYMBOL Code="00273" Name="Willie International Holdings Ltd" />
+  <SYMBOL Code="00274" Name="Global Green Tech Group Ltd" />
+  <SYMBOL Code="00275" Name="Hanny Holdings Ltd" />
+  <SYMBOL Code="00276" Name="Mongolia Energy" />
+  <SYMBOL Code="00277" Name="Tern Properties Co. Ltd" />
+  <SYMBOL Code="00278" Name="Wah Ha Realty Co. Ltd" />
+  <SYMBOL Code="00279" Name="Freeman Corporation Ltd" />
+  <SYMBOL Code="00280" Name="King Fook Holdings Ltd" />
+  <SYMBOL Code="00281" Name="Rivera (Holdings) Ltd" />
+  <SYMBOL Code="00282" Name="Next Media Ltd" />
+  <SYMBOL Code="00285" Name="BYD Electronic International Company Ltd" />
+  <SYMBOL Code="00286" Name="G-Prop (Holdings) Ltd" />
+  <SYMBOL Code="00287" Name="Winfair Investment Co. Ltd" />
+  <SYMBOL Code="00288" Name="Berjaya Holdings (HK) Ltd" />
+  <SYMBOL Code="00289" Name="Wing On Company International Ltd" />
+  <SYMBOL Code="00290" Name="China Conservational Power Holdings Ltd" />
+  <SYMBOL Code="00291" Name="China Resources Enterprise Ltd" />
+  <SYMBOL Code="00292" Name="Asia Standard Hotel Group Ltd" />
+  <SYMBOL Code="00293" Name="Cathay Pacific Airways Ltd" />
+  <SYMBOL Code="00294" Name="Yangtzekiang Garment Ltd" />
+  <SYMBOL Code="00295" Name="Kong Sun Holdings Ltd" />
+  <SYMBOL Code="00296" Name="Emperor Entertainment Hotel Ltd" />
+  <SYMBOL Code="00297" Name="Sinofert Holdings Ltd" />
+  <SYMBOL Code="00298" Name="Chuang's China Investments Ltd" />
+  <SYMBOL Code="00299" Name="SinoCom Software Group Limited" />
+  <SYMBOL Code="00300" Name="Shenji Group Kunming Machine" />
+  <SYMBOL Code="00303" Name="VTech Holdings Ltd" />
+  <SYMBOL Code="00305" Name="Magnum International Holdings Ltd" />
+  <SYMBOL Code="00306" Name="Kwoon Chung Bus Holdings Ltd" />
+  <SYMBOL Code="00307" Name="Tidetime Sun (Group) Ltd" />
+  <SYMBOL Code="00308" Name="China Travel International Investment Hong Kong Ltd" />
+  <SYMBOL Code="00309" Name="Lo's Enviro-Pro Holdings Ltd" />
+  <SYMBOL Code="00310" Name="Prosperity Investment Holdings Ltd" />
+  <SYMBOL Code="00311" Name="Luen Thai Holdings Ltd" />
+  <SYMBOL Code="00312" Name="Lamex Holdings" />
+  <SYMBOL Code="00313" Name="Dickson Group Holdings Ltd" />
+  <SYMBOL Code="00315" Name="SmarTone Telecommunications Holdings Ltd" />
+  <SYMBOL Code="00316" Name="Orient Overseas (International) Ltd" />
+  <SYMBOL Code="00317" Name="Guangzhou Shipyard International Co. Ltd" />
+  <SYMBOL Code="00318" Name="Vongroup Ltd" />
+  <SYMBOL Code="00320" Name="Computime Group Ltd" />
+  <SYMBOL Code="00321" Name="Texwinca Holdings Ltd" />
+  <SYMBOL Code="00322" Name="Tingyi (Cayman Islands) Holdings Corp." />
+  <SYMBOL Code="00323" Name="Maanshan Iron &amp; Steel Co. Ltd" />
+  <SYMBOL Code="00326" Name="China Star Entertainment Ltd" />
+  <SYMBOL Code="00327" Name="Shanxi Central Pharmaceutical Intl Ltd" />
+  <SYMBOL Code="00328" Name="Alco Holdings Ltd" />
+  <SYMBOL Code="00329" Name="Golden Dragon Group (Holdings) Ltd" />
+  <SYMBOL Code="00330" Name="Esprit Holdings Ltd" />
+  <SYMBOL Code="00331" Name="China Resources Peoples Telephone" />
+  <SYMBOL Code="00332" Name="Ngai Lik Industrial Holdings Ltd" />
+  <SYMBOL Code="00333" Name="Top Form International Ltd" />
+  <SYMBOL Code="00334" Name="TCL Display" />
+  <SYMBOL Code="00335" Name="Upbest Group Ltd" />
+  <SYMBOL Code="00336" Name="Huabao International Holdings Ltd" />
+  <SYMBOL Code="00337" Name="Cec International Holdings Ltd W0309" />
+  <SYMBOL Code="00338" Name="Sinopec Shanghai Petrochemical Co. Ltd" />
+  <SYMBOL Code="00339" Name="Earnest Investments Holdings Ltd" />
+  <SYMBOL Code="00340" Name="China Mining Resources Group Ltd" />
+  <SYMBOL Code="00341" Name="Cafe de Coral Holdings Ltd" />
+  <SYMBOL Code="00342" Name="NewOcean Energy Holdings Ltd" />
+  <SYMBOL Code="00343" Name="Culturecom Holdings Ltd" />
+  <SYMBOL Code="00345" Name="Vitasoy International Holdings Ltd" />
+  <SYMBOL Code="00346" Name="Sino Union Petroleum &amp; Chemical International Ltd" />
+  <SYMBOL Code="00347" Name="Angang New Steel Co. Ltd" />
+  <SYMBOL Code="00348" Name="Lung Cheong International Holdings Ltd" />
+  <SYMBOL Code="00351" Name="Asia Energy Logistics" />
+  <SYMBOL Code="00352" Name="Fortune Sun (China) Holdings Ltd" />
+  <SYMBOL Code="00353" Name="Aurora Global Investment Holdings Ltd" />
+  <SYMBOL Code="00354" Name="Chinasoft International Ltd" />
+  <SYMBOL Code="00355" Name="Century City International Holdings Ltd" />
+  <SYMBOL Code="00356" Name="DT Capital Limited" />
+  <SYMBOL Code="00357" Name="Hainan Meilan International Airport Co. Ltd" />
+  <SYMBOL Code="00358" Name="Jiangxi Copper Co. Ltd" />
+  <SYMBOL Code="00359" Name="China Haisheng Juice Holdings Co. Ltd" />
+  <SYMBOL Code="00360" Name="New Focus Auto Tech Holdings Ltd" />
+  <SYMBOL Code="00361" Name="Sino Golf Holdings Ltd" />
+  <SYMBOL Code="00362" Name="Daqing Petroleum and Chemical Group Ltd" />
+  <SYMBOL Code="00363" Name="Shanghai Industrial Holdings Ltd" />
+  <SYMBOL Code="00364" Name="Huafeng Textile International Group Ltd" />
+  <SYMBOL Code="00365" Name="Sun East Technology (Holdings) Ltd" />
+  <SYMBOL Code="00366" Name="Luks Industrial (Group) Ltd" />
+  <SYMBOL Code="00367" Name="Chuang's Consortium International Ltd" />
+  <SYMBOL Code="00368" Name="Sinotrans Shipping Ltd" />
+  <SYMBOL Code="00369" Name="USI Holdings Ltd" />
+  <SYMBOL Code="00370" Name="China Best Group Holding Ltd" />
+  <SYMBOL Code="00371" Name="Shang Hua Holdings Ltd" />
+  <SYMBOL Code="00372" Name="ITC Corporation Ltd" />
+  <SYMBOL Code="00373" Name="Allied Group Ltd" />
+  <SYMBOL Code="00374" Name="Four Seas Mercantile Holdings Ltd" />
+  <SYMBOL Code="00375" Name="YGM Trading Ltd" />
+  <SYMBOL Code="00376" Name="Asia TeleMedia Ltd" />
+  <SYMBOL Code="00377" Name="New Island Printing Holdings Ltd" />
+  <SYMBOL Code="00378" Name="Ciam Group" />
+  <SYMBOL Code="00379" Name="PME Group Ltd" />
+  <SYMBOL Code="00380" Name="World Trade Bun Kee Ltd" />
+  <SYMBOL Code="00381" Name="Kiu Hung International Holdings Ltd" />
+  <SYMBOL Code="00382" Name="Welling" />
+  <SYMBOL Code="00383" Name="COL Capital Ltd" />
+  <SYMBOL Code="00384" Name="China Gas Holdings Ltd" />
+  <SYMBOL Code="00385" Name="Chinney Alliance Group Ltd" />
+  <SYMBOL Code="00386" Name="Sinopec" />
+  <SYMBOL Code="00387" Name="Leeport (Holdings) Ltd" />
+  <SYMBOL Code="00388" Name="Hong Kong Exchanges and Clearing Ltd" />
+  <SYMBOL Code="00389" Name="Moulin Global Eyecare Holdings Ltd" />
+  <SYMBOL Code="00390" Name="China Railway Group Ltd" />
+  <SYMBOL Code="00391" Name="Mei Ah Entertainment Group Ltd" />
+  <SYMBOL Code="00392" Name="Beijing Enterprises Holdings Ltd" />
+  <SYMBOL Code="00393" Name="Glorious Sun Enterprises Ltd" />
+  <SYMBOL Code="00395" Name="Asia Zirconium Ltd" />
+  <SYMBOL Code="00396" Name="Gold-Face Holdings Ltd" />
+  <SYMBOL Code="00397" Name="Town Health Medical Technology Holdings Co. Ltd" />
+  <SYMBOL Code="00398" Name="Oriental Watch Holdings Ltd" />
+  <SYMBOL Code="00399" Name="Far East Pharmaceutical Technology Co. Ltd" />
+  <SYMBOL Code="00400" Name="Cogobuy" />
+  <SYMBOL Code="00401" Name="401 Holdings" />
+  <SYMBOL Code="00402" Name="Ming Hing Holdings Ltd" />
+  <SYMBOL Code="00403" Name="Starlite Holdings Ltd" />
+  <SYMBOL Code="00404" Name="Hsin Chong Construction Group Ltd" />
+  <SYMBOL Code="00405" Name="GZI Real Estate Investment Trust" />
+  <SYMBOL Code="00406" Name="Yau Lee Holdings Ltd" />
+  <SYMBOL Code="00408" Name="Yip's Chemical Holdings Ltd" />
+  <SYMBOL Code="00410" Name="SOHO China Ltd" />
+  <SYMBOL Code="00411" Name="Lam Soon (Hong Kong) Ltd" />
+  <SYMBOL Code="00412" Name="China Innovative Finance Group Limited" />
+  <SYMBOL Code="00413" Name="South China Industries Ltd" />
+  <SYMBOL Code="00416" Name="Bank of Jinzhou" />
+  <SYMBOL Code="00417" Name="Tse Sui Luen Jewellery (International) Ltd" />
+  <SYMBOL Code="00418" Name="Founder Holdings Ltd" />
+  <SYMBOL Code="00419" Name="Jiuhao Health" />
+  <SYMBOL Code="00420" Name="Fountain Set (Holdings) Ltd" />
+  <SYMBOL Code="00422" Name="Vietnam Manufacturing and Export Processing Ltd" />
+  <SYMBOL Code="00423" Name="Hong Kong Economic Times Holdings Ltd" />
+  <SYMBOL Code="00425" Name="Minth Group Ltd" />
+  <SYMBOL Code="00426" Name="One Media Group Ltd" />
+  <SYMBOL Code="00428" Name="Harmony Asset Limited" />
+  <SYMBOL Code="00430" Name="Oriental Explorer Holdings Ltd" />
+  <SYMBOL Code="00431" Name="Greater China Holdings Ltd" />
+  <SYMBOL Code="00432" Name="Pacific Century Premium Developments Ltd" />
+  <SYMBOL Code="00433" Name="Sun Man Tai Holdings Co. Ltd" />
+  <SYMBOL Code="00434" Name="Boyaa" />
+  <SYMBOL Code="00435" Name="Sunlight Real Estate Investment Trust" />
+  <SYMBOL Code="00436" Name="" />
+  <SYMBOL Code="00438" Name="IRICO Group Electronics Co. Ltd" />
+  <SYMBOL Code="00439" Name="Climax International Co. Ltd" />
+  <SYMBOL Code="00440" Name="Dah Sing Financial Holdings Ltd" />
+  <SYMBOL Code="00442" Name="KTL International" />
+  <SYMBOL Code="00444" Name="Sincere Watch (Hong Kong) Ltd" />
+  <SYMBOL Code="00445" Name="China Fire Safety Enterprise Group Holdings Ltd" />
+  <SYMBOL Code="00449" Name="Chigo Holding Ltd" />
+  <SYMBOL Code="00450" Name="Hung Hing Printing Group Ltd" />
+  <SYMBOL Code="00451" Name="Same Time Holdings Ltd" />
+  <SYMBOL Code="00455" Name="Yunnan Enterprises Holdings Ltd" />
+  <SYMBOL Code="00456" Name="New Rank City Development" />
+  <SYMBOL Code="00458" Name="Tristate Holdings Ltd" />
+  <SYMBOL Code="00459" Name="Midland ICI Ltd" />
+  <SYMBOL Code="00460" Name="Sihuan Pharmaceutical Holdings Group Ltd" />
+  <SYMBOL Code="00462" Name="Linfair Holdings Ltd" />
+  <SYMBOL Code="00464" Name="Kenford Group Holdings Ltd" />
+  <SYMBOL Code="00465" Name="Ford Motor Credit Co. 7.2% Notes 2007" />
+  <SYMBOL Code="00467" Name="United Energy" />
+  <SYMBOL Code="00468" Name="" />
+  <SYMBOL Code="00469" Name="General Motors Acceptance Corp 1000n0207" />
+  <SYMBOL Code="00471" Name="Global Flex Holdings Ltd" />
+  <SYMBOL Code="00472" Name="MACRO-LINK International Holdings Ltd" />
+  <SYMBOL Code="00474" Name="Winbox International (Holdings) Ltd" />
+  <SYMBOL Code="00475" Name="Noble Jewelry Holdings Ltd" />
+  <SYMBOL Code="00476" Name="China Elegance (Holdings) Ltd" />
+  <SYMBOL Code="00479" Name="Cil Holdings" />
+  <SYMBOL Code="00480" Name="HKR International Ltd" />
+  <SYMBOL Code="00482" Name="Sandmartin International Holdings Ltd" />
+  <SYMBOL Code="00483" Name="Bauhaus International (Holdings) Ltd" />
+  <SYMBOL Code="00484" Name="" />
+  <SYMBOL Code="00485" Name="Starlight International Holdings Ltd" />
+  <SYMBOL Code="00486" Name="RUSAL" />
+  <SYMBOL Code="00487" Name="Macau Success Ltd" />
+  <SYMBOL Code="00488" Name="Lai Sun Development Co. Ltd" />
+  <SYMBOL Code="00489" Name="Dongfeng Motor Group Co. Ltd" />
+  <SYMBOL Code="00491" Name="See Corporation Ltd" />
+  <SYMBOL Code="00493" Name="GOME Electrical Appliances Holding Ltd" />
+  <SYMBOL Code="00494" Name="Li &amp; Fung Ltd" />
+  <SYMBOL Code="00495" Name="Paladin Ltd" />
+  <SYMBOL Code="00496" Name="Kasen International Holdings Ltd" />
+  <SYMBOL Code="00497" Name="Capital Strategic Investment Ltd" />
+  <SYMBOL Code="00498" Name="PYI Corporation Ltd" />
+  <SYMBOL Code="00499" Name="HyComm Wireless Ltd" />
+  <SYMBOL Code="00500" Name="DVN (Holdings) Ltd" />
+  <SYMBOL Code="00503" Name="China Paradise Electronics Retail Ltd" />
+  <SYMBOL Code="00505" Name="Xingye Copper International Group Ltd" />
+  <SYMBOL Code="00506" Name="China Foods" />
+  <SYMBOL Code="00508" Name="Chevalier iTech Holdings Ltd" />
+  <SYMBOL Code="00509" Name="Lg China Fund" />
+  <SYMBOL Code="00510" Name="Cash Financial Services Ltd" />
+  <SYMBOL Code="00511" Name="Television Broadcasts Ltd" />
+  <SYMBOL Code="00512" Name="MAXX Bioscience Holdings Ltd" />
+  <SYMBOL Code="00513" Name="Continental Holdings Ltd" />
+  <SYMBOL Code="00515" Name="TC Interconnect Holdings Ltd" />
+  <SYMBOL Code="00517" Name="COSCO International Holdings Ltd" />
+  <SYMBOL Code="00518" Name="Tungtex (Holdings) Co. Ltd" />
+  <SYMBOL Code="00519" Name="Applied International Holdings Ltd" />
+  <SYMBOL Code="00520" Name="" />
+  <SYMBOL Code="00521" Name="Shougang Concord Technology Holdings Ltd" />
+  <SYMBOL Code="00522" Name="ASM Pacific Technology Ltd" />
+  <SYMBOL Code="00524" Name="e-Kong Group Ltd" />
+  <SYMBOL Code="00525" Name="Guangshen Railway Co. Ltd" />
+  <SYMBOL Code="00526" Name="Magician Industries (Holdings) Ltd" />
+  <SYMBOL Code="00527" Name="Galaxy Semi-Conductor Holdings Ltd" />
+  <SYMBOL Code="00528" Name="General Motors Acceptance Corp 100 N0207" />
+  <SYMBOL Code="00529" Name="SiS International Holdings Ltd" />
+  <SYMBOL Code="00530" Name="Fortuna International Holdings Ltd" />
+  <SYMBOL Code="00531" Name="Samson Holding Ltd" />
+  <SYMBOL Code="00532" Name="Wong's Kong King International (Holdings) Ltd" />
+  <SYMBOL Code="00533" Name="Goldlion Holdings Ltd" />
+  <SYMBOL Code="00535" Name="Frasers Property (China) Ltd" />
+  <SYMBOL Code="00536" Name="Tradelink Electronic Commerce Ltd" />
+  <SYMBOL Code="00538" Name="Ajisen (China) Holdings Ltd" />
+  <SYMBOL Code="00539" Name="Victory City International Holdings Ltd" />
+  <SYMBOL Code="00540" Name="Thai-Asia Fund Ltd" />
+  <SYMBOL Code="00542" Name="Morning Star Resources Ltd" />
+  <SYMBOL Code="00543" Name="Pacific Online Ltd" />
+  <SYMBOL Code="00544" Name="Daido Group Ltd" />
+  <SYMBOL Code="00546" Name="Fufeng Group Ltd.  " />
+  <SYMBOL Code="00547" Name="Sun Innovation Holdings Ltd" />
+  <SYMBOL Code="00548" Name="Shenzhen Expressway Co. Ltd" />
+  <SYMBOL Code="00550" Name="Recruit Holdings" />
+  <SYMBOL Code="00551" Name="Yue Yuen Industrial (Holdings) Ltd" />
+  <SYMBOL Code="00552" Name="China Communications Services" />
+  <SYMBOL Code="00553" Name="Nanjing Panda Electronic Co. Ltd" />
+  <SYMBOL Code="00554" Name="Hans Energy Co. Ltd" />
+  <SYMBOL Code="00555" Name="REXLot Holdings Limited" />
+  <SYMBOL Code="00556" Name="Pan Asia Environmental Protection Group Ltd" />
+  <SYMBOL Code="00557" Name="City e-Solutions Ltd" />
+  <SYMBOL Code="00558" Name="L.K. Technology Holdings Ltd." />
+  <SYMBOL Code="00559" Name="Hua Yi Copper Holdings Ltd" />
+  <SYMBOL Code="00560" Name="Chu Kong Shipping Development Co. Ltd" />
+  <SYMBOL Code="00563" Name="Neo-China Group (Holdings) Ltd" />
+  <SYMBOL Code="00564" Name="Champion Technology Holdings Ltd Warrants 2007" />
+  <SYMBOL Code="00565" Name="Art Textile Technology International Co. Ltd" />
+  <SYMBOL Code="00566" Name="RBI Holdings Ltd" />
+  <SYMBOL Code="00567" Name="Daisho Microline Holdings Ltd" />
+  <SYMBOL Code="00568" Name="Shandong Molong Petroleum Machinery Co. Ltd" />
+  <SYMBOL Code="00569" Name="Kith Holdings W0406" />
+  <SYMBOL Code="00570" Name="Wing Shan International Ltd" />
+  <SYMBOL Code="00571" Name="eSun Holdings Ltd" />
+  <SYMBOL Code="00572" Name="Spread Prospects Holdings Ltd" />
+  <SYMBOL Code="00573" Name="Hanny Holdings W0204" />
+  <SYMBOL Code="00574" Name="Pashun Pharma" />
+  <SYMBOL Code="00575" Name="Regent Pacific Group Ltd" />
+  <SYMBOL Code="00576" Name="Zhejiang Expressway Co. Ltd" />
+  <SYMBOL Code="00577" Name="Paul Y. Engineering Group Ltd" />
+  <SYMBOL Code="00578" Name="Everbest Century Holdings Ltd" />
+  <SYMBOL Code="00579" Name="Beijing Jingneng Clean Energy" />
+  <SYMBOL Code="00580" Name="Sun.King Power Electronics Group Ltd" />
+  <SYMBOL Code="00581" Name="China Oriental Group Co. Ltd" />
+  <SYMBOL Code="00582" Name="Greenfield Chemical Holdings Ltd" />
+  <SYMBOL Code="00583" Name="SCMP Group Ltd" />
+  <SYMBOL Code="00585" Name="Imagi International Holdings Ltd" />
+  <SYMBOL Code="00586" Name="Conch Venture" />
+  <SYMBOL Code="00587" Name="Hua Han Bio-Pharmaceutical Holdings Ltd" />
+  <SYMBOL Code="00588" Name="Beijing North Star Co. Ltd" />
+  <SYMBOL Code="00589" Name="Ports Design Ltd" />
+  <SYMBOL Code="00590" Name="Luk Fook Holdings (International) Ltd" />
+  <SYMBOL Code="00591" Name="China High Precision Automation Ltd" />
+  <SYMBOL Code="00592" Name="Bossini International Holdings Ltd" />
+  <SYMBOL Code="00593" Name="Quality HealthCare Asia Ltd" />
+  <SYMBOL Code="00595" Name="AV Concept Holdings Ltd" />
+  <SYMBOL Code="00596" Name="China Online (bermuda) Ltd W0306" />
+  <SYMBOL Code="00598" Name="Sinotrans Ltd" />
+  <SYMBOL Code="00599" Name="E. Bon Holdings Ltd" />
+  <SYMBOL Code="00600" Name="Honesty Treasure International Holdings Ltd" />
+  <SYMBOL Code="00601" Name="Group Sense (International) Ltd" />
+  <SYMBOL Code="00602" Name="Kingboard Chemical Holdings Ltd W0312" />
+  <SYMBOL Code="00603" Name="Nippon Asia Investments Holdings Ltd" />
+  <SYMBOL Code="00604" Name="Shenzhen Investment Ltd" />
+  <SYMBOL Code="00605" Name="K.P.I. Co. Ltd" />
+  <SYMBOL Code="00606" Name="China Agri-Industries" />
+  <SYMBOL Code="00607" Name="Warderly International Holdings Ltd" />
+  <SYMBOL Code="00608" Name="High Fashion International Ltd" />
+  <SYMBOL Code="00609" Name="Qpl International Holdings Ltd W0401" />
+  <SYMBOL Code="00610" Name="Wai Kee Holdings Ltd" />
+  <SYMBOL Code="00611" Name="Tack Hsin Holdings Ltd" />
+  <SYMBOL Code="00612" Name="China Investment Fund Co. Ltd" />
+  <SYMBOL Code="00613" Name="Yugang International Ltd" />
+  <SYMBOL Code="00616" Name="Easyknit Enterprises Holdings Ltd" />
+  <SYMBOL Code="00617" Name="Paliburg Holdings Ltd" />
+  <SYMBOL Code="00618" Name="EC-Founder (Holdings) Co. Ltd" />
+  <SYMBOL Code="00619" Name="South China Brokerage Co. Ltd" />
+  <SYMBOL Code="00620" Name="UDL Holdings Ltd" />
+  <SYMBOL Code="00621" Name="Taung Gold International Ltd" />
+  <SYMBOL Code="00622" Name="" />
+  <SYMBOL Code="00623" Name="SNP Leefung Holdings Ltd" />
+  <SYMBOL Code="00625" Name="Reef CCT Reit" />
+  <SYMBOL Code="00626" Name="Public Financial Holdings Ltd" />
+  <SYMBOL Code="00627" Name="U-RIGHT International Holdings Ltd" />
+  <SYMBOL Code="00628" Name="Teem Foundation Group Ltd" />
+  <SYMBOL Code="00629" Name="Yue Da Holdings Ltd" />
+  <SYMBOL Code="00630" Name="Jackin International Holdings Ltd" />
+  <SYMBOL Code="00631" Name="Wing Shing International Holdings Ltd Warrants 2007" />
+  <SYMBOL Code="00632" Name="China Merchants DiChain (Asia) Ltd" />
+  <SYMBOL Code="00633" Name="China All Access" />
+  <SYMBOL Code="00635" Name="Playmates Holdings Ltd" />
+  <SYMBOL Code="00636" Name="Fubon Bank Ltd" />
+  <SYMBOL Code="00637" Name="Lee Kee Holdings Ltd" />
+  <SYMBOL Code="00638" Name="Kin Yat Holdings Ltd" />
+  <SYMBOL Code="00639" Name="Fushan International Energy Group Ltd" />
+  <SYMBOL Code="00640" Name="Harmony Asset W0205" />
+  <SYMBOL Code="00641" Name="Fong's Industries Co. Ltd" />
+  <SYMBOL Code="00643" Name="Carry Wealth Holdings Ltd" />
+  <SYMBOL Code="00645" Name="KTP Holdings Ltd" />
+  <SYMBOL Code="00646" Name="China Environmental Technology" />
+  <SYMBOL Code="00647" Name="Joyce Boutique Holdings Ltd" />
+  <SYMBOL Code="00648" Name="Softbank Investment International (Strategic) Ltd" />
+  <SYMBOL Code="00650" Name="Shun Cheong Holdings Ltd" />
+  <SYMBOL Code="00651" Name="Wonson International Holdings Ltd" />
+  <SYMBOL Code="00653" Name="Bonjour Holdings Ltd" />
+  <SYMBOL Code="00655" Name="Hongkong Chinese Ltd" />
+  <SYMBOL Code="00656" Name="Fosun International" />
+  <SYMBOL Code="00657" Name="G-Vision International (Holdings) Ltd" />
+  <SYMBOL Code="00658" Name="China High Speed Transmission Equipment Group Ltd" />
+  <SYMBOL Code="00659" Name="NWS Holdings Ltd" />
+  <SYMBOL Code="00660" Name="Nority International Group Ltd" />
+  <SYMBOL Code="00661" Name="China National Resources Development Holdings Ltd" />
+  <SYMBOL Code="00662" Name="Asia Financial Holdings Ltd" />
+  <SYMBOL Code="00663" Name="Swank International Manufacturing Co. Ltd" />
+  <SYMBOL Code="00665" Name="Taifook Securities Group Ltd" />
+  <SYMBOL Code="00666" Name="Yu Ming Investments Ltd" />
+  <SYMBOL Code="00668" Name="Hong Kong Catering Management Ltd" />
+  <SYMBOL Code="00669" Name="Techtronic Industries Co. Ltd" />
+  <SYMBOL Code="00670" Name="China Eastern Airlines Corporation Ltd" />
+  <SYMBOL Code="00672" Name="Barclays Asian Selection Fund Ltd-aseans" />
+  <SYMBOL Code="00673" Name="China HealthCare Holdings Ltd" />
+  <SYMBOL Code="00674" Name="United Power Investment Ltd" />
+  <SYMBOL Code="00675" Name="K &amp; P International Holdings Ltd" />
+  <SYMBOL Code="00676" Name="Pegasus International Holdings Ltd" />
+  <SYMBOL Code="00677" Name="Golden Resources Development International Ltd" />
+  <SYMBOL Code="00678" Name="Star Cruises Ltd" />
+  <SYMBOL Code="00679" Name="Asia Tele-Net And Technology Corporation Ltd" />
+  <SYMBOL Code="00680" Name="Nan Hai Corporation Ltd" />
+  <SYMBOL Code="00681" Name="Chinese People Gas Holdings Co. Ltd" />
+  <SYMBOL Code="00682" Name="Chaoda Modern Agriculture (Holdings) Ltd" />
+  <SYMBOL Code="00683" Name="Kerry Properties Ltd" />
+  <SYMBOL Code="00684" Name="Allan International Holdings Ltd" />
+  <SYMBOL Code="00685" Name="Ming Pao Enterprise Corporation Ltd" />
+  <SYMBOL Code="00686" Name="Gay Giano International Group Ltd" />
+  <SYMBOL Code="00687" Name="Tysan Holdings Ltd" />
+  <SYMBOL Code="00688" Name="China Overseas Land &amp; Investment Ltd" />
+  <SYMBOL Code="00689" Name="Great Wall Cybertech Ltd" />
+  <SYMBOL Code="00690" Name="Uni-Bio Science Group Ltd" />
+  <SYMBOL Code="00691" Name="Shanshui Cement" />
+  <SYMBOL Code="00692" Name="Ching Hing (Holdings) Ltd" />
+  <SYMBOL Code="00693" Name="Tan Chong International Ltd" />
+  <SYMBOL Code="00694" Name="Beijing Capital International Airport Co. Ltd" />
+  <SYMBOL Code="00695" Name="Dongwu Cement Ltd" />
+  <SYMBOL Code="00696" Name="TravelSky Technology Ltd" />
+  <SYMBOL Code="00697" Name="Shougang Concord International Enterprises Co. Ltd" />
+  <SYMBOL Code="00698" Name="Tongda Group Holdings Ltd" />
+  <SYMBOL Code="00699" Name="Chia Hsin Cement Greater China Holding Corporation" />
+  <SYMBOL Code="00700" Name="Tencent Holdings Ltd" />
+  <SYMBOL Code="00701" Name="CNT Group Ltd" />
+  <SYMBOL Code="00702" Name="Genesis Energy Holdings Ltd" />
+  <SYMBOL Code="00703" Name="Innovo Leisure Recreation Holdings Ltd" />
+  <SYMBOL Code="00704" Name="Frankie Dominion International Ltd" />
+  <SYMBOL Code="00705" Name="Zhongda International Holdings Ltd Warrants 2006" />
+  <SYMBOL Code="00706" Name="FinTronics Holdings Co. Ltd" />
+  <SYMBOL Code="00707" Name="Co-Prosperity Holdings Ltd" />
+  <SYMBOL Code="00708" Name="New Media Group Holdings Ltd" />
+  <SYMBOL Code="00709" Name="Giordano International Ltd" />
+  <SYMBOL Code="00710" Name="Varitronix International Ltd" />
+  <SYMBOL Code="00711" Name="Chun Wo Holdings Ltd" />
+  <SYMBOL Code="00712" Name="China Resources Cement Holdings Ltd" />
+  <SYMBOL Code="00713" Name="World Houseware (Holdings) Ltd" />
+  <SYMBOL Code="00715" Name="Hutchison Harbour Ring Ltd" />
+  <SYMBOL Code="00716" Name="Singamas Container Holdings Ltd" />
+  <SYMBOL Code="00717" Name="Emperor Capital Group Ltd" />
+  <SYMBOL Code="00718" Name="Bestway International Holdings Ltd" />
+  <SYMBOL Code="00719" Name="Shandong Xinhua Pharmaceutical Co. Ltd" />
+  <SYMBOL Code="00720" Name="Wo Kee Hong (Holdings) Ltd" />
+  <SYMBOL Code="00721" Name="Comtec Solar Systems Group Limited" />
+  <SYMBOL Code="00722" Name="Delta Networks Inc" />
+  <SYMBOL Code="00723" Name="Anex International Holdings Ltd" />
+  <SYMBOL Code="00724" Name="Semtech International Holdings Ltd" />
+  <SYMBOL Code="00725" Name="Perennial International Ltd" />
+  <SYMBOL Code="00726" Name="South East Group Ltd" />
+  <SYMBOL Code="00727" Name="VXL Capital Ltd" />
+  <SYMBOL Code="00728" Name="China Telecom Corporation Ltd" />
+  <SYMBOL Code="00729" Name="Carico Holdings Ltd" />
+  <SYMBOL Code="00730" Name="Shougang Concord Grand (Group) Ltd" />
+  <SYMBOL Code="00731" Name="Samson Paper Holdings Ltd" />
+  <SYMBOL Code="00732" Name="Truly International Holdings Ltd" />
+  <SYMBOL Code="00733" Name="Hopefluent Group Holdings Ltd" />
+  <SYMBOL Code="00735" Name="China Power New Energy" />
+  <SYMBOL Code="00736" Name="Northern International Holdings Ltd" />
+  <SYMBOL Code="00737" Name="Hopewell Highway Infrastructure Ltd" />
+  <SYMBOL Code="00738" Name="Le Saunda Holdings Ltd" />
+  <SYMBOL Code="00743" Name="Asia Cement Holdings" />
+  <SYMBOL Code="00745" Name="Wing Hong (Holdings) Ltd" />
+  <SYMBOL Code="00746" Name="Lee &amp; Man Holding Ltd" />
+  <SYMBOL Code="00747" Name="Shenyang Public Utility Holdings Co. Ltd" />
+  <SYMBOL Code="00750" Name="China Singyes Solar Tech" />
+  <SYMBOL Code="00751" Name="Skyworth Digital Holdings Ltd" />
+  <SYMBOL Code="00752" Name="Pico Far East Holdings Ltd" />
+  <SYMBOL Code="00753" Name="Air China Ltd" />
+  <SYMBOL Code="00754" Name="Hopson Development Holdings Ltd" />
+  <SYMBOL Code="00755" Name="Shanghai Zendai Property Ltd" />
+  <SYMBOL Code="00756" Name="Iquorum Cybernet W0404" />
+  <SYMBOL Code="00757" Name="Solargiga Energy Holdings Ltd" />
+  <SYMBOL Code="00758" Name="Junefield Department Store Group Ltd" />
+  <SYMBOL Code="00759" Name="CEC International Holdings Ltd" />
+  <SYMBOL Code="00760" Name="Tomorrow International Holdings Ltd" />
+  <SYMBOL Code="00761" Name="Peking Apparel International Group Ltd" />
+  <SYMBOL Code="00762" Name="China Unicom Ltd" />
+  <SYMBOL Code="00763" Name="ZTE Corporation" />
+  <SYMBOL Code="00764" Name="Eternity Investment Limited" />
+  <SYMBOL Code="00765" Name="Perfectech International Holdings Ltd" />
+  <SYMBOL Code="00766" Name="Sino Prosper Holdings Ltd" />
+  <SYMBOL Code="00767" Name="Pacific Plywood Holdings Ltd" />
+  <SYMBOL Code="00768" Name="UBA Investments Ltd" />
+  <SYMBOL Code="00769" Name="China Rare Earth Holdings Ltd" />
+  <SYMBOL Code="00770" Name="Shanghai Growth" />
+  <SYMBOL Code="00771" Name="Automated Systems Holdings Ltd" />
+  <SYMBOL Code="00772" Name="" />
+  <SYMBOL Code="00775" Name="CK Life Sciences Int (Holdings) Inc" />
+  <SYMBOL Code="00776" Name="JF Household Furnishings" />
+  <SYMBOL Code="00777" Name="NetDragon Websoft Inc" />
+  <SYMBOL Code="00778" Name="Fortune REIT" />
+  <SYMBOL Code="00784" Name="" />
+  <SYMBOL Code="00787" Name="" />
+  <SYMBOL Code="00789" Name="Artini China Company Ltd" />
+  <SYMBOL Code="00794" Name="Come Sure Group" />
+  <SYMBOL Code="00798" Name="" />
+  <SYMBOL Code="00799" Name="" />
+  <SYMBOL Code="00800" Name="A8 Digital Music Holdings Ltd" />
+  <SYMBOL Code="00801" Name="Golden Meditech Company Ltd" />
+  <SYMBOL Code="00802" Name="RCG" />
+  <SYMBOL Code="00803" Name="Prosperity International Holdings Ltd" />
+  <SYMBOL Code="00804" Name="Pinestone" />
+  <SYMBOL Code="00805" Name="" />
+  <SYMBOL Code="00806" Name="Value Partners Group Ltd" />
+  <SYMBOL Code="00808" Name="Prosperity Real Estate Investment Trust" />
+  <SYMBOL Code="00809" Name="Global Bio-chem Technology Group Co. Ltd" />
+  <SYMBOL Code="00810" Name="China Treasure (Greater China) Investments Ltd" />
+  <SYMBOL Code="00811" Name="Xinhua Winshare" />
+  <SYMBOL Code="00812" Name="Tanrich Financial Holdings Ltd" />
+  <SYMBOL Code="00813" Name="Shimao Property Holdings Ltd" />
+  <SYMBOL Code="00814" Name="Beijing Jingkelong Co Ltd" />
+  <SYMBOL Code="00815" Name="Chi Group" />
+  <SYMBOL Code="00816" Name="Huadian Fuxin Energy Corp" />
+  <SYMBOL Code="00817" Name="Franshion Properties" />
+  <SYMBOL Code="00818" Name="Hi Sun Technology (China) Ltd" />
+  <SYMBOL Code="00819" Name="Tianneng Power International Ltd" />
+  <SYMBOL Code="00820" Name="HSBC Dragon Fund" />
+  <SYMBOL Code="00821" Name="Barclays Asian Selection F Ltd H K Fund" />
+  <SYMBOL Code="00822" Name="Barclays Asian Selection F Ltd Indo Fund" />
+  <SYMBOL Code="00823" Name="The Link Real Estate Investment Trust" />
+  <SYMBOL Code="00825" Name="Barclays Asian Selection F Ltd Phil Fund" />
+  <SYMBOL Code="00826" Name="Tiangong International Company" />
+  <SYMBOL Code="00827" Name="Barclays Asian Selection F Ltd Se Asia F" />
+  <SYMBOL Code="00828" Name="Dynasty Fine Wines Group Ltd" />
+  <SYMBOL Code="00829" Name="Shenguan Holdings Group Ltd" />
+  <SYMBOL Code="00830" Name="" />
+  <SYMBOL Code="00831" Name="" />
+  <SYMBOL Code="00832" Name="korea 1990 Trust The-beneficial Cert." />
+  <SYMBOL Code="00833" Name="Alltronics Holdings Ltd" />
+  <SYMBOL Code="00834" Name="China Kangda Food Company Limited" />
+  <SYMBOL Code="00835" Name="Nubrands Group Holdings Ltd" />
+  <SYMBOL Code="00836" Name="China Resources Power Holdings Co. Ltd" />
+  <SYMBOL Code="00837" Name="China Pharmaceutical Ent &amp; Inv Corp W0110" />
+  <SYMBOL Code="00838" Name="EVA Precision Industrial Holdings Ltd" />
+  <SYMBOL Code="00839" Name="" />
+  <SYMBOL Code="00840" Name="Xinjiang Tianye Water Saving Irrigation System Company Ltd" />
+  <SYMBOL Code="00841" Name="Asia Cassava Resources Holdings Ltd" />
+  <SYMBOL Code="00842" Name="" />
+  <SYMBOL Code="00844" Name="" />
+  <SYMBOL Code="00845" Name="Artfield Group W0403" />
+  <SYMBOL Code="00846" Name="Mingfa Group Co Ltd" />
+  <SYMBOL Code="00847" Name="" />
+  <SYMBOL Code="00848" Name="Prc-6.125% Notes 100 Due 2003" />
+  <SYMBOL Code="00850" Name="Wing Shing International Holdings Ltd" />
+  <SYMBOL Code="00851" Name="MAE Holdings Ltd" />
+  <SYMBOL Code="00852" Name="Good Fellow Group W0112" />
+  <SYMBOL Code="00853" Name="Global Tech (holdings) W0408" />
+  <SYMBOL Code="00854" Name="Willas Array" />
+  <SYMBOL Code="00855" Name="China Water Affairs Group Ltd" />
+  <SYMBOL Code="00856" Name="VST Holdings Ltd" />
+  <SYMBOL Code="00857" Name="PetroChina Co. Ltd" />
+  <SYMBOL Code="00858" Name="Extrawell Pharmaceutical Holdings Ltd" />
+  <SYMBOL Code="00859" Name="Henry Group Holdings Ltd" />
+  <SYMBOL Code="00860" Name="Ming Fung Jewellery Group Ltd" />
+  <SYMBOL Code="00861" Name="Digital China Holdings Ltd" />
+  <SYMBOL Code="00862" Name="New World Mobile Holdings Ltd" />
+  <SYMBOL Code="00863" Name="" />
+  <SYMBOL Code="00864" Name="" />
+  <SYMBOL Code="00865" Name="First Mobile Group Holdings Limited" />
+  <SYMBOL Code="00866" Name="SUNDAY Communications Ltd" />
+  <SYMBOL Code="00867" Name="Thornton Tiger Fund" />
+  <SYMBOL Code="00868" Name="Xinyi Glass Holdings Ltd" />
+  <SYMBOL Code="00869" Name="Playmates Toys Ltd" />
+  <SYMBOL Code="00871" Name="" />
+  <SYMBOL Code="00872" Name="Cable &amp; Wireless Plc-us$1000 Bond 2003" />
+  <SYMBOL Code="00873" Name="" />
+  <SYMBOL Code="00874" Name="Guangzhou Pharmaceutical Co. Ltd" />
+  <SYMBOL Code="00875" Name="Corasia Group" />
+  <SYMBOL Code="00876" Name="Wing Lee Holdings Ltd" />
+  <SYMBOL Code="00877" Name="Asian Development Bank 6.125% Bonds 2004" />
+  <SYMBOL Code="00878" Name="Soundwill Holdings Ltd" />
+  <SYMBOL Code="00880" Name="SJM Holdings Ltd" />
+  <SYMBOL Code="00881" Name="Jf Japan Otc Fund Inc." />
+  <SYMBOL Code="00882" Name="Tianjin Development Holdings Ltd" />
+  <SYMBOL Code="00883" Name="CNOOC Ltd" />
+  <SYMBOL Code="00884" Name="Cifi Hold" />
+  <SYMBOL Code="00885" Name="Forefront International Holdings Ltd" />
+  <SYMBOL Code="00886" Name="Silver Base Group Holdings Ltd" />
+  <SYMBOL Code="00887" Name="Cable &amp; Wireless Plc-us$10000 Bond 2003" />
+  <SYMBOL Code="00888" Name="RoadShow Holdings Ltd" />
+  <SYMBOL Code="00889" Name="Datronix Holdings Ltd" />
+  <SYMBOL Code="00891" Name="Trinity Ltd" />
+  <SYMBOL Code="00893" Name="China Vanadium Titano-Magnetite Mining Co Ltd" />
+  <SYMBOL Code="00894" Name="Man Yue International Holdings Ltd" />
+  <SYMBOL Code="00895" Name="Dongjiang Environment" />
+  <SYMBOL Code="00896" Name="Hanison Construction Holdings Ltd" />
+  <SYMBOL Code="00897" Name="Wai Yuen Tong Medicine Holdings Ltd" />
+  <SYMBOL Code="00898" Name="Multifield International Holdings Ltd" />
+  <SYMBOL Code="00899" Name="Asia Resources Holdings Ltd" />
+  <SYMBOL Code="00900" Name="Aeon Credit Service (Asia) Co. Ltd" />
+  <SYMBOL Code="00901" Name="Eagleride Inv" />
+  <SYMBOL Code="00902" Name="Huaneng Power International Inc" />
+  <SYMBOL Code="00903" Name="TPV Technology Ltd" />
+  <SYMBOL Code="00904" Name="China Green (Holdings) Ltd" />
+  <SYMBOL Code="00905" Name="Apex Capital Ltd" />
+  <SYMBOL Code="00906" Name="CPMC Holdings Ltd" />
+  <SYMBOL Code="00907" Name="Elegance International Holdings Ltd" />
+  <SYMBOL Code="00908" Name="Jiuzhou Development Co. Ltd" />
+  <SYMBOL Code="00909" Name="Zhongda International Holdings Ltd" />
+  <SYMBOL Code="00910" Name="Good Fellow Group Ltd" />
+  <SYMBOL Code="00911" Name="Hangfat Ginseng" />
+  <SYMBOL Code="00912" Name="Suga International Holdings Ltd" />
+  <SYMBOL Code="00913" Name="Unity Inv Hold" />
+  <SYMBOL Code="00914" Name="Anhui Conch Cement Co. Ltd" />
+  <SYMBOL Code="00915" Name="Linmark Group Ltd" />
+  <SYMBOL Code="00916" Name="China Longyuan Power" />
+  <SYMBOL Code="00918" Name="Takson Holdings Ltd" />
+  <SYMBOL Code="00919" Name="Modern Beauty Salon Holdings Ltd" />
+  <SYMBOL Code="00921" Name="Hisense Kelon" />
+  <SYMBOL Code="00922" Name="Vision Tech International Holdings Ltd" />
+  <SYMBOL Code="00923" Name="Integrated Waste Solutions" />
+  <SYMBOL Code="00925" Name="Peaktop International Holdings Ltd" />
+  <SYMBOL Code="00926" Name="Egana Jewellery &amp; Pearls Ltd" />
+  <SYMBOL Code="00927" Name="Fujikon Industrial Holdings Ltd" />
+  <SYMBOL Code="00928" Name="Tack Fat Group International Ltd" />
+  <SYMBOL Code="00929" Name="IPE Group Ltd" />
+  <SYMBOL Code="00931" Name="Artel Solutions Group Holdings Ltd" />
+  <SYMBOL Code="00932" Name="RM Group" />
+  <SYMBOL Code="00933" Name="First Sign International Holdings Ltd" />
+  <SYMBOL Code="00934" Name="Sinopec Kantons Holdings Ltd" />
+  <SYMBOL Code="00935" Name="" />
+  <SYMBOL Code="00936" Name="Eagle Legend Asia Limited" />
+  <SYMBOL Code="00938" Name="Man Sang International Ltd" />
+  <SYMBOL Code="00939" Name="China Construction Bank Corporation" />
+  <SYMBOL Code="00940" Name="" />
+  <SYMBOL Code="00941" Name="China Mobile Ltd" />
+  <SYMBOL Code="00943" Name="eForce Holdings Ltd" />
+  <SYMBOL Code="00945" Name="Manulife Financial Corporation" />
+  <SYMBOL Code="00947" Name="Province Of Ontario-7 1/4% N2005-100" />
+  <SYMBOL Code="00948" Name="Province Of Ontario-7 1/4% N2005-1000" />
+  <SYMBOL Code="00950" Name="" />
+  <SYMBOL Code="00951" Name="" />
+  <SYMBOL Code="00952" Name="Quam Ltd" />
+  <SYMBOL Code="00953" Name="Meike Ltd" />
+  <SYMBOL Code="00954" Name="" />
+  <SYMBOL Code="00956" Name="Baden-wurttemberg L-finance Nv 1000b2003" />
+  <SYMBOL Code="00958" Name="Huaneng Renewables Ltd" />
+  <SYMBOL Code="00959" Name="A-Max Holdings Ltd" />
+  <SYMBOL Code="00960" Name="Longfor Properties Co Ltd" />
+  <SYMBOL Code="00966" Name="China Taiping" />
+  <SYMBOL Code="00967" Name="Citc Seoul Access Trust" />
+  <SYMBOL Code="00968" Name="Xinyi Solar Holdings" />
+  <SYMBOL Code="00969" Name="Hua Lien International (Holding) Co. Ltd" />
+  <SYMBOL Code="00970" Name="Jade Dynasty Group Ltd" />
+  <SYMBOL Code="00973" Name="Province Of Ontario 61/4% Dm100000 N2004" />
+  <SYMBOL Code="00974" Name="SKL" />
+  <SYMBOL Code="00975" Name="Hk &amp; Shanghai Banking Corp Hk$1000000n03" />
+  <SYMBOL Code="00976" Name="Chiho-Tiande Group Ltd" />
+  <SYMBOL Code="00978" Name="Tonic Industries Holdings Ltd" />
+  <SYMBOL Code="00979" Name="Green Energy Group Ltd" />
+  <SYMBOL Code="00980" Name="Lianhua Supermarket Holdings Co. Ltd" />
+  <SYMBOL Code="00981" Name="Semiconductor Manufacturing International Corporation" />
+  <SYMBOL Code="00982" Name="iOne Holdings Ltd" />
+  <SYMBOL Code="00983" Name="Shui On Construction and Materials Ltd" />
+  <SYMBOL Code="00984" Name="AEON Stores (Hong Kong) Co. Ltd" />
+  <SYMBOL Code="00985" Name="China Sci-Tech Holdings Ltd" />
+  <SYMBOL Code="00986" Name="Nam Hing Holdings Ltd" />
+  <SYMBOL Code="00987" Name="J.I.C. Technology Co. Ltd" />
+  <SYMBOL Code="00988" Name="Sun's Group Ltd" />
+  <SYMBOL Code="00989" Name="Ground Properties Company" />
+  <SYMBOL Code="00990" Name="Theme International Holdings Ltd" />
+  <SYMBOL Code="00991" Name="Datang International Power Generation Co. Ltd" />
+  <SYMBOL Code="00992" Name="Lenovo Group Ltd" />
+  <SYMBOL Code="00993" Name="Simsen International Corporation Ltd" />
+  <SYMBOL Code="00994" Name="Win Win Way Construction Holdings" />
+  <SYMBOL Code="00995" Name="Anhui Expressway Co. Ltd" />
+  <SYMBOL Code="00996" Name="CASH Retail Management Group Ltd" />
+  <SYMBOL Code="00997" Name="Decca Holdings Ltd" />
+  <SYMBOL Code="00998" Name="China CITIC Bank Corp Ltd" />
+  <SYMBOL Code="00999" Name="I.T Ltd" />
+  <SYMBOL Code="01000" Name="Beijing Media Corporation Ltd" />
+  <SYMBOL Code="01001" Name="Van Shung Chong Holdings Ltd" />
+  <SYMBOL Code="01002" Name="V.S. International Group Ltd" />
+  <SYMBOL Code="01003" Name="GFT Holdings Ltd" />
+  <SYMBOL Code="01004" Name="Rising Development Holdings Limited" />
+  <SYMBOL Code="01005" Name="Matrix Holdings Ltd" />
+  <SYMBOL Code="01006" Name="China Corn Oil" />
+  <SYMBOL Code="01007" Name="People's Republic Of China 6 1/2% B2004" />
+  <SYMBOL Code="01008" Name="Brilliant CIR" />
+  <SYMBOL Code="01009" Name="" />
+  <SYMBOL Code="01010" Name="PacMOS Technologies Holdings Ltd" />
+  <SYMBOL Code="01011" Name="Regal Hotels International Holdings Ltd Warrants 2007" />
+  <SYMBOL Code="01013" Name="Plus Holdings Ltd" />
+  <SYMBOL Code="01019" Name="" />
+  <SYMBOL Code="01020" Name="" />
+  <SYMBOL Code="01021" Name="" />
+  <SYMBOL Code="01022" Name="" />
+  <SYMBOL Code="01023" Name="" />
+  <SYMBOL Code="01026" Name="" />
+  <SYMBOL Code="01027" Name="Jicheng Umbrella Holdings Ltd" />
+  <SYMBOL Code="01028" Name="" />
+  <SYMBOL Code="01029" Name="" />
+  <SYMBOL Code="01030" Name="Future Land Holdings" />
+  <SYMBOL Code="01031" Name="Golden Resorts Group Ltd" />
+  <SYMBOL Code="01033" Name="Sinopec Yizheng Chemical Fibre Co. Ltd" />
+  <SYMBOL Code="01035" Name="" />
+  <SYMBOL Code="01036" Name="Winsor Properties Holdings Ltd" />
+  <SYMBOL Code="01037" Name="Daiwa Associate Holdings Ltd" />
+  <SYMBOL Code="01038" Name="Cheung Kong Infrastructure Holdings Ltd" />
+  <SYMBOL Code="01039" Name="" />
+  <SYMBOL Code="01041" Name="Fulbond Holdings Ltd" />
+  <SYMBOL Code="01043" Name="Coslight Technology International Group Ltd" />
+  <SYMBOL Code="01044" Name="Hengan International Group Co. Ltd" />
+  <SYMBOL Code="01045" Name="APT Satellite Holdings Ltd" />
+  <SYMBOL Code="01046" Name="Universe International Holdings Ltd" />
+  <SYMBOL Code="01047" Name="Ngai Hing Hong Co. Ltd" />
+  <SYMBOL Code="01048" Name="Novo Group Limited" />
+  <SYMBOL Code="01049" Name="Celestial Asia Securities Holdings Ltd" />
+  <SYMBOL Code="01050" Name="Karrie International Holdings Ltd" />
+  <SYMBOL Code="01051" Name="Smart Rich Energy Finance (Holdings) Ltd" />
+  <SYMBOL Code="01052" Name="Yuexiu Transport Infrastructure" />
+  <SYMBOL Code="01053" Name="Chongqing Iron &amp; Steel Co. Ltd" />
+  <SYMBOL Code="01055" Name="China Southern Airlines Co. Ltd" />
+  <SYMBOL Code="01057" Name="Zhejiang Shibao Company" />
+  <SYMBOL Code="01058" Name="Guangdong Tannery Ltd" />
+  <SYMBOL Code="01059" Name="Kantone Holdings Ltd" />
+  <SYMBOL Code="01060" Name="Shanghai Allied Cement Ltd" />
+  <SYMBOL Code="01061" Name="Hinet Holdings W0302" />
+  <SYMBOL Code="01062" Name="New Capital International Investment Ltd" />
+  <SYMBOL Code="01063" Name="SunCorp Technologies Ltd" />
+  <SYMBOL Code="01064" Name="Zhong Hua International Holdings Ltd" />
+  <SYMBOL Code="01065" Name="Tianjin Capital Environmental Protection Co. Ltd" />
+  <SYMBOL Code="01066" Name="Weigao Group" />
+  <SYMBOL Code="01068" Name="China Yurun Food Group Ltd" />
+  <SYMBOL Code="01069" Name="" />
+  <SYMBOL Code="01070" Name="TCL Multimedia Technology Holdings Ltd" />
+  <SYMBOL Code="01071" Name="Huadian Power International Corporation Ltd" />
+  <SYMBOL Code="01072" Name="Dongfang Electrical Machinery Co. Ltd" />
+  <SYMBOL Code="01073" Name="China Agrotech Holdings Ltd" />
+  <SYMBOL Code="01075" Name="Capinfo" />
+  <SYMBOL Code="01076" Name="First Natural Foods Holdings Ltd" />
+  <SYMBOL Code="01079" Name="" />
+  <SYMBOL Code="01080" Name="Shengli Pipe" />
+  <SYMBOL Code="01082" Name="" />
+  <SYMBOL Code="01083" Name="Panva Gas Holdings Ltd" />
+  <SYMBOL Code="01085" Name="Hengxin Technology Ltd" />
+  <SYMBOL Code="01086" Name="Goodbaby International Holding" />
+  <SYMBOL Code="01087" Name="" />
+  <SYMBOL Code="01088" Name="China Shenhua Energy Co. Ltd" />
+  <SYMBOL Code="01089" Name="" />
+  <SYMBOL Code="01090" Name="" />
+  <SYMBOL Code="01091" Name="CITIC DAMENG" />
+  <SYMBOL Code="01093" Name="China Pharmaceutical Group Ltd" />
+  <SYMBOL Code="01094" Name="Sunny Global Holdings Ltd" />
+  <SYMBOL Code="01096" Name="" />
+  <SYMBOL Code="01097" Name="i-CABLE Communications Ltd" />
+  <SYMBOL Code="01098" Name="Road King Infrastructure Ltd" />
+  <SYMBOL Code="01099" Name="Sinopharm Group Co Ltd" />
+  <SYMBOL Code="01100" Name="Mainland Headwear Holdings Ltd" />
+  <SYMBOL Code="01101" Name="China Rongsheng Heavy Industries Group Ltd" />
+  <SYMBOL Code="01102" Name="" />
+  <SYMBOL Code="01103" Name="Shanghai Tonva" />
+  <SYMBOL Code="01104" Name="Shanghai Merchants Holdings Ltd" />
+  <SYMBOL Code="01105" Name="Sing Tao News Corporation Ltd" />
+  <SYMBOL Code="01106" Name="" />
+  <SYMBOL Code="01107" Name="" />
+  <SYMBOL Code="01108" Name="Luoyang Glass Co Ltd" />
+  <SYMBOL Code="01109" Name="China Resources Land Ltd" />
+  <SYMBOL Code="01110" Name="China National Aviation Co. Ltd." />
+  <SYMBOL Code="01111" Name="Chong Hing Bank Limited" />
+  <SYMBOL Code="01112" Name="" />
+  <SYMBOL Code="01113" Name="" />
+  <SYMBOL Code="01114" Name="Brilliance China Automotive Holdings Ltd" />
+  <SYMBOL Code="01115" Name="Tibet 5100 Water Resources Holdings Ltd" />
+  <SYMBOL Code="01116" Name="Mayer Holdings Ltd" />
+  <SYMBOL Code="01117" Name="China Modern Dairy Holdings" />
+  <SYMBOL Code="01118" Name="Golik Holdings Ltd" />
+  <SYMBOL Code="01120" Name="Arts Optical International Holdings Ltd" />
+  <SYMBOL Code="01121" Name="BAOFENGMODERN" />
+  <SYMBOL Code="01122" Name="Qingling Motors Co. Ltd" />
+  <SYMBOL Code="01123" Name="China-Hongkong Photo Products Holdings Ltd" />
+  <SYMBOL Code="01124" Name="Coastal Greenland Ltd" />
+  <SYMBOL Code="01125" Name="Lai Fung Holdings Ltd" />
+  <SYMBOL Code="01126" Name="Dream International Ltd" />
+  <SYMBOL Code="01127" Name="" />
+  <SYMBOL Code="01128" Name="Wynn Macau Ltd" />
+  <SYMBOL Code="01129" Name="Sky Hawk Computer Group Holdings Ltd" />
+  <SYMBOL Code="01130" Name="Benefun International Holdings Ltd" />
+  <SYMBOL Code="01131" Name="Kwong Hing International Holdings (Bermuda) Ltd" />
+  <SYMBOL Code="01132" Name="Golden Harvest Entertainment (Holdings) Ltd" />
+  <SYMBOL Code="01133" Name="Harbin Power Equipment Co. Ltd" />
+  <SYMBOL Code="01135" Name="Asia Satellite Telecommunications Holdings Ltd" />
+  <SYMBOL Code="01137" Name="City Telecom (H.K.) Ltd" />
+  <SYMBOL Code="01138" Name="China Shipping Development Co. Ltd" />
+  <SYMBOL Code="01139" Name="Victory Group" />
+  <SYMBOL Code="01140" Name="Concepta Investments Ltd" />
+  <SYMBOL Code="01141" Name="Xin Corporation Ltd" />
+  <SYMBOL Code="01142" Name="Rontex International Holdings Ltd" />
+  <SYMBOL Code="01143" Name="" />
+  <SYMBOL Code="01145" Name="" />
+  <SYMBOL Code="01146" Name="" />
+  <SYMBOL Code="01148" Name="" />
+  <SYMBOL Code="01149" Name="Broad Intelligence Int'l Pharmaceutical Holdings Ltd" />
+  <SYMBOL Code="01150" Name="Milan Station Ltd" />
+  <SYMBOL Code="01151" Name="" />
+  <SYMBOL Code="01152" Name="" />
+  <SYMBOL Code="01155" Name="Centron Telecom" />
+  <SYMBOL Code="01157" Name="Zoomlion" />
+  <SYMBOL Code="01159" Name="Karce International Holdings Co. Ltd" />
+  <SYMBOL Code="01160" Name="Grand Investment International Ltd" />
+  <SYMBOL Code="01161" Name="Water Oasis Group Ltd" />
+  <SYMBOL Code="01164" Name="Vital BioTech Holdings Ltd" />
+  <SYMBOL Code="01165" Name="" />
+  <SYMBOL Code="01166" Name="Solartech International Holdings Ltd" />
+  <SYMBOL Code="01168" Name="Sinolink Worldwide Holdings Ltd" />
+  <SYMBOL Code="01169" Name="Haier Electronics Group Co. Ltd" />
+  <SYMBOL Code="01170" Name="Kingmaker Footwear Holdings Ltd" />
+  <SYMBOL Code="01171" Name="Yanzhou Coal Mining Co. Ltd" />
+  <SYMBOL Code="01172" Name="Midas International Holdings Ltd" />
+  <SYMBOL Code="01173" Name="Veeko International Holdings Ltd" />
+  <SYMBOL Code="01174" Name="Pacific Andes International Holdings Ltd" />
+  <SYMBOL Code="01175" Name="FU JI Food and Catering Services Holdings Ltd" />
+  <SYMBOL Code="01176" Name="Nam Fong International Holdings Ltd" />
+  <SYMBOL Code="01177" Name="Sino Biopharmaceutical Ltd" />
+  <SYMBOL Code="01178" Name="Vitop Bioenergy Holdings Ltd" />
+  <SYMBOL Code="01180" Name="LifeTec Group Ltd" />
+  <SYMBOL Code="01181" Name="" />
+  <SYMBOL Code="01182" Name="Foundation Group Ltd" />
+  <SYMBOL Code="01184" Name="S.A.S. Dragon Holdings Ltd" />
+  <SYMBOL Code="01185" Name="China Energine" />
+  <SYMBOL Code="01186" Name="Value Partners China Greenchip Fund Ltd" />
+  <SYMBOL Code="01187" Name="Pearl River Tyre (Holdings) Ltd" />
+  <SYMBOL Code="01188" Name="Hybrid Kinetic Group Limited" />
+  <SYMBOL Code="01189" Name="Wing On Travel (Holdings) Ltd" />
+  <SYMBOL Code="01190" Name="Bakers Group International Holding Ltd" />
+  <SYMBOL Code="01191" Name="Yueshou Environmental Holdings" />
+  <SYMBOL Code="01192" Name="Titan Petrochemicals Group Ltd" />
+  <SYMBOL Code="01193" Name="China Resources Gas" />
+  <SYMBOL Code="01194" Name="China Precious Metal Resources" />
+  <SYMBOL Code="01195" Name="Sinotronics Holdings Ltd" />
+  <SYMBOL Code="01196" Name="Cheong Ming Investments Ltd" />
+  <SYMBOL Code="01197" Name="China Hengshi Foundation" />
+  <SYMBOL Code="01198" Name="Chitaly Holdings Ltd" />
+  <SYMBOL Code="01199" Name="COSCO Pacific Ltd" />
+  <SYMBOL Code="01200" Name="Midland Holdings Ltd" />
+  <SYMBOL Code="01201" Name="Kith Holdings Ltd" />
+  <SYMBOL Code="01202" Name="Chengdu PUTIAN Telecommunications Cable Co. Ltd" />
+  <SYMBOL Code="01203" Name="Guangnan (Holdings) Ltd" />
+  <SYMBOL Code="01205" Name="CITIC Resources Holdings Ltd" />
+  <SYMBOL Code="01206" Name="" />
+  <SYMBOL Code="01207" Name="SRE Group Limited" />
+  <SYMBOL Code="01208" Name="Minmetals Resources Ltd" />
+  <SYMBOL Code="01210" Name="" />
+  <SYMBOL Code="01211" Name="BYD Co. Ltd" />
+  <SYMBOL Code="01212" Name="Lifestyle International Holdings Ltd" />
+  <SYMBOL Code="01213" Name="Mobicon Group Ltd" />
+  <SYMBOL Code="01215" Name="Guo Xin Group Ltd" />
+  <SYMBOL Code="01216" Name="" />
+  <SYMBOL Code="01217" Name="Sino Technology Investments Co. Ltd" />
+  <SYMBOL Code="01218" Name="Easyknit International Holdings Ltd" />
+  <SYMBOL Code="01219" Name="" />
+  <SYMBOL Code="01220" Name="Ocean Grand Holdings" />
+  <SYMBOL Code="01221" Name="Sino Hotels (Holdings) Ltd" />
+  <SYMBOL Code="01222" Name="Wang On Group Ltd" />
+  <SYMBOL Code="01223" Name="Symphony Holdings Ltd" />
+  <SYMBOL Code="01224" Name="C C Land Holdings" />
+  <SYMBOL Code="01225" Name="Lerado Group (Holding) Co. Ltd" />
+  <SYMBOL Code="01226" Name="Garron International Ltd" />
+  <SYMBOL Code="01227" Name="China Financial Industry Investment Fund Ltd" />
+  <SYMBOL Code="01228" Name="Tak Shun Technology Group Ltd" />
+  <SYMBOL Code="01229" Name="Artfield Group Ltd" />
+  <SYMBOL Code="01230" Name="" />
+  <SYMBOL Code="01231" Name="Deutsche Bank AG - Nikkei 225 Index European Wts Jun 2007 A" />
+  <SYMBOL Code="01232" Name="" />
+  <SYMBOL Code="01233" Name="" />
+  <SYMBOL Code="01234" Name="China Lilang Ltd" />
+  <SYMBOL Code="01235" Name="Deutsche Bank AG - Nikkei 225 Index Euro Put Wts Jun 2007 B" />
+  <SYMBOL Code="01236" Name="Qianlong Technology International" />
+  <SYMBOL Code="01237" Name="Merry Garden Ltd" />
+  <SYMBOL Code="01238" Name="Powerlong Real Estate Holdings Ltd" />
+  <SYMBOL Code="01239" Name="" />
+  <SYMBOL Code="01240" Name="Sunley Holdings Ltd" />
+  <SYMBOL Code="01241" Name="" />
+  <SYMBOL Code="01243" Name="Wang On PPT" />
+  <SYMBOL Code="01245" Name="UBS AG - Esprit European Warrants Sep 2007" />
+  <SYMBOL Code="01246" Name="UBS AG - HSBC European Put Warrants Apr 2007" />
+  <SYMBOL Code="01247" Name="UBS AG - Jiangxi Copper European Warrants Dec 2007" />
+  <SYMBOL Code="01249" Name="" />
+  <SYMBOL Code="01250" Name="Jin Cai Holdings Co Ltd" />
+  <SYMBOL Code="01251" Name="" />
+  <SYMBOL Code="01252" Name="Goldman Sachs SP (Asia) - Foxconn European Wts Mar 2007 A" />
+  <SYMBOL Code="01253" Name="Broad Greenstate International Company Limited" />
+  <SYMBOL Code="01255" Name="" />
+  <SYMBOL Code="01257" Name="" />
+  <SYMBOL Code="01258" Name="China Nonferrous Mining" />
+  <SYMBOL Code="01259" Name="Prince Frog International" />
+  <SYMBOL Code="01260" Name="J P Morgan Int'l Der. Ltd. - Foxconn European Wts Mar 2007" />
+  <SYMBOL Code="01262" Name="Chine Lifestyle Food &amp; Beverage" />
+  <SYMBOL Code="01263" Name="SGA Societe Generale Acceptance N.V. - BOCHK Eu Wts Mar 07 B" />
+  <SYMBOL Code="01265" Name="" />
+  <SYMBOL Code="01266" Name="" />
+  <SYMBOL Code="01268" Name="SGA Societe Generale Acceptance N.V. - N225 Euro Wts Mar 07C" />
+  <SYMBOL Code="01269" Name="Macquarie Bank Ltd. - BOCHK European Warrants May 2007" />
+  <SYMBOL Code="01270" Name="" />
+  <SYMBOL Code="01271" Name="SGA Societe Generale Acceptance N.V. - N225 Eu Put Wt Mar07E" />
+  <SYMBOL Code="01272" Name="Macquarie Bank Ltd. - CHALCO European Warrants May 2007" />
+  <SYMBOL Code="01273" Name="Macquarie Bank Ltd. - Jiangxi Copper European Wts May 2007" />
+  <SYMBOL Code="01275" Name="BNP Paribas Arbit Issu B.V. - BOCHK European Wts Mar 2007" />
+  <SYMBOL Code="01277" Name="BNP Paribas Arbit Issu B.V. - HSBC European Wts Apr 2007" />
+  <SYMBOL Code="01278" Name="" />
+  <SYMBOL Code="01280" Name="SGA Societe Generale Acceptance N.V. - CHALCO Eur Wt Apr 07B" />
+  <SYMBOL Code="01281" Name="SGA Societe Generale Acceptance N.V. - CK(H) Euro Wts Mar 07" />
+  <SYMBOL Code="01282" Name="" />
+  <SYMBOL Code="01285" Name="" />
+  <SYMBOL Code="01288" Name="Agricultural Bank of China Ltd" />
+  <SYMBOL Code="01289" Name="Wuxi Sunlit Science Limited" />
+  <SYMBOL Code="01290" Name="" />
+  <SYMBOL Code="01292" Name="" />
+  <SYMBOL Code="01293" Name="Baoxin Auto Group Limited" />
+  <SYMBOL Code="01296" Name="" />
+  <SYMBOL Code="01297" Name="SGA Societe Generale Acceptance N.V. - CP&amp;CC Euro Wts Mar 07" />
+  <SYMBOL Code="01298" Name="Techcomp (Holdings)" />
+  <SYMBOL Code="01299" Name="SGA Societe Generale Acceptance N.V. - HSI Euro Wts Mar 07 B" />
+  <SYMBOL Code="01300" Name="SGA Societe Generale Acceptance N.V. - HSBC Eur Wts Apr 2008" />
+  <SYMBOL Code="01301" Name="HK Bank - HKEx European Warrants Mar 2007" />
+  <SYMBOL Code="01302" Name="Lifetech Scientific Corporation" />
+  <SYMBOL Code="01303" Name="" />
+  <SYMBOL Code="01305" Name="" />
+  <SYMBOL Code="01308" Name="Deutsche Bank AG - China Mobile European Warrants Mar 2007" />
+  <SYMBOL Code="01310" Name="" />
+  <SYMBOL Code="01312" Name="" />
+  <SYMBOL Code="01313" Name="China Resources Cement Holdings Ltd" />
+  <SYMBOL Code="01314" Name="Tsui Wah Holding" />
+  <SYMBOL Code="01315" Name="" />
+  <SYMBOL Code="01316" Name="Nexteer" />
+  <SYMBOL Code="01317" Name="China Maple Leaf Educational Systems Limited" />
+  <SYMBOL Code="01318" Name="J P Morgan Int'l Der. Ltd. - HS Bank European Wts Mar 2007" />
+  <SYMBOL Code="01319" Name="J P Morgan Int'l Der. Ltd. - JX Copper European Wts Mar 2007" />
+  <SYMBOL Code="01321" Name="J P Morgan Int'l Der. Ltd. - PICC P&amp;C European Wts Mar 2007" />
+  <SYMBOL Code="01322" Name="J P Morgan Int'l Der. Ltd. - Sh Petrochem Euro Wts Mar 2007" />
+  <SYMBOL Code="01323" Name="" />
+  <SYMBOL Code="01326" Name="Pegasus Ent" />
+  <SYMBOL Code="01327" Name="Time2u International Holding Limited" />
+  <SYMBOL Code="01328" Name="International Elite Ltd" />
+  <SYMBOL Code="01329" Name="" />
+  <SYMBOL Code="01330" Name="SGA Societe Generale Acceptance N.V. - HSBC Eur Wts Apr 07 A" />
+  <SYMBOL Code="01332" Name="Qualipak International" />
+  <SYMBOL Code="01333" Name="BOCI Asia Ltd. - CNOOC European Warrants Jun 2007" />
+  <SYMBOL Code="01335" Name="BOCI Asia Ltd. - Kingboard European Warrants Jun 2007" />
+  <SYMBOL Code="01336" Name="New China Life Insurance Company" />
+  <SYMBOL Code="01337" Name="" />
+  <SYMBOL Code="01338" Name="Macquarie Bank Ltd. - HSBC European Put Warrants Mar 2007" />
+  <SYMBOL Code="01339" Name="Fortis Bank S.A./N.V. - Bank of EA European Wts Jul 2007" />
+  <SYMBOL Code="01340" Name="Fortis Bank S.A./N.V. - China Mobile European Wts Sep 2007" />
+  <SYMBOL Code="01341" Name="Clear Lift" />
+  <SYMBOL Code="01345" Name="" />
+  <SYMBOL Code="01347" Name="" />
+  <SYMBOL Code="01348" Name="" />
+  <SYMBOL Code="01349" Name="" />
+  <SYMBOL Code="01350" Name="Goldman Sachs SP (Asia) - Foxconn European Put Wts Mar 2007" />
+  <SYMBOL Code="01353" Name="" />
+  <SYMBOL Code="01355" Name="Macquarie Bank Ltd. - Zijin Mining European Wts Apr 2007" />
+  <SYMBOL Code="01357" Name="Citigroup Global Mkt H Inc. - HSBC European Wts Mar 2007" />
+  <SYMBOL Code="01358" Name="Citigroup Global Mkt H Inc. - HSBC European Wts Apr 2007 B" />
+  <SYMBOL Code="01359" Name="China Cinda" />
+  <SYMBOL Code="01360" Name="" />
+  <SYMBOL Code="01361" Name="SGA Societe Generale Acceptance N.V. - PetCh Eur Wts Apr 08" />
+  <SYMBOL Code="01362" Name="SiS Mobile Holdings Limited" />
+  <SYMBOL Code="01363" Name="CTEG" />
+  <SYMBOL Code="01365" Name="" />
+  <SYMBOL Code="01366" Name="Jiangnan Group Ltd" />
+  <SYMBOL Code="01367" Name="Hanbo Enterprises Holdings Limited" />
+  <SYMBOL Code="01368" Name="Xtep International Holdings Ltd" />
+  <SYMBOL Code="01369" Name="" />
+  <SYMBOL Code="01370" Name="Calyon Fin P (G) Ltd. - Agile Ppt European Warrants Mar 2007" />
+  <SYMBOL Code="01371" Name="China Lotsyn" />
+  <SYMBOL Code="01372" Name="Citigroup Global Mkt H Inc. - Ch Mobile Eur Put Wts Apr 2007" />
+  <SYMBOL Code="01373" Name="Calyon Fin P (G) Ltd. - Zijin Mining European Wts Mar 2007" />
+  <SYMBOL Code="01375" Name="Central China Securities" />
+  <SYMBOL Code="01378" Name="China Hong Gqiao" />
+  <SYMBOL Code="01380" Name="SGA Societe Generale Acceptance N.V. - SHK Ppt Eu Wt Apr 07A" />
+  <SYMBOL Code="01381" Name="" />
+  <SYMBOL Code="01382" Name="Pacific Textiles Holdings Ltd" />
+  <SYMBOL Code="01383" Name="Hong Long Holdings Ltd" />
+  <SYMBOL Code="01385" Name="" />
+  <SYMBOL Code="01386" Name="Walker Group Holdings Ltd" />
+  <SYMBOL Code="01387" Name="Renhe Commercial Holdings" />
+  <SYMBOL Code="01388" Name="Embry Holdings Ltd" />
+  <SYMBOL Code="01389" Name="Major Holding" />
+  <SYMBOL Code="01393" Name="Hidili Industry International Devt Ltd" />
+  <SYMBOL Code="01395" Name="Ell Env" />
+  <SYMBOL Code="01396" Name="Hydoo International" />
+  <SYMBOL Code="01397" Name="Baguio Green" />
+  <SYMBOL Code="01398" Name="Industrial and Commercial Bank of China Ltd" />
+  <SYMBOL Code="01399" Name="Scud Group Ltd" />
+  <SYMBOL Code="01400" Name="Wang Tai Holdings" />
+  <SYMBOL Code="01415" Name="Cowell e Holdings Inc" />
+  <SYMBOL Code="01417" Name="" />
+  <SYMBOL Code="01418" Name="" />
+  <SYMBOL Code="01419" Name="Human Health" />
+  <SYMBOL Code="01420" Name="Chuan Holdings Limited" />
+  <SYMBOL Code="01421" Name="King Bostrike" />
+  <SYMBOL Code="01426" Name="" />
+  <SYMBOL Code="01428" Name="" />
+  <SYMBOL Code="01430" Name="Sushuang Gas" />
+  <SYMBOL Code="01431" Name="" />
+  <SYMBOL Code="01432" Name="" />
+  <SYMBOL Code="01437" Name="" />
+  <SYMBOL Code="01439" Name="" />
+  <SYMBOL Code="01443" Name="" />
+  <SYMBOL Code="01446" Name="" />
+  <SYMBOL Code="01447" Name="SFK Construction Holdings" />
+  <SYMBOL Code="01448" Name="" />
+  <SYMBOL Code="01450" Name="" />
+  <SYMBOL Code="01452" Name="Denox Environmental &amp; Technology Holdings" />
+  <SYMBOL Code="01456" Name="" />
+  <SYMBOL Code="01458" Name="" />
+  <SYMBOL Code="01459" Name="Jujiang Cons" />
+  <SYMBOL Code="01460" Name="" />
+  <SYMBOL Code="01461" Name="" />
+  <SYMBOL Code="01462" Name="Nga Chun Holdings Company" />
+  <SYMBOL Code="01466" Name="Man Sang Jewellery Holdings" />
+  <SYMBOL Code="01468" Name="" />
+  <SYMBOL Code="01469" Name="Get Nice Finance Company Limited" />
+  <SYMBOL Code="01470" Name="Tic Tac" />
+  <SYMBOL Code="01475" Name="" />
+  <SYMBOL Code="01476" Name="" />
+  <SYMBOL Code="01478" Name="" />
+  <SYMBOL Code="01480" Name="Yan Tat Group" />
+  <SYMBOL Code="01482" Name="" />
+  <SYMBOL Code="01483" Name="" />
+  <SYMBOL Code="01486" Name="C Cheng Holdings Limited" />
+  <SYMBOL Code="01487" Name="" />
+  <SYMBOL Code="01488" Name="" />
+  <SYMBOL Code="01492" Name="China ZhongDi Dairy Holdings Company" />
+  <SYMBOL Code="01495" Name="Jiyi Household International Holdings" />
+  <SYMBOL Code="01496" Name="AP Rentals Holdings Limited" />
+  <SYMBOL Code="01498" Name="" />
+  <SYMBOL Code="01499" Name="Leap Holdings Group" />
+  <SYMBOL Code="01500" Name="" />
+  <SYMBOL Code="01508" Name="China Reinsurance (Group) Corporation" />
+  <SYMBOL Code="01509" Name="" />
+  <SYMBOL Code="01513" Name="" />
+  <SYMBOL Code="01515" Name="Phoenix Health" />
+  <SYMBOL Code="01518" Name="" />
+  <SYMBOL Code="01520" Name="Runaway Global" />
+  <SYMBOL Code="01522" Name="" />
+  <SYMBOL Code="01523" Name="" />
+  <SYMBOL Code="01526" Name="" />
+  <SYMBOL Code="01527" Name="Zhejiang Tengy Environmental Technology" />
+  <SYMBOL Code="01528" Name="" />
+  <SYMBOL Code="01530" Name="" />
+  <SYMBOL Code="01532" Name="China Partytime Culture Holdings" />
+  <SYMBOL Code="01533" Name="" />
+  <SYMBOL Code="01536" Name="" />
+  <SYMBOL Code="01537" Name="" />
+  <SYMBOL Code="01538" Name="Zhong Ao Home Group" />
+  <SYMBOL Code="01539" Name="Synergy Group" />
+  <SYMBOL Code="01543" Name="" />
+  <SYMBOL Code="01546" Name="" />
+  <SYMBOL Code="01547" Name="" />
+  <SYMBOL Code="01548" Name="Genscript Biotech Corporation" />
+  <SYMBOL Code="01549" Name="Ever Harvest Group Holdings" />
+  <SYMBOL Code="01551" Name="" />
+  <SYMBOL Code="01552" Name="" />
+  <SYMBOL Code="01555" Name="MIE Holdings Corporation" />
+  <SYMBOL Code="01556" Name="Chinney Kin Wing Holdings" />
+  <SYMBOL Code="01557" Name="KH GP Holdings" />
+  <SYMBOL Code="01558" Name="YiChang HEC ChangJiang Pharmaceutical" />
+  <SYMBOL Code="01559" Name="Kwan On Holdings" />
+  <SYMBOL Code="01560" Name="" />
+  <SYMBOL Code="01561" Name="Manfield Chem" />
+  <SYMBOL Code="01565" Name="Virscend Education Company Limited" />
+  <SYMBOL Code="01566" Name="China Animation Characters Company" />
+  <SYMBOL Code="01568" Name="Sundart Holdings Limited" />
+  <SYMBOL Code="01569" Name="Minsheng EDU" />
+  <SYMBOL Code="01570" Name="Weiye Holdings Limited" />
+  <SYMBOL Code="01571" Name="Xin Point Hold" />
+  <SYMBOL Code="01572" Name="China Art Fin" />
+  <SYMBOL Code="01573" Name="China Unienergy Group Ltd" />
+  <SYMBOL Code="01575" Name="Morris Holdings Limited" />
+  <SYMBOL Code="01577" Name="" />
+  <SYMBOL Code="01578" Name="" />
+  <SYMBOL Code="01579" Name="" />
+  <SYMBOL Code="01580" Name="Da Sen Holdings Group" />
+  <SYMBOL Code="01581" Name="Progressive Path Group" />
+  <SYMBOL Code="01583" Name="" />
+  <SYMBOL Code="01585" Name="" />
+  <SYMBOL Code="01586" Name="China Leon" />
+  <SYMBOL Code="01588" Name="" />
+  <SYMBOL Code="01589" Name="China Logistics Property Holdings" />
+  <SYMBOL Code="01590" Name="" />
+  <SYMBOL Code="01591" Name="Shun Wo Group Holdings" />
+  <SYMBOL Code="01596" Name="" />
+  <SYMBOL Code="01599" Name="" />
+  <SYMBOL Code="01600" Name="" />
+  <SYMBOL Code="01606" Name="" />
+  <SYMBOL Code="01608" Name="Vpower Group" />
+  <SYMBOL Code="01609" Name="" />
+  <SYMBOL Code="01610" Name="COFCO Meat Holdings Limited" />
+  <SYMBOL Code="01611" Name="Pantronics Holdings" />
+  <SYMBOL Code="01612" Name="Vincent Med" />
+  <SYMBOL Code="01613" Name="" />
+  <SYMBOL Code="01616" Name="Silverman Holdings Ltd" />
+  <SYMBOL Code="01617" Name="Nanfang Communication Holdings Limited" />
+  <SYMBOL Code="01618" Name="MCC" />
+  <SYMBOL Code="01619" Name="Tianhe Chemicals Group Limited" />
+  <SYMBOL Code="01622" Name="" />
+  <SYMBOL Code="01623" Name="" />
+  <SYMBOL Code="01626" Name="" />
+  <SYMBOL Code="01627" Name="Able Engineering Holdings Limited" />
+  <SYMBOL Code="01628" Name="Ford Motor Credit Company 10 N0201" />
+  <SYMBOL Code="01629" Name="MENGKE Holdings" />
+  <SYMBOL Code="01630" Name="Kin Shing Holdings" />
+  <SYMBOL Code="01631" Name="" />
+  <SYMBOL Code="01632" Name="Foodwise Holding" />
+  <SYMBOL Code="01633" Name="Sheung Yue Group Holdings Limited" />
+  <SYMBOL Code="01635" Name="" />
+  <SYMBOL Code="01636" Name="CMRU" />
+  <SYMBOL Code="01637" Name="SH Group Holdings" />
+  <SYMBOL Code="01638" Name="Kaisa Group" />
+  <SYMBOL Code="01639" Name="AKM Industrial" />
+  <SYMBOL Code="01647" Name="Shis Limited" />
+  <SYMBOL Code="01649" Name="" />
+  <SYMBOL Code="01651" Name="" />
+  <SYMBOL Code="01655" Name="" />
+  <SYMBOL Code="01656" Name="" />
+  <SYMBOL Code="01658" Name="" />
+  <SYMBOL Code="01660" Name="Sanroc International" />
+  <SYMBOL Code="01661" Name="" />
+  <SYMBOL Code="01662" Name="Yee Hop Holdings Limited" />
+  <SYMBOL Code="01663" Name="Sino Harbour Property Group Limited" />
+  <SYMBOL Code="01666" Name="Republic Of Italy 100n0205" />
+  <SYMBOL Code="01667" Name="Milestone Build" />
+  <SYMBOL Code="01668" Name="China South City Holdings Ltd" />
+  <SYMBOL Code="01669" Name="" />
+  <SYMBOL Code="01673" Name="" />
+  <SYMBOL Code="01676" Name="" />
+  <SYMBOL Code="01677" Name="" />
+  <SYMBOL Code="01678" Name="" />
+  <SYMBOL Code="01679" Name="Risecomm Group Holdings" />
+  <SYMBOL Code="01680" Name="" />
+  <SYMBOL Code="01681" Name="" />
+  <SYMBOL Code="01682" Name="Highlight China IoT International Ltd" />
+  <SYMBOL Code="01683" Name="LC Group Holdings Limited" />
+  <SYMBOL Code="01685" Name="Boer Power Holdings Ltd" />
+  <SYMBOL Code="01689" Name="" />
+  <SYMBOL Code="01693" Name="" />
+  <SYMBOL Code="01695" Name="" />
+  <SYMBOL Code="01696" Name="" />
+  <SYMBOL Code="01697" Name="" />
+  <SYMBOL Code="01698" Name="Toyota Motor Credit Corporation 100 N0305" />
+  <SYMBOL Code="01699" Name="China Putian Food Ltd" />
+  <SYMBOL Code="01700" Name="" />
+  <SYMBOL Code="01702" Name="Dongguang Chemical Limited" />
+  <SYMBOL Code="01706" Name="" />
+  <SYMBOL Code="01707" Name="Geotech Holdings Limited" />
+  <SYMBOL Code="01708" Name="" />
+  <SYMBOL Code="01709" Name="" />
+  <SYMBOL Code="01710" Name="" />
+  <SYMBOL Code="01717" Name="Ausnutria" />
+  <SYMBOL Code="01718" Name="Wan Kei Group Holdings" />
+  <SYMBOL Code="01720" Name="" />
+  <SYMBOL Code="01722" Name="" />
+  <SYMBOL Code="01727" Name="" />
+  <SYMBOL Code="01728" Name="Zhentong Auto Services Holding" />
+  <SYMBOL Code="01730" Name="" />
+  <SYMBOL Code="01733" Name="Winsway" />
+  <SYMBOL Code="01738" Name="" />
+  <SYMBOL Code="01766" Name="CSR Corporation Limited" />
+  <SYMBOL Code="01771" Name="" />
+  <SYMBOL Code="01776" Name="GF Sec" />
+  <SYMBOL Code="01777" Name="Fantasia Holdings Group Co Ltd" />
+  <SYMBOL Code="01778" Name="Colour Life Services Group" />
+  <SYMBOL Code="01786" Name="CRCC High-Tech Equipment" />
+  <SYMBOL Code="01788" Name="" />
+  <SYMBOL Code="01789" Name="" />
+  <SYMBOL Code="01798" Name="Datang Corp Renewable Power" />
+  <SYMBOL Code="01799" Name="" />
+  <SYMBOL Code="01800" Name="China Communications Construction Co Ltd" />
+  <SYMBOL Code="01803" Name="" />
+  <SYMBOL Code="01808" Name="Tai-I International Holdings Ltd" />
+  <SYMBOL Code="01811" Name="CGN Meiya Power Holdings" />
+  <SYMBOL Code="01812" Name="CHENMING PAPER" />
+  <SYMBOL Code="01813" Name="KWG Property Holding Ltd" />
+  <SYMBOL Code="01816" Name="" />
+  <SYMBOL Code="01818" Name="Zhaojin Mining Industry Co. Ltd" />
+  <SYMBOL Code="01819" Name="" />
+  <SYMBOL Code="01822" Name="" />
+  <SYMBOL Code="01823" Name="Huayu Expressway" />
+  <SYMBOL Code="01826" Name="" />
+  <SYMBOL Code="01828" Name="Dah Chong Hong Holding Ltd" />
+  <SYMBOL Code="01829" Name="CMEC" />
+  <SYMBOL Code="01830" Name="" />
+  <SYMBOL Code="01831" Name="" />
+  <SYMBOL Code="01836" Name="Stella International Holdings Ltd" />
+  <SYMBOL Code="01838" Name="China Properties Group Ltd" />
+  <SYMBOL Code="01848" Name="China Aircraft Leasing Group" />
+  <SYMBOL Code="01856" Name="Ernest Borel Holdings Limited" />
+  <SYMBOL Code="01858" Name="" />
+  <SYMBOL Code="01862" Name="Sino Gold Mining" />
+  <SYMBOL Code="01863" Name="Sijia Group Co Ltd" />
+  <SYMBOL Code="01866" Name="Neo-Neon Holdings Ltd" />
+  <SYMBOL Code="01868" Name="Neo-Neon Holdings Ltd" />
+  <SYMBOL Code="01878" Name="SouthGobi Energy Resources" />
+  <SYMBOL Code="01881" Name="Regal Real Estate Investment Trust" />
+  <SYMBOL Code="01882" Name="Haitian International Holdings Ltd" />
+  <SYMBOL Code="01883" Name="Citic Telecom International Holdings" />
+  <SYMBOL Code="01884" Name="Eprint Group" />
+  <SYMBOL Code="01885" Name="" />
+  <SYMBOL Code="01886" Name="China Huiyuan Juice Group Ltd" />
+  <SYMBOL Code="01888" Name="Kingboard Laminates Holdings Ltd" />
+  <SYMBOL Code="01889" Name="Wuyi International Pharmaceutical Co. Ltd" />
+  <SYMBOL Code="01893" Name="China National Materials Company Ltd" />
+  <SYMBOL Code="01898" Name="China Coal Energy Co. Ltd" />
+  <SYMBOL Code="01899" Name="Xingda International Holdings Ltd" />
+  <SYMBOL Code="01900" Name="China ITS (Holdings) Co Ltd" />
+  <SYMBOL Code="01908" Name="South West Eco Development" />
+  <SYMBOL Code="01910" Name="Samsonite International SA" />
+  <SYMBOL Code="01913" Name="Prada SPA" />
+  <SYMBOL Code="01918" Name="" />
+  <SYMBOL Code="01919" Name="China COSCO Holdings Co. Ltd" />
+  <SYMBOL Code="01928" Name="Sands China Ltd" />
+  <SYMBOL Code="01929" Name="Chow Tai Fook" />
+  <SYMBOL Code="01932" Name="CPM Group Limited" />
+  <SYMBOL Code="01938" Name="Chu Kong Pipe" />
+  <SYMBOL Code="01958" Name="" />
+  <SYMBOL Code="01962" Name="" />
+  <SYMBOL Code="01963" Name="" />
+  <SYMBOL Code="01966" Name="China SCE PPT" />
+  <SYMBOL Code="01970" Name="IMAX China Holding" />
+  <SYMBOL Code="01972" Name="Swire Properties Ltd" />
+  <SYMBOL Code="01975" Name="" />
+  <SYMBOL Code="01979" Name="" />
+  <SYMBOL Code="01980" Name="" />
+  <SYMBOL Code="01982" Name="" />
+  <SYMBOL Code="01985" Name="" />
+  <SYMBOL Code="01986" Name="Tsaker Chemical Group Ltd" />
+  <SYMBOL Code="01988" Name="Minsheng Bank Corp" />
+  <SYMBOL Code="01989" Name="Pine Care Group Limited" />
+  <SYMBOL Code="01991" Name="TA Yang Group Holdings Ltd" />
+  <SYMBOL Code="01993" Name="Asiaray Media Group Limited" />
+  <SYMBOL Code="01997" Name="" />
+  <SYMBOL Code="01998" Name="Flyke International Holdings Ltd" />
+  <SYMBOL Code="01999" Name="Man Wah Holdings Limited" />
+  <SYMBOL Code="02000" Name="SIM Technology Group Ltd" />
+  <SYMBOL Code="02001" Name="" />
+  <SYMBOL Code="02002" Name="China Sunshine Paper Holdings Company Ltd" />
+  <SYMBOL Code="02005" Name="Lijun International Pharmaceutical (Holding) Co. Ltd" />
+  <SYMBOL Code="02006" Name="Shanghai Jin Jiang Int'l Hotels (Group) Co. Ltd" />
+  <SYMBOL Code="02007" Name="Country Garden Holdings Company Ltd" />
+  <SYMBOL Code="02008" Name="Phoenix Satellite Television Holdings" />
+  <SYMBOL Code="02009" Name="BBMG Corp" />
+  <SYMBOL Code="02010" Name="RUINIAN" />
+  <SYMBOL Code="02011" Name="Kee" />
+  <SYMBOL Code="02012" Name="" />
+  <SYMBOL Code="02014" Name="Ozner Water International" />
+  <SYMBOL Code="02016" Name="" />
+  <SYMBOL Code="02017" Name="Chanhigh Holdings" />
+  <SYMBOL Code="02018" Name="AAC Acoustic Technologies Holdings Inc." />
+  <SYMBOL Code="02020" Name="Anta Sports" />
+  <SYMBOL Code="02022" Name="" />
+  <SYMBOL Code="02023" Name="" />
+  <SYMBOL Code="02025" Name="" />
+  <SYMBOL Code="02028" Name="Jolimark" />
+  <SYMBOL Code="02030" Name="" />
+  <SYMBOL Code="02031" Name="" />
+  <SYMBOL Code="02033" Name="" />
+  <SYMBOL Code="02038" Name="Foxconn International Holdings Ltd" />
+  <SYMBOL Code="02039" Name="CIMC" />
+  <SYMBOL Code="02066" Name="" />
+  <SYMBOL Code="02068" Name="China Aluminum Intl" />
+  <SYMBOL Code="02078" Name="" />
+  <SYMBOL Code="02080" Name="" />
+  <SYMBOL Code="02083" Name="" />
+  <SYMBOL Code="02086" Name="Advanced Card" />
+  <SYMBOL Code="02088" Name="Xiwang Sugar Holdings Co. Ltd" />
+  <SYMBOL Code="02098" Name="" />
+  <SYMBOL Code="02099" Name="" />
+  <SYMBOL Code="02100" Name="Baioo" />
+  <SYMBOL Code="02111" Name="Best Pacific International Holdings" />
+  <SYMBOL Code="02112" Name="" />
+  <SYMBOL Code="02113" Name="" />
+  <SYMBOL Code="02118" Name="Credit Suisse - BOC HK Euro (AR) Wts Jan 2007" />
+  <SYMBOL Code="02120" Name="SGA Societe Generale Acceptance N.V. - N225 Eu Put Wt Jun07B" />
+  <SYMBOL Code="02121" Name="" />
+  <SYMBOL Code="02122" Name="ABN AMRO Bank N.V. - China Telecom European Wts Oct 2006" />
+  <SYMBOL Code="02123" Name="" />
+  <SYMBOL Code="02128" Name="ABN AMRO Bank N.V. - CC Bank European Warrants Sep 2006 B" />
+  <SYMBOL Code="02133" Name="China Polymetallic Mining" />
+  <SYMBOL Code="02136" Name="Lifestyle China Group Limited" />
+  <SYMBOL Code="02138" Name="Union Medical Healthcare Limited" />
+  <SYMBOL Code="02166" Name="" />
+  <SYMBOL Code="02178" Name="Macquarie Bank Ltd. - China Life European Wts Mar 2007 B" />
+  <SYMBOL Code="02183" Name="Lifestyle PPT" />
+  <SYMBOL Code="02186" Name="Luye Pharma Group Ltd" />
+  <SYMBOL Code="02188" Name="" />
+  <SYMBOL Code="02193" Name="KBC Fin Products Int'l Ltd. - ICBC European Wts Jul 2007 G" />
+  <SYMBOL Code="02196" Name="Shanghai Fosun" />
+  <SYMBOL Code="02198" Name="SGA Societe Generale Acceptance N.V. - Ch Tel Eur Wt Oct 06" />
+  <SYMBOL Code="02199" Name="Regina Miracle International" />
+  <SYMBOL Code="02200" Name="Hosa International" />
+  <SYMBOL Code="02202" Name="China Vanke Co Limited" />
+  <SYMBOL Code="02203" Name="Top Dynamic International" />
+  <SYMBOL Code="02208" Name="Macquarie Bank Ltd. - HSBC European Warrants Mar 2007 B" />
+  <SYMBOL Code="02211" Name="Jintian Pharm" />
+  <SYMBOL Code="02212" Name="Future Bright Mining Holdings Limited" />
+  <SYMBOL Code="02213" Name="" />
+  <SYMBOL Code="02218" Name="Credit Suisse-sinopec Corp Ec0111" />
+  <SYMBOL Code="02221" Name="New Concepts Holdings Limited" />
+  <SYMBOL Code="02222" Name="NVC Lighting Holding Ltd" />
+  <SYMBOL Code="02223" Name="Macquarie Bank Ltd. - Foxconn European Warrants Jun 2007" />
+  <SYMBOL Code="02225" Name="Kakiko Group Limited" />
+  <SYMBOL Code="02226" Name="" />
+  <SYMBOL Code="02227" Name="" />
+  <SYMBOL Code="02228" Name="Credit Suisse-new World Dev Ec0112" />
+  <SYMBOL Code="02229" Name="Deutsche Bank AG - BankComm European Warrants Jul 2007 B" />
+  <SYMBOL Code="02232" Name="Credit Suisse-new World Dev Ep0111" />
+  <SYMBOL Code="02233" Name="West China Cement Ltd" />
+  <SYMBOL Code="02236" Name="Wison Engineering Services" />
+  <SYMBOL Code="02238" Name="Guangzhou Automobile" />
+  <SYMBOL Code="02239" Name="" />
+  <SYMBOL Code="02255" Name="SGA Societe Generale Acceptance N.V. - HSI Eu Put Wt Mar 07D" />
+  <SYMBOL Code="02266" Name="Lis Enterprise" />
+  <SYMBOL Code="02268" Name="" />
+  <SYMBOL Code="02269" Name="" />
+  <SYMBOL Code="02277" Name="Macquarie Bank Ltd-hutchison Ec0110" />
+  <SYMBOL Code="02278" Name="KBC Fin Products Int'l Ltd. - HSI Euro Put Wts Mar 2007 F" />
+  <SYMBOL Code="02280" Name="HC International" />
+  <SYMBOL Code="02281" Name="Goldman Sachs SP (Asia) - Hutchison European Wts Oct 2006" />
+  <SYMBOL Code="02282" Name="MGM China Holdings Ltd" />
+  <SYMBOL Code="02283" Name="Macquarie Bank Ltd. - HKEx European Put Warrants May 2007" />
+  <SYMBOL Code="02286" Name="" />
+  <SYMBOL Code="02288" Name="SGA Societe Generale Acceptance N.V. - Ping An Eur Wt Apr 07" />
+  <SYMBOL Code="02289" Name="" />
+  <SYMBOL Code="02293" Name="" />
+  <SYMBOL Code="02298" Name="Cosmo Lady (China) Holdings" />
+  <SYMBOL Code="02299" Name="Billion Industrial Holdings Lim" />
+  <SYMBOL Code="02300" Name="AMVIG Holdings" />
+  <SYMBOL Code="02302" Name="United Metals Holdings Ltd" />
+  <SYMBOL Code="02303" Name="" />
+  <SYMBOL Code="02307" Name="Kam Hing International Holdings Ltd" />
+  <SYMBOL Code="02308" Name="" />
+  <SYMBOL Code="02309" Name="Birmingham International Holdings" />
+  <SYMBOL Code="02310" Name="Kwang Sung Electronics H.K. Co. Ltd" />
+  <SYMBOL Code="02312" Name="China Finance Leasing" />
+  <SYMBOL Code="02313" Name="Shenzhou International Group Holdings Ltd" />
+  <SYMBOL Code="02314" Name="Lee &amp; Man Paper Manufacturing Ltd" />
+  <SYMBOL Code="02317" Name="Vedan International (Holdings) Ltd" />
+  <SYMBOL Code="02318" Name="Ping An Insurance (Group) Co. of China Ltd" />
+  <SYMBOL Code="02319" Name="Mengniu Dairy" />
+  <SYMBOL Code="02320" Name="Hop Fung Group Holdings Ltd" />
+  <SYMBOL Code="02322" Name="Sam Woo Holdings Ltd" />
+  <SYMBOL Code="02323" Name="Topsearch International Holdings Ltd" />
+  <SYMBOL Code="02324" Name="Sino Katalytics Investment Corporation" />
+  <SYMBOL Code="02326" Name="BEP International Holdings Ltd" />
+  <SYMBOL Code="02327" Name="Jiwa Bio-Pharm Holdings Ltd" />
+  <SYMBOL Code="02328" Name="PICC Property and Casualty Co. Ltd" />
+  <SYMBOL Code="02329" Name="" />
+  <SYMBOL Code="02330" Name="Quaypoint Corporation" />
+  <SYMBOL Code="02331" Name="Li Ning Co. Ltd" />
+  <SYMBOL Code="02333" Name="Great Wall Motor Co. Ltd" />
+  <SYMBOL Code="02336" Name="Sunlink International Holdings Ltd" />
+  <SYMBOL Code="02337" Name="United Strength Power Holdings" />
+  <SYMBOL Code="02338" Name="Weichai Power Co. Ltd" />
+  <SYMBOL Code="02339" Name="Norstar Founders Group Ltd" />
+  <SYMBOL Code="02340" Name="Synergis Holdings Ltd" />
+  <SYMBOL Code="02341" Name="EcoGreen Fine Chemicals Group Ltd" />
+  <SYMBOL Code="02342" Name="Comba Telecom Systems Holdings Ltd" />
+  <SYMBOL Code="02343" Name="Pacific Basin Shipping Ltd" />
+  <SYMBOL Code="02345" Name="Shanghai Prime Machinery Co. Ltd" />
+  <SYMBOL Code="02348" Name="Dawnrays Pharmaceutical (Holdings) Ltd" />
+  <SYMBOL Code="02349" Name="Wah Yuen Holdings Ltd" />
+  <SYMBOL Code="02355" Name="Baoye Group Co. Ltd" />
+  <SYMBOL Code="02356" Name="Dah Sing Banking Group Ltd" />
+  <SYMBOL Code="02357" Name="AviChina Industry &amp; Technology Co. Ltd" />
+  <SYMBOL Code="02358" Name="Mitsumaru East Kit (Holdings) Ltd" />
+  <SYMBOL Code="02362" Name="Signal Media and Communications Holdings Ltd" />
+  <SYMBOL Code="02366" Name="SMI Culture Group Holdings Ltd" />
+  <SYMBOL Code="02368" Name="Eagle Nice (International) Holdings Ltd" />
+  <SYMBOL Code="02369" Name="China Wireless Technologies Ltd" />
+  <SYMBOL Code="02371" Name="ZZNode Technologies Co. Ltd" />
+  <SYMBOL Code="02378" Name="" />
+  <SYMBOL Code="02379" Name="Zhongtian International Ltd" />
+  <SYMBOL Code="02380" Name="China Power International Development Ltd" />
+  <SYMBOL Code="02382" Name="Sunny Optical Technology (Group) Ltd" />
+  <SYMBOL Code="02383" Name="TOM Group Ltd" />
+  <SYMBOL Code="02386" Name="" />
+  <SYMBOL Code="02388" Name="BOC Hong Kong (Holdings) Ltd" />
+  <SYMBOL Code="02389" Name="Wang Sing International Holdings Group Ltd" />
+  <SYMBOL Code="02393" Name="Yestar International" />
+  <SYMBOL Code="02398" Name="Good Friend International Holdings Inc." />
+  <SYMBOL Code="02399" Name="" />
+  <SYMBOL Code="02468" Name="Goldman Sachs SP (Asia) - N225 Index Euro Wts Mar 2007" />
+  <SYMBOL Code="02488" Name="" />
+  <SYMBOL Code="02588" Name="" />
+  <SYMBOL Code="02600" Name="Aluminum Corporation of China Ltd" />
+  <SYMBOL Code="02601" Name="China Pacific Insurance (Group) Co Ltd" />
+  <SYMBOL Code="02607" Name="" />
+  <SYMBOL Code="02608" Name="" />
+  <SYMBOL Code="02611" Name="" />
+  <SYMBOL Code="02623" Name="" />
+  <SYMBOL Code="02628" Name="China Life Insurance Co. Ltd" />
+  <SYMBOL Code="02633" Name="Nam Tai Electronic &amp; Electrical Products Ltd" />
+  <SYMBOL Code="02638" Name="" />
+  <SYMBOL Code="02662" Name="Fittec International Group Ltd" />
+  <SYMBOL Code="02663" Name="" />
+  <SYMBOL Code="02666" Name="Universal Medical Financial" />
+  <SYMBOL Code="02668" Name="Pak Tak International Ltd" />
+  <SYMBOL Code="02669" Name="China Overseas Property Holdings" />
+  <SYMBOL Code="02678" Name="Texhong Textile Group Ltd" />
+  <SYMBOL Code="02686" Name="Chen Xing" />
+  <SYMBOL Code="02688" Name="XinAo Gas Holdings Ltd" />
+  <SYMBOL Code="02689" Name="Nine Dragons Paper (Holdings) Ltd" />
+  <SYMBOL Code="02698" Name="Weiqiao Textile Co. Ltd" />
+  <SYMBOL Code="02699" Name="" />
+  <SYMBOL Code="02700" Name="Smart Union Group (Holdings) Ltd" />
+  <SYMBOL Code="02708" Name="" />
+  <SYMBOL Code="02722" Name="Chongqing Machinery &amp; Electric Ltd" />
+  <SYMBOL Code="02727" Name="Shanghai Electric Group Co. Ltd" />
+  <SYMBOL Code="02728" Name="Shinhint Acoustic Link Holdings Ltd" />
+  <SYMBOL Code="02738" Name="" />
+  <SYMBOL Code="02768" Name="" />
+  <SYMBOL Code="02777" Name="Guangzhou R&amp;F Properties Co. Ltd" />
+  <SYMBOL Code="02778" Name="Champion Real Estate Investment Trust" />
+  <SYMBOL Code="02788" Name="Yorkey Optical International (Cayman) Ltd" />
+  <SYMBOL Code="02789" Name="" />
+  <SYMBOL Code="02799" Name="" />
+  <SYMBOL Code="02800" Name="Tracker Fund of Hong Kong" />
+  <SYMBOL Code="02801" Name="Chang Hwa Commerciai Bank" />
+  <SYMBOL Code="02802" Name="iShares EM Asia" />
+  <SYMBOL Code="02803" Name="Lyxoretf Rafius" />
+  <SYMBOL Code="02805" Name="" />
+  <SYMBOL Code="02808" Name="" />
+  <SYMBOL Code="02811" Name="" />
+  <SYMBOL Code="02819" Name="ABF Hong Kong Bond Index Fund" />
+  <SYMBOL Code="02821" Name="ABF Pan Asia Bond Index" />
+  <SYMBOL Code="02822" Name="CSOP A50 ETF" />
+  <SYMBOL Code="02823" Name="iShares FTSE A50 China Index ETF" />
+  <SYMBOL Code="02824" Name="" />
+  <SYMBOL Code="02825" Name="" />
+  <SYMBOL Code="02827" Name="Wise CSI200 EFT" />
+  <SYMBOL Code="02828" Name="Hang Seng H-Share Index ETF" />
+  <SYMBOL Code="02832" Name="" />
+  <SYMBOL Code="02833" Name="Hang Seng Index ETF" />
+  <SYMBOL Code="02834" Name="" />
+  <SYMBOL Code="02835" Name="" />
+  <SYMBOL Code="02836" Name="iShares BSE SENSEX India Index" />
+  <SYMBOL Code="02838" Name="Hang Seng FTSE China 25 Index" />
+  <SYMBOL Code="02840" Name="SPDR GOLD TRUST" />
+  <SYMBOL Code="02843" Name="" />
+  <SYMBOL Code="02846" Name="iShares CSI 300 A-Share Index" />
+  <SYMBOL Code="02847" Name="" />
+  <SYMBOL Code="02848" Name="" />
+  <SYMBOL Code="02858" Name="" />
+  <SYMBOL Code="02863" Name="Golden Faith Group Holdings" />
+  <SYMBOL Code="02866" Name="China Shipping Container Lines" />
+  <SYMBOL Code="02868" Name="Beijing Capital Land Ltd" />
+  <SYMBOL Code="02869" Name="" />
+  <SYMBOL Code="02877" Name="China Shineway Pharmaceutical Group Ltd" />
+  <SYMBOL Code="02878" Name="Solomon Systech (International) Ltd" />
+  <SYMBOL Code="02880" Name="Dalian Port (PDA) Co. Ltd" />
+  <SYMBOL Code="02882" Name="Ocean Grand Chemicals Holdings Ltd" />
+  <SYMBOL Code="02883" Name="China Oilfield Services Ltd" />
+  <SYMBOL Code="02886" Name="" />
+  <SYMBOL Code="02888" Name="Standard Chartered PLC" />
+  <SYMBOL Code="02889" Name="China Special Steel Holdings Co. Ltd" />
+  <SYMBOL Code="02898" Name="Long Far Pharmaceutical Holdings Ltd" />
+  <SYMBOL Code="02899" Name="Zijin Mining Group Co. Ltd" />
+  <SYMBOL Code="02906" Name="" />
+  <SYMBOL Code="02912" Name="" />
+  <SYMBOL Code="02914" Name="" />
+  <SYMBOL Code="02915" Name="" />
+  <SYMBOL Code="02918" Name="" />
+  <SYMBOL Code="03007" Name="X DBFXIC25" />
+  <SYMBOL Code="03008" Name="" />
+  <SYMBOL Code="03010" Name="" />
+  <SYMBOL Code="03012" Name="" />
+  <SYMBOL Code="03015" Name="X DBSPCNXNIFTY" />
+  <SYMBOL Code="03016" Name="" />
+  <SYMBOL Code="03019" Name="" />
+  <SYMBOL Code="03020" Name="" />
+  <SYMBOL Code="03021" Name="" />
+  <SYMBOL Code="03024" Name="" />
+  <SYMBOL Code="03027" Name="" />
+  <SYMBOL Code="03036" Name="" />
+  <SYMBOL Code="03040" Name="" />
+  <SYMBOL Code="03041" Name="" />
+  <SYMBOL Code="03043" Name="X DBMSCIPACEXJ" />
+  <SYMBOL Code="03046" Name="VALUE CHINA ETF" />
+  <SYMBOL Code="03048" Name="X DBMSCIBRAZIL" />
+  <SYMBOL Code="03049" Name="X DBMSCIBRAZIL" />
+  <SYMBOL Code="03055" Name="" />
+  <SYMBOL Code="03056" Name="" />
+  <SYMBOL Code="03060" Name="" />
+  <SYMBOL Code="03065" Name="" />
+  <SYMBOL Code="03070" Name="Ping An of China CSI HK Dividend ETF" />
+  <SYMBOL Code="03073" Name="" />
+  <SYMBOL Code="03074" Name="" />
+  <SYMBOL Code="03080" Name="" />
+  <SYMBOL Code="03081" Name="VALUE GOLD ETF" />
+  <SYMBOL Code="03082" Name="" />
+  <SYMBOL Code="03084" Name="Value Japan ETF" />
+  <SYMBOL Code="03085" Name="" />
+  <SYMBOL Code="03086" Name="" />
+  <SYMBOL Code="03087" Name="X DBFTSEVIET" />
+  <SYMBOL Code="03092" Name="" />
+  <SYMBOL Code="03095" Name="" />
+  <SYMBOL Code="03097" Name="" />
+  <SYMBOL Code="03099" Name="" />
+  <SYMBOL Code="03100" Name="" />
+  <SYMBOL Code="03101" Name="Vanguard FTSE Developed Europe ETF" />
+  <SYMBOL Code="03102" Name="" />
+  <SYMBOL Code="03107" Name="" />
+  <SYMBOL Code="03110" Name="" />
+  <SYMBOL Code="03115" Name="" />
+  <SYMBOL Code="03116" Name="" />
+  <SYMBOL Code="03118" Name="" />
+  <SYMBOL Code="03120" Name="" />
+  <SYMBOL Code="03121" Name="" />
+  <SYMBOL Code="03122" Name="" />
+  <SYMBOL Code="03126" Name="" />
+  <SYMBOL Code="03127" Name="" />
+  <SYMBOL Code="03128" Name="" />
+  <SYMBOL Code="03129" Name="" />
+  <SYMBOL Code="03132" Name="" />
+  <SYMBOL Code="03135" Name="" />
+  <SYMBOL Code="03136" Name="" />
+  <SYMBOL Code="03137" Name="" />
+  <SYMBOL Code="03140" Name="" />
+  <SYMBOL Code="03141" Name="" />
+  <SYMBOL Code="03143" Name="" />
+  <SYMBOL Code="03145" Name="" />
+  <SYMBOL Code="03146" Name="" />
+  <SYMBOL Code="03147" Name="CSOP Chinext" />
+  <SYMBOL Code="03149" Name="" />
+  <SYMBOL Code="03150" Name="" />
+  <SYMBOL Code="03155" Name="" />
+  <SYMBOL Code="03156" Name="" />
+  <SYMBOL Code="03157" Name="" />
+  <SYMBOL Code="03160" Name="" />
+  <SYMBOL Code="03161" Name="" />
+  <SYMBOL Code="03162" Name="" />
+  <SYMBOL Code="03165" Name="" />
+  <SYMBOL Code="03167" Name="" />
+  <SYMBOL Code="03170" Name="" />
+  <SYMBOL Code="03171" Name="" />
+  <SYMBOL Code="03173" Name="" />
+  <SYMBOL Code="03175" Name="" />
+  <SYMBOL Code="03177" Name="" />
+  <SYMBOL Code="03180" Name="" />
+  <SYMBOL Code="03188" Name="CAM CSI300" />
+  <SYMBOL Code="03199" Name="" />
+  <SYMBOL Code="03300" Name="China Glass Holdings Ltd" />
+  <SYMBOL Code="03301" Name="" />
+  <SYMBOL Code="03303" Name="Jutal Offshore Oil Services Ltd" />
+  <SYMBOL Code="03306" Name="" />
+  <SYMBOL Code="03308" Name="Golden Eagle Retail Group Ltd" />
+  <SYMBOL Code="03311" Name="China State Construction International Holdings Ltd" />
+  <SYMBOL Code="03313" Name="Meadville Holdings" />
+  <SYMBOL Code="03315" Name="Goldpac Group" />
+  <SYMBOL Code="03318" Name="China Flavors and Fragrances Co. Ltd" />
+  <SYMBOL Code="03320" Name="" />
+  <SYMBOL Code="03322" Name="Win Hanverky Holdings Ltd" />
+  <SYMBOL Code="03323" Name="China National Building Material Co. Ltd" />
+  <SYMBOL Code="03326" Name="Perfect Group International Holdings" />
+  <SYMBOL Code="03328" Name="Bank of Communications Co. Ltd" />
+  <SYMBOL Code="03329" Name="" />
+  <SYMBOL Code="03330" Name="Lingbao Gold Co. Ltd" />
+  <SYMBOL Code="03331" Name="Vinda International Holdings Ltd" />
+  <SYMBOL Code="03332" Name="" />
+  <SYMBOL Code="03333" Name="Evergrande" />
+  <SYMBOL Code="03335" Name="DBA Telecommunication (Asia) Holdings Ltd" />
+  <SYMBOL Code="03336" Name="Ju Teng International Holdings Ltd" />
+  <SYMBOL Code="03337" Name="Anton Oilfield Services Group" />
+  <SYMBOL Code="03339" Name="Lonking" />
+  <SYMBOL Code="03344" Name="Addchance Holdings Ltd" />
+  <SYMBOL Code="03355" Name="Advanced Semiconductor Manufacturing Corporation Ltd -H Shs" />
+  <SYMBOL Code="03358" Name="" />
+  <SYMBOL Code="03360" Name="" />
+  <SYMBOL Code="03363" Name="" />
+  <SYMBOL Code="03366" Name="Huali Holdings (Group) Ltd" />
+  <SYMBOL Code="03368" Name="Parkson Retail Group Ltd" />
+  <SYMBOL Code="03369" Name="" />
+  <SYMBOL Code="03377" Name="Sino-Ocean Land Holdings" />
+  <SYMBOL Code="03378" Name="Xiamen International Port Co. Ltd" />
+  <SYMBOL Code="03380" Name="" />
+  <SYMBOL Code="03382" Name="Tianjin Port Development Holdings Ltd" />
+  <SYMBOL Code="03383" Name="Agile Property Holdings Ltd" />
+  <SYMBOL Code="03389" Name="Hengdeli Holding" />
+  <SYMBOL Code="03393" Name="Wasion Meters Group Ltd" />
+  <SYMBOL Code="03395" Name="" />
+  <SYMBOL Code="03396" Name="" />
+  <SYMBOL Code="03398" Name="China Ting Group Holdings Ltd" />
+  <SYMBOL Code="03399" Name="Guangdong Nan Yue Logistics Co. Ltd" />
+  <SYMBOL Code="03600" Name="Modern Dental Group Limited" />
+  <SYMBOL Code="03606" Name="" />
+  <SYMBOL Code="03608" Name="" />
+  <SYMBOL Code="03618" Name="Chongqing Rural Commerical Bank Ltd" />
+  <SYMBOL Code="03623" Name="" />
+  <SYMBOL Code="03626" Name="" />
+  <SYMBOL Code="03628" Name="KBC Fin Products Int'l Ltd - Ping An European Wts Oct 2006" />
+  <SYMBOL Code="03633" Name="Macquarie Bank Ltd - HKEx European Warrants Oct 2006 A" />
+  <SYMBOL Code="03636" Name="KBC Fin Products Int'l Ltd - Ch Life Euro Put Wts Oct 2006" />
+  <SYMBOL Code="03638" Name="Deutsche Bank AG - China Mobile European Warrants Oct 2006 A" />
+  <SYMBOL Code="03639" Name="Deutsche Bank AG - Nikkei 225 Index European Wts Mar 2007 A" />
+  <SYMBOL Code="03663" Name="Xiezhong International" />
+  <SYMBOL Code="03666" Name="Macquarie Bank Ltd - HSI European Put Warrants Oct 2006 B" />
+  <SYMBOL Code="03669" Name="China Yongda Automobiles" />
+  <SYMBOL Code="03678" Name="Holly Futures Co" />
+  <SYMBOL Code="03683" Name="CC Rabobank B.A. - Hutchison European Warrants Apr 2007" />
+  <SYMBOL Code="03686" Name="Cliffordml" />
+  <SYMBOL Code="03688" Name="" />
+  <SYMBOL Code="03689" Name="KBC Fin Products Int'l Ltd - HSBC European Put Wts Oct 2006" />
+  <SYMBOL Code="03698" Name="Deutsche Bank AG - HSI European Warrants Oct 2006 C" />
+  <SYMBOL Code="03708" Name="Yat Sing Holdings Limited" />
+  <SYMBOL Code="03709" Name="" />
+  <SYMBOL Code="03728" Name="" />
+  <SYMBOL Code="03737" Name="" />
+  <SYMBOL Code="03738" Name="" />
+  <SYMBOL Code="03768" Name="" />
+  <SYMBOL Code="03773" Name="NNK Group Limited" />
+  <SYMBOL Code="03777" Name="" />
+  <SYMBOL Code="03778" Name="" />
+  <SYMBOL Code="03788" Name="" />
+  <SYMBOL Code="03789" Name="Royal Deluxe" />
+  <SYMBOL Code="03799" Name="Dali Foods Group Company" />
+  <SYMBOL Code="03800" Name="GCL-Poly Energy" />
+  <SYMBOL Code="03808" Name="Sinotruk (Hong Kong) Ltd" />
+  <SYMBOL Code="03813" Name="ABN AMRO Bank N.V. - Sinopec Corp European Wts Nov 2006 C" />
+  <SYMBOL Code="03816" Name="KFM Kingdom Holdings" />
+  <SYMBOL Code="03818" Name="China Dongxiang (Group) Ltd" />
+  <SYMBOL Code="03822" Name="Sam Woo Cons" />
+  <SYMBOL Code="03823" Name="Macquarie Bank Ltd - HSI European Warrants Nov 2006" />
+  <SYMBOL Code="03828" Name="Macquarie Bank Ltd - Denway European Warrants Nov 2006" />
+  <SYMBOL Code="03830" Name="Macquarie Bank Ltd - JX Copper European Warrants Jul 2007" />
+  <SYMBOL Code="03833" Name="SGA Societe Generale Acceptance N.V. - PetCh Eu Wt Nov 06 A" />
+  <SYMBOL Code="03836" Name="" />
+  <SYMBOL Code="03838" Name="HK Bank - Jiangxi Copper European Warrants Jan 2007" />
+  <SYMBOL Code="03839" Name="Chia Tai Enterprises International" />
+  <SYMBOL Code="03848" Name="" />
+  <SYMBOL Code="03866" Name="" />
+  <SYMBOL Code="03869" Name="" />
+  <SYMBOL Code="03878" Name="" />
+  <SYMBOL Code="03882" Name="Skylight Holdings" />
+  <SYMBOL Code="03883" Name="KBC Fin Products Int'l Ltd - HSBC European Wts Dec 2006 C" />
+  <SYMBOL Code="03886" Name="Macquarie Bank Ltd - Ch Life European Warrants Dec 2007 B" />
+  <SYMBOL Code="03888" Name="Kingsoft" />
+  <SYMBOL Code="03889" Name="KBC Fin Products Int'l Ltd - Ch Life Euro Wts Nov 2006 A" />
+  <SYMBOL Code="03893" Name="" />
+  <SYMBOL Code="03898" Name="Zhuzhou CSR Times Electric Ltd" />
+  <SYMBOL Code="03899" Name="Enric Energy Equipment Holdings Ltd" />
+  <SYMBOL Code="03900" Name="Greentown China Holdings Ltd" />
+  <SYMBOL Code="03903" Name="Hanhua Financial Holding" />
+  <SYMBOL Code="03908" Name="China International Capital Corporation" />
+  <SYMBOL Code="03918" Name="Nagacorp Ltd" />
+  <SYMBOL Code="03919" Name="" />
+  <SYMBOL Code="03933" Name="The United Laboratories International Holdings Ltd" />
+  <SYMBOL Code="03939" Name="Wanguo International Mining" />
+  <SYMBOL Code="03948" Name="Inner Mongolia Coal" />
+  <SYMBOL Code="03958" Name="" />
+  <SYMBOL Code="03963" Name="China Rongzhong Financial Holdings" />
+  <SYMBOL Code="03966" Name="" />
+  <SYMBOL Code="03968" Name="China Merchants Bank Co" />
+  <SYMBOL Code="03969" Name="" />
+  <SYMBOL Code="03983" Name="China Bluechemical Ltd" />
+  <SYMBOL Code="03988" Name="Bank of China Ltd" />
+  <SYMBOL Code="03989" Name="Hembly International Holdings Ltd" />
+  <SYMBOL Code="03993" Name="China Molybdenum Ltd" />
+  <SYMBOL Code="03996" Name="China Energy Engineering Corporation" />
+  <SYMBOL Code="03998" Name="Bosideng International Holdings Ltd" />
+  <SYMBOL Code="03999" Name="DaChan Food (Asia) Ltd" />
+  <SYMBOL Code="04228" Name="" />
+  <SYMBOL Code="04231" Name="" />
+  <SYMBOL Code="06030" Name="" />
+  <SYMBOL Code="06033" Name="" />
+  <SYMBOL Code="06038" Name="" />
+  <SYMBOL Code="06060" Name="ZhongAn Online P &amp; C Insurance" />
+  <SYMBOL Code="06066" Name="" />
+  <SYMBOL Code="06068" Name="" />
+  <SYMBOL Code="06080" Name="Wing Chi Holdings" />
+  <SYMBOL Code="06083" Name="" />
+  <SYMBOL Code="06088" Name="Foxconn Interconnect Technology Limited" />
+  <SYMBOL Code="06090" Name="" />
+  <SYMBOL Code="06099" Name="" />
+  <SYMBOL Code="06108" Name="New Ray Medic" />
+  <SYMBOL Code="06113" Name="" />
+  <SYMBOL Code="06116" Name="Shanghai La Chapelle Fashion" />
+  <SYMBOL Code="06118" Name="" />
+  <SYMBOL Code="06122" Name="" />
+  <SYMBOL Code="06123" Name="" />
+  <SYMBOL Code="06128" Name="Earthasia International Holdings Limited" />
+  <SYMBOL Code="06133" Name="" />
+  <SYMBOL Code="06136" Name="" />
+  <SYMBOL Code="06138" Name="" />
+  <SYMBOL Code="06139" Name="" />
+  <SYMBOL Code="06161" Name="Target Insurance Limited" />
+  <SYMBOL Code="06163" Name="Gemilang International" />
+  <SYMBOL Code="06166" Name="" />
+  <SYMBOL Code="06168" Name="" />
+  <SYMBOL Code="06169" Name="China YuHua Education Corp" />
+  <SYMBOL Code="06178" Name="" />
+  <SYMBOL Code="06183" Name="" />
+  <SYMBOL Code="06188" Name="Beijing Digital Telecom Co Ltd" />
+  <SYMBOL Code="06189" Name="" />
+  <SYMBOL Code="06196" Name="" />
+  <SYMBOL Code="06198" Name="" />
+  <SYMBOL Code="06288" Name="" />
+  <SYMBOL Code="06388" Name="" />
+  <SYMBOL Code="06808" Name="Sun Art Retail Group Ltd" />
+  <SYMBOL Code="06816" Name="" />
+  <SYMBOL Code="06818" Name="" />
+  <SYMBOL Code="06822" Name="Kings Flair" />
+  <SYMBOL Code="06823" Name="" />
+  <SYMBOL Code="06826" Name="" />
+  <SYMBOL Code="06828" Name="" />
+  <SYMBOL Code="06830" Name="" />
+  <SYMBOL Code="06833" Name="Sinco Pharmaceuticals Holdings" />
+  <SYMBOL Code="06836" Name="" />
+  <SYMBOL Code="06837" Name="" />
+  <SYMBOL Code="06838" Name="" />
+  <SYMBOL Code="06839" Name="" />
+  <SYMBOL Code="06858" Name="" />
+  <SYMBOL Code="06863" Name="Huishan Dairy" />
+  <SYMBOL Code="06865" Name="Flat Glass" />
+  <SYMBOL Code="06866" Name="Zuoli Kechuang Micro-finance" />
+  <SYMBOL Code="06868" Name="" />
+  <SYMBOL Code="06869" Name="" />
+  <SYMBOL Code="06877" Name="" />
+  <SYMBOL Code="06878" Name="Differ Group Holding" />
+  <SYMBOL Code="06880" Name="" />
+  <SYMBOL Code="06881" Name="" />
+  <SYMBOL Code="06882" Name="" />
+  <SYMBOL Code="06885" Name="" />
+  <SYMBOL Code="06886" Name="" />
+  <SYMBOL Code="06888" Name="" />
+  <SYMBOL Code="06889" Name="Dynam Japan Holdings" />
+  <SYMBOL Code="06893" Name="" />
+  <SYMBOL Code="06896" Name="" />
+  <SYMBOL Code="06898" Name="" />
+  <SYMBOL Code="06899" Name="Ourgame International Holdings Limited" />
+  <SYMBOL Code="07200" Name="CSOP Hang Seng Dly" />
+  <SYMBOL Code="07202" Name="" />
+  <SYMBOL Code="07205" Name="" />
+  <SYMBOL Code="07210" Name="" />
+  <SYMBOL Code="07221" Name="" />
+  <SYMBOL Code="07222" Name="" />
+  <SYMBOL Code="07225" Name="" />
+  <SYMBOL Code="07228" Name="Samsung HSCEI Dly" />
+  <SYMBOL Code="07230" Name="" />
+  <SYMBOL Code="07231" Name="" />
+  <SYMBOL Code="07242" Name="" />
+  <SYMBOL Code="07261" Name="" />
+  <SYMBOL Code="07267" Name="" />
+  <SYMBOL Code="07288" Name="CSOP Hang Seng CHN Enp Idx Dly" />
+  <SYMBOL Code="07300" Name="CSOP Hang Seng Dly" />
+  <SYMBOL Code="07302" Name="" />
+  <SYMBOL Code="07312" Name="" />
+  <SYMBOL Code="07315" Name="" />
+  <SYMBOL Code="07321" Name="" />
+  <SYMBOL Code="07322" Name="" />
+  <SYMBOL Code="07328" Name="" />
+  <SYMBOL Code="07331" Name="" />
+  <SYMBOL Code="07335" Name="" />
+  <SYMBOL Code="07336" Name="" />
+  <SYMBOL Code="07341" Name="" />
+  <SYMBOL Code="07362" Name="" />
+  <SYMBOL Code="07388" Name="" />
+  <SYMBOL Code="09010" Name="" />
+  <SYMBOL Code="09074" Name="" />
+  <SYMBOL Code="09081" Name="" />
+  <SYMBOL Code="09115" Name="" />
+  <SYMBOL Code="09146" Name="" />
+  <SYMBOL Code="09155" Name="" />
+  <SYMBOL Code="09170" Name="" />
+  <SYMBOL Code="09834" Name="" />
+  <SYMBOL Code="09836" Name="" />
+  <SYMBOL Code="09846" Name="" />
+  <SYMBOL Code="09847" Name="" />
+</ArrayOfSYMBOL>

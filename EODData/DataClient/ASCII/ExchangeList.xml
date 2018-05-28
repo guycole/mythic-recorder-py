@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEXCHANGE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EXCHANGE Code="AMEX" Name="American Stock Exchange" LastTradeDateTime="2018-05-21T00:00:00" Country="US" Currency="USD" Advances="3770" Declines="897" Suffix="" TimeZone="Eastern Standard Time" IsIntraday="true" />
+  <EXCHANGE Code="ASX" Name="Australian Securities Exchange" LastTradeDateTime="2018-05-22T00:00:00" Country="AU" Currency="AUD" Advances="15223" Declines="494" Suffix="AX" TimeZone="AUS Eastern Standard Time" IsIntraday="false" />
+  <EXCHANGE Code="BSE" Name="Bombay Stock Exchange" LastTradeDateTime="2018-05-21T00:00:00" Country="IN" Currency="INR" Advances="4220" Declines="0" Suffix="I" TimeZone="India Standard Time" IsIntraday="false" />
+  <EXCHANGE Code="CBOT" Name="Chicago Board of Trade" LastTradeDateTime="2018-05-21T00:00:00" Country="US" Currency="USD" Advances="102128" Declines="234" Suffix="" TimeZone="Central Standard Time" IsIntraday="true" />
+  <EXCHANGE Code="CFE" Name="Chicago Futures Exchange" LastTradeDateTime="2018-05-21T00:00:00" Country="US" Currency="USD" Advances="221" Declines="0" Suffix="" TimeZone="Central Standard Time" IsIntraday="true" />
+  <EXCHANGE Code="CME" Name="Chicago Merchantile Exchange" LastTradeDateTime="2018-05-21T00:00:00" Country="US" Currency="USD" Advances="212382" Declines="569" Suffix="" TimeZone="Eastern Standard Time" IsIntraday="true" />
+  <EXCHANGE Code="COMEX" Name="New York Commodity Exchange" LastTradeDateTime="2018-05-21T00:00:00" Country="US" Currency="USD" Advances="33659" Declines="150" Suffix="" TimeZone="Eastern Standard Time" IsIntraday="true" />
+  <EXCHANGE Code="EUREX" Name="EUREX Futures Exchange" LastTradeDateTime="2018-05-21T00:00:00" Country="CH" Currency="EUR" Advances="2169" Declines="0" Suffix="" TimeZone="GMT Standard Time" IsIntraday="false" />
+  <EXCHANGE Code="FOREX" Name="Foreign Exchange" LastTradeDateTime="2018-05-22T01:01:03" Country="US" Currency="" Advances="1060" Declines="57" Suffix="" TimeZone="Eastern Standard Time" IsIntraday="false" />
+  <EXCHANGE Code="HKEX" Name="Hong Kong Stock Exchange" LastTradeDateTime="2018-05-17T00:00:00" Country="HK" Currency="HKD" Advances="23975" Declines="700" Suffix="HK" TimeZone="Singapore Standard Time" IsIntraday="false" />
+  <EXCHANGE Code="INDEX" Name="Global Indices" LastTradeDateTime="2018-05-21T00:00:00" Country="US" Currency="" Advances="3786" Declines="4" Suffix="IDX" TimeZone="Eastern Standard Time" IsIntraday="false" />
+  <EXCHANGE Code="KCBT" Name="Kansas City Board of Trade" LastTradeDateTime="2018-05-21T00:00:00" Country="US" Currency="USD" Advances="2073" Declines="21" Suffix="" TimeZone="Central Standard Time" IsIntraday="true" />
+  <EXCHANGE Code="LIFFE" Name="LIFFE Futures and Options" LastTradeDateTime="2018-05-21T00:00:00" Country="US" Currency="USD" Advances="2322" Declines="0" Suffix="" TimeZone="GMT Standard Time" IsIntraday="false" />
+  <EXCHANGE Code="LSE" Name="London Stock Exchange" LastTradeDateTime="2018-05-21T00:00:00" Country="UK" Currency="GBP" Advances="39964" Declines="2622" Suffix="L" TimeZone="GMT Standard Time" IsIntraday="false" />
+  <EXCHANGE Code="MGEX" Name="Minneapolis Grain Exchange" LastTradeDateTime="2018-05-21T00:00:00" Country="US" Currency="USD" Advances="15054" Declines="96" Suffix="" TimeZone="Central Standard Time" IsIntraday="true" />
+  <EXCHANGE Code="NASDAQ" Name="NASDAQ Stock Exchange" LastTradeDateTime="2018-05-21T16:59:59" Country="US" Currency="USD" Advances="5971" Declines="1837" Suffix="" TimeZone="Eastern Standard Time" IsIntraday="true" />
+  <EXCHANGE Code="NSE" Name="National Stock Exchange of India" LastTradeDateTime="2018-05-21T00:00:00" Country="IN" Currency="INR" Advances="823" Declines="0" Suffix="I" TimeZone="GMT Standard Time" IsIntraday="false" />
+  <EXCHANGE Code="NYBOT" Name="New York Board of Trade" LastTradeDateTime="2018-05-21T00:00:00" Country="US" Currency="USD" Advances="88574" Declines="207" Suffix="" TimeZone="Eastern Standard Time" IsIntraday="true" />
+  <EXCHANGE Code="NYMEX" Name="New York Merchantile Exchange" LastTradeDateTime="2018-05-21T00:00:00" Country="US" Currency="USD" Advances="17523" Declines="237" Suffix="" TimeZone="Eastern Standard Time" IsIntraday="true" />
+  <EXCHANGE Code="NYSE" Name="New York Stock Exchange" LastTradeDateTime="2018-05-21T16:59:59" Country="US" Currency="USD" Advances="5434" Declines="1880" Suffix="" TimeZone="Eastern Standard Time" IsIntraday="true" />
+  <EXCHANGE Code="NZX" Name="New Zealand Exchange" LastTradeDateTime="2018-05-17T00:00:00" Country="NZ" Currency="NZD" Advances="1069" Declines="44" Suffix="NZ" TimeZone="New Zealand Standard Time" IsIntraday="false" />
+  <EXCHANGE Code="OTCBB" Name="OTC Bulletin Board" LastTradeDateTime="2018-05-21T09:22:40" Country="US" Currency="USD" Advances="35777" Declines="2112" Suffix="OB" TimeZone="Eastern Standard Time" IsIntraday="true" />
+  <EXCHANGE Code="SGX" Name="Singapore Stock Exchange" LastTradeDateTime="2018-05-21T00:00:00" Country="SG" Currency="SGD" Advances="12837" Declines="499" Suffix="SI" TimeZone="Singapore Standard Time" IsIntraday="false" />
+  <EXCHANGE Code="TSX" Name="Toronto Stock Exchange" LastTradeDateTime="2018-05-18T00:00:00" Country="CA" Currency="CAD" Advances="6022" Declines="882" Suffix="TO" TimeZone="Mountain Standard Time" IsIntraday="false" />
+  <EXCHANGE Code="TSXV" Name="Toronto Venture Exchange" LastTradeDateTime="2018-05-18T00:00:00" Country="CA" Currency="CAD" Advances="5275" Declines="562" Suffix="V" TimeZone="Mountain Standard Time" IsIntraday="false" />
+  <EXCHANGE Code="USMF" Name="Mutual Funds" LastTradeDateTime="2018-05-18T00:00:00" Country="US" Currency="USD" Advances="25156" Declines="16958" Suffix="" TimeZone="Eastern Standard Time" IsIntraday="false" />
+  <EXCHANGE Code="WCE" Name="Winnipeg Commodity Exchange" LastTradeDateTime="2018-05-18T00:00:00" Country="US" Currency="USD" Advances="10014" Declines="1" Suffix="" TimeZone="Central Standard Time" IsIntraday="true" />
+</ArrayOfEXCHANGE>

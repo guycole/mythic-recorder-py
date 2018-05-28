@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSYMBOL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SYMBOL Code="A9H19" Name="MSCI EAFE NTR Index {Mar 19}" />
+  <SYMBOL Code="A9M18" Name="MSCI EAFE NTR Index {Jun 18}" />
+  <SYMBOL Code="A9M19" Name="MSCI EAFE NTR Index {Jun 19}" />
+  <SYMBOL Code="A9U18" Name="MSCI EAFE NTR Index {Sep 18}" />
+  <SYMBOL Code="A9Z18" Name="MSCI EAFE NTR Index {Dec 18}" />
+  <SYMBOL Code="AFH19" Name="MSCI USA Value {Mar 19}" />
+  <SYMBOL Code="AFM18" Name="MSCI USA Value {Jun 18}" />
+  <SYMBOL Code="AFM19" Name="MSCI USA Value {Jun 19}" />
+  <SYMBOL Code="AFU18" Name="MSCI USA Value {Sep 18}" />
+  <SYMBOL Code="AFZ18" Name="MSCI USA Value {Dec 18}" />
+  <SYMBOL Code="AMH19" Name="MSCI EM Asia NTR {Mar 19}" />
+  <SYMBOL Code="AMM18" Name="MSCI EM Asia NTR {Jun 18}" />
+  <SYMBOL Code="AMM19" Name="MSCI EM Asia NTR {Jun 19}" />
+  <SYMBOL Code="AMU18" Name="MSCI EM Asia NTR {Sep 18}" />
+  <SYMBOL Code="AMZ18" Name="MSCI EM Asia NTR {Dec 18}" />
+  <SYMBOL Code="ANH19" Name="MSCI Euro Index {Mar 19}" />
+  <SYMBOL Code="ANM18" Name="MSCI Euro Index {Jun 18}" />
+  <SYMBOL Code="ANM19" Name="MSCI Euro Index {Jun 19}" />
+  <SYMBOL Code="ANU18" Name="MSCI Euro Index {Sep 18}" />
+  <SYMBOL Code="ANZ18" Name="MSCI Euro Index {Dec 18}" />
+  <SYMBOL Code="AOH19" Name="MSCI Pan-Euro Index {Mar 19}" />
+  <SYMBOL Code="AOM18" Name="MSCI Pan-Euro Index {Jun 18}" />
+  <SYMBOL Code="AOM19" Name="MSCI Pan-Euro Index {Jun 19}" />
+  <SYMBOL Code="AOU18" Name="MSCI Pan-Euro Index {Sep 18}" />
+  <SYMBOL Code="AOZ18" Name="MSCI Pan-Euro Index {Dec 18}" />
+  <SYMBOL Code="AR" Name="Aussie/New Zealand" />
+  <SYMBOL Code="ARH19" Name="Aussie/New Zealand {Mar 19}" />
+  <SYMBOL Code="ARM18" Name="Aussie/New Zealand {Jun 18}" />
+  <SYMBOL Code="ARU18" Name="Aussie/New Zealand {Sep 18}" />
+  <SYMBOL Code="ARZ18" Name="Aussie/New Zealand {Dec 18}" />
+  <SYMBOL Code="AS" Name="Aussie/Canadian" />
+  <SYMBOL Code="ASH19" Name="Aussie/Canadian {Mar 19}" />
+  <SYMBOL Code="ASM18" Name="Aussie/Canadian {Jun 18}" />
+  <SYMBOL Code="ASU18" Name="Aussie/Canadian {Sep 18}" />
+  <SYMBOL Code="ASZ18" Name="Aussie/Canadian {Dec 18}" />
+  <SYMBOL Code="AU" Name="Australian Dollar" />
+  <SYMBOL Code="AUH19" Name="Australian Dollar {Mar 19}" />
+  <SYMBOL Code="AUM18" Name="Australian Dollar {Jun 18}" />
+  <SYMBOL Code="AUU18" Name="Australian Dollar {Sep 18}" />
+  <SYMBOL Code="AUZ18" Name="Australian Dollar {Dec 18}" />
+  <SYMBOL Code="CC" Name="Cocoa" />
+  <SYMBOL Code="CCH19" Name="Cocoa {Mar 19}" />
+  <SYMBOL Code="CCH20" Name="Cocoa {Mar 20}" />
+  <SYMBOL Code="CCK18" Name="Cocoa {May 18}" />
+  <SYMBOL Code="CCK19" Name="Cocoa {May 19}" />
+  <SYMBOL Code="CCN18" Name="Cocoa {Jul 18}" />
+  <SYMBOL Code="CCN19" Name="Cocoa {Jul 19}" />
+  <SYMBOL Code="CCU18" Name="Cocoa {Sep 18}" />
+  <SYMBOL Code="CCU19" Name="Cocoa {Sep 19}" />
+  <SYMBOL Code="CCZ18" Name="Cocoa {Dec 18}" />
+  <SYMBOL Code="CCZ19" Name="Cocoa {Dec 19}" />
+  <SYMBOL Code="CT" Name="Cotton #2" />
+  <SYMBOL Code="CTH19" Name="Cotton #2 {Mar 19}" />
+  <SYMBOL Code="CTH20" Name="Cotton #2 {Mar 20}" />
+  <SYMBOL Code="CTH21" Name="Cotton #2 {Mar 21}" />
+  <SYMBOL Code="CTK18" Name="Cotton #2 {May 18}" />
+  <SYMBOL Code="CTK19" Name="Cotton #2 {May 19}" />
+  <SYMBOL Code="CTK20" Name="Cotton #2 {May 20}" />
+  <SYMBOL Code="CTN18" Name="Cotton #2 {Jul 18}" />
+  <SYMBOL Code="CTN19" Name="Cotton #2 {Jul 19}" />
+  <SYMBOL Code="CTN20" Name="Cotton #2 {Jul 20}" />
+  <SYMBOL Code="CTV18" Name="Cotton #2 {Oct 18}" />
+  <SYMBOL Code="CTV19" Name="Cotton #2 {Oct 19}" />
+  <SYMBOL Code="CTV20" Name="Cotton #2 {Oct 20}" />
+  <SYMBOL Code="CTZ18" Name="Cotton #2 {Dec 18}" />
+  <SYMBOL Code="CTZ19" Name="Cotton #2 {Dec 19}" />
+  <SYMBOL Code="CTZ20" Name="Cotton #2 {Dec 20}" />
+  <SYMBOL Code="DEH19" Name="MSCI EMI Index {Mar 19}" />
+  <SYMBOL Code="DEM18" Name="MSCI EMI Index {Jun 18}" />
+  <SYMBOL Code="DEM19" Name="MSCI EMI Index {Jun 19}" />
+  <SYMBOL Code="DEU18" Name="MSCI EMI Index {Sep 18}" />
+  <SYMBOL Code="DEZ18" Name="MSCI EMI Index {Dec 18}" />
+  <SYMBOL Code="DIH19" Name="MSCI EAFE Index {Mar 19}" />
+  <SYMBOL Code="DIM18" Name="MSCI EAFE Index {Jun 18}" />
+  <SYMBOL Code="DIM19" Name="MSCI EAFE Index {Jun 19}" />
+  <SYMBOL Code="DIU18" Name="MSCI EAFE Index {Sep 18}" />
+  <SYMBOL Code="DIZ18" Name="MSCI EAFE Index {Dec 18}" />
+  <SYMBOL Code="DQH19" Name="MSCI USA Index {Mar 19}" />
+  <SYMBOL Code="DQM18" Name="MSCI USA Index {Jun 18}" />
+  <SYMBOL Code="DQM19" Name="MSCI USA Index {Jun 19}" />
+  <SYMBOL Code="DQU18" Name="MSCI USA Index {Sep 18}" />
+  <SYMBOL Code="DQZ18" Name="MSCI USA Index {Dec 18}" />
+  <SYMBOL Code="DX" Name="U.S. Dollar Index" />
+  <SYMBOL Code="DXH19" Name="U.S. Dollar Index {Mar 19}" />
+  <SYMBOL Code="DXM18" Name="U.S. Dollar Index {Jun 18}" />
+  <SYMBOL Code="DXU18" Name="U.S. Dollar Index {Sep 18}" />
+  <SYMBOL Code="DXZ18" Name="U.S. Dollar Index {Dec 18}" />
+  <SYMBOL Code="EHH19" Name="MSCI Europe Index {Mar 19}" />
+  <SYMBOL Code="EHM18" Name="MSCI Europe Index {Jun 18}" />
+  <SYMBOL Code="EHM19" Name="MSCI Europe Index {Jun 19}" />
+  <SYMBOL Code="EHU18" Name="MSCI Europe Index {Sep 18}" />
+  <SYMBOL Code="EHZ18" Name="MSCI Europe Index {Dec 18}" />
+  <SYMBOL Code="EJ" Name="Euro/Yen" />
+  <SYMBOL Code="EJH19" Name="Euro/Yen {Mar 19}" />
+  <SYMBOL Code="EJM18" Name="Euro/Yen {Jun 18}" />
+  <SYMBOL Code="EJU18" Name="Euro/Yen {Sep 18}" />
+  <SYMBOL Code="EJZ18" Name="Euro/Yen {Dec 18}" />
+  <SYMBOL Code="EK" Name="Krone/Krona" />
+  <SYMBOL Code="EKH19" Name="Krone/Krona {Mar 19}" />
+  <SYMBOL Code="EKM18" Name="Krone/Krona {Jun 18}" />
+  <SYMBOL Code="EKU18" Name="Krone/Krona {Sep 18}" />
+  <SYMBOL Code="EKZ18" Name="Krone/Krona {Dec 18}" />
+  <SYMBOL Code="ELH19" Name="MSCI Europe Growth {Mar 19}" />
+  <SYMBOL Code="ELM18" Name="MSCI Europe Growth {Jun 18}" />
+  <SYMBOL Code="ELM19" Name="MSCI Europe Growth {Jun 19}" />
+  <SYMBOL Code="ELU18" Name="MSCI Europe Growth {Sep 18}" />
+  <SYMBOL Code="ELZ18" Name="MSCI Europe Growth {Dec 18}" />
+  <SYMBOL Code="ENH19" Name="MSCI Europe Value {Mar 19}" />
+  <SYMBOL Code="ENM18" Name="MSCI Europe Value {Jun 18}" />
+  <SYMBOL Code="ENM19" Name="MSCI Europe Value {Jun 19}" />
+  <SYMBOL Code="ENU18" Name="MSCI Europe Value {Sep 18}" />
+  <SYMBOL Code="ENZ18" Name="MSCI Europe Value {Dec 18}" />
+  <SYMBOL Code="EP" Name="Euro/Canadian" />
+  <SYMBOL Code="EPH19" Name="Euro/Canadian {Mar 19}" />
+  <SYMBOL Code="EPM18" Name="Euro/Canadian {Jun 18}" />
+  <SYMBOL Code="EPU18" Name="Euro/Canadian {Sep 18}" />
+  <SYMBOL Code="EPZ18" Name="Euro/Canadian {Dec 18}" />
+  <SYMBOL Code="EQ" Name="Euro/Australian" />
+  <SYMBOL Code="EQH19" Name="Euro/Australian {Mar 19}" />
+  <SYMBOL Code="EQM18" Name="Euro/Australian {Jun 18}" />
+  <SYMBOL Code="EQU18" Name="Euro/Australian {Sep 18}" />
+  <SYMBOL Code="EQZ18" Name="Euro/Australian {Dec 18}" />
+  <SYMBOL Code="EU" Name="Euro Futures" />
+  <SYMBOL Code="EUH19" Name="Euro Futures {Mar 19}" />
+  <SYMBOL Code="EUM18" Name="Euro Futures {Jun 18}" />
+  <SYMBOL Code="EUU18" Name="Euro Futures {Sep 18}" />
+  <SYMBOL Code="EUZ18" Name="Euro Futures {Dec 18}" />
+  <SYMBOL Code="FGH19" Name="FANG Index {Mar 19}" />
+  <SYMBOL Code="FGM18" Name="FANG Index {Jun 18}" />
+  <SYMBOL Code="FGU18" Name="FANG Index {Sep 18}" />
+  <SYMBOL Code="FGZ18" Name="FANG Index {Dec 18}" />
+  <SYMBOL Code="G8H19" Name="ICE Gold Miners {Mar 19}" />
+  <SYMBOL Code="G8M18" Name="ICE Gold Miners {Jun 18}" />
+  <SYMBOL Code="G8M19" Name="ICE Gold Miners {Jun 19}" />
+  <SYMBOL Code="G8U18" Name="ICE Gold Miners {Sep 18}" />
+  <SYMBOL Code="G8Z18" Name="ICE Gold Miners {Dec 18}" />
+  <SYMBOL Code="GB" Name="Euro/Pound" />
+  <SYMBOL Code="GBH19" Name="Euro/Pound {Mar 19}" />
+  <SYMBOL Code="GBM18" Name="Euro/Pound {Jun 18}" />
+  <SYMBOL Code="GBU18" Name="Euro/Pound {Sep 18}" />
+  <SYMBOL Code="GBZ18" Name="Euro/Pound {Dec 18}" />
+  <SYMBOL Code="GN" Name="Pound/New Zealand" />
+  <SYMBOL Code="GNH19" Name="Pound/New Zealand {Mar 19}" />
+  <SYMBOL Code="GNM18" Name="Pound/New Zealand {Jun 18}" />
+  <SYMBOL Code="GNU18" Name="Pound/New Zealand {Sep 18}" />
+  <SYMBOL Code="GNZ18" Name="Pound/New Zealand {Dec 18}" />
+  <SYMBOL Code="GY" Name="Euro/Forint" />
+  <SYMBOL Code="GYH19" Name="Euro/Forint {Mar 19}" />
+  <SYMBOL Code="GYM18" Name="Euro/Forint {Jun 18}" />
+  <SYMBOL Code="GYU18" Name="Euro/Forint {Sep 18}" />
+  <SYMBOL Code="GYZ18" Name="Euro/Forint {Dec 18}" />
+  <SYMBOL Code="GZ" Name="Euro/Koruna" />
+  <SYMBOL Code="GZH19" Name="Euro/Koruna {Mar 19}" />
+  <SYMBOL Code="GZM18" Name="Euro/Koruna {Jun 18}" />
+  <SYMBOL Code="GZU18" Name="Euro/Koruna {Sep 18}" />
+  <SYMBOL Code="GZZ18" Name="Euro/Koruna {Dec 18}" />
+  <SYMBOL Code="H0" Name="Indian Rupee" />
+  <SYMBOL Code="H0F19" Name="Indian Rupee {Jan 19}" />
+  <SYMBOL Code="H0G19" Name="Indian Rupee {Feb 19}" />
+  <SYMBOL Code="H0H19" Name="Indian Rupee {Mar 19}" />
+  <SYMBOL Code="H0J18" Name="Indian Rupee {Apr 18}" />
+  <SYMBOL Code="H0J19" Name="Indian Rupee {Apr 19}" />
+  <SYMBOL Code="H0K18" Name="Indian Rupee {May 18}" />
+  <SYMBOL Code="H0M18" Name="Indian Rupee {Jun 18}" />
+  <SYMBOL Code="H0N18" Name="Indian Rupee {Jul 18}" />
+  <SYMBOL Code="H0Q18" Name="Indian Rupee {Aug 18}" />
+  <SYMBOL Code="H0U18" Name="Indian Rupee {Sep 18}" />
+  <SYMBOL Code="H0V18" Name="Indian Rupee {Oct 18}" />
+  <SYMBOL Code="H0X18" Name="Indian Rupee {Nov 18}" />
+  <SYMBOL Code="H0Z18" Name="Indian Rupee {Dec 18}" />
+  <SYMBOL Code="H8" Name="Brazilian Real" />
+  <SYMBOL Code="H8F19" Name="Brazilian Real {Jan 19}" />
+  <SYMBOL Code="H8F20" Name="Brazilian Real {Jan 20}" />
+  <SYMBOL Code="H8F21" Name="Brazilian Real {Jan 21}" />
+  <SYMBOL Code="H8F22" Name="Brazilian Real {Jan 22}" />
+  <SYMBOL Code="H8F23" Name="Brazilian Real {Jan 23}" />
+  <SYMBOL Code="H8G19" Name="Brazilian Real {Feb 19}" />
+  <SYMBOL Code="H8G20" Name="Brazilian Real {Feb 20}" />
+  <SYMBOL Code="H8G21" Name="Brazilian Real {Feb 21}" />
+  <SYMBOL Code="H8G22" Name="Brazilian Real {Feb 22}" />
+  <SYMBOL Code="H8G23" Name="Brazilian Real {Feb 23}" />
+  <SYMBOL Code="H8H19" Name="Brazilian Real {Mar 19}" />
+  <SYMBOL Code="H8H20" Name="Brazilian Real {Mar 20}" />
+  <SYMBOL Code="H8H21" Name="Brazilian Real {Mar 21}" />
+  <SYMBOL Code="H8H22" Name="Brazilian Real {Mar 22}" />
+  <SYMBOL Code="H8H23" Name="Brazilian Real {Mar 23}" />
+  <SYMBOL Code="H8J19" Name="Brazilian Real {Apr 19}" />
+  <SYMBOL Code="H8J20" Name="Brazilian Real {Apr 20}" />
+  <SYMBOL Code="H8J21" Name="Brazilian Real {Apr 21}" />
+  <SYMBOL Code="H8J22" Name="Brazilian Real {Apr 22}" />
+  <SYMBOL Code="H8J23" Name="Brazilian Real {Apr 23}" />
+  <SYMBOL Code="H8K18" Name="Brazilian Real {May 18}" />
+  <SYMBOL Code="H8K19" Name="Brazilian Real {May 19}" />
+  <SYMBOL Code="H8K20" Name="Brazilian Real {May 20}" />
+  <SYMBOL Code="H8K21" Name="Brazilian Real {May 21}" />
+  <SYMBOL Code="H8K22" Name="Brazilian Real {May 22}" />
+  <SYMBOL Code="H8K23" Name="Brazilian Real {May 23}" />
+  <SYMBOL Code="H8M18" Name="Brazilian Real {Jun 18}" />
+  <SYMBOL Code="H8M19" Name="Brazilian Real {Jun 19}" />
+  <SYMBOL Code="H8M20" Name="Brazilian Real {Jun 20}" />
+  <SYMBOL Code="H8M21" Name="Brazilian Real {Jun 21}" />
+  <SYMBOL Code="H8M22" Name="Brazilian Real {Jun 22}" />
+  <SYMBOL Code="H8N18" Name="Brazilian Real {Jul 18}" />
+  <SYMBOL Code="H8N19" Name="Brazilian Real {Jul 19}" />
+  <SYMBOL Code="H8N20" Name="Brazilian Real {Jul 20}" />
+  <SYMBOL Code="H8N21" Name="Brazilian Real {Jul 21}" />
+  <SYMBOL Code="H8N22" Name="Brazilian Real {Jul 22}" />
+  <SYMBOL Code="H8Q18" Name="Brazilian Real {Aug 18}" />
+  <SYMBOL Code="H8Q19" Name="Brazilian Real {Aug 19}" />
+  <SYMBOL Code="H8Q20" Name="Brazilian Real {Aug 20}" />
+  <SYMBOL Code="H8Q21" Name="Brazilian Real {Aug 21}" />
+  <SYMBOL Code="H8Q22" Name="Brazilian Real {Aug 22}" />
+  <SYMBOL Code="H8U18" Name="Brazilian Real {Sep 18}" />
+  <SYMBOL Code="H8U19" Name="Brazilian Real {Sep 19}" />
+  <SYMBOL Code="H8U20" Name="Brazilian Real {Sep 20}" />
+  <SYMBOL Code="H8U21" Name="Brazilian Real {Sep 21}" />
+  <SYMBOL Code="H8U22" Name="Brazilian Real {Sep 22}" />
+  <SYMBOL Code="H8V18" Name="Brazilian Real {Oct 18}" />
+  <SYMBOL Code="H8V19" Name="Brazilian Real {Oct 19}" />
+  <SYMBOL Code="H8V20" Name="Brazilian Real {Oct 20}" />
+  <SYMBOL Code="H8V21" Name="Brazilian Real {Oct 21}" />
+  <SYMBOL Code="H8V22" Name="Brazilian Real {Oct 22}" />
+  <SYMBOL Code="H8X18" Name="Brazilian Real {Nov 18}" />
+  <SYMBOL Code="H8X19" Name="Brazilian Real {Nov 19}" />
+  <SYMBOL Code="H8X20" Name="Brazilian Real {Nov 20}" />
+  <SYMBOL Code="H8X21" Name="Brazilian Real {Nov 21}" />
+  <SYMBOL Code="H8X22" Name="Brazilian Real {Nov 22}" />
+  <SYMBOL Code="H8Z18" Name="Brazilian Real {Dec 18}" />
+  <SYMBOL Code="H8Z19" Name="Brazilian Real {Dec 19}" />
+  <SYMBOL Code="H8Z20" Name="Brazilian Real {Dec 20}" />
+  <SYMBOL Code="H8Z21" Name="Brazilian Real {Dec 21}" />
+  <SYMBOL Code="H8Z22" Name="Brazilian Real {Dec 22}" />
+  <SYMBOL Code="HCH19" Name="Turkish Lira/Euro {Mar 19}" />
+  <SYMBOL Code="HCM18" Name="Turkish Lira/Euro {Jun 18}" />
+  <SYMBOL Code="HCU18" Name="Turkish Lira/Euro {Sep 18}" />
+  <SYMBOL Code="HCZ18" Name="Turkish Lira/Euro {Dec 18}" />
+  <SYMBOL Code="HDH19" Name="Turkish Lira/USD {Mar 19}" />
+  <SYMBOL Code="HDM18" Name="Turkish Lira/USD {Jun 18}" />
+  <SYMBOL Code="HDU18" Name="Turkish Lira/USD {Sep 18}" />
+  <SYMBOL Code="HDZ18" Name="Turkish Lira/USD {Dec 18}" />
+  <SYMBOL Code="HY" Name="Canadian/Yen" />
+  <SYMBOL Code="HYH19" Name="Canadian/Yen {Mar 19}" />
+  <SYMBOL Code="HYM18" Name="Canadian/Yen {Jun 18}" />
+  <SYMBOL Code="HYU18" Name="Canadian/Yen {Sep 18}" />
+  <SYMBOL Code="HYZ18" Name="Canadian/Yen {Dec 18}" />
+  <SYMBOL Code="JCH19" Name="ICE Corn {Mar 19}" />
+  <SYMBOL Code="JCH20" Name="ICE Corn {Mar 20}" />
+  <SYMBOL Code="JCK18" Name="ICE Corn {May 18}" />
+  <SYMBOL Code="JCK19" Name="ICE Corn {May 19}" />
+  <SYMBOL Code="JCK20" Name="ICE Corn {May 20}" />
+  <SYMBOL Code="JCN18" Name="ICE Corn {Jul 18}" />
+  <SYMBOL Code="JCN19" Name="ICE Corn {Jul 19}" />
+  <SYMBOL Code="JCN20" Name="ICE Corn {Jul 20}" />
+  <SYMBOL Code="JCN21" Name="ICE Corn {Jul 21}" />
+  <SYMBOL Code="JCU18" Name="ICE Corn {Sep 18}" />
+  <SYMBOL Code="JCU19" Name="ICE Corn {Sep 19}" />
+  <SYMBOL Code="JCU20" Name="ICE Corn {Sep 20}" />
+  <SYMBOL Code="JCZ18" Name="ICE Corn {Dec 18}" />
+  <SYMBOL Code="JCZ19" Name="ICE Corn {Dec 19}" />
+  <SYMBOL Code="JCZ20" Name="ICE Corn {Dec 20}" />
+  <SYMBOL Code="JCZ21" Name="ICE Corn {Dec 21}" />
+  <SYMBOL Code="JFF19" Name="ICE Soybean Meal {Jan 19}" />
+  <SYMBOL Code="JFF20" Name="ICE Soybean Meal {Jan 20}" />
+  <SYMBOL Code="JFH19" Name="ICE Soybean Meal {Mar 19}" />
+  <SYMBOL Code="JFH20" Name="ICE Soybean Meal {Mar 20}" />
+  <SYMBOL Code="JFK18" Name="ICE Soybean Meal {May 18}" />
+  <SYMBOL Code="JFK19" Name="ICE Soybean Meal {May 19}" />
+  <SYMBOL Code="JFK20" Name="ICE Soybean Meal {May 20}" />
+  <SYMBOL Code="JFN18" Name="ICE Soybean Meal {Jul 18}" />
+  <SYMBOL Code="JFN19" Name="ICE Soybean Meal {Jul 19}" />
+  <SYMBOL Code="JFN20" Name="ICE Soybean Meal {Jul 20}" />
+  <SYMBOL Code="JFN21" Name="ICE Soybean Meal {Jul 21}" />
+  <SYMBOL Code="JFQ18" Name="ICE Soybean Meal {Aug 18}" />
+  <SYMBOL Code="JFQ19" Name="ICE Soybean Meal {Aug 19}" />
+  <SYMBOL Code="JFQ20" Name="ICE Soybean Meal {Aug 20}" />
+  <SYMBOL Code="JFU18" Name="ICE Soybean Meal {Sep 18}" />
+  <SYMBOL Code="JFU19" Name="ICE Soybean Meal {Sep 19}" />
+  <SYMBOL Code="JFU20" Name="ICE Soybean Meal {Sep 20}" />
+  <SYMBOL Code="JFV18" Name="ICE Soybean Meal {Oct 18}" />
+  <SYMBOL Code="JFV19" Name="ICE Soybean Meal {Oct 19}" />
+  <SYMBOL Code="JFV20" Name="ICE Soybean Meal {Oct 20}" />
+  <SYMBOL Code="JFV21" Name="ICE Soybean Meal {Oct 21}" />
+  <SYMBOL Code="JFZ18" Name="ICE Soybean Meal {Dec 18}" />
+  <SYMBOL Code="JFZ19" Name="ICE Soybean Meal {Dec 19}" />
+  <SYMBOL Code="JFZ20" Name="ICE Soybean Meal {Dec 20}" />
+  <SYMBOL Code="JFZ21" Name="ICE Soybean Meal {Dec 21}" />
+  <SYMBOL Code="JJ" Name="New Zealand Dollar" />
+  <SYMBOL Code="JJH19" Name="New Zealand Dollar {Mar 19}" />
+  <SYMBOL Code="JJM18" Name="New Zealand Dollar {Jun 18}" />
+  <SYMBOL Code="JJU18" Name="New Zealand Dollar {Sep 18}" />
+  <SYMBOL Code="JJZ18" Name="New Zealand Dollar {Dec 18}" />
+  <SYMBOL Code="JLF19" Name="ICE Soybean Oil {Jan 19}" />
+  <SYMBOL Code="JLF20" Name="ICE Soybean Oil {Jan 20}" />
+  <SYMBOL Code="JLH19" Name="ICE Soybean Oil {Mar 19}" />
+  <SYMBOL Code="JLH20" Name="ICE Soybean Oil {Mar 20}" />
+  <SYMBOL Code="JLK18" Name="ICE Soybean Oil {May 18}" />
+  <SYMBOL Code="JLK19" Name="ICE Soybean Oil {May 19}" />
+  <SYMBOL Code="JLK20" Name="ICE Soybean Oil {May 20}" />
+  <SYMBOL Code="JLN18" Name="ICE Soybean Oil {Jul 18}" />
+  <SYMBOL Code="JLN19" Name="ICE Soybean Oil {Jul 19}" />
+  <SYMBOL Code="JLN20" Name="ICE Soybean Oil {Jul 20}" />
+  <SYMBOL Code="JLN21" Name="ICE Soybean Oil {Jul 21}" />
+  <SYMBOL Code="JLQ18" Name="ICE Soybean Oil {Aug 18}" />
+  <SYMBOL Code="JLQ19" Name="ICE Soybean Oil {Aug 19}" />
+  <SYMBOL Code="JLQ20" Name="ICE Soybean Oil {Aug 20}" />
+  <SYMBOL Code="JLU18" Name="ICE Soybean Oil {Sep 18}" />
+  <SYMBOL Code="JLU19" Name="ICE Soybean Oil {Sep 19}" />
+  <SYMBOL Code="JLU20" Name="ICE Soybean Oil {Sep 20}" />
+  <SYMBOL Code="JLV18" Name="ICE Soybean Oil {Oct 18}" />
+  <SYMBOL Code="JLV19" Name="ICE Soybean Oil {Oct 19}" />
+  <SYMBOL Code="JLV20" Name="ICE Soybean Oil {Oct 20}" />
+  <SYMBOL Code="JLV21" Name="ICE Soybean Oil {Oct 21}" />
+  <SYMBOL Code="JLZ18" Name="ICE Soybean Oil {Dec 18}" />
+  <SYMBOL Code="JLZ19" Name="ICE Soybean Oil {Dec 19}" />
+  <SYMBOL Code="JLZ20" Name="ICE Soybean Oil {Dec 20}" />
+  <SYMBOL Code="JLZ21" Name="ICE Soybean Oil {Dec 21}" />
+  <SYMBOL Code="JSF19" Name="ICE Soybeans {Jan 19}" />
+  <SYMBOL Code="JSF20" Name="ICE Soybeans {Jan 20}" />
+  <SYMBOL Code="JSH19" Name="ICE Soybeans {Mar 19}" />
+  <SYMBOL Code="JSH20" Name="ICE Soybeans {Mar 20}" />
+  <SYMBOL Code="JSK18" Name="ICE Soybeans {May 18}" />
+  <SYMBOL Code="JSK19" Name="ICE Soybeans {May 19}" />
+  <SYMBOL Code="JSK20" Name="ICE Soybeans {May 20}" />
+  <SYMBOL Code="JSN18" Name="ICE Soybeans {Jul 18}" />
+  <SYMBOL Code="JSN19" Name="ICE Soybeans {Jul 19}" />
+  <SYMBOL Code="JSN20" Name="ICE Soybeans {Jul 20}" />
+  <SYMBOL Code="JSN21" Name="ICE Soybeans {Jul 21}" />
+  <SYMBOL Code="JSQ18" Name="ICE Soybeans {Aug 18}" />
+  <SYMBOL Code="JSQ19" Name="ICE Soybeans {Aug 19}" />
+  <SYMBOL Code="JSQ20" Name="ICE Soybeans {Aug 20}" />
+  <SYMBOL Code="JSU18" Name="ICE Soybeans {Sep 18}" />
+  <SYMBOL Code="JSU19" Name="ICE Soybeans {Sep 19}" />
+  <SYMBOL Code="JSU20" Name="ICE Soybeans {Sep 20}" />
+  <SYMBOL Code="JSX18" Name="ICE Soybeans {Nov 18}" />
+  <SYMBOL Code="JSX19" Name="ICE Soybeans {Nov 19}" />
+  <SYMBOL Code="JSX20" Name="ICE Soybeans {Nov 20}" />
+  <SYMBOL Code="JSX21" Name="ICE Soybeans {Nov 21}" />
+  <SYMBOL Code="JWH19" Name="ICE Wheat {Mar 19}" />
+  <SYMBOL Code="JWH20" Name="ICE Wheat {Mar 20}" />
+  <SYMBOL Code="JWK18" Name="ICE Wheat {May 18}" />
+  <SYMBOL Code="JWK19" Name="ICE Wheat {May 19}" />
+  <SYMBOL Code="JWK20" Name="ICE Wheat {May 20}" />
+  <SYMBOL Code="JWN18" Name="ICE Wheat {Jul 18}" />
+  <SYMBOL Code="JWN19" Name="ICE Wheat {Jul 19}" />
+  <SYMBOL Code="JWN20" Name="ICE Wheat {Jul 20}" />
+  <SYMBOL Code="JWU18" Name="ICE Wheat {Sep 18}" />
+  <SYMBOL Code="JWU19" Name="ICE Wheat {Sep 19}" />
+  <SYMBOL Code="JWZ18" Name="ICE Wheat {Dec 18}" />
+  <SYMBOL Code="JWZ19" Name="ICE Wheat {Dec 19}" />
+  <SYMBOL Code="KC" Name="Coffee" />
+  <SYMBOL Code="KCH19" Name="Coffee {Mar 19}" />
+  <SYMBOL Code="KCH20" Name="Coffee {Mar 20}" />
+  <SYMBOL Code="KCH21" Name="Coffee {Mar 21}" />
+  <SYMBOL Code="KCK18" Name="Coffee {May 18}" />
+  <SYMBOL Code="KCK19" Name="Coffee {May 19}" />
+  <SYMBOL Code="KCK20" Name="Coffee {May 20}" />
+  <SYMBOL Code="KCN18" Name="Coffee {Jul 18}" />
+  <SYMBOL Code="KCN19" Name="Coffee {Jul 19}" />
+  <SYMBOL Code="KCN20" Name="Coffee {Jul 20}" />
+  <SYMBOL Code="KCU18" Name="Coffee {Sep 18}" />
+  <SYMBOL Code="KCU19" Name="Coffee {Sep 19}" />
+  <SYMBOL Code="KCU20" Name="Coffee {Sep 20}" />
+  <SYMBOL Code="KCZ18" Name="Coffee {Dec 18}" />
+  <SYMBOL Code="KCZ19" Name="Coffee {Dec 19}" />
+  <SYMBOL Code="KCZ20" Name="Coffee {Dec 20}" />
+  <SYMBOL Code="KJ" Name="Krona/Yen" />
+  <SYMBOL Code="KJH19" Name="Krona/Yen {Mar 19}" />
+  <SYMBOL Code="KJM18" Name="Krona/Yen {Jun 18}" />
+  <SYMBOL Code="KJU18" Name="Krona/Yen {Sep 18}" />
+  <SYMBOL Code="KJZ18" Name="Krona/Yen {Dec 18}" />
+  <SYMBOL Code="KU" Name="Dollar/Krona" />
+  <SYMBOL Code="KUH19" Name="Dollar/Krona {Mar 19}" />
+  <SYMBOL Code="KUM18" Name="Dollar/Krona {Jun 18}" />
+  <SYMBOL Code="KUU18" Name="Dollar/Krona {Sep 18}" />
+  <SYMBOL Code="KUZ18" Name="Dollar/Krona {Dec 18}" />
+  <SYMBOL Code="KY" Name="Krone/Yen" />
+  <SYMBOL Code="KYH19" Name="Krone/Yen {Mar 19}" />
+  <SYMBOL Code="KYM18" Name="Krone/Yen {Jun 18}" />
+  <SYMBOL Code="KYU18" Name="Krone/Yen {Sep 18}" />
+  <SYMBOL Code="KYZ18" Name="Krone/Yen {Dec 18}" />
+  <SYMBOL Code="L0H19" Name="MSCI ACWI ex-US {Mar 19}" />
+  <SYMBOL Code="L0M18" Name="MSCI ACWI ex-US {Jun 18}" />
+  <SYMBOL Code="L0M19" Name="MSCI ACWI ex-US {Jun 19}" />
+  <SYMBOL Code="L0U18" Name="MSCI ACWI ex-US {Sep 18}" />
+  <SYMBOL Code="L0Z18" Name="MSCI ACWI ex-US {Dec 18}" />
+  <SYMBOL Code="L1H19" Name="MSCI ACWI ex-US NTR {Mar 19}" />
+  <SYMBOL Code="L1M18" Name="MSCI ACWI ex-US NTR {Jun 18}" />
+  <SYMBOL Code="L1M19" Name="MSCI ACWI ex-US NTR {Jun 19}" />
+  <SYMBOL Code="L1U18" Name="MSCI ACWI ex-US NTR {Sep 18}" />
+  <SYMBOL Code="L1Z18" Name="MSCI ACWI ex-US NTR {Dec 18}" />
+  <SYMBOL Code="L2H19" Name="MSCI ACWI Index {Mar 19}" />
+  <SYMBOL Code="L2M18" Name="MSCI ACWI Index {Jun 18}" />
+  <SYMBOL Code="L2M19" Name="MSCI ACWI Index {Jun 19}" />
+  <SYMBOL Code="L2U18" Name="MSCI ACWI Index {Sep 18}" />
+  <SYMBOL Code="L2Z18" Name="MSCI ACWI Index {Dec 18}" />
+  <SYMBOL Code="L3H19" Name="MSCI ACWI NTR Index {Mar 19}" />
+  <SYMBOL Code="L3M18" Name="MSCI ACWI NTR Index {Jun 18}" />
+  <SYMBOL Code="L3M19" Name="MSCI ACWI NTR Index {Jun 19}" />
+  <SYMBOL Code="L3U18" Name="MSCI ACWI NTR Index {Sep 18}" />
+  <SYMBOL Code="L3Z18" Name="MSCI ACWI NTR Index {Dec 18}" />
+  <SYMBOL Code="L4H19" Name="MSCI EM Asia Index {Mar 19}" />
+  <SYMBOL Code="L4M18" Name="MSCI EM Asia Index {Jun 18}" />
+  <SYMBOL Code="L4M19" Name="MSCI EM Asia Index {Jun 19}" />
+  <SYMBOL Code="L4U18" Name="MSCI EM Asia Index {Sep 18}" />
+  <SYMBOL Code="L4Z18" Name="MSCI EM Asia Index {Dec 18}" />
+  <SYMBOL Code="L5H19" Name="MSCI EM NTR Index {Mar 19}" />
+  <SYMBOL Code="L5M18" Name="MSCI EM NTR Index {Jun 18}" />
+  <SYMBOL Code="L5M19" Name="MSCI EM NTR Index {Jun 19}" />
+  <SYMBOL Code="L5U18" Name="MSCI EM NTR Index {Sep 18}" />
+  <SYMBOL Code="L5Z18" Name="MSCI EM NTR Index {Dec 18}" />
+  <SYMBOL Code="MIH19" Name="MSCI USA Growth {Mar 19}" />
+  <SYMBOL Code="MIM18" Name="MSCI USA Growth {Jun 18}" />
+  <SYMBOL Code="MIM19" Name="MSCI USA Growth {Jun 19}" />
+  <SYMBOL Code="MIU18" Name="MSCI USA Growth {Sep 18}" />
+  <SYMBOL Code="MIZ18" Name="MSCI USA Growth {Dec 18}" />
+  <SYMBOL Code="NS" Name="Dollar/Krone" />
+  <SYMBOL Code="NSH19" Name="Dollar/Krone {Mar 19}" />
+  <SYMBOL Code="NSM18" Name="Dollar/Krone {Jun 18}" />
+  <SYMBOL Code="NSU18" Name="Dollar/Krone {Sep 18}" />
+  <SYMBOL Code="NSZ18" Name="Dollar/Krone {Dec 18}" />
+  <SYMBOL Code="OJF19" Name="Orange Juice {Jan 19}" />
+  <SYMBOL Code="OJF20" Name="Orange Juice {Jan 20}" />
+  <SYMBOL Code="OJF21" Name="Orange Juice {Jan 21}" />
+  <SYMBOL Code="OJH19" Name="Orange Juice {Mar 19}" />
+  <SYMBOL Code="OJH20" Name="Orange Juice {Mar 20}" />
+  <SYMBOL Code="OJH21" Name="Orange Juice {Mar 21}" />
+  <SYMBOL Code="OJK18" Name="Orange Juice {May 18}" />
+  <SYMBOL Code="OJK19" Name="Orange Juice {May 19}" />
+  <SYMBOL Code="OJK20" Name="Orange Juice {May 20}" />
+  <SYMBOL Code="OJN18" Name="Orange Juice {Jul 18}" />
+  <SYMBOL Code="OJN19" Name="Orange Juice {Jul 19}" />
+  <SYMBOL Code="OJN20" Name="Orange Juice {Jul 20}" />
+  <SYMBOL Code="OJU18" Name="Orange Juice {Sep 18}" />
+  <SYMBOL Code="OJU19" Name="Orange Juice {Sep 19}" />
+  <SYMBOL Code="OJU20" Name="Orange Juice {Sep 20}" />
+  <SYMBOL Code="OJX18" Name="Orange Juice {Nov 18}" />
+  <SYMBOL Code="OJX19" Name="Orange Juice {Nov 19}" />
+  <SYMBOL Code="OJX20" Name="Orange Juice {Nov 20}" />
+  <SYMBOL Code="OL" Name="Euro/Krone" />
+  <SYMBOL Code="OLH19" Name="Euro/Krone {Mar 19}" />
+  <SYMBOL Code="OLM18" Name="Euro/Krone {Jun 18}" />
+  <SYMBOL Code="OLU18" Name="Euro/Krone {Sep 18}" />
+  <SYMBOL Code="OLZ18" Name="Euro/Krone {Dec 18}" />
+  <SYMBOL Code="OR" Name="Dollar/Rand" />
+  <SYMBOL Code="ORH19" Name="Dollar/Rand {Mar 19}" />
+  <SYMBOL Code="ORH20" Name="Dollar/Rand {Mar 20}" />
+  <SYMBOL Code="ORH21" Name="Dollar/Rand {Mar 21}" />
+  <SYMBOL Code="ORH22" Name="Dollar/Rand {Mar 22}" />
+  <SYMBOL Code="ORH23" Name="Dollar/Rand {Mar 23}" />
+  <SYMBOL Code="ORM18" Name="Dollar/Rand {Jun 18}" />
+  <SYMBOL Code="ORM19" Name="Dollar/Rand {Jun 19}" />
+  <SYMBOL Code="ORM20" Name="Dollar/Rand {Jun 20}" />
+  <SYMBOL Code="ORM21" Name="Dollar/Rand {Jun 21}" />
+  <SYMBOL Code="ORM22" Name="Dollar/Rand {Jun 22}" />
+  <SYMBOL Code="ORU18" Name="Dollar/Rand {Sep 18}" />
+  <SYMBOL Code="ORU19" Name="Dollar/Rand {Sep 19}" />
+  <SYMBOL Code="ORU20" Name="Dollar/Rand {Sep 20}" />
+  <SYMBOL Code="ORU21" Name="Dollar/Rand {Sep 21}" />
+  <SYMBOL Code="ORU22" Name="Dollar/Rand {Sep 22}" />
+  <SYMBOL Code="ORZ18" Name="Dollar/Rand {Dec 18}" />
+  <SYMBOL Code="ORZ19" Name="Dollar/Rand {Dec 19}" />
+  <SYMBOL Code="ORZ20" Name="Dollar/Rand {Dec 20}" />
+  <SYMBOL Code="ORZ21" Name="Dollar/Rand {Dec 21}" />
+  <SYMBOL Code="ORZ22" Name="Dollar/Rand {Dec 22}" />
+  <SYMBOL Code="PK" Name="Pound/Krone" />
+  <SYMBOL Code="PKH19" Name="Pound/Krone {Mar 19}" />
+  <SYMBOL Code="PKM18" Name="Pound/Krone {Jun 18}" />
+  <SYMBOL Code="PKU18" Name="Pound/Krone {Sep 18}" />
+  <SYMBOL Code="PKZ18" Name="Pound/Krone {Dec 18}" />
+  <SYMBOL Code="PP" Name="Japanese Yen" />
+  <SYMBOL Code="PPH19" Name="Japanese Yen {Mar 19}" />
+  <SYMBOL Code="PPM18" Name="Japanese Yen {Jun 18}" />
+  <SYMBOL Code="PPU18" Name="Japanese Yen {Sep 18}" />
+  <SYMBOL Code="PPZ18" Name="Japanese Yen {Dec 18}" />
+  <SYMBOL Code="PR" Name="Canadian Dollar" />
+  <SYMBOL Code="PRH19" Name="Canadian Dollar {Mar 19}" />
+  <SYMBOL Code="PRM18" Name="Canadian Dollar {Jun 18}" />
+  <SYMBOL Code="PRU18" Name="Canadian Dollar {Sep 18}" />
+  <SYMBOL Code="PRZ18" Name="Canadian Dollar {Dec 18}" />
+  <SYMBOL Code="PS" Name="Pound/Krona" />
+  <SYMBOL Code="PSH19" Name="Pound/Krona {Mar 19}" />
+  <SYMBOL Code="PSM18" Name="Pound/Krona {Jun 18}" />
+  <SYMBOL Code="PSU18" Name="Pound/Krona {Sep 18}" />
+  <SYMBOL Code="PSZ18" Name="Pound/Krona {Dec 18}" />
+  <SYMBOL Code="PV" Name="Pound/Australian" />
+  <SYMBOL Code="PVH19" Name="Pound/Australian {Mar 19}" />
+  <SYMBOL Code="PVM18" Name="Pound/Australian {Jun 18}" />
+  <SYMBOL Code="PVU18" Name="Pound/Australian {Sep 18}" />
+  <SYMBOL Code="PVZ18" Name="Pound/Australian {Dec 18}" />
+  <SYMBOL Code="PW" Name="Pound/Canadian" />
+  <SYMBOL Code="PWH19" Name="Pound/Canadian {Mar 19}" />
+  <SYMBOL Code="PWM18" Name="Pound/Canadian {Jun 18}" />
+  <SYMBOL Code="PWU18" Name="Pound/Canadian {Sep 18}" />
+  <SYMBOL Code="PWZ18" Name="Pound/Canadian {Dec 18}" />
+  <SYMBOL Code="PX" Name="Pound/Rand" />
+  <SYMBOL Code="PXH19" Name="Pound/Rand {Mar 19}" />
+  <SYMBOL Code="PXM18" Name="Pound/Rand {Jun 18}" />
+  <SYMBOL Code="PXU18" Name="Pound/Rand {Sep 18}" />
+  <SYMBOL Code="PXZ18" Name="Pound/Rand {Dec 18}" />
+  <SYMBOL Code="PY" Name="Euro/Rand" />
+  <SYMBOL Code="PYH19" Name="Euro/Rand {Mar 19}" />
+  <SYMBOL Code="PYM18" Name="Euro/Rand {Jun 18}" />
+  <SYMBOL Code="PYU18" Name="Euro/Rand {Sep 18}" />
+  <SYMBOL Code="PYZ18" Name="Euro/Rand {Dec 18}" />
+  <SYMBOL Code="PZ" Name="Swiss Franc" />
+  <SYMBOL Code="PZH19" Name="Swiss Franc {Mar 19}" />
+  <SYMBOL Code="PZM18" Name="Swiss Franc {Jun 18}" />
+  <SYMBOL Code="PZU18" Name="Swiss Franc {Sep 18}" />
+  <SYMBOL Code="PZZ18" Name="Swiss Franc {Dec 18}" />
+  <SYMBOL Code="R1H19" Name="MSCI Canada Index {Mar 19}" />
+  <SYMBOL Code="R1M18" Name="MSCI Canada Index {Jun 18}" />
+  <SYMBOL Code="R1M19" Name="MSCI Canada Index {Jun 19}" />
+  <SYMBOL Code="R1U18" Name="MSCI Canada Index {Sep 18}" />
+  <SYMBOL Code="R1Z18" Name="MSCI Canada Index {Dec 18}" />
+  <SYMBOL Code="R2H19" Name="MSCI World Index {Mar 19}" />
+  <SYMBOL Code="R2M18" Name="MSCI World Index {Jun 18}" />
+  <SYMBOL Code="R2M19" Name="MSCI World Index {Jun 19}" />
+  <SYMBOL Code="R2U18" Name="MSCI World Index {Sep 18}" />
+  <SYMBOL Code="R2Z18" Name="MSCI World Index {Dec 18}" />
+  <SYMBOL Code="RIM18" Name="Russell 1000 Mini {Jun 18}" />
+  <SYMBOL Code="RJM18" Name="Russell 2000 Mini {Jun 18}" />
+  <SYMBOL Code="RK" Name="Euro/Krona" />
+  <SYMBOL Code="RKH19" Name="Euro/Krona {Mar 19}" />
+  <SYMBOL Code="RKM18" Name="Euro/Krona {Jun 18}" />
+  <SYMBOL Code="RKU18" Name="Euro/Krona {Sep 18}" />
+  <SYMBOL Code="RKZ18" Name="Euro/Krona {Dec 18}" />
+  <SYMBOL Code="RZ" Name="Euro/Swiss" />
+  <SYMBOL Code="RZH19" Name="Euro/Swiss {Mar 19}" />
+  <SYMBOL Code="RZM18" Name="Euro/Swiss {Jun 18}" />
+  <SYMBOL Code="RZU18" Name="Euro/Swiss {Sep 18}" />
+  <SYMBOL Code="RZZ18" Name="Euro/Swiss {Dec 18}" />
+  <SYMBOL Code="S2H19" Name="MSCI EMLA Index {Mar 19}" />
+  <SYMBOL Code="S2M18" Name="MSCI EMLA Index {Jun 18}" />
+  <SYMBOL Code="S2M19" Name="MSCI EMLA Index {Jun 19}" />
+  <SYMBOL Code="S2U18" Name="MSCI EMLA Index {Sep 18}" />
+  <SYMBOL Code="S2Z18" Name="MSCI EMLA Index {Dec 18}" />
+  <SYMBOL Code="SB" Name="Sugar #11" />
+  <SYMBOL Code="SBH19" Name="Sugar #11 {Mar 19}" />
+  <SYMBOL Code="SBH20" Name="Sugar #11 {Mar 20}" />
+  <SYMBOL Code="SBH21" Name="Sugar #11 {Mar 21}" />
+  <SYMBOL Code="SBK18" Name="Sugar #11 {May 18}" />
+  <SYMBOL Code="SBK19" Name="Sugar #11 {May 19}" />
+  <SYMBOL Code="SBK20" Name="Sugar #11 {May 20}" />
+  <SYMBOL Code="SBN18" Name="Sugar #11 {Jul 18}" />
+  <SYMBOL Code="SBN19" Name="Sugar #11 {Jul 19}" />
+  <SYMBOL Code="SBN20" Name="Sugar #11 {Jul 20}" />
+  <SYMBOL Code="SBV18" Name="Sugar #11 {Oct 18}" />
+  <SYMBOL Code="SBV19" Name="Sugar #11 {Oct 19}" />
+  <SYMBOL Code="SBV20" Name="Sugar #11 {Oct 20}" />
+  <SYMBOL Code="SDF19" Name="Sugar #16 {Jan 19}" />
+  <SYMBOL Code="SDF20" Name="Sugar #16 {Jan 20}" />
+  <SYMBOL Code="SDH19" Name="Sugar #16 {Mar 19}" />
+  <SYMBOL Code="SDH20" Name="Sugar #16 {Mar 20}" />
+  <SYMBOL Code="SDK19" Name="Sugar #16 {May 19}" />
+  <SYMBOL Code="SDN18" Name="Sugar #16 {Jul 18}" />
+  <SYMBOL Code="SDN19" Name="Sugar #16 {Jul 19}" />
+  <SYMBOL Code="SDU18" Name="Sugar #16 {Sep 18}" />
+  <SYMBOL Code="SDU19" Name="Sugar #16 {Sep 19}" />
+  <SYMBOL Code="SDX18" Name="Sugar #16 {Nov 18}" />
+  <SYMBOL Code="SDX19" Name="Sugar #16 {Nov 19}" />
+  <SYMBOL Code="SS" Name="Pound/Swiss" />
+  <SYMBOL Code="SSH19" Name="Pound/Swiss {Mar 19}" />
+  <SYMBOL Code="SSM18" Name="Pound/Swiss {Jun 18}" />
+  <SYMBOL Code="SSU18" Name="Pound/Swiss {Sep 18}" />
+  <SYMBOL Code="SSZ18" Name="Pound/Swiss {Dec 18}" />
+  <SYMBOL Code="SY" Name="Pound/Yen" />
+  <SYMBOL Code="SYH19" Name="Pound/Yen {Mar 19}" />
+  <SYMBOL Code="SYM18" Name="Pound/Yen {Jun 18}" />
+  <SYMBOL Code="SYU18" Name="Pound/Yen {Sep 18}" />
+  <SYMBOL Code="SYZ18" Name="Pound/Yen {Dec 18}" />
+  <SYMBOL Code="UY" Name="Dollar/Forint" />
+  <SYMBOL Code="UYH19" Name="Dollar/Forint {Mar 19}" />
+  <SYMBOL Code="UYM18" Name="Dollar/Forint {Jun 18}" />
+  <SYMBOL Code="UYU18" Name="Dollar/Forint {Sep 18}" />
+  <SYMBOL Code="UYZ18" Name="Dollar/Forint {Dec 18}" />
+  <SYMBOL Code="UZ" Name="Dollar/Koruna" />
+  <SYMBOL Code="UZH19" Name="Dollar/Koruna {Mar 19}" />
+  <SYMBOL Code="UZM18" Name="Dollar/Koruna {Jun 18}" />
+  <SYMBOL Code="UZU18" Name="Dollar/Koruna {Sep 18}" />
+  <SYMBOL Code="UZZ18" Name="Dollar/Koruna {Dec 18}" />
+  <SYMBOL Code="VUM18" Name="Russell 1000 Growth {Jun 18}" />
+  <SYMBOL Code="VVM18" Name="Russell 1000 Value {Jun 18}" />
+  <SYMBOL Code="YA" Name="Aussie/Yen" />
+  <SYMBOL Code="YAH19" Name="Aussie/Yen {Mar 19}" />
+  <SYMBOL Code="YAM18" Name="Aussie/Yen {Jun 18}" />
+  <SYMBOL Code="YAU18" Name="Aussie/Yen {Sep 18}" />
+  <SYMBOL Code="YAZ18" Name="Aussie/Yen {Dec 18}" />
+  <SYMBOL Code="YGG19" Name="Gold mini-sized {Feb 19}" />
+  <SYMBOL Code="YGG20" Name="Gold mini-sized {Feb 20}" />
+  <SYMBOL Code="YGJ18" Name="Gold mini-sized {Apr 18}" />
+  <SYMBOL Code="YGJ19" Name="Gold mini-sized {Apr 19}" />
+  <SYMBOL Code="YGK18" Name="Gold mini-sized {May 18}" />
+  <SYMBOL Code="YGM18" Name="Gold mini-sized {Jun 18}" />
+  <SYMBOL Code="YGM19" Name="Gold mini-sized {Jun 19}" />
+  <SYMBOL Code="YGM20" Name="Gold mini-sized {Jun 20}" />
+  <SYMBOL Code="YGM21" Name="Gold mini-sized {Jun 21}" />
+  <SYMBOL Code="YGM22" Name="Gold mini-sized {Jun 22}" />
+  <SYMBOL Code="YGN18" Name="Gold mini-sized {Jul 18}" />
+  <SYMBOL Code="YGQ18" Name="Gold mini-sized {Aug 18}" />
+  <SYMBOL Code="YGQ19" Name="Gold mini-sized {Aug 19}" />
+  <SYMBOL Code="YGV18" Name="Gold mini-sized {Oct 18}" />
+  <SYMBOL Code="YGV19" Name="Gold mini-sized {Oct 19}" />
+  <SYMBOL Code="YGZ18" Name="Gold mini-sized {Dec 18}" />
+  <SYMBOL Code="YGZ19" Name="Gold mini-sized {Dec 19}" />
+  <SYMBOL Code="YGZ20" Name="Gold mini-sized {Dec 20}" />
+  <SYMBOL Code="YGZ21" Name="Gold mini-sized {Dec 21}" />
+  <SYMBOL Code="YGZ22" Name="Gold mini-sized {Dec 22}" />
+  <SYMBOL Code="YIF19" Name="Silver mini-sized {Jan 19}" />
+  <SYMBOL Code="YIF20" Name="Silver mini-sized {Jan 20}" />
+  <SYMBOL Code="YIH19" Name="Silver mini-sized {Mar 19}" />
+  <SYMBOL Code="YIH20" Name="Silver mini-sized {Mar 20}" />
+  <SYMBOL Code="YIJ18" Name="Silver mini-sized {Apr 18}" />
+  <SYMBOL Code="YIK18" Name="Silver mini-sized {May 18}" />
+  <SYMBOL Code="YIK19" Name="Silver mini-sized {May 19}" />
+  <SYMBOL Code="YIM18" Name="Silver mini-sized {Jun 18}" />
+  <SYMBOL Code="YIN18" Name="Silver mini-sized {Jul 18}" />
+  <SYMBOL Code="YIN19" Name="Silver mini-sized {Jul 19}" />
+  <SYMBOL Code="YIN20" Name="Silver mini-sized {Jul 20}" />
+  <SYMBOL Code="YIN21" Name="Silver mini-sized {Jul 21}" />
+  <SYMBOL Code="YIN22" Name="Silver mini-sized {Jul 22}" />
+  <SYMBOL Code="YIU18" Name="Silver mini-sized {Sep 18}" />
+  <SYMBOL Code="YIU19" Name="Silver mini-sized {Sep 19}" />
+  <SYMBOL Code="YIZ18" Name="Silver mini-sized {Dec 18}" />
+  <SYMBOL Code="YIZ19" Name="Silver mini-sized {Dec 19}" />
+  <SYMBOL Code="YIZ20" Name="Silver mini-sized {Dec 20}" />
+  <SYMBOL Code="YIZ21" Name="Silver mini-sized {Dec 21}" />
+  <SYMBOL Code="YIZ22" Name="Silver mini-sized {Dec 22}" />
+  <SYMBOL Code="YNH19" Name="Colombian Peso {Mar 19}" />
+  <SYMBOL Code="YNM18" Name="Colombian Peso {Jun 18}" />
+  <SYMBOL Code="YNU18" Name="Colombian Peso {Sep 18}" />
+  <SYMBOL Code="YNZ18" Name="Colombian Peso {Dec 18}" />
+  <SYMBOL Code="YO" Name="Mexican Peso" />
+  <SYMBOL Code="YOH19" Name="Mexican Peso {Mar 19}" />
+  <SYMBOL Code="YOM18" Name="Mexican Peso {Jun 18}" />
+  <SYMBOL Code="YOU18" Name="Mexican Peso {Sep 18}" />
+  <SYMBOL Code="YOZ18" Name="Mexican Peso {Dec 18}" />
+  <SYMBOL Code="YP" Name="Pound/Dollar" />
+  <SYMBOL Code="YPH19" Name="Pound/Dollar {Mar 19}" />
+  <SYMBOL Code="YPM18" Name="Pound/Dollar {Jun 18}" />
+  <SYMBOL Code="YPU18" Name="Pound/Dollar {Sep 18}" />
+  <SYMBOL Code="YPZ18" Name="Pound/Dollar {Dec 18}" />
+  <SYMBOL Code="ZGG19" Name="ICE Gold 100-oz {Feb 19}" />
+  <SYMBOL Code="ZGG20" Name="ICE Gold 100-oz {Feb 20}" />
+  <SYMBOL Code="ZGJ18" Name="ICE Gold 100-oz {Apr 18}" />
+  <SYMBOL Code="ZGJ19" Name="ICE Gold 100-oz {Apr 19}" />
+  <SYMBOL Code="ZGK18" Name="ICE Gold 100-oz {May 18}" />
+  <SYMBOL Code="ZGM18" Name="ICE Gold 100-oz {Jun 18}" />
+  <SYMBOL Code="ZGM19" Name="ICE Gold 100-oz {Jun 19}" />
+  <SYMBOL Code="ZGM20" Name="ICE Gold 100-oz {Jun 20}" />
+  <SYMBOL Code="ZGM21" Name="ICE Gold 100-oz {Jun 21}" />
+  <SYMBOL Code="ZGM22" Name="ICE Gold 100-oz {Jun 22}" />
+  <SYMBOL Code="ZGN18" Name="ICE Gold 100-oz {Jul 18}" />
+  <SYMBOL Code="ZGQ18" Name="ICE Gold 100-oz {Aug 18}" />
+  <SYMBOL Code="ZGQ19" Name="ICE Gold 100-oz {Aug 19}" />
+  <SYMBOL Code="ZGV18" Name="ICE Gold 100-oz {Oct 18}" />
+  <SYMBOL Code="ZGV19" Name="ICE Gold 100-oz {Oct 19}" />
+  <SYMBOL Code="ZGZ18" Name="ICE Gold 100-oz {Dec 18}" />
+  <SYMBOL Code="ZGZ19" Name="ICE Gold 100-oz {Dec 19}" />
+  <SYMBOL Code="ZGZ20" Name="ICE Gold 100-oz {Dec 20}" />
+  <SYMBOL Code="ZGZ21" Name="ICE Gold 100-oz {Dec 21}" />
+  <SYMBOL Code="ZGZ22" Name="ICE Gold 100-oz {Dec 22}" />
+  <SYMBOL Code="ZIF19" Name="ICE Silver 5000-oz {Jan 19}" />
+  <SYMBOL Code="ZIF20" Name="ICE Silver 5000-oz {Jan 20}" />
+  <SYMBOL Code="ZIH19" Name="ICE Silver 5000-oz {Mar 19}" />
+  <SYMBOL Code="ZIH20" Name="ICE Silver 5000-oz {Mar 20}" />
+  <SYMBOL Code="ZIJ18" Name="ICE Silver 5000-oz {Apr 18}" />
+  <SYMBOL Code="ZIK18" Name="ICE Silver 5000-oz {May 18}" />
+  <SYMBOL Code="ZIK19" Name="ICE Silver 5000-oz {May 19}" />
+  <SYMBOL Code="ZIM18" Name="ICE Silver 5000-oz {Jun 18}" />
+  <SYMBOL Code="ZIN18" Name="ICE Silver 5000-oz {Jul 18}" />
+  <SYMBOL Code="ZIN19" Name="ICE Silver 5000-oz {Jul 19}" />
+  <SYMBOL Code="ZIN20" Name="ICE Silver 5000-oz {Jul 20}" />
+  <SYMBOL Code="ZIN21" Name="ICE Silver 5000-oz {Jul 21}" />
+  <SYMBOL Code="ZIN22" Name="ICE Silver 5000-oz {Jul 22}" />
+  <SYMBOL Code="ZIU18" Name="ICE Silver 5000-oz {Sep 18}" />
+  <SYMBOL Code="ZIU19" Name="ICE Silver 5000-oz {Sep 19}" />
+  <SYMBOL Code="ZIZ18" Name="ICE Silver 5000-oz {Dec 18}" />
+  <SYMBOL Code="ZIZ19" Name="ICE Silver 5000-oz {Dec 19}" />
+  <SYMBOL Code="ZIZ20" Name="ICE Silver 5000-oz {Dec 20}" />
+  <SYMBOL Code="ZIZ21" Name="ICE Silver 5000-oz {Dec 21}" />
+  <SYMBOL Code="ZIZ22" Name="ICE Silver 5000-oz {Dec 22}" />
+  <SYMBOL Code="ZJ" Name="New Zealand/Yen" />
+  <SYMBOL Code="ZJH19" Name="New Zealand/Yen {Mar 19}" />
+  <SYMBOL Code="ZJM18" Name="New Zealand/Yen {Jun 18}" />
+  <SYMBOL Code="ZJU18" Name="New Zealand/Yen {Sep 18}" />
+  <SYMBOL Code="ZJZ18" Name="New Zealand/Yen {Dec 18}" />
+  <SYMBOL Code="ZY" Name="Swiss/Yen" />
+  <SYMBOL Code="ZYH19" Name="Swiss/Yen {Mar 19}" />
+  <SYMBOL Code="ZYM18" Name="Swiss/Yen {Jun 18}" />
+  <SYMBOL Code="ZYU18" Name="Swiss/Yen {Sep 18}" />
+  <SYMBOL Code="ZYZ18" Name="Swiss/Yen {Dec 18}" />
+</ArrayOfSYMBOL>

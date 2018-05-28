@@ -1,0 +1,1343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSYMBOL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SYMBOL Code="BH.C" Name="ULSD NY Harbor (F) Continuation" />
+  <SYMBOL Code="BHF19" Name="ULSD NY Harbor (F) {Jan 19}" />
+  <SYMBOL Code="BHF20" Name="ULSD NY Harbor (F) {Jan 20}" />
+  <SYMBOL Code="BHG19" Name="ULSD NY Harbor (F) {Feb 19}" />
+  <SYMBOL Code="BHG20" Name="ULSD NY Harbor (F) {Feb 20}" />
+  <SYMBOL Code="BHH19" Name="ULSD NY Harbor (F) {Mar 19}" />
+  <SYMBOL Code="BHH20" Name="ULSD NY Harbor (F) {Mar 20}" />
+  <SYMBOL Code="BHJ19" Name="ULSD NY Harbor (F) {Apr 19}" />
+  <SYMBOL Code="BHJ20" Name="ULSD NY Harbor (F) {Apr 20}" />
+  <SYMBOL Code="BHK18" Name="ULSD NY Harbor (F) {May 18}" />
+  <SYMBOL Code="BHK19" Name="ULSD NY Harbor (F) {May 19}" />
+  <SYMBOL Code="BHK20" Name="ULSD NY Harbor (F) {May 20}" />
+  <SYMBOL Code="BHM18" Name="ULSD NY Harbor (F) {Jun 18}" />
+  <SYMBOL Code="BHM19" Name="ULSD NY Harbor (F) {Jun 19}" />
+  <SYMBOL Code="BHM20" Name="ULSD NY Harbor (F) {Jun 20}" />
+  <SYMBOL Code="BHN18" Name="ULSD NY Harbor (F) {Jul 18}" />
+  <SYMBOL Code="BHN19" Name="ULSD NY Harbor (F) {Jul 19}" />
+  <SYMBOL Code="BHN20" Name="ULSD NY Harbor (F) {Jul 20}" />
+  <SYMBOL Code="BHQ18" Name="ULSD NY Harbor (F) {Aug 18}" />
+  <SYMBOL Code="BHQ19" Name="ULSD NY Harbor (F) {Aug 19}" />
+  <SYMBOL Code="BHQ20" Name="ULSD NY Harbor (F) {Aug 20}" />
+  <SYMBOL Code="BHU18" Name="ULSD NY Harbor (F) {Sep 18}" />
+  <SYMBOL Code="BHU19" Name="ULSD NY Harbor (F) {Sep 19}" />
+  <SYMBOL Code="BHU20" Name="ULSD NY Harbor (F) {Sep 20}" />
+  <SYMBOL Code="BHV18" Name="ULSD NY Harbor (F) {Oct 18}" />
+  <SYMBOL Code="BHV19" Name="ULSD NY Harbor (F) {Oct 19}" />
+  <SYMBOL Code="BHV20" Name="ULSD NY Harbor (F) {Oct 20}" />
+  <SYMBOL Code="BHX18" Name="ULSD NY Harbor (F) {Nov 18}" />
+  <SYMBOL Code="BHX19" Name="ULSD NY Harbor (F) {Nov 19}" />
+  <SYMBOL Code="BHX20" Name="ULSD NY Harbor (F) {Nov 20}" />
+  <SYMBOL Code="BHZ18" Name="ULSD NY Harbor (F) {Dec 18}" />
+  <SYMBOL Code="BHZ19" Name="ULSD NY Harbor (F) {Dec 19}" />
+  <SYMBOL Code="BHZ20" Name="ULSD NY Harbor (F) {Dec 20}" />
+  <SYMBOL Code="CJ.C" Name="CME Cocoa Continuation" />
+  <SYMBOL Code="CJH19" Name="CME Cocoa {Mar 19}" />
+  <SYMBOL Code="CJH20" Name="CME Cocoa {Mar 20}" />
+  <SYMBOL Code="CJK19" Name="CME Cocoa {May 19}" />
+  <SYMBOL Code="CJN18" Name="CME Cocoa {Jul 18}" />
+  <SYMBOL Code="CJN19" Name="CME Cocoa {Jul 19}" />
+  <SYMBOL Code="CJU18" Name="CME Cocoa {Sep 18}" />
+  <SYMBOL Code="CJU19" Name="CME Cocoa {Sep 19}" />
+  <SYMBOL Code="CJZ18" Name="CME Cocoa {Dec 18}" />
+  <SYMBOL Code="CJZ19" Name="CME Cocoa {Dec 19}" />
+  <SYMBOL Code="CL" Name="Crude Oil WTI" />
+  <SYMBOL Code="CL.C" Name="Crude Oil WTI Continuation" />
+  <SYMBOL Code="CLF19" Name="Crude Oil WTI {Jan 19}" />
+  <SYMBOL Code="CLF20" Name="Crude Oil WTI {Jan 20}" />
+  <SYMBOL Code="CLF21" Name="Crude Oil WTI {Jan 21}" />
+  <SYMBOL Code="CLF22" Name="Crude Oil WTI {Jan 22}" />
+  <SYMBOL Code="CLF23" Name="Crude Oil WTI {Jan 23}" />
+  <SYMBOL Code="CLF24" Name="Crude Oil WTI {Jan 24}" />
+  <SYMBOL Code="CLF25" Name="Crude Oil WTI {Jan 25}" />
+  <SYMBOL Code="CLF26" Name="Crude Oil WTI {Jan 26}" />
+  <SYMBOL Code="CLF27" Name="Crude Oil WTI {Jan 27}" />
+  <SYMBOL Code="CLG19" Name="Crude Oil WTI {Feb 19}" />
+  <SYMBOL Code="CLG20" Name="Crude Oil WTI {Feb 20}" />
+  <SYMBOL Code="CLG21" Name="Crude Oil WTI {Feb 21}" />
+  <SYMBOL Code="CLG22" Name="Crude Oil WTI {Feb 22}" />
+  <SYMBOL Code="CLG23" Name="Crude Oil WTI {Feb 23}" />
+  <SYMBOL Code="CLG24" Name="Crude Oil WTI {Feb 24}" />
+  <SYMBOL Code="CLG25" Name="Crude Oil WTI {Feb 25}" />
+  <SYMBOL Code="CLG26" Name="Crude Oil WTI {Feb 26}" />
+  <SYMBOL Code="CLG27" Name="Crude Oil WTI {Feb 27}" />
+  <SYMBOL Code="CLH19" Name="Crude Oil WTI {Mar 19}" />
+  <SYMBOL Code="CLH20" Name="Crude Oil WTI {Mar 20}" />
+  <SYMBOL Code="CLH21" Name="Crude Oil WTI {Mar 21}" />
+  <SYMBOL Code="CLH22" Name="Crude Oil WTI {Mar 22}" />
+  <SYMBOL Code="CLH23" Name="Crude Oil WTI {Mar 23}" />
+  <SYMBOL Code="CLH24" Name="Crude Oil WTI {Mar 24}" />
+  <SYMBOL Code="CLH25" Name="Crude Oil WTI {Mar 25}" />
+  <SYMBOL Code="CLH26" Name="Crude Oil WTI {Mar 26}" />
+  <SYMBOL Code="CLJ19" Name="Crude Oil WTI {Apr 19}" />
+  <SYMBOL Code="CLJ20" Name="Crude Oil WTI {Apr 20}" />
+  <SYMBOL Code="CLJ21" Name="Crude Oil WTI {Apr 21}" />
+  <SYMBOL Code="CLJ22" Name="Crude Oil WTI {Apr 22}" />
+  <SYMBOL Code="CLJ23" Name="Crude Oil WTI {Apr 23}" />
+  <SYMBOL Code="CLJ24" Name="Crude Oil WTI {Apr 24}" />
+  <SYMBOL Code="CLJ25" Name="Crude Oil WTI {Apr 25}" />
+  <SYMBOL Code="CLJ26" Name="Crude Oil WTI {Apr 26}" />
+  <SYMBOL Code="CLK19" Name="Crude Oil WTI {May 19}" />
+  <SYMBOL Code="CLK20" Name="Crude Oil WTI {May 20}" />
+  <SYMBOL Code="CLK21" Name="Crude Oil WTI {May 21}" />
+  <SYMBOL Code="CLK22" Name="Crude Oil WTI {May 22}" />
+  <SYMBOL Code="CLK23" Name="Crude Oil WTI {May 23}" />
+  <SYMBOL Code="CLK24" Name="Crude Oil WTI {May 24}" />
+  <SYMBOL Code="CLK25" Name="Crude Oil WTI {May 25}" />
+  <SYMBOL Code="CLK26" Name="Crude Oil WTI {May 26}" />
+  <SYMBOL Code="CLM18" Name="Crude Oil WTI {Jun 18}" />
+  <SYMBOL Code="CLM19" Name="Crude Oil WTI {Jun 19}" />
+  <SYMBOL Code="CLM20" Name="Crude Oil WTI {Jun 20}" />
+  <SYMBOL Code="CLM21" Name="Crude Oil WTI {Jun 21}" />
+  <SYMBOL Code="CLM22" Name="Crude Oil WTI {Jun 22}" />
+  <SYMBOL Code="CLM23" Name="Crude Oil WTI {Jun 23}" />
+  <SYMBOL Code="CLM24" Name="Crude Oil WTI {Jun 24}" />
+  <SYMBOL Code="CLM25" Name="Crude Oil WTI {Jun 25}" />
+  <SYMBOL Code="CLM26" Name="Crude Oil WTI {Jun 26}" />
+  <SYMBOL Code="CLN18" Name="Crude Oil WTI {Jul 18}" />
+  <SYMBOL Code="CLN19" Name="Crude Oil WTI {Jul 19}" />
+  <SYMBOL Code="CLN20" Name="Crude Oil WTI {Jul 20}" />
+  <SYMBOL Code="CLN21" Name="Crude Oil WTI {Jul 21}" />
+  <SYMBOL Code="CLN22" Name="Crude Oil WTI {Jul 22}" />
+  <SYMBOL Code="CLN23" Name="Crude Oil WTI {Jul 23}" />
+  <SYMBOL Code="CLN24" Name="Crude Oil WTI {Jul 24}" />
+  <SYMBOL Code="CLN25" Name="Crude Oil WTI {Jul 25}" />
+  <SYMBOL Code="CLN26" Name="Crude Oil WTI {Jul 26}" />
+  <SYMBOL Code="CLQ18" Name="Crude Oil WTI {Aug 18}" />
+  <SYMBOL Code="CLQ19" Name="Crude Oil WTI {Aug 19}" />
+  <SYMBOL Code="CLQ20" Name="Crude Oil WTI {Aug 20}" />
+  <SYMBOL Code="CLQ21" Name="Crude Oil WTI {Aug 21}" />
+  <SYMBOL Code="CLQ22" Name="Crude Oil WTI {Aug 22}" />
+  <SYMBOL Code="CLQ23" Name="Crude Oil WTI {Aug 23}" />
+  <SYMBOL Code="CLQ24" Name="Crude Oil WTI {Aug 24}" />
+  <SYMBOL Code="CLQ25" Name="Crude Oil WTI {Aug 25}" />
+  <SYMBOL Code="CLQ26" Name="Crude Oil WTI {Aug 26}" />
+  <SYMBOL Code="CLU18" Name="Crude Oil WTI {Sep 18}" />
+  <SYMBOL Code="CLU19" Name="Crude Oil WTI {Sep 19}" />
+  <SYMBOL Code="CLU20" Name="Crude Oil WTI {Sep 20}" />
+  <SYMBOL Code="CLU21" Name="Crude Oil WTI {Sep 21}" />
+  <SYMBOL Code="CLU22" Name="Crude Oil WTI {Sep 22}" />
+  <SYMBOL Code="CLU23" Name="Crude Oil WTI {Sep 23}" />
+  <SYMBOL Code="CLU24" Name="Crude Oil WTI {Sep 24}" />
+  <SYMBOL Code="CLU25" Name="Crude Oil WTI {Sep 25}" />
+  <SYMBOL Code="CLU26" Name="Crude Oil WTI {Sep 26}" />
+  <SYMBOL Code="CLV18" Name="Crude Oil WTI {Oct 18}" />
+  <SYMBOL Code="CLV19" Name="Crude Oil WTI {Oct 19}" />
+  <SYMBOL Code="CLV20" Name="Crude Oil WTI {Oct 20}" />
+  <SYMBOL Code="CLV21" Name="Crude Oil WTI {Oct 21}" />
+  <SYMBOL Code="CLV22" Name="Crude Oil WTI {Oct 22}" />
+  <SYMBOL Code="CLV23" Name="Crude Oil WTI {Oct 23}" />
+  <SYMBOL Code="CLV24" Name="Crude Oil WTI {Oct 24}" />
+  <SYMBOL Code="CLV25" Name="Crude Oil WTI {Oct 25}" />
+  <SYMBOL Code="CLV26" Name="Crude Oil WTI {Oct 26}" />
+  <SYMBOL Code="CLX18" Name="Crude Oil WTI {Nov 18}" />
+  <SYMBOL Code="CLX19" Name="Crude Oil WTI {Nov 19}" />
+  <SYMBOL Code="CLX20" Name="Crude Oil WTI {Nov 20}" />
+  <SYMBOL Code="CLX21" Name="Crude Oil WTI {Nov 21}" />
+  <SYMBOL Code="CLX22" Name="Crude Oil WTI {Nov 22}" />
+  <SYMBOL Code="CLX23" Name="Crude Oil WTI {Nov 23}" />
+  <SYMBOL Code="CLX24" Name="Crude Oil WTI {Nov 24}" />
+  <SYMBOL Code="CLX25" Name="Crude Oil WTI {Nov 25}" />
+  <SYMBOL Code="CLX26" Name="Crude Oil WTI {Nov 26}" />
+  <SYMBOL Code="CLZ18" Name="Crude Oil WTI {Dec 18}" />
+  <SYMBOL Code="CLZ19" Name="Crude Oil WTI {Dec 19}" />
+  <SYMBOL Code="CLZ20" Name="Crude Oil WTI {Dec 20}" />
+  <SYMBOL Code="CLZ21" Name="Crude Oil WTI {Dec 21}" />
+  <SYMBOL Code="CLZ22" Name="Crude Oil WTI {Dec 22}" />
+  <SYMBOL Code="CLZ23" Name="Crude Oil WTI {Dec 23}" />
+  <SYMBOL Code="CLZ24" Name="Crude Oil WTI {Dec 24}" />
+  <SYMBOL Code="CLZ25" Name="Crude Oil WTI {Dec 25}" />
+  <SYMBOL Code="CLZ26" Name="Crude Oil WTI {Dec 26}" />
+  <SYMBOL Code="D2.C" Name="Ethanol T2 ROB Continuation" />
+  <SYMBOL Code="D2F19" Name="Ethanol T2 ROB {Jan 19}" />
+  <SYMBOL Code="D2G19" Name="Ethanol T2 ROB {Feb 19}" />
+  <SYMBOL Code="D2H19" Name="Ethanol T2 ROB {Mar 19}" />
+  <SYMBOL Code="D2J18" Name="Ethanol T2 ROB {Apr 18}" />
+  <SYMBOL Code="D2K18" Name="Ethanol T2 ROB {May 18}" />
+  <SYMBOL Code="D2M18" Name="Ethanol T2 ROB {Jun 18}" />
+  <SYMBOL Code="D2N18" Name="Ethanol T2 ROB {Jul 18}" />
+  <SYMBOL Code="D2Q18" Name="Ethanol T2 ROB {Aug 18}" />
+  <SYMBOL Code="D2U18" Name="Ethanol T2 ROB {Sep 18}" />
+  <SYMBOL Code="D2V18" Name="Ethanol T2 ROB {Oct 18}" />
+  <SYMBOL Code="D2X18" Name="Ethanol T2 ROB {Nov 18}" />
+  <SYMBOL Code="D2Z18" Name="Ethanol T2 ROB {Dec 18}" />
+  <SYMBOL Code="FH.C" Name="Ethanol Swaps-NY Continuation" />
+  <SYMBOL Code="FHJ18" Name="Ethanol Swaps-NY {Apr 18}" />
+  <SYMBOL Code="FHK18" Name="Ethanol Swaps-NY {May 18}" />
+  <SYMBOL Code="FHM18" Name="Ethanol Swaps-NY {Jun 18}" />
+  <SYMBOL Code="FHN18" Name="Ethanol Swaps-NY {Jul 18}" />
+  <SYMBOL Code="FHQ18" Name="Ethanol Swaps-NY {Aug 18}" />
+  <SYMBOL Code="FHU18" Name="Ethanol Swaps-NY {Sep 18}" />
+  <SYMBOL Code="FHV18" Name="Ethanol Swaps-NY {Oct 18}" />
+  <SYMBOL Code="FHX18" Name="Ethanol Swaps-NY {Nov 18}" />
+  <SYMBOL Code="FHZ18" Name="Ethanol Swaps-NY {Dec 18}" />
+  <SYMBOL Code="FL.C" Name="Ethanol Swaps-Chgo Continuation" />
+  <SYMBOL Code="FLF19" Name="Ethanol Swaps-Chgo {Jan 19}" />
+  <SYMBOL Code="FLG19" Name="Ethanol Swaps-Chgo {Feb 19}" />
+  <SYMBOL Code="FLH19" Name="Ethanol Swaps-Chgo {Mar 19}" />
+  <SYMBOL Code="FLJ18" Name="Ethanol Swaps-Chgo {Apr 18}" />
+  <SYMBOL Code="FLJ19" Name="Ethanol Swaps-Chgo {Apr 19}" />
+  <SYMBOL Code="FLK18" Name="Ethanol Swaps-Chgo {May 18}" />
+  <SYMBOL Code="FLK19" Name="Ethanol Swaps-Chgo {May 19}" />
+  <SYMBOL Code="FLM18" Name="Ethanol Swaps-Chgo {Jun 18}" />
+  <SYMBOL Code="FLM19" Name="Ethanol Swaps-Chgo {Jun 19}" />
+  <SYMBOL Code="FLN18" Name="Ethanol Swaps-Chgo {Jul 18}" />
+  <SYMBOL Code="FLQ18" Name="Ethanol Swaps-Chgo {Aug 18}" />
+  <SYMBOL Code="FLQ19" Name="Ethanol Swaps-Chgo {Aug 19}" />
+  <SYMBOL Code="FLU18" Name="Ethanol Swaps-Chgo {Sep 18}" />
+  <SYMBOL Code="FLU19" Name="Ethanol Swaps-Chgo {Sep 19}" />
+  <SYMBOL Code="FLV18" Name="Ethanol Swaps-Chgo {Oct 18}" />
+  <SYMBOL Code="FLX18" Name="Ethanol Swaps-Chgo {Nov 18}" />
+  <SYMBOL Code="FLZ18" Name="Ethanol Swaps-Chgo {Dec 18}" />
+  <SYMBOL Code="FLZ19" Name="Ethanol Swaps-Chgo {Dec 19}" />
+  <SYMBOL Code="HH.C" Name="Natural Gas LDay (F) Continuation" />
+  <SYMBOL Code="HHF19" Name="Natural Gas LDay (F) {Jan 19}" />
+  <SYMBOL Code="HHF20" Name="Natural Gas LDay (F) {Jan 20}" />
+  <SYMBOL Code="HHF21" Name="Natural Gas LDay (F) {Jan 21}" />
+  <SYMBOL Code="HHF22" Name="Natural Gas LDay (F) {Jan 22}" />
+  <SYMBOL Code="HHF23" Name="Natural Gas LDay (F) {Jan 23}" />
+  <SYMBOL Code="HHF24" Name="Natural Gas LDay (F) {Jan 24}" />
+  <SYMBOL Code="HHF25" Name="Natural Gas LDay (F) {Jan 25}" />
+  <SYMBOL Code="HHF26" Name="Natural Gas LDay (F) {Jan 26}" />
+  <SYMBOL Code="HHF27" Name="Natural Gas LDay (F) {Jan 27}" />
+  <SYMBOL Code="HHF28" Name="Natural Gas LDay (F) {Jan 28}" />
+  <SYMBOL Code="HHF29" Name="Natural Gas LDay (F) {Jan 29}" />
+  <SYMBOL Code="HHF30" Name="Natural Gas LDay (F) {Jan 30}" />
+  <SYMBOL Code="HHG19" Name="Natural Gas LDay (F) {Feb 19}" />
+  <SYMBOL Code="HHG20" Name="Natural Gas LDay (F) {Feb 20}" />
+  <SYMBOL Code="HHG21" Name="Natural Gas LDay (F) {Feb 21}" />
+  <SYMBOL Code="HHG22" Name="Natural Gas LDay (F) {Feb 22}" />
+  <SYMBOL Code="HHG23" Name="Natural Gas LDay (F) {Feb 23}" />
+  <SYMBOL Code="HHG24" Name="Natural Gas LDay (F) {Feb 24}" />
+  <SYMBOL Code="HHG25" Name="Natural Gas LDay (F) {Feb 25}" />
+  <SYMBOL Code="HHG26" Name="Natural Gas LDay (F) {Feb 26}" />
+  <SYMBOL Code="HHG27" Name="Natural Gas LDay (F) {Feb 27}" />
+  <SYMBOL Code="HHG28" Name="Natural Gas LDay (F) {Feb 28}" />
+  <SYMBOL Code="HHG29" Name="Natural Gas LDay (F) {Feb 29}" />
+  <SYMBOL Code="HHG30" Name="Natural Gas LDay (F) {Feb 30}" />
+  <SYMBOL Code="HHH19" Name="Natural Gas LDay (F) {Mar 19}" />
+  <SYMBOL Code="HHH20" Name="Natural Gas LDay (F) {Mar 20}" />
+  <SYMBOL Code="HHH21" Name="Natural Gas LDay (F) {Mar 21}" />
+  <SYMBOL Code="HHH22" Name="Natural Gas LDay (F) {Mar 22}" />
+  <SYMBOL Code="HHH23" Name="Natural Gas LDay (F) {Mar 23}" />
+  <SYMBOL Code="HHH24" Name="Natural Gas LDay (F) {Mar 24}" />
+  <SYMBOL Code="HHH25" Name="Natural Gas LDay (F) {Mar 25}" />
+  <SYMBOL Code="HHH26" Name="Natural Gas LDay (F) {Mar 26}" />
+  <SYMBOL Code="HHH27" Name="Natural Gas LDay (F) {Mar 27}" />
+  <SYMBOL Code="HHH28" Name="Natural Gas LDay (F) {Mar 28}" />
+  <SYMBOL Code="HHH29" Name="Natural Gas LDay (F) {Mar 29}" />
+  <SYMBOL Code="HHH30" Name="Natural Gas LDay (F) {Mar 30}" />
+  <SYMBOL Code="HHJ19" Name="Natural Gas LDay (F) {Apr 19}" />
+  <SYMBOL Code="HHJ20" Name="Natural Gas LDay (F) {Apr 20}" />
+  <SYMBOL Code="HHJ21" Name="Natural Gas LDay (F) {Apr 21}" />
+  <SYMBOL Code="HHJ22" Name="Natural Gas LDay (F) {Apr 22}" />
+  <SYMBOL Code="HHJ23" Name="Natural Gas LDay (F) {Apr 23}" />
+  <SYMBOL Code="HHJ24" Name="Natural Gas LDay (F) {Apr 24}" />
+  <SYMBOL Code="HHJ25" Name="Natural Gas LDay (F) {Apr 25}" />
+  <SYMBOL Code="HHJ26" Name="Natural Gas LDay (F) {Apr 26}" />
+  <SYMBOL Code="HHJ27" Name="Natural Gas LDay (F) {Apr 27}" />
+  <SYMBOL Code="HHJ28" Name="Natural Gas LDay (F) {Apr 28}" />
+  <SYMBOL Code="HHJ29" Name="Natural Gas LDay (F) {Apr 29}" />
+  <SYMBOL Code="HHJ30" Name="Natural Gas LDay (F) {Apr 30}" />
+  <SYMBOL Code="HHK18" Name="Natural Gas LDay (F) {May 18}" />
+  <SYMBOL Code="HHK19" Name="Natural Gas LDay (F) {May 19}" />
+  <SYMBOL Code="HHK20" Name="Natural Gas LDay (F) {May 20}" />
+  <SYMBOL Code="HHK21" Name="Natural Gas LDay (F) {May 21}" />
+  <SYMBOL Code="HHK22" Name="Natural Gas LDay (F) {May 22}" />
+  <SYMBOL Code="HHK23" Name="Natural Gas LDay (F) {May 23}" />
+  <SYMBOL Code="HHK24" Name="Natural Gas LDay (F) {May 24}" />
+  <SYMBOL Code="HHK25" Name="Natural Gas LDay (F) {May 25}" />
+  <SYMBOL Code="HHK26" Name="Natural Gas LDay (F) {May 26}" />
+  <SYMBOL Code="HHK27" Name="Natural Gas LDay (F) {May 27}" />
+  <SYMBOL Code="HHK28" Name="Natural Gas LDay (F) {May 28}" />
+  <SYMBOL Code="HHK29" Name="Natural Gas LDay (F) {May 29}" />
+  <SYMBOL Code="HHK30" Name="Natural Gas LDay (F) {May 30}" />
+  <SYMBOL Code="HHM18" Name="Natural Gas LDay (F) {Jun 18}" />
+  <SYMBOL Code="HHM19" Name="Natural Gas LDay (F) {Jun 19}" />
+  <SYMBOL Code="HHM20" Name="Natural Gas LDay (F) {Jun 20}" />
+  <SYMBOL Code="HHM21" Name="Natural Gas LDay (F) {Jun 21}" />
+  <SYMBOL Code="HHM22" Name="Natural Gas LDay (F) {Jun 22}" />
+  <SYMBOL Code="HHM23" Name="Natural Gas LDay (F) {Jun 23}" />
+  <SYMBOL Code="HHM24" Name="Natural Gas LDay (F) {Jun 24}" />
+  <SYMBOL Code="HHM25" Name="Natural Gas LDay (F) {Jun 25}" />
+  <SYMBOL Code="HHM26" Name="Natural Gas LDay (F) {Jun 26}" />
+  <SYMBOL Code="HHM27" Name="Natural Gas LDay (F) {Jun 27}" />
+  <SYMBOL Code="HHM28" Name="Natural Gas LDay (F) {Jun 28}" />
+  <SYMBOL Code="HHM29" Name="Natural Gas LDay (F) {Jun 29}" />
+  <SYMBOL Code="HHM30" Name="Natural Gas LDay (F) {Jun 30}" />
+  <SYMBOL Code="HHN18" Name="Natural Gas LDay (F) {Jul 18}" />
+  <SYMBOL Code="HHN19" Name="Natural Gas LDay (F) {Jul 19}" />
+  <SYMBOL Code="HHN20" Name="Natural Gas LDay (F) {Jul 20}" />
+  <SYMBOL Code="HHN21" Name="Natural Gas LDay (F) {Jul 21}" />
+  <SYMBOL Code="HHN22" Name="Natural Gas LDay (F) {Jul 22}" />
+  <SYMBOL Code="HHN23" Name="Natural Gas LDay (F) {Jul 23}" />
+  <SYMBOL Code="HHN24" Name="Natural Gas LDay (F) {Jul 24}" />
+  <SYMBOL Code="HHN25" Name="Natural Gas LDay (F) {Jul 25}" />
+  <SYMBOL Code="HHN26" Name="Natural Gas LDay (F) {Jul 26}" />
+  <SYMBOL Code="HHN27" Name="Natural Gas LDay (F) {Jul 27}" />
+  <SYMBOL Code="HHN28" Name="Natural Gas LDay (F) {Jul 28}" />
+  <SYMBOL Code="HHN29" Name="Natural Gas LDay (F) {Jul 29}" />
+  <SYMBOL Code="HHN30" Name="Natural Gas LDay (F) {Jul 30}" />
+  <SYMBOL Code="HHQ18" Name="Natural Gas LDay (F) {Aug 18}" />
+  <SYMBOL Code="HHQ19" Name="Natural Gas LDay (F) {Aug 19}" />
+  <SYMBOL Code="HHQ20" Name="Natural Gas LDay (F) {Aug 20}" />
+  <SYMBOL Code="HHQ21" Name="Natural Gas LDay (F) {Aug 21}" />
+  <SYMBOL Code="HHQ22" Name="Natural Gas LDay (F) {Aug 22}" />
+  <SYMBOL Code="HHQ23" Name="Natural Gas LDay (F) {Aug 23}" />
+  <SYMBOL Code="HHQ24" Name="Natural Gas LDay (F) {Aug 24}" />
+  <SYMBOL Code="HHQ25" Name="Natural Gas LDay (F) {Aug 25}" />
+  <SYMBOL Code="HHQ26" Name="Natural Gas LDay (F) {Aug 26}" />
+  <SYMBOL Code="HHQ27" Name="Natural Gas LDay (F) {Aug 27}" />
+  <SYMBOL Code="HHQ28" Name="Natural Gas LDay (F) {Aug 28}" />
+  <SYMBOL Code="HHQ29" Name="Natural Gas LDay (F) {Aug 29}" />
+  <SYMBOL Code="HHQ30" Name="Natural Gas LDay (F) {Aug 30}" />
+  <SYMBOL Code="HHU18" Name="Natural Gas LDay (F) {Sep 18}" />
+  <SYMBOL Code="HHU19" Name="Natural Gas LDay (F) {Sep 19}" />
+  <SYMBOL Code="HHU20" Name="Natural Gas LDay (F) {Sep 20}" />
+  <SYMBOL Code="HHU21" Name="Natural Gas LDay (F) {Sep 21}" />
+  <SYMBOL Code="HHU22" Name="Natural Gas LDay (F) {Sep 22}" />
+  <SYMBOL Code="HHU23" Name="Natural Gas LDay (F) {Sep 23}" />
+  <SYMBOL Code="HHU24" Name="Natural Gas LDay (F) {Sep 24}" />
+  <SYMBOL Code="HHU25" Name="Natural Gas LDay (F) {Sep 25}" />
+  <SYMBOL Code="HHU26" Name="Natural Gas LDay (F) {Sep 26}" />
+  <SYMBOL Code="HHU27" Name="Natural Gas LDay (F) {Sep 27}" />
+  <SYMBOL Code="HHU28" Name="Natural Gas LDay (F) {Sep 28}" />
+  <SYMBOL Code="HHU29" Name="Natural Gas LDay (F) {Sep 29}" />
+  <SYMBOL Code="HHU30" Name="Natural Gas LDay (F) {Sep 30}" />
+  <SYMBOL Code="HHV18" Name="Natural Gas LDay (F) {Oct 18}" />
+  <SYMBOL Code="HHV19" Name="Natural Gas LDay (F) {Oct 19}" />
+  <SYMBOL Code="HHV20" Name="Natural Gas LDay (F) {Oct 20}" />
+  <SYMBOL Code="HHV21" Name="Natural Gas LDay (F) {Oct 21}" />
+  <SYMBOL Code="HHV22" Name="Natural Gas LDay (F) {Oct 22}" />
+  <SYMBOL Code="HHV23" Name="Natural Gas LDay (F) {Oct 23}" />
+  <SYMBOL Code="HHV24" Name="Natural Gas LDay (F) {Oct 24}" />
+  <SYMBOL Code="HHV25" Name="Natural Gas LDay (F) {Oct 25}" />
+  <SYMBOL Code="HHV26" Name="Natural Gas LDay (F) {Oct 26}" />
+  <SYMBOL Code="HHV27" Name="Natural Gas LDay (F) {Oct 27}" />
+  <SYMBOL Code="HHV28" Name="Natural Gas LDay (F) {Oct 28}" />
+  <SYMBOL Code="HHV29" Name="Natural Gas LDay (F) {Oct 29}" />
+  <SYMBOL Code="HHV30" Name="Natural Gas LDay (F) {Oct 30}" />
+  <SYMBOL Code="HHX18" Name="Natural Gas LDay (F) {Nov 18}" />
+  <SYMBOL Code="HHX19" Name="Natural Gas LDay (F) {Nov 19}" />
+  <SYMBOL Code="HHX20" Name="Natural Gas LDay (F) {Nov 20}" />
+  <SYMBOL Code="HHX21" Name="Natural Gas LDay (F) {Nov 21}" />
+  <SYMBOL Code="HHX22" Name="Natural Gas LDay (F) {Nov 22}" />
+  <SYMBOL Code="HHX23" Name="Natural Gas LDay (F) {Nov 23}" />
+  <SYMBOL Code="HHX24" Name="Natural Gas LDay (F) {Nov 24}" />
+  <SYMBOL Code="HHX25" Name="Natural Gas LDay (F) {Nov 25}" />
+  <SYMBOL Code="HHX26" Name="Natural Gas LDay (F) {Nov 26}" />
+  <SYMBOL Code="HHX27" Name="Natural Gas LDay (F) {Nov 27}" />
+  <SYMBOL Code="HHX28" Name="Natural Gas LDay (F) {Nov 28}" />
+  <SYMBOL Code="HHX29" Name="Natural Gas LDay (F) {Nov 29}" />
+  <SYMBOL Code="HHX30" Name="Natural Gas LDay (F) {Nov 30}" />
+  <SYMBOL Code="HHZ18" Name="Natural Gas LDay (F) {Dec 18}" />
+  <SYMBOL Code="HHZ19" Name="Natural Gas LDay (F) {Dec 19}" />
+  <SYMBOL Code="HHZ20" Name="Natural Gas LDay (F) {Dec 20}" />
+  <SYMBOL Code="HHZ21" Name="Natural Gas LDay (F) {Dec 21}" />
+  <SYMBOL Code="HHZ22" Name="Natural Gas LDay (F) {Dec 22}" />
+  <SYMBOL Code="HHZ23" Name="Natural Gas LDay (F) {Dec 23}" />
+  <SYMBOL Code="HHZ24" Name="Natural Gas LDay (F) {Dec 24}" />
+  <SYMBOL Code="HHZ25" Name="Natural Gas LDay (F) {Dec 25}" />
+  <SYMBOL Code="HHZ26" Name="Natural Gas LDay (F) {Dec 26}" />
+  <SYMBOL Code="HHZ27" Name="Natural Gas LDay (F) {Dec 27}" />
+  <SYMBOL Code="HHZ28" Name="Natural Gas LDay (F) {Dec 28}" />
+  <SYMBOL Code="HHZ29" Name="Natural Gas LDay (F) {Dec 29}" />
+  <SYMBOL Code="HHZ30" Name="Natural Gas LDay (F) {Dec 30}" />
+  <SYMBOL Code="HO" Name="ULSD NY Harbor" />
+  <SYMBOL Code="HO.C" Name="ULSD NY Harbor Continuation" />
+  <SYMBOL Code="HOF19" Name="ULSD NY Harbor {Jan 19}" />
+  <SYMBOL Code="HOF20" Name="ULSD NY Harbor {Jan 20}" />
+  <SYMBOL Code="HOF21" Name="ULSD NY Harbor {Jan 21}" />
+  <SYMBOL Code="HOF22" Name="ULSD NY Harbor {Jan 22}" />
+  <SYMBOL Code="HOG19" Name="ULSD NY Harbor {Feb 19}" />
+  <SYMBOL Code="HOG20" Name="ULSD NY Harbor {Feb 20}" />
+  <SYMBOL Code="HOG21" Name="ULSD NY Harbor {Feb 21}" />
+  <SYMBOL Code="HOH19" Name="ULSD NY Harbor {Mar 19}" />
+  <SYMBOL Code="HOH20" Name="ULSD NY Harbor {Mar 20}" />
+  <SYMBOL Code="HOH21" Name="ULSD NY Harbor {Mar 21}" />
+  <SYMBOL Code="HOJ19" Name="ULSD NY Harbor {Apr 19}" />
+  <SYMBOL Code="HOJ20" Name="ULSD NY Harbor {Apr 20}" />
+  <SYMBOL Code="HOJ21" Name="ULSD NY Harbor {Apr 21}" />
+  <SYMBOL Code="HOK18" Name="ULSD NY Harbor {May 18}" />
+  <SYMBOL Code="HOK19" Name="ULSD NY Harbor {May 19}" />
+  <SYMBOL Code="HOK20" Name="ULSD NY Harbor {May 20}" />
+  <SYMBOL Code="HOK21" Name="ULSD NY Harbor {May 21}" />
+  <SYMBOL Code="HOM18" Name="ULSD NY Harbor {Jun 18}" />
+  <SYMBOL Code="HOM19" Name="ULSD NY Harbor {Jun 19}" />
+  <SYMBOL Code="HOM20" Name="ULSD NY Harbor {Jun 20}" />
+  <SYMBOL Code="HOM21" Name="ULSD NY Harbor {Jun 21}" />
+  <SYMBOL Code="HON18" Name="ULSD NY Harbor {Jul 18}" />
+  <SYMBOL Code="HON19" Name="ULSD NY Harbor {Jul 19}" />
+  <SYMBOL Code="HON20" Name="ULSD NY Harbor {Jul 20}" />
+  <SYMBOL Code="HON21" Name="ULSD NY Harbor {Jul 21}" />
+  <SYMBOL Code="HOQ18" Name="ULSD NY Harbor {Aug 18}" />
+  <SYMBOL Code="HOQ19" Name="ULSD NY Harbor {Aug 19}" />
+  <SYMBOL Code="HOQ20" Name="ULSD NY Harbor {Aug 20}" />
+  <SYMBOL Code="HOQ21" Name="ULSD NY Harbor {Aug 21}" />
+  <SYMBOL Code="HOU18" Name="ULSD NY Harbor {Sep 18}" />
+  <SYMBOL Code="HOU19" Name="ULSD NY Harbor {Sep 19}" />
+  <SYMBOL Code="HOU20" Name="ULSD NY Harbor {Sep 20}" />
+  <SYMBOL Code="HOU21" Name="ULSD NY Harbor {Sep 21}" />
+  <SYMBOL Code="HOV18" Name="ULSD NY Harbor {Oct 18}" />
+  <SYMBOL Code="HOV19" Name="ULSD NY Harbor {Oct 19}" />
+  <SYMBOL Code="HOV20" Name="ULSD NY Harbor {Oct 20}" />
+  <SYMBOL Code="HOV21" Name="ULSD NY Harbor {Oct 21}" />
+  <SYMBOL Code="HOX18" Name="ULSD NY Harbor {Nov 18}" />
+  <SYMBOL Code="HOX19" Name="ULSD NY Harbor {Nov 19}" />
+  <SYMBOL Code="HOX20" Name="ULSD NY Harbor {Nov 20}" />
+  <SYMBOL Code="HOX21" Name="ULSD NY Harbor {Nov 21}" />
+  <SYMBOL Code="HOZ18" Name="ULSD NY Harbor {Dec 18}" />
+  <SYMBOL Code="HOZ19" Name="ULSD NY Harbor {Dec 19}" />
+  <SYMBOL Code="HOZ20" Name="ULSD NY Harbor {Dec 20}" />
+  <SYMBOL Code="HOZ21" Name="ULSD NY Harbor {Dec 21}" />
+  <SYMBOL Code="HP.C" Name="Natural Gas (F) Continuation" />
+  <SYMBOL Code="HPF19" Name="Natural Gas (F) {Jan 19}" />
+  <SYMBOL Code="HPF20" Name="Natural Gas (F) {Jan 20}" />
+  <SYMBOL Code="HPF21" Name="Natural Gas (F) {Jan 21}" />
+  <SYMBOL Code="HPF22" Name="Natural Gas (F) {Jan 22}" />
+  <SYMBOL Code="HPF23" Name="Natural Gas (F) {Jan 23}" />
+  <SYMBOL Code="HPG19" Name="Natural Gas (F) {Feb 19}" />
+  <SYMBOL Code="HPG20" Name="Natural Gas (F) {Feb 20}" />
+  <SYMBOL Code="HPG21" Name="Natural Gas (F) {Feb 21}" />
+  <SYMBOL Code="HPG22" Name="Natural Gas (F) {Feb 22}" />
+  <SYMBOL Code="HPG23" Name="Natural Gas (F) {Feb 23}" />
+  <SYMBOL Code="HPH19" Name="Natural Gas (F) {Mar 19}" />
+  <SYMBOL Code="HPH20" Name="Natural Gas (F) {Mar 20}" />
+  <SYMBOL Code="HPH21" Name="Natural Gas (F) {Mar 21}" />
+  <SYMBOL Code="HPH22" Name="Natural Gas (F) {Mar 22}" />
+  <SYMBOL Code="HPH23" Name="Natural Gas (F) {Mar 23}" />
+  <SYMBOL Code="HPJ19" Name="Natural Gas (F) {Apr 19}" />
+  <SYMBOL Code="HPJ20" Name="Natural Gas (F) {Apr 20}" />
+  <SYMBOL Code="HPJ21" Name="Natural Gas (F) {Apr 21}" />
+  <SYMBOL Code="HPJ22" Name="Natural Gas (F) {Apr 22}" />
+  <SYMBOL Code="HPJ23" Name="Natural Gas (F) {Apr 23}" />
+  <SYMBOL Code="HPK18" Name="Natural Gas (F) {May 18}" />
+  <SYMBOL Code="HPK19" Name="Natural Gas (F) {May 19}" />
+  <SYMBOL Code="HPK20" Name="Natural Gas (F) {May 20}" />
+  <SYMBOL Code="HPK21" Name="Natural Gas (F) {May 21}" />
+  <SYMBOL Code="HPK22" Name="Natural Gas (F) {May 22}" />
+  <SYMBOL Code="HPK23" Name="Natural Gas (F) {May 23}" />
+  <SYMBOL Code="HPM18" Name="Natural Gas (F) {Jun 18}" />
+  <SYMBOL Code="HPM19" Name="Natural Gas (F) {Jun 19}" />
+  <SYMBOL Code="HPM20" Name="Natural Gas (F) {Jun 20}" />
+  <SYMBOL Code="HPM21" Name="Natural Gas (F) {Jun 21}" />
+  <SYMBOL Code="HPM22" Name="Natural Gas (F) {Jun 22}" />
+  <SYMBOL Code="HPM23" Name="Natural Gas (F) {Jun 23}" />
+  <SYMBOL Code="HPN18" Name="Natural Gas (F) {Jul 18}" />
+  <SYMBOL Code="HPN19" Name="Natural Gas (F) {Jul 19}" />
+  <SYMBOL Code="HPN20" Name="Natural Gas (F) {Jul 20}" />
+  <SYMBOL Code="HPN21" Name="Natural Gas (F) {Jul 21}" />
+  <SYMBOL Code="HPN22" Name="Natural Gas (F) {Jul 22}" />
+  <SYMBOL Code="HPN23" Name="Natural Gas (F) {Jul 23}" />
+  <SYMBOL Code="HPQ18" Name="Natural Gas (F) {Aug 18}" />
+  <SYMBOL Code="HPQ19" Name="Natural Gas (F) {Aug 19}" />
+  <SYMBOL Code="HPQ20" Name="Natural Gas (F) {Aug 20}" />
+  <SYMBOL Code="HPQ21" Name="Natural Gas (F) {Aug 21}" />
+  <SYMBOL Code="HPQ22" Name="Natural Gas (F) {Aug 22}" />
+  <SYMBOL Code="HPQ23" Name="Natural Gas (F) {Aug 23}" />
+  <SYMBOL Code="HPU18" Name="Natural Gas (F) {Sep 18}" />
+  <SYMBOL Code="HPU19" Name="Natural Gas (F) {Sep 19}" />
+  <SYMBOL Code="HPU20" Name="Natural Gas (F) {Sep 20}" />
+  <SYMBOL Code="HPU21" Name="Natural Gas (F) {Sep 21}" />
+  <SYMBOL Code="HPU22" Name="Natural Gas (F) {Sep 22}" />
+  <SYMBOL Code="HPU23" Name="Natural Gas (F) {Sep 23}" />
+  <SYMBOL Code="HPV18" Name="Natural Gas (F) {Oct 18}" />
+  <SYMBOL Code="HPV19" Name="Natural Gas (F) {Oct 19}" />
+  <SYMBOL Code="HPV20" Name="Natural Gas (F) {Oct 20}" />
+  <SYMBOL Code="HPV21" Name="Natural Gas (F) {Oct 21}" />
+  <SYMBOL Code="HPV22" Name="Natural Gas (F) {Oct 22}" />
+  <SYMBOL Code="HPV23" Name="Natural Gas (F) {Oct 23}" />
+  <SYMBOL Code="HPX18" Name="Natural Gas (F) {Nov 18}" />
+  <SYMBOL Code="HPX19" Name="Natural Gas (F) {Nov 19}" />
+  <SYMBOL Code="HPX20" Name="Natural Gas (F) {Nov 20}" />
+  <SYMBOL Code="HPX21" Name="Natural Gas (F) {Nov 21}" />
+  <SYMBOL Code="HPX22" Name="Natural Gas (F) {Nov 22}" />
+  <SYMBOL Code="HPX23" Name="Natural Gas (F) {Nov 23}" />
+  <SYMBOL Code="HPZ18" Name="Natural Gas (F) {Dec 18}" />
+  <SYMBOL Code="HPZ19" Name="Natural Gas (F) {Dec 19}" />
+  <SYMBOL Code="HPZ20" Name="Natural Gas (F) {Dec 20}" />
+  <SYMBOL Code="HPZ21" Name="Natural Gas (F) {Dec 21}" />
+  <SYMBOL Code="HPZ22" Name="Natural Gas (F) {Dec 22}" />
+  <SYMBOL Code="HPZ23" Name="Natural Gas (F) {Dec 23}" />
+  <SYMBOL Code="HV.C" Name="US Steel Coil Continuation" />
+  <SYMBOL Code="HVF19" Name="US Steel Coil {Jan 19}" />
+  <SYMBOL Code="HVF20" Name="US Steel Coil {Jan 20}" />
+  <SYMBOL Code="HVG19" Name="US Steel Coil {Feb 19}" />
+  <SYMBOL Code="HVG20" Name="US Steel Coil {Feb 20}" />
+  <SYMBOL Code="HVH19" Name="US Steel Coil {Mar 19}" />
+  <SYMBOL Code="HVH20" Name="US Steel Coil {Mar 20}" />
+  <SYMBOL Code="HVJ18" Name="US Steel Coil {Apr 18}" />
+  <SYMBOL Code="HVJ19" Name="US Steel Coil {Apr 19}" />
+  <SYMBOL Code="HVK18" Name="US Steel Coil {May 18}" />
+  <SYMBOL Code="HVK19" Name="US Steel Coil {May 19}" />
+  <SYMBOL Code="HVM18" Name="US Steel Coil {Jun 18}" />
+  <SYMBOL Code="HVM19" Name="US Steel Coil {Jun 19}" />
+  <SYMBOL Code="HVN18" Name="US Steel Coil {Jul 18}" />
+  <SYMBOL Code="HVN19" Name="US Steel Coil {Jul 19}" />
+  <SYMBOL Code="HVQ18" Name="US Steel Coil {Aug 18}" />
+  <SYMBOL Code="HVQ19" Name="US Steel Coil {Aug 19}" />
+  <SYMBOL Code="HVU18" Name="US Steel Coil {Sep 18}" />
+  <SYMBOL Code="HVU19" Name="US Steel Coil {Sep 19}" />
+  <SYMBOL Code="HVV18" Name="US Steel Coil {Oct 18}" />
+  <SYMBOL Code="HVV19" Name="US Steel Coil {Oct 19}" />
+  <SYMBOL Code="HVX18" Name="US Steel Coil {Nov 18}" />
+  <SYMBOL Code="HVX19" Name="US Steel Coil {Nov 19}" />
+  <SYMBOL Code="HVZ18" Name="US Steel Coil {Dec 18}" />
+  <SYMBOL Code="HVZ19" Name="US Steel Coil {Dec 19}" />
+  <SYMBOL Code="JM" Name="PJM Monthly On Peak" />
+  <SYMBOL Code="JM.C" Name="PJM Monthly On Peak Continuation" />
+  <SYMBOL Code="JMF19" Name="PJM Monthly On Peak {Jan 19}" />
+  <SYMBOL Code="JMG19" Name="PJM Monthly On Peak {Feb 19}" />
+  <SYMBOL Code="JMH19" Name="PJM Monthly On Peak {Mar 19}" />
+  <SYMBOL Code="JMJ18" Name="PJM Monthly On Peak {Apr 18}" />
+  <SYMBOL Code="JMJ19" Name="PJM Monthly On Peak {Apr 19}" />
+  <SYMBOL Code="JMK18" Name="PJM Monthly On Peak {May 18}" />
+  <SYMBOL Code="JMK19" Name="PJM Monthly On Peak {May 19}" />
+  <SYMBOL Code="JMM18" Name="PJM Monthly On Peak {Jun 18}" />
+  <SYMBOL Code="JMM19" Name="PJM Monthly On Peak {Jun 19}" />
+  <SYMBOL Code="JMN18" Name="PJM Monthly On Peak {Jul 18}" />
+  <SYMBOL Code="JMN19" Name="PJM Monthly On Peak {Jul 19}" />
+  <SYMBOL Code="JMQ18" Name="PJM Monthly On Peak {Aug 18}" />
+  <SYMBOL Code="JMQ19" Name="PJM Monthly On Peak {Aug 19}" />
+  <SYMBOL Code="JMU18" Name="PJM Monthly On Peak {Sep 18}" />
+  <SYMBOL Code="JMU19" Name="PJM Monthly On Peak {Sep 19}" />
+  <SYMBOL Code="JMV18" Name="PJM Monthly On Peak {Oct 18}" />
+  <SYMBOL Code="JMV19" Name="PJM Monthly On Peak {Oct 19}" />
+  <SYMBOL Code="JMX18" Name="PJM Monthly On Peak {Nov 18}" />
+  <SYMBOL Code="JMX19" Name="PJM Monthly On Peak {Nov 19}" />
+  <SYMBOL Code="JMZ18" Name="PJM Monthly On Peak {Dec 18}" />
+  <SYMBOL Code="JMZ19" Name="PJM Monthly On Peak {Dec 19}" />
+  <SYMBOL Code="JP.C" Name="PJM Monthly Off Peak Continuation" />
+  <SYMBOL Code="JPJ18" Name="PJM Monthly Off Peak {Apr 18}" />
+  <SYMBOL Code="JPK18" Name="PJM Monthly Off Peak {May 18}" />
+  <SYMBOL Code="JPM18" Name="PJM Monthly Off Peak {Jun 18}" />
+  <SYMBOL Code="JPN18" Name="PJM Monthly Off Peak {Jul 18}" />
+  <SYMBOL Code="JPQ18" Name="PJM Monthly Off Peak {Aug 18}" />
+  <SYMBOL Code="JPU18" Name="PJM Monthly Off Peak {Sep 18}" />
+  <SYMBOL Code="JPV18" Name="PJM Monthly Off Peak {Oct 18}" />
+  <SYMBOL Code="JPX18" Name="PJM Monthly Off Peak {Nov 18}" />
+  <SYMBOL Code="JPZ18" Name="PJM Monthly Off Peak {Dec 18}" />
+  <SYMBOL Code="KA.C" Name="CME Sugar #11 Continuation" />
+  <SYMBOL Code="KAH19" Name="CME Sugar #11 {Mar 19}" />
+  <SYMBOL Code="KAH20" Name="CME Sugar #11 {Mar 20}" />
+  <SYMBOL Code="KAK18" Name="CME Sugar #11 {May 18}" />
+  <SYMBOL Code="KAK19" Name="CME Sugar #11 {May 19}" />
+  <SYMBOL Code="KAK20" Name="CME Sugar #11 {May 20}" />
+  <SYMBOL Code="KAN18" Name="CME Sugar #11 {Jul 18}" />
+  <SYMBOL Code="KAN19" Name="CME Sugar #11 {Jul 19}" />
+  <SYMBOL Code="KAV18" Name="CME Sugar #11 {Oct 18}" />
+  <SYMBOL Code="KAV19" Name="CME Sugar #11 {Oct 19}" />
+  <SYMBOL Code="KG.C" Name="CME Cotton #2 Continuation" />
+  <SYMBOL Code="KGH19" Name="CME Cotton #2 {Mar 19}" />
+  <SYMBOL Code="KGH20" Name="CME Cotton #2 {Mar 20}" />
+  <SYMBOL Code="KGK18" Name="CME Cotton #2 {May 18}" />
+  <SYMBOL Code="KGK19" Name="CME Cotton #2 {May 19}" />
+  <SYMBOL Code="KGK20" Name="CME Cotton #2 {May 20}" />
+  <SYMBOL Code="KGN18" Name="CME Cotton #2 {Jul 18}" />
+  <SYMBOL Code="KGN19" Name="CME Cotton #2 {Jul 19}" />
+  <SYMBOL Code="KGV18" Name="CME Cotton #2 {Oct 18}" />
+  <SYMBOL Code="KGV19" Name="CME Cotton #2 {Oct 19}" />
+  <SYMBOL Code="KGZ18" Name="CME Cotton #2 {Dec 18}" />
+  <SYMBOL Code="KGZ19" Name="CME Cotton #2 {Dec 19}" />
+  <SYMBOL Code="KT.C" Name="CME Coffee Continuation" />
+  <SYMBOL Code="KTH19" Name="CME Coffee {Mar 19}" />
+  <SYMBOL Code="KTH20" Name="CME Coffee {Mar 20}" />
+  <SYMBOL Code="KTK19" Name="CME Coffee {May 19}" />
+  <SYMBOL Code="KTN18" Name="CME Coffee {Jul 18}" />
+  <SYMBOL Code="KTN19" Name="CME Coffee {Jul 19}" />
+  <SYMBOL Code="KTU18" Name="CME Coffee {Sep 18}" />
+  <SYMBOL Code="KTU19" Name="CME Coffee {Sep 19}" />
+  <SYMBOL Code="KTZ18" Name="CME Coffee {Dec 18}" />
+  <SYMBOL Code="KTZ19" Name="CME Coffee {Dec 19}" />
+  <SYMBOL Code="MT.C" Name="Gulf Sour Crude Oil Continuation" />
+  <SYMBOL Code="MTF19" Name="Gulf Sour Crude Oil {Jan 19}" />
+  <SYMBOL Code="MTF20" Name="Gulf Sour Crude Oil {Jan 20}" />
+  <SYMBOL Code="MTF21" Name="Gulf Sour Crude Oil {Jan 21}" />
+  <SYMBOL Code="MTG19" Name="Gulf Sour Crude Oil {Feb 19}" />
+  <SYMBOL Code="MTG20" Name="Gulf Sour Crude Oil {Feb 20}" />
+  <SYMBOL Code="MTG21" Name="Gulf Sour Crude Oil {Feb 21}" />
+  <SYMBOL Code="MTH19" Name="Gulf Sour Crude Oil {Mar 19}" />
+  <SYMBOL Code="MTH20" Name="Gulf Sour Crude Oil {Mar 20}" />
+  <SYMBOL Code="MTH21" Name="Gulf Sour Crude Oil {Mar 21}" />
+  <SYMBOL Code="MTJ19" Name="Gulf Sour Crude Oil {Apr 19}" />
+  <SYMBOL Code="MTJ20" Name="Gulf Sour Crude Oil {Apr 20}" />
+  <SYMBOL Code="MTJ21" Name="Gulf Sour Crude Oil {Apr 21}" />
+  <SYMBOL Code="MTK19" Name="Gulf Sour Crude Oil {May 19}" />
+  <SYMBOL Code="MTK20" Name="Gulf Sour Crude Oil {May 20}" />
+  <SYMBOL Code="MTK21" Name="Gulf Sour Crude Oil {May 21}" />
+  <SYMBOL Code="MTM18" Name="Gulf Sour Crude Oil {Jun 18}" />
+  <SYMBOL Code="MTM19" Name="Gulf Sour Crude Oil {Jun 19}" />
+  <SYMBOL Code="MTM20" Name="Gulf Sour Crude Oil {Jun 20}" />
+  <SYMBOL Code="MTN18" Name="Gulf Sour Crude Oil {Jul 18}" />
+  <SYMBOL Code="MTN19" Name="Gulf Sour Crude Oil {Jul 19}" />
+  <SYMBOL Code="MTN20" Name="Gulf Sour Crude Oil {Jul 20}" />
+  <SYMBOL Code="MTQ18" Name="Gulf Sour Crude Oil {Aug 18}" />
+  <SYMBOL Code="MTQ19" Name="Gulf Sour Crude Oil {Aug 19}" />
+  <SYMBOL Code="MTQ20" Name="Gulf Sour Crude Oil {Aug 20}" />
+  <SYMBOL Code="MTU18" Name="Gulf Sour Crude Oil {Sep 18}" />
+  <SYMBOL Code="MTU19" Name="Gulf Sour Crude Oil {Sep 19}" />
+  <SYMBOL Code="MTU20" Name="Gulf Sour Crude Oil {Sep 20}" />
+  <SYMBOL Code="MTV18" Name="Gulf Sour Crude Oil {Oct 18}" />
+  <SYMBOL Code="MTV19" Name="Gulf Sour Crude Oil {Oct 19}" />
+  <SYMBOL Code="MTV20" Name="Gulf Sour Crude Oil {Oct 20}" />
+  <SYMBOL Code="MTX18" Name="Gulf Sour Crude Oil {Nov 18}" />
+  <SYMBOL Code="MTX19" Name="Gulf Sour Crude Oil {Nov 19}" />
+  <SYMBOL Code="MTX20" Name="Gulf Sour Crude Oil {Nov 20}" />
+  <SYMBOL Code="MTZ18" Name="Gulf Sour Crude Oil {Dec 18}" />
+  <SYMBOL Code="MTZ19" Name="Gulf Sour Crude Oil {Dec 19}" />
+  <SYMBOL Code="MTZ20" Name="Gulf Sour Crude Oil {Dec 20}" />
+  <SYMBOL Code="NG" Name="Natural Gas" />
+  <SYMBOL Code="NG.C" Name="Natural Gas Continuation" />
+  <SYMBOL Code="NGF19" Name="Natural Gas {Jan 19}" />
+  <SYMBOL Code="NGF20" Name="Natural Gas {Jan 20}" />
+  <SYMBOL Code="NGF21" Name="Natural Gas {Jan 21}" />
+  <SYMBOL Code="NGF22" Name="Natural Gas {Jan 22}" />
+  <SYMBOL Code="NGF23" Name="Natural Gas {Jan 23}" />
+  <SYMBOL Code="NGF24" Name="Natural Gas {Jan 24}" />
+  <SYMBOL Code="NGF25" Name="Natural Gas {Jan 25}" />
+  <SYMBOL Code="NGF26" Name="Natural Gas {Jan 26}" />
+  <SYMBOL Code="NGF27" Name="Natural Gas {Jan 27}" />
+  <SYMBOL Code="NGF28" Name="Natural Gas {Jan 28}" />
+  <SYMBOL Code="NGF29" Name="Natural Gas {Jan 29}" />
+  <SYMBOL Code="NGF30" Name="Natural Gas {Jan 30}" />
+  <SYMBOL Code="NGG19" Name="Natural Gas {Feb 19}" />
+  <SYMBOL Code="NGG20" Name="Natural Gas {Feb 20}" />
+  <SYMBOL Code="NGG21" Name="Natural Gas {Feb 21}" />
+  <SYMBOL Code="NGG22" Name="Natural Gas {Feb 22}" />
+  <SYMBOL Code="NGG23" Name="Natural Gas {Feb 23}" />
+  <SYMBOL Code="NGG24" Name="Natural Gas {Feb 24}" />
+  <SYMBOL Code="NGG25" Name="Natural Gas {Feb 25}" />
+  <SYMBOL Code="NGG26" Name="Natural Gas {Feb 26}" />
+  <SYMBOL Code="NGG27" Name="Natural Gas {Feb 27}" />
+  <SYMBOL Code="NGG28" Name="Natural Gas {Feb 28}" />
+  <SYMBOL Code="NGG29" Name="Natural Gas {Feb 29}" />
+  <SYMBOL Code="NGG30" Name="Natural Gas {Feb 30}" />
+  <SYMBOL Code="NGH19" Name="Natural Gas {Mar 19}" />
+  <SYMBOL Code="NGH20" Name="Natural Gas {Mar 20}" />
+  <SYMBOL Code="NGH21" Name="Natural Gas {Mar 21}" />
+  <SYMBOL Code="NGH22" Name="Natural Gas {Mar 22}" />
+  <SYMBOL Code="NGH23" Name="Natural Gas {Mar 23}" />
+  <SYMBOL Code="NGH24" Name="Natural Gas {Mar 24}" />
+  <SYMBOL Code="NGH25" Name="Natural Gas {Mar 25}" />
+  <SYMBOL Code="NGH26" Name="Natural Gas {Mar 26}" />
+  <SYMBOL Code="NGH27" Name="Natural Gas {Mar 27}" />
+  <SYMBOL Code="NGH28" Name="Natural Gas {Mar 28}" />
+  <SYMBOL Code="NGH29" Name="Natural Gas {Mar 29}" />
+  <SYMBOL Code="NGH30" Name="Natural Gas {Mar 30}" />
+  <SYMBOL Code="NGJ19" Name="Natural Gas {Apr 19}" />
+  <SYMBOL Code="NGJ20" Name="Natural Gas {Apr 20}" />
+  <SYMBOL Code="NGJ21" Name="Natural Gas {Apr 21}" />
+  <SYMBOL Code="NGJ22" Name="Natural Gas {Apr 22}" />
+  <SYMBOL Code="NGJ23" Name="Natural Gas {Apr 23}" />
+  <SYMBOL Code="NGJ24" Name="Natural Gas {Apr 24}" />
+  <SYMBOL Code="NGJ25" Name="Natural Gas {Apr 25}" />
+  <SYMBOL Code="NGJ26" Name="Natural Gas {Apr 26}" />
+  <SYMBOL Code="NGJ27" Name="Natural Gas {Apr 27}" />
+  <SYMBOL Code="NGJ28" Name="Natural Gas {Apr 28}" />
+  <SYMBOL Code="NGJ29" Name="Natural Gas {Apr 29}" />
+  <SYMBOL Code="NGJ30" Name="Natural Gas {Apr 30}" />
+  <SYMBOL Code="NGK18" Name="Natural Gas {May 18}" />
+  <SYMBOL Code="NGK19" Name="Natural Gas {May 19}" />
+  <SYMBOL Code="NGK20" Name="Natural Gas {May 20}" />
+  <SYMBOL Code="NGK21" Name="Natural Gas {May 21}" />
+  <SYMBOL Code="NGK22" Name="Natural Gas {May 22}" />
+  <SYMBOL Code="NGK23" Name="Natural Gas {May 23}" />
+  <SYMBOL Code="NGK24" Name="Natural Gas {May 24}" />
+  <SYMBOL Code="NGK25" Name="Natural Gas {May 25}" />
+  <SYMBOL Code="NGK26" Name="Natural Gas {May 26}" />
+  <SYMBOL Code="NGK27" Name="Natural Gas {May 27}" />
+  <SYMBOL Code="NGK28" Name="Natural Gas {May 28}" />
+  <SYMBOL Code="NGK29" Name="Natural Gas {May 29}" />
+  <SYMBOL Code="NGK30" Name="Natural Gas {May 30}" />
+  <SYMBOL Code="NGM18" Name="Natural Gas {Jun 18}" />
+  <SYMBOL Code="NGM19" Name="Natural Gas {Jun 19}" />
+  <SYMBOL Code="NGM20" Name="Natural Gas {Jun 20}" />
+  <SYMBOL Code="NGM21" Name="Natural Gas {Jun 21}" />
+  <SYMBOL Code="NGM22" Name="Natural Gas {Jun 22}" />
+  <SYMBOL Code="NGM23" Name="Natural Gas {Jun 23}" />
+  <SYMBOL Code="NGM24" Name="Natural Gas {Jun 24}" />
+  <SYMBOL Code="NGM25" Name="Natural Gas {Jun 25}" />
+  <SYMBOL Code="NGM26" Name="Natural Gas {Jun 26}" />
+  <SYMBOL Code="NGM27" Name="Natural Gas {Jun 27}" />
+  <SYMBOL Code="NGM28" Name="Natural Gas {Jun 28}" />
+  <SYMBOL Code="NGM29" Name="Natural Gas {Jun 29}" />
+  <SYMBOL Code="NGM30" Name="Natural Gas {Jun 30}" />
+  <SYMBOL Code="NGN18" Name="Natural Gas {Jul 18}" />
+  <SYMBOL Code="NGN19" Name="Natural Gas {Jul 19}" />
+  <SYMBOL Code="NGN20" Name="Natural Gas {Jul 20}" />
+  <SYMBOL Code="NGN21" Name="Natural Gas {Jul 21}" />
+  <SYMBOL Code="NGN22" Name="Natural Gas {Jul 22}" />
+  <SYMBOL Code="NGN23" Name="Natural Gas {Jul 23}" />
+  <SYMBOL Code="NGN24" Name="Natural Gas {Jul 24}" />
+  <SYMBOL Code="NGN25" Name="Natural Gas {Jul 25}" />
+  <SYMBOL Code="NGN26" Name="Natural Gas {Jul 26}" />
+  <SYMBOL Code="NGN27" Name="Natural Gas {Jul 27}" />
+  <SYMBOL Code="NGN28" Name="Natural Gas {Jul 28}" />
+  <SYMBOL Code="NGN29" Name="Natural Gas {Jul 29}" />
+  <SYMBOL Code="NGN30" Name="Natural Gas {Jul 30}" />
+  <SYMBOL Code="NGQ18" Name="Natural Gas {Aug 18}" />
+  <SYMBOL Code="NGQ19" Name="Natural Gas {Aug 19}" />
+  <SYMBOL Code="NGQ20" Name="Natural Gas {Aug 20}" />
+  <SYMBOL Code="NGQ21" Name="Natural Gas {Aug 21}" />
+  <SYMBOL Code="NGQ22" Name="Natural Gas {Aug 22}" />
+  <SYMBOL Code="NGQ23" Name="Natural Gas {Aug 23}" />
+  <SYMBOL Code="NGQ24" Name="Natural Gas {Aug 24}" />
+  <SYMBOL Code="NGQ25" Name="Natural Gas {Aug 25}" />
+  <SYMBOL Code="NGQ26" Name="Natural Gas {Aug 26}" />
+  <SYMBOL Code="NGQ27" Name="Natural Gas {Aug 27}" />
+  <SYMBOL Code="NGQ28" Name="Natural Gas {Aug 28}" />
+  <SYMBOL Code="NGQ29" Name="Natural Gas {Aug 29}" />
+  <SYMBOL Code="NGQ30" Name="Natural Gas {Aug 30}" />
+  <SYMBOL Code="NGU18" Name="Natural Gas {Sep 18}" />
+  <SYMBOL Code="NGU19" Name="Natural Gas {Sep 19}" />
+  <SYMBOL Code="NGU20" Name="Natural Gas {Sep 20}" />
+  <SYMBOL Code="NGU21" Name="Natural Gas {Sep 21}" />
+  <SYMBOL Code="NGU22" Name="Natural Gas {Sep 22}" />
+  <SYMBOL Code="NGU23" Name="Natural Gas {Sep 23}" />
+  <SYMBOL Code="NGU24" Name="Natural Gas {Sep 24}" />
+  <SYMBOL Code="NGU25" Name="Natural Gas {Sep 25}" />
+  <SYMBOL Code="NGU26" Name="Natural Gas {Sep 26}" />
+  <SYMBOL Code="NGU27" Name="Natural Gas {Sep 27}" />
+  <SYMBOL Code="NGU28" Name="Natural Gas {Sep 28}" />
+  <SYMBOL Code="NGU29" Name="Natural Gas {Sep 29}" />
+  <SYMBOL Code="NGU30" Name="Natural Gas {Sep 30}" />
+  <SYMBOL Code="NGV18" Name="Natural Gas {Oct 18}" />
+  <SYMBOL Code="NGV19" Name="Natural Gas {Oct 19}" />
+  <SYMBOL Code="NGV20" Name="Natural Gas {Oct 20}" />
+  <SYMBOL Code="NGV21" Name="Natural Gas {Oct 21}" />
+  <SYMBOL Code="NGV22" Name="Natural Gas {Oct 22}" />
+  <SYMBOL Code="NGV23" Name="Natural Gas {Oct 23}" />
+  <SYMBOL Code="NGV24" Name="Natural Gas {Oct 24}" />
+  <SYMBOL Code="NGV25" Name="Natural Gas {Oct 25}" />
+  <SYMBOL Code="NGV26" Name="Natural Gas {Oct 26}" />
+  <SYMBOL Code="NGV27" Name="Natural Gas {Oct 27}" />
+  <SYMBOL Code="NGV28" Name="Natural Gas {Oct 28}" />
+  <SYMBOL Code="NGV29" Name="Natural Gas {Oct 29}" />
+  <SYMBOL Code="NGV30" Name="Natural Gas {Oct 30}" />
+  <SYMBOL Code="NGX18" Name="Natural Gas {Nov 18}" />
+  <SYMBOL Code="NGX19" Name="Natural Gas {Nov 19}" />
+  <SYMBOL Code="NGX20" Name="Natural Gas {Nov 20}" />
+  <SYMBOL Code="NGX21" Name="Natural Gas {Nov 21}" />
+  <SYMBOL Code="NGX22" Name="Natural Gas {Nov 22}" />
+  <SYMBOL Code="NGX23" Name="Natural Gas {Nov 23}" />
+  <SYMBOL Code="NGX24" Name="Natural Gas {Nov 24}" />
+  <SYMBOL Code="NGX25" Name="Natural Gas {Nov 25}" />
+  <SYMBOL Code="NGX26" Name="Natural Gas {Nov 26}" />
+  <SYMBOL Code="NGX27" Name="Natural Gas {Nov 27}" />
+  <SYMBOL Code="NGX28" Name="Natural Gas {Nov 28}" />
+  <SYMBOL Code="NGX29" Name="Natural Gas {Nov 29}" />
+  <SYMBOL Code="NGX30" Name="Natural Gas {Nov 30}" />
+  <SYMBOL Code="NGZ18" Name="Natural Gas {Dec 18}" />
+  <SYMBOL Code="NGZ19" Name="Natural Gas {Dec 19}" />
+  <SYMBOL Code="NGZ20" Name="Natural Gas {Dec 20}" />
+  <SYMBOL Code="NGZ21" Name="Natural Gas {Dec 21}" />
+  <SYMBOL Code="NGZ22" Name="Natural Gas {Dec 22}" />
+  <SYMBOL Code="NGZ23" Name="Natural Gas {Dec 23}" />
+  <SYMBOL Code="NGZ24" Name="Natural Gas {Dec 24}" />
+  <SYMBOL Code="NGZ25" Name="Natural Gas {Dec 25}" />
+  <SYMBOL Code="NGZ26" Name="Natural Gas {Dec 26}" />
+  <SYMBOL Code="NGZ27" Name="Natural Gas {Dec 27}" />
+  <SYMBOL Code="NGZ28" Name="Natural Gas {Dec 28}" />
+  <SYMBOL Code="NGZ29" Name="Natural Gas {Dec 29}" />
+  <SYMBOL Code="NGZ30" Name="Natural Gas {Dec 30}" />
+  <SYMBOL Code="PA" Name="Palladium" />
+  <SYMBOL Code="PA.C" Name="Palladium Continuation" />
+  <SYMBOL Code="PAH19" Name="Palladium {Mar 19}" />
+  <SYMBOL Code="PAJ18" Name="Palladium {Apr 18}" />
+  <SYMBOL Code="PAK18" Name="Palladium {May 18}" />
+  <SYMBOL Code="PAM18" Name="Palladium {Jun 18}" />
+  <SYMBOL Code="PAM19" Name="Palladium {Jun 19}" />
+  <SYMBOL Code="PAN18" Name="Palladium {Jul 18}" />
+  <SYMBOL Code="PAU18" Name="Palladium {Sep 18}" />
+  <SYMBOL Code="PAZ18" Name="Palladium {Dec 18}" />
+  <SYMBOL Code="PL" Name="Platinum" />
+  <SYMBOL Code="PL.C" Name="Platinum Continuation" />
+  <SYMBOL Code="PLF19" Name="Platinum {Jan 19}" />
+  <SYMBOL Code="PLJ18" Name="Platinum {Apr 18}" />
+  <SYMBOL Code="PLJ19" Name="Platinum {Apr 19}" />
+  <SYMBOL Code="PLK18" Name="Platinum {May 18}" />
+  <SYMBOL Code="PLM18" Name="Platinum {Jun 18}" />
+  <SYMBOL Code="PLN18" Name="Platinum {Jul 18}" />
+  <SYMBOL Code="PLN19" Name="Platinum {Jul 19}" />
+  <SYMBOL Code="PLV18" Name="Platinum {Oct 18}" />
+  <SYMBOL Code="PN" Name="Propane" />
+  <SYMBOL Code="QA" Name="Crude Oil Brent (F)" />
+  <SYMBOL Code="QA.C" Name="Crude Oil Brent (F) Continuation" />
+  <SYMBOL Code="QAF19" Name="Crude Oil Brent (F) {Jan 19}" />
+  <SYMBOL Code="QAF20" Name="Crude Oil Brent (F) {Jan 20}" />
+  <SYMBOL Code="QAF21" Name="Crude Oil Brent (F) {Jan 21}" />
+  <SYMBOL Code="QAF22" Name="Crude Oil Brent (F) {Jan 22}" />
+  <SYMBOL Code="QAF23" Name="Crude Oil Brent (F) {Jan 23}" />
+  <SYMBOL Code="QAF24" Name="Crude Oil Brent (F) {Jan 24}" />
+  <SYMBOL Code="QAF25" Name="Crude Oil Brent (F) {Jan 25}" />
+  <SYMBOL Code="QAF26" Name="Crude Oil Brent (F) {Jan 26}" />
+  <SYMBOL Code="QAG19" Name="Crude Oil Brent (F) {Feb 19}" />
+  <SYMBOL Code="QAG20" Name="Crude Oil Brent (F) {Feb 20}" />
+  <SYMBOL Code="QAG21" Name="Crude Oil Brent (F) {Feb 21}" />
+  <SYMBOL Code="QAG22" Name="Crude Oil Brent (F) {Feb 22}" />
+  <SYMBOL Code="QAG23" Name="Crude Oil Brent (F) {Feb 23}" />
+  <SYMBOL Code="QAG24" Name="Crude Oil Brent (F) {Feb 24}" />
+  <SYMBOL Code="QAG25" Name="Crude Oil Brent (F) {Feb 25}" />
+  <SYMBOL Code="QAG26" Name="Crude Oil Brent (F) {Feb 26}" />
+  <SYMBOL Code="QAH19" Name="Crude Oil Brent (F) {Mar 19}" />
+  <SYMBOL Code="QAH20" Name="Crude Oil Brent (F) {Mar 20}" />
+  <SYMBOL Code="QAH21" Name="Crude Oil Brent (F) {Mar 21}" />
+  <SYMBOL Code="QAH22" Name="Crude Oil Brent (F) {Mar 22}" />
+  <SYMBOL Code="QAH23" Name="Crude Oil Brent (F) {Mar 23}" />
+  <SYMBOL Code="QAH24" Name="Crude Oil Brent (F) {Mar 24}" />
+  <SYMBOL Code="QAH25" Name="Crude Oil Brent (F) {Mar 25}" />
+  <SYMBOL Code="QAH26" Name="Crude Oil Brent (F) {Mar 26}" />
+  <SYMBOL Code="QAJ19" Name="Crude Oil Brent (F) {Apr 19}" />
+  <SYMBOL Code="QAJ20" Name="Crude Oil Brent (F) {Apr 20}" />
+  <SYMBOL Code="QAJ21" Name="Crude Oil Brent (F) {Apr 21}" />
+  <SYMBOL Code="QAJ22" Name="Crude Oil Brent (F) {Apr 22}" />
+  <SYMBOL Code="QAJ23" Name="Crude Oil Brent (F) {Apr 23}" />
+  <SYMBOL Code="QAJ24" Name="Crude Oil Brent (F) {Apr 24}" />
+  <SYMBOL Code="QAJ25" Name="Crude Oil Brent (F) {Apr 25}" />
+  <SYMBOL Code="QAK19" Name="Crude Oil Brent (F) {May 19}" />
+  <SYMBOL Code="QAK20" Name="Crude Oil Brent (F) {May 20}" />
+  <SYMBOL Code="QAK21" Name="Crude Oil Brent (F) {May 21}" />
+  <SYMBOL Code="QAK22" Name="Crude Oil Brent (F) {May 22}" />
+  <SYMBOL Code="QAK23" Name="Crude Oil Brent (F) {May 23}" />
+  <SYMBOL Code="QAK24" Name="Crude Oil Brent (F) {May 24}" />
+  <SYMBOL Code="QAK25" Name="Crude Oil Brent (F) {May 25}" />
+  <SYMBOL Code="QAM18" Name="Crude Oil Brent (F) {Jun 18}" />
+  <SYMBOL Code="QAM19" Name="Crude Oil Brent (F) {Jun 19}" />
+  <SYMBOL Code="QAM20" Name="Crude Oil Brent (F) {Jun 20}" />
+  <SYMBOL Code="QAM21" Name="Crude Oil Brent (F) {Jun 21}" />
+  <SYMBOL Code="QAM22" Name="Crude Oil Brent (F) {Jun 22}" />
+  <SYMBOL Code="QAM23" Name="Crude Oil Brent (F) {Jun 23}" />
+  <SYMBOL Code="QAM24" Name="Crude Oil Brent (F) {Jun 24}" />
+  <SYMBOL Code="QAM25" Name="Crude Oil Brent (F) {Jun 25}" />
+  <SYMBOL Code="QAN18" Name="Crude Oil Brent (F) {Jul 18}" />
+  <SYMBOL Code="QAN19" Name="Crude Oil Brent (F) {Jul 19}" />
+  <SYMBOL Code="QAN20" Name="Crude Oil Brent (F) {Jul 20}" />
+  <SYMBOL Code="QAN21" Name="Crude Oil Brent (F) {Jul 21}" />
+  <SYMBOL Code="QAN22" Name="Crude Oil Brent (F) {Jul 22}" />
+  <SYMBOL Code="QAN23" Name="Crude Oil Brent (F) {Jul 23}" />
+  <SYMBOL Code="QAN24" Name="Crude Oil Brent (F) {Jul 24}" />
+  <SYMBOL Code="QAN25" Name="Crude Oil Brent (F) {Jul 25}" />
+  <SYMBOL Code="QAQ18" Name="Crude Oil Brent (F) {Aug 18}" />
+  <SYMBOL Code="QAQ19" Name="Crude Oil Brent (F) {Aug 19}" />
+  <SYMBOL Code="QAQ20" Name="Crude Oil Brent (F) {Aug 20}" />
+  <SYMBOL Code="QAQ21" Name="Crude Oil Brent (F) {Aug 21}" />
+  <SYMBOL Code="QAQ22" Name="Crude Oil Brent (F) {Aug 22}" />
+  <SYMBOL Code="QAQ23" Name="Crude Oil Brent (F) {Aug 23}" />
+  <SYMBOL Code="QAQ24" Name="Crude Oil Brent (F) {Aug 24}" />
+  <SYMBOL Code="QAQ25" Name="Crude Oil Brent (F) {Aug 25}" />
+  <SYMBOL Code="QAU18" Name="Crude Oil Brent (F) {Sep 18}" />
+  <SYMBOL Code="QAU19" Name="Crude Oil Brent (F) {Sep 19}" />
+  <SYMBOL Code="QAU20" Name="Crude Oil Brent (F) {Sep 20}" />
+  <SYMBOL Code="QAU21" Name="Crude Oil Brent (F) {Sep 21}" />
+  <SYMBOL Code="QAU22" Name="Crude Oil Brent (F) {Sep 22}" />
+  <SYMBOL Code="QAU23" Name="Crude Oil Brent (F) {Sep 23}" />
+  <SYMBOL Code="QAU24" Name="Crude Oil Brent (F) {Sep 24}" />
+  <SYMBOL Code="QAU25" Name="Crude Oil Brent (F) {Sep 25}" />
+  <SYMBOL Code="QAV18" Name="Crude Oil Brent (F) {Oct 18}" />
+  <SYMBOL Code="QAV19" Name="Crude Oil Brent (F) {Oct 19}" />
+  <SYMBOL Code="QAV20" Name="Crude Oil Brent (F) {Oct 20}" />
+  <SYMBOL Code="QAV21" Name="Crude Oil Brent (F) {Oct 21}" />
+  <SYMBOL Code="QAV22" Name="Crude Oil Brent (F) {Oct 22}" />
+  <SYMBOL Code="QAV23" Name="Crude Oil Brent (F) {Oct 23}" />
+  <SYMBOL Code="QAV24" Name="Crude Oil Brent (F) {Oct 24}" />
+  <SYMBOL Code="QAV25" Name="Crude Oil Brent (F) {Oct 25}" />
+  <SYMBOL Code="QAX18" Name="Crude Oil Brent (F) {Nov 18}" />
+  <SYMBOL Code="QAX19" Name="Crude Oil Brent (F) {Nov 19}" />
+  <SYMBOL Code="QAX20" Name="Crude Oil Brent (F) {Nov 20}" />
+  <SYMBOL Code="QAX21" Name="Crude Oil Brent (F) {Nov 21}" />
+  <SYMBOL Code="QAX22" Name="Crude Oil Brent (F) {Nov 22}" />
+  <SYMBOL Code="QAX23" Name="Crude Oil Brent (F) {Nov 23}" />
+  <SYMBOL Code="QAX24" Name="Crude Oil Brent (F) {Nov 24}" />
+  <SYMBOL Code="QAX25" Name="Crude Oil Brent (F) {Nov 25}" />
+  <SYMBOL Code="QAZ18" Name="Crude Oil Brent (F) {Dec 18}" />
+  <SYMBOL Code="QAZ19" Name="Crude Oil Brent (F) {Dec 19}" />
+  <SYMBOL Code="QAZ20" Name="Crude Oil Brent (F) {Dec 20}" />
+  <SYMBOL Code="QAZ21" Name="Crude Oil Brent (F) {Dec 21}" />
+  <SYMBOL Code="QAZ22" Name="Crude Oil Brent (F) {Dec 22}" />
+  <SYMBOL Code="QAZ23" Name="Crude Oil Brent (F) {Dec 23}" />
+  <SYMBOL Code="QAZ24" Name="Crude Oil Brent (F) {Dec 24}" />
+  <SYMBOL Code="QAZ25" Name="Crude Oil Brent (F) {Dec 25}" />
+  <SYMBOL Code="QG" Name="E-Mini Natural Gas" />
+  <SYMBOL Code="QG.C" Name="E-Mini Natural Gas Continuation" />
+  <SYMBOL Code="QGF19" Name="E-Mini Natural Gas {Jan 19}" />
+  <SYMBOL Code="QGF20" Name="E-Mini Natural Gas {Jan 20}" />
+  <SYMBOL Code="QGF21" Name="E-Mini Natural Gas {Jan 21}" />
+  <SYMBOL Code="QGF22" Name="E-Mini Natural Gas {Jan 22}" />
+  <SYMBOL Code="QGF23" Name="E-Mini Natural Gas {Jan 23}" />
+  <SYMBOL Code="QGG19" Name="E-Mini Natural Gas {Feb 19}" />
+  <SYMBOL Code="QGG20" Name="E-Mini Natural Gas {Feb 20}" />
+  <SYMBOL Code="QGG21" Name="E-Mini Natural Gas {Feb 21}" />
+  <SYMBOL Code="QGG22" Name="E-Mini Natural Gas {Feb 22}" />
+  <SYMBOL Code="QGG23" Name="E-Mini Natural Gas {Feb 23}" />
+  <SYMBOL Code="QGH19" Name="E-Mini Natural Gas {Mar 19}" />
+  <SYMBOL Code="QGH20" Name="E-Mini Natural Gas {Mar 20}" />
+  <SYMBOL Code="QGH21" Name="E-Mini Natural Gas {Mar 21}" />
+  <SYMBOL Code="QGH22" Name="E-Mini Natural Gas {Mar 22}" />
+  <SYMBOL Code="QGH23" Name="E-Mini Natural Gas {Mar 23}" />
+  <SYMBOL Code="QGJ19" Name="E-Mini Natural Gas {Apr 19}" />
+  <SYMBOL Code="QGJ20" Name="E-Mini Natural Gas {Apr 20}" />
+  <SYMBOL Code="QGJ21" Name="E-Mini Natural Gas {Apr 21}" />
+  <SYMBOL Code="QGJ22" Name="E-Mini Natural Gas {Apr 22}" />
+  <SYMBOL Code="QGJ23" Name="E-Mini Natural Gas {Apr 23}" />
+  <SYMBOL Code="QGK18" Name="E-Mini Natural Gas {May 18}" />
+  <SYMBOL Code="QGK19" Name="E-Mini Natural Gas {May 19}" />
+  <SYMBOL Code="QGK20" Name="E-Mini Natural Gas {May 20}" />
+  <SYMBOL Code="QGK21" Name="E-Mini Natural Gas {May 21}" />
+  <SYMBOL Code="QGK22" Name="E-Mini Natural Gas {May 22}" />
+  <SYMBOL Code="QGK23" Name="E-Mini Natural Gas {May 23}" />
+  <SYMBOL Code="QGM18" Name="E-Mini Natural Gas {Jun 18}" />
+  <SYMBOL Code="QGM19" Name="E-Mini Natural Gas {Jun 19}" />
+  <SYMBOL Code="QGM20" Name="E-Mini Natural Gas {Jun 20}" />
+  <SYMBOL Code="QGM21" Name="E-Mini Natural Gas {Jun 21}" />
+  <SYMBOL Code="QGM22" Name="E-Mini Natural Gas {Jun 22}" />
+  <SYMBOL Code="QGM23" Name="E-Mini Natural Gas {Jun 23}" />
+  <SYMBOL Code="QGN18" Name="E-Mini Natural Gas {Jul 18}" />
+  <SYMBOL Code="QGN19" Name="E-Mini Natural Gas {Jul 19}" />
+  <SYMBOL Code="QGN20" Name="E-Mini Natural Gas {Jul 20}" />
+  <SYMBOL Code="QGN21" Name="E-Mini Natural Gas {Jul 21}" />
+  <SYMBOL Code="QGN22" Name="E-Mini Natural Gas {Jul 22}" />
+  <SYMBOL Code="QGN23" Name="E-Mini Natural Gas {Jul 23}" />
+  <SYMBOL Code="QGQ18" Name="E-Mini Natural Gas {Aug 18}" />
+  <SYMBOL Code="QGQ19" Name="E-Mini Natural Gas {Aug 19}" />
+  <SYMBOL Code="QGQ20" Name="E-Mini Natural Gas {Aug 20}" />
+  <SYMBOL Code="QGQ21" Name="E-Mini Natural Gas {Aug 21}" />
+  <SYMBOL Code="QGQ22" Name="E-Mini Natural Gas {Aug 22}" />
+  <SYMBOL Code="QGQ23" Name="E-Mini Natural Gas {Aug 23}" />
+  <SYMBOL Code="QGU18" Name="E-Mini Natural Gas {Sep 18}" />
+  <SYMBOL Code="QGU19" Name="E-Mini Natural Gas {Sep 19}" />
+  <SYMBOL Code="QGU20" Name="E-Mini Natural Gas {Sep 20}" />
+  <SYMBOL Code="QGU21" Name="E-Mini Natural Gas {Sep 21}" />
+  <SYMBOL Code="QGU22" Name="E-Mini Natural Gas {Sep 22}" />
+  <SYMBOL Code="QGU23" Name="E-Mini Natural Gas {Sep 23}" />
+  <SYMBOL Code="QGV18" Name="E-Mini Natural Gas {Oct 18}" />
+  <SYMBOL Code="QGV19" Name="E-Mini Natural Gas {Oct 19}" />
+  <SYMBOL Code="QGV20" Name="E-Mini Natural Gas {Oct 20}" />
+  <SYMBOL Code="QGV21" Name="E-Mini Natural Gas {Oct 21}" />
+  <SYMBOL Code="QGV22" Name="E-Mini Natural Gas {Oct 22}" />
+  <SYMBOL Code="QGV23" Name="E-Mini Natural Gas {Oct 23}" />
+  <SYMBOL Code="QGX18" Name="E-Mini Natural Gas {Nov 18}" />
+  <SYMBOL Code="QGX19" Name="E-Mini Natural Gas {Nov 19}" />
+  <SYMBOL Code="QGX20" Name="E-Mini Natural Gas {Nov 20}" />
+  <SYMBOL Code="QGX21" Name="E-Mini Natural Gas {Nov 21}" />
+  <SYMBOL Code="QGX22" Name="E-Mini Natural Gas {Nov 22}" />
+  <SYMBOL Code="QGX23" Name="E-Mini Natural Gas {Nov 23}" />
+  <SYMBOL Code="QGZ18" Name="E-Mini Natural Gas {Dec 18}" />
+  <SYMBOL Code="QGZ19" Name="E-Mini Natural Gas {Dec 19}" />
+  <SYMBOL Code="QGZ20" Name="E-Mini Natural Gas {Dec 20}" />
+  <SYMBOL Code="QGZ21" Name="E-Mini Natural Gas {Dec 21}" />
+  <SYMBOL Code="QGZ22" Name="E-Mini Natural Gas {Dec 22}" />
+  <SYMBOL Code="QGZ23" Name="E-Mini Natural Gas {Dec 23}" />
+  <SYMBOL Code="QH" Name="E-Mini ULSD NYHarbor" />
+  <SYMBOL Code="QH.C" Name="E-Mini ULSD NYHarbor Continuation" />
+  <SYMBOL Code="QHF19" Name="E-Mini ULSD NYHarbor {Jan 19}" />
+  <SYMBOL Code="QHG19" Name="E-Mini ULSD NYHarbor {Feb 19}" />
+  <SYMBOL Code="QHH19" Name="E-Mini ULSD NYHarbor {Mar 19}" />
+  <SYMBOL Code="QHJ19" Name="E-Mini ULSD NYHarbor {Apr 19}" />
+  <SYMBOL Code="QHK18" Name="E-Mini ULSD NYHarbor {May 18}" />
+  <SYMBOL Code="QHK19" Name="E-Mini ULSD NYHarbor {May 19}" />
+  <SYMBOL Code="QHM18" Name="E-Mini ULSD NYHarbor {Jun 18}" />
+  <SYMBOL Code="QHN18" Name="E-Mini ULSD NYHarbor {Jul 18}" />
+  <SYMBOL Code="QHQ18" Name="E-Mini ULSD NYHarbor {Aug 18}" />
+  <SYMBOL Code="QHU18" Name="E-Mini ULSD NYHarbor {Sep 18}" />
+  <SYMBOL Code="QHV18" Name="E-Mini ULSD NYHarbor {Oct 18}" />
+  <SYMBOL Code="QHX18" Name="E-Mini ULSD NYHarbor {Nov 18}" />
+  <SYMBOL Code="QHZ18" Name="E-Mini ULSD NYHarbor {Dec 18}" />
+  <SYMBOL Code="QM" Name="E-Mini Crude Oil" />
+  <SYMBOL Code="QM.C" Name="E-Mini Crude Oil Continuation" />
+  <SYMBOL Code="QMF19" Name="E-Mini Crude Oil {Jan 19}" />
+  <SYMBOL Code="QMF20" Name="E-Mini Crude Oil {Jan 20}" />
+  <SYMBOL Code="QMF21" Name="E-Mini Crude Oil {Jan 21}" />
+  <SYMBOL Code="QMF22" Name="E-Mini Crude Oil {Jan 22}" />
+  <SYMBOL Code="QMF23" Name="E-Mini Crude Oil {Jan 23}" />
+  <SYMBOL Code="QMG19" Name="E-Mini Crude Oil {Feb 19}" />
+  <SYMBOL Code="QMG20" Name="E-Mini Crude Oil {Feb 20}" />
+  <SYMBOL Code="QMG21" Name="E-Mini Crude Oil {Feb 21}" />
+  <SYMBOL Code="QMG22" Name="E-Mini Crude Oil {Feb 22}" />
+  <SYMBOL Code="QMG23" Name="E-Mini Crude Oil {Feb 23}" />
+  <SYMBOL Code="QMH19" Name="E-Mini Crude Oil {Mar 19}" />
+  <SYMBOL Code="QMH20" Name="E-Mini Crude Oil {Mar 20}" />
+  <SYMBOL Code="QMH21" Name="E-Mini Crude Oil {Mar 21}" />
+  <SYMBOL Code="QMH22" Name="E-Mini Crude Oil {Mar 22}" />
+  <SYMBOL Code="QMH23" Name="E-Mini Crude Oil {Mar 23}" />
+  <SYMBOL Code="QMJ19" Name="E-Mini Crude Oil {Apr 19}" />
+  <SYMBOL Code="QMJ20" Name="E-Mini Crude Oil {Apr 20}" />
+  <SYMBOL Code="QMJ21" Name="E-Mini Crude Oil {Apr 21}" />
+  <SYMBOL Code="QMJ22" Name="E-Mini Crude Oil {Apr 22}" />
+  <SYMBOL Code="QMJ23" Name="E-Mini Crude Oil {Apr 23}" />
+  <SYMBOL Code="QMK19" Name="E-Mini Crude Oil {May 19}" />
+  <SYMBOL Code="QMK20" Name="E-Mini Crude Oil {May 20}" />
+  <SYMBOL Code="QMK21" Name="E-Mini Crude Oil {May 21}" />
+  <SYMBOL Code="QMK22" Name="E-Mini Crude Oil {May 22}" />
+  <SYMBOL Code="QMK23" Name="E-Mini Crude Oil {May 23}" />
+  <SYMBOL Code="QMM18" Name="E-Mini Crude Oil {Jun 18}" />
+  <SYMBOL Code="QMM19" Name="E-Mini Crude Oil {Jun 19}" />
+  <SYMBOL Code="QMM20" Name="E-Mini Crude Oil {Jun 20}" />
+  <SYMBOL Code="QMM21" Name="E-Mini Crude Oil {Jun 21}" />
+  <SYMBOL Code="QMM22" Name="E-Mini Crude Oil {Jun 22}" />
+  <SYMBOL Code="QMM23" Name="E-Mini Crude Oil {Jun 23}" />
+  <SYMBOL Code="QMN18" Name="E-Mini Crude Oil {Jul 18}" />
+  <SYMBOL Code="QMN19" Name="E-Mini Crude Oil {Jul 19}" />
+  <SYMBOL Code="QMN20" Name="E-Mini Crude Oil {Jul 20}" />
+  <SYMBOL Code="QMN21" Name="E-Mini Crude Oil {Jul 21}" />
+  <SYMBOL Code="QMN22" Name="E-Mini Crude Oil {Jul 22}" />
+  <SYMBOL Code="QMN23" Name="E-Mini Crude Oil {Jul 23}" />
+  <SYMBOL Code="QMQ18" Name="E-Mini Crude Oil {Aug 18}" />
+  <SYMBOL Code="QMQ19" Name="E-Mini Crude Oil {Aug 19}" />
+  <SYMBOL Code="QMQ20" Name="E-Mini Crude Oil {Aug 20}" />
+  <SYMBOL Code="QMQ21" Name="E-Mini Crude Oil {Aug 21}" />
+  <SYMBOL Code="QMQ22" Name="E-Mini Crude Oil {Aug 22}" />
+  <SYMBOL Code="QMQ23" Name="E-Mini Crude Oil {Aug 23}" />
+  <SYMBOL Code="QMU18" Name="E-Mini Crude Oil {Sep 18}" />
+  <SYMBOL Code="QMU19" Name="E-Mini Crude Oil {Sep 19}" />
+  <SYMBOL Code="QMU20" Name="E-Mini Crude Oil {Sep 20}" />
+  <SYMBOL Code="QMU21" Name="E-Mini Crude Oil {Sep 21}" />
+  <SYMBOL Code="QMU22" Name="E-Mini Crude Oil {Sep 22}" />
+  <SYMBOL Code="QMU23" Name="E-Mini Crude Oil {Sep 23}" />
+  <SYMBOL Code="QMV18" Name="E-Mini Crude Oil {Oct 18}" />
+  <SYMBOL Code="QMV19" Name="E-Mini Crude Oil {Oct 19}" />
+  <SYMBOL Code="QMV20" Name="E-Mini Crude Oil {Oct 20}" />
+  <SYMBOL Code="QMV21" Name="E-Mini Crude Oil {Oct 21}" />
+  <SYMBOL Code="QMV22" Name="E-Mini Crude Oil {Oct 22}" />
+  <SYMBOL Code="QMV23" Name="E-Mini Crude Oil {Oct 23}" />
+  <SYMBOL Code="QMX18" Name="E-Mini Crude Oil {Nov 18}" />
+  <SYMBOL Code="QMX19" Name="E-Mini Crude Oil {Nov 19}" />
+  <SYMBOL Code="QMX20" Name="E-Mini Crude Oil {Nov 20}" />
+  <SYMBOL Code="QMX21" Name="E-Mini Crude Oil {Nov 21}" />
+  <SYMBOL Code="QMX22" Name="E-Mini Crude Oil {Nov 22}" />
+  <SYMBOL Code="QMX23" Name="E-Mini Crude Oil {Nov 23}" />
+  <SYMBOL Code="QMZ18" Name="E-Mini Crude Oil {Dec 18}" />
+  <SYMBOL Code="QMZ19" Name="E-Mini Crude Oil {Dec 19}" />
+  <SYMBOL Code="QMZ20" Name="E-Mini Crude Oil {Dec 20}" />
+  <SYMBOL Code="QMZ21" Name="E-Mini Crude Oil {Dec 21}" />
+  <SYMBOL Code="QMZ22" Name="E-Mini Crude Oil {Dec 22}" />
+  <SYMBOL Code="QMZ23" Name="E-Mini Crude Oil {Dec 23}" />
+  <SYMBOL Code="QU.C" Name="E-Mini Gasoline Continuation" />
+  <SYMBOL Code="QUF19" Name="E-Mini Gasoline {Jan 19}" />
+  <SYMBOL Code="QUG19" Name="E-Mini Gasoline {Feb 19}" />
+  <SYMBOL Code="QUH19" Name="E-Mini Gasoline {Mar 19}" />
+  <SYMBOL Code="QUJ19" Name="E-Mini Gasoline {Apr 19}" />
+  <SYMBOL Code="QUK18" Name="E-Mini Gasoline {May 18}" />
+  <SYMBOL Code="QUK19" Name="E-Mini Gasoline {May 19}" />
+  <SYMBOL Code="QUM18" Name="E-Mini Gasoline {Jun 18}" />
+  <SYMBOL Code="QUN18" Name="E-Mini Gasoline {Jul 18}" />
+  <SYMBOL Code="QUQ18" Name="E-Mini Gasoline {Aug 18}" />
+  <SYMBOL Code="QUU18" Name="E-Mini Gasoline {Sep 18}" />
+  <SYMBOL Code="QUV18" Name="E-Mini Gasoline {Oct 18}" />
+  <SYMBOL Code="QUX18" Name="E-Mini Gasoline {Nov 18}" />
+  <SYMBOL Code="QUZ18" Name="E-Mini Gasoline {Dec 18}" />
+  <SYMBOL Code="RB" Name="Gasoline RBOB" />
+  <SYMBOL Code="RB.C" Name="Gasoline RBOB Continuation" />
+  <SYMBOL Code="RBF19" Name="Gasoline RBOB {Jan 19}" />
+  <SYMBOL Code="RBF20" Name="Gasoline RBOB {Jan 20}" />
+  <SYMBOL Code="RBF21" Name="Gasoline RBOB {Jan 21}" />
+  <SYMBOL Code="RBF22" Name="Gasoline RBOB {Jan 22}" />
+  <SYMBOL Code="RBG19" Name="Gasoline RBOB {Feb 19}" />
+  <SYMBOL Code="RBG20" Name="Gasoline RBOB {Feb 20}" />
+  <SYMBOL Code="RBG21" Name="Gasoline RBOB {Feb 21}" />
+  <SYMBOL Code="RBH19" Name="Gasoline RBOB {Mar 19}" />
+  <SYMBOL Code="RBH20" Name="Gasoline RBOB {Mar 20}" />
+  <SYMBOL Code="RBH21" Name="Gasoline RBOB {Mar 21}" />
+  <SYMBOL Code="RBJ19" Name="Gasoline RBOB {Apr 19}" />
+  <SYMBOL Code="RBJ20" Name="Gasoline RBOB {Apr 20}" />
+  <SYMBOL Code="RBJ21" Name="Gasoline RBOB {Apr 21}" />
+  <SYMBOL Code="RBK18" Name="Gasoline RBOB {May 18}" />
+  <SYMBOL Code="RBK19" Name="Gasoline RBOB {May 19}" />
+  <SYMBOL Code="RBK20" Name="Gasoline RBOB {May 20}" />
+  <SYMBOL Code="RBK21" Name="Gasoline RBOB {May 21}" />
+  <SYMBOL Code="RBM18" Name="Gasoline RBOB {Jun 18}" />
+  <SYMBOL Code="RBM19" Name="Gasoline RBOB {Jun 19}" />
+  <SYMBOL Code="RBM20" Name="Gasoline RBOB {Jun 20}" />
+  <SYMBOL Code="RBM21" Name="Gasoline RBOB {Jun 21}" />
+  <SYMBOL Code="RBN18" Name="Gasoline RBOB {Jul 18}" />
+  <SYMBOL Code="RBN19" Name="Gasoline RBOB {Jul 19}" />
+  <SYMBOL Code="RBN20" Name="Gasoline RBOB {Jul 20}" />
+  <SYMBOL Code="RBN21" Name="Gasoline RBOB {Jul 21}" />
+  <SYMBOL Code="RBQ18" Name="Gasoline RBOB {Aug 18}" />
+  <SYMBOL Code="RBQ19" Name="Gasoline RBOB {Aug 19}" />
+  <SYMBOL Code="RBQ20" Name="Gasoline RBOB {Aug 20}" />
+  <SYMBOL Code="RBQ21" Name="Gasoline RBOB {Aug 21}" />
+  <SYMBOL Code="RBU18" Name="Gasoline RBOB {Sep 18}" />
+  <SYMBOL Code="RBU19" Name="Gasoline RBOB {Sep 19}" />
+  <SYMBOL Code="RBU20" Name="Gasoline RBOB {Sep 20}" />
+  <SYMBOL Code="RBU21" Name="Gasoline RBOB {Sep 21}" />
+  <SYMBOL Code="RBV18" Name="Gasoline RBOB {Oct 18}" />
+  <SYMBOL Code="RBV19" Name="Gasoline RBOB {Oct 19}" />
+  <SYMBOL Code="RBV20" Name="Gasoline RBOB {Oct 20}" />
+  <SYMBOL Code="RBV21" Name="Gasoline RBOB {Oct 21}" />
+  <SYMBOL Code="RBX18" Name="Gasoline RBOB {Nov 18}" />
+  <SYMBOL Code="RBX19" Name="Gasoline RBOB {Nov 19}" />
+  <SYMBOL Code="RBX20" Name="Gasoline RBOB {Nov 20}" />
+  <SYMBOL Code="RBX21" Name="Gasoline RBOB {Nov 21}" />
+  <SYMBOL Code="RBZ18" Name="Gasoline RBOB {Dec 18}" />
+  <SYMBOL Code="RBZ19" Name="Gasoline RBOB {Dec 19}" />
+  <SYMBOL Code="RBZ20" Name="Gasoline RBOB {Dec 20}" />
+  <SYMBOL Code="RBZ21" Name="Gasoline RBOB {Dec 21}" />
+  <SYMBOL Code="RT.C" Name="Gasoline RBOB (F) Continuation" />
+  <SYMBOL Code="RTF19" Name="Gasoline RBOB (F) {Jan 19}" />
+  <SYMBOL Code="RTF20" Name="Gasoline RBOB (F) {Jan 20}" />
+  <SYMBOL Code="RTF21" Name="Gasoline RBOB (F) {Jan 21}" />
+  <SYMBOL Code="RTG19" Name="Gasoline RBOB (F) {Feb 19}" />
+  <SYMBOL Code="RTG20" Name="Gasoline RBOB (F) {Feb 20}" />
+  <SYMBOL Code="RTG21" Name="Gasoline RBOB (F) {Feb 21}" />
+  <SYMBOL Code="RTH19" Name="Gasoline RBOB (F) {Mar 19}" />
+  <SYMBOL Code="RTH20" Name="Gasoline RBOB (F) {Mar 20}" />
+  <SYMBOL Code="RTH21" Name="Gasoline RBOB (F) {Mar 21}" />
+  <SYMBOL Code="RTJ19" Name="Gasoline RBOB (F) {Apr 19}" />
+  <SYMBOL Code="RTJ20" Name="Gasoline RBOB (F) {Apr 20}" />
+  <SYMBOL Code="RTJ21" Name="Gasoline RBOB (F) {Apr 21}" />
+  <SYMBOL Code="RTK18" Name="Gasoline RBOB (F) {May 18}" />
+  <SYMBOL Code="RTK19" Name="Gasoline RBOB (F) {May 19}" />
+  <SYMBOL Code="RTK20" Name="Gasoline RBOB (F) {May 20}" />
+  <SYMBOL Code="RTK21" Name="Gasoline RBOB (F) {May 21}" />
+  <SYMBOL Code="RTM18" Name="Gasoline RBOB (F) {Jun 18}" />
+  <SYMBOL Code="RTM19" Name="Gasoline RBOB (F) {Jun 19}" />
+  <SYMBOL Code="RTM20" Name="Gasoline RBOB (F) {Jun 20}" />
+  <SYMBOL Code="RTN18" Name="Gasoline RBOB (F) {Jul 18}" />
+  <SYMBOL Code="RTN19" Name="Gasoline RBOB (F) {Jul 19}" />
+  <SYMBOL Code="RTN20" Name="Gasoline RBOB (F) {Jul 20}" />
+  <SYMBOL Code="RTQ18" Name="Gasoline RBOB (F) {Aug 18}" />
+  <SYMBOL Code="RTQ19" Name="Gasoline RBOB (F) {Aug 19}" />
+  <SYMBOL Code="RTQ20" Name="Gasoline RBOB (F) {Aug 20}" />
+  <SYMBOL Code="RTU18" Name="Gasoline RBOB (F) {Sep 18}" />
+  <SYMBOL Code="RTU19" Name="Gasoline RBOB (F) {Sep 19}" />
+  <SYMBOL Code="RTU20" Name="Gasoline RBOB (F) {Sep 20}" />
+  <SYMBOL Code="RTV18" Name="Gasoline RBOB (F) {Oct 18}" />
+  <SYMBOL Code="RTV19" Name="Gasoline RBOB (F) {Oct 19}" />
+  <SYMBOL Code="RTV20" Name="Gasoline RBOB (F) {Oct 20}" />
+  <SYMBOL Code="RTX18" Name="Gasoline RBOB (F) {Nov 18}" />
+  <SYMBOL Code="RTX19" Name="Gasoline RBOB (F) {Nov 19}" />
+  <SYMBOL Code="RTX20" Name="Gasoline RBOB (F) {Nov 20}" />
+  <SYMBOL Code="RTZ18" Name="Gasoline RBOB (F) {Dec 18}" />
+  <SYMBOL Code="RTZ19" Name="Gasoline RBOB (F) {Dec 19}" />
+  <SYMBOL Code="RTZ20" Name="Gasoline RBOB (F) {Dec 20}" />
+  <SYMBOL Code="SC" Name="Crude Oil Brent" />
+  <SYMBOL Code="SC.C" Name="Crude Oil Brent Continuation" />
+  <SYMBOL Code="SCF19" Name="Crude Oil Brent {Jan 19}" />
+  <SYMBOL Code="SCF20" Name="Crude Oil Brent {Jan 20}" />
+  <SYMBOL Code="SCF21" Name="Crude Oil Brent {Jan 21}" />
+  <SYMBOL Code="SCF22" Name="Crude Oil Brent {Jan 22}" />
+  <SYMBOL Code="SCF23" Name="Crude Oil Brent {Jan 23}" />
+  <SYMBOL Code="SCF24" Name="Crude Oil Brent {Jan 24}" />
+  <SYMBOL Code="SCF25" Name="Crude Oil Brent {Jan 25}" />
+  <SYMBOL Code="SCG19" Name="Crude Oil Brent {Feb 19}" />
+  <SYMBOL Code="SCG20" Name="Crude Oil Brent {Feb 20}" />
+  <SYMBOL Code="SCG21" Name="Crude Oil Brent {Feb 21}" />
+  <SYMBOL Code="SCG22" Name="Crude Oil Brent {Feb 22}" />
+  <SYMBOL Code="SCG23" Name="Crude Oil Brent {Feb 23}" />
+  <SYMBOL Code="SCG24" Name="Crude Oil Brent {Feb 24}" />
+  <SYMBOL Code="SCG25" Name="Crude Oil Brent {Feb 25}" />
+  <SYMBOL Code="SCH19" Name="Crude Oil Brent {Mar 19}" />
+  <SYMBOL Code="SCH20" Name="Crude Oil Brent {Mar 20}" />
+  <SYMBOL Code="SCH21" Name="Crude Oil Brent {Mar 21}" />
+  <SYMBOL Code="SCH22" Name="Crude Oil Brent {Mar 22}" />
+  <SYMBOL Code="SCH23" Name="Crude Oil Brent {Mar 23}" />
+  <SYMBOL Code="SCH24" Name="Crude Oil Brent {Mar 24}" />
+  <SYMBOL Code="SCH25" Name="Crude Oil Brent {Mar 25}" />
+  <SYMBOL Code="SCJ19" Name="Crude Oil Brent {Apr 19}" />
+  <SYMBOL Code="SCJ20" Name="Crude Oil Brent {Apr 20}" />
+  <SYMBOL Code="SCJ21" Name="Crude Oil Brent {Apr 21}" />
+  <SYMBOL Code="SCJ22" Name="Crude Oil Brent {Apr 22}" />
+  <SYMBOL Code="SCJ23" Name="Crude Oil Brent {Apr 23}" />
+  <SYMBOL Code="SCJ24" Name="Crude Oil Brent {Apr 24}" />
+  <SYMBOL Code="SCJ25" Name="Crude Oil Brent {Apr 25}" />
+  <SYMBOL Code="SCK19" Name="Crude Oil Brent {May 19}" />
+  <SYMBOL Code="SCK20" Name="Crude Oil Brent {May 20}" />
+  <SYMBOL Code="SCK21" Name="Crude Oil Brent {May 21}" />
+  <SYMBOL Code="SCK22" Name="Crude Oil Brent {May 22}" />
+  <SYMBOL Code="SCK23" Name="Crude Oil Brent {May 23}" />
+  <SYMBOL Code="SCK24" Name="Crude Oil Brent {May 24}" />
+  <SYMBOL Code="SCK25" Name="Crude Oil Brent {May 25}" />
+  <SYMBOL Code="SCM18" Name="Crude Oil Brent {Jun 18}" />
+  <SYMBOL Code="SCM19" Name="Crude Oil Brent {Jun 19}" />
+  <SYMBOL Code="SCM20" Name="Crude Oil Brent {Jun 20}" />
+  <SYMBOL Code="SCM21" Name="Crude Oil Brent {Jun 21}" />
+  <SYMBOL Code="SCM22" Name="Crude Oil Brent {Jun 22}" />
+  <SYMBOL Code="SCM23" Name="Crude Oil Brent {Jun 23}" />
+  <SYMBOL Code="SCM24" Name="Crude Oil Brent {Jun 24}" />
+  <SYMBOL Code="SCM25" Name="Crude Oil Brent {Jun 25}" />
+  <SYMBOL Code="SCN18" Name="Crude Oil Brent {Jul 18}" />
+  <SYMBOL Code="SCN19" Name="Crude Oil Brent {Jul 19}" />
+  <SYMBOL Code="SCN20" Name="Crude Oil Brent {Jul 20}" />
+  <SYMBOL Code="SCN21" Name="Crude Oil Brent {Jul 21}" />
+  <SYMBOL Code="SCN22" Name="Crude Oil Brent {Jul 22}" />
+  <SYMBOL Code="SCN23" Name="Crude Oil Brent {Jul 23}" />
+  <SYMBOL Code="SCN24" Name="Crude Oil Brent {Jul 24}" />
+  <SYMBOL Code="SCN25" Name="Crude Oil Brent {Jul 25}" />
+  <SYMBOL Code="SCQ18" Name="Crude Oil Brent {Aug 18}" />
+  <SYMBOL Code="SCQ19" Name="Crude Oil Brent {Aug 19}" />
+  <SYMBOL Code="SCQ20" Name="Crude Oil Brent {Aug 20}" />
+  <SYMBOL Code="SCQ21" Name="Crude Oil Brent {Aug 21}" />
+  <SYMBOL Code="SCQ22" Name="Crude Oil Brent {Aug 22}" />
+  <SYMBOL Code="SCQ23" Name="Crude Oil Brent {Aug 23}" />
+  <SYMBOL Code="SCQ24" Name="Crude Oil Brent {Aug 24}" />
+  <SYMBOL Code="SCQ25" Name="Crude Oil Brent {Aug 25}" />
+  <SYMBOL Code="SCU18" Name="Crude Oil Brent {Sep 18}" />
+  <SYMBOL Code="SCU19" Name="Crude Oil Brent {Sep 19}" />
+  <SYMBOL Code="SCU20" Name="Crude Oil Brent {Sep 20}" />
+  <SYMBOL Code="SCU21" Name="Crude Oil Brent {Sep 21}" />
+  <SYMBOL Code="SCU22" Name="Crude Oil Brent {Sep 22}" />
+  <SYMBOL Code="SCU23" Name="Crude Oil Brent {Sep 23}" />
+  <SYMBOL Code="SCU24" Name="Crude Oil Brent {Sep 24}" />
+  <SYMBOL Code="SCU25" Name="Crude Oil Brent {Sep 25}" />
+  <SYMBOL Code="SCV18" Name="Crude Oil Brent {Oct 18}" />
+  <SYMBOL Code="SCV19" Name="Crude Oil Brent {Oct 19}" />
+  <SYMBOL Code="SCV20" Name="Crude Oil Brent {Oct 20}" />
+  <SYMBOL Code="SCV21" Name="Crude Oil Brent {Oct 21}" />
+  <SYMBOL Code="SCV22" Name="Crude Oil Brent {Oct 22}" />
+  <SYMBOL Code="SCV23" Name="Crude Oil Brent {Oct 23}" />
+  <SYMBOL Code="SCV24" Name="Crude Oil Brent {Oct 24}" />
+  <SYMBOL Code="SCV25" Name="Crude Oil Brent {Oct 25}" />
+  <SYMBOL Code="SCX18" Name="Crude Oil Brent {Nov 18}" />
+  <SYMBOL Code="SCX19" Name="Crude Oil Brent {Nov 19}" />
+  <SYMBOL Code="SCX20" Name="Crude Oil Brent {Nov 20}" />
+  <SYMBOL Code="SCX21" Name="Crude Oil Brent {Nov 21}" />
+  <SYMBOL Code="SCX22" Name="Crude Oil Brent {Nov 22}" />
+  <SYMBOL Code="SCX23" Name="Crude Oil Brent {Nov 23}" />
+  <SYMBOL Code="SCX24" Name="Crude Oil Brent {Nov 24}" />
+  <SYMBOL Code="SCX25" Name="Crude Oil Brent {Nov 25}" />
+  <SYMBOL Code="SCZ18" Name="Crude Oil Brent {Dec 18}" />
+  <SYMBOL Code="SCZ19" Name="Crude Oil Brent {Dec 19}" />
+  <SYMBOL Code="SCZ20" Name="Crude Oil Brent {Dec 20}" />
+  <SYMBOL Code="SCZ21" Name="Crude Oil Brent {Dec 21}" />
+  <SYMBOL Code="SCZ22" Name="Crude Oil Brent {Dec 22}" />
+  <SYMBOL Code="SCZ23" Name="Crude Oil Brent {Dec 23}" />
+  <SYMBOL Code="SCZ24" Name="Crude Oil Brent {Dec 24}" />
+  <SYMBOL Code="SCZ25" Name="Crude Oil Brent {Dec 25}" />
+  <SYMBOL Code="TR" Name="Iron Ore 62% Fe CFR" />
+  <SYMBOL Code="TR.C" Name="Iron Ore 62% Fe CFR Continuation" />
+  <SYMBOL Code="TRF19" Name="Iron Ore 62% Fe CFR {Jan 19}" />
+  <SYMBOL Code="TRF20" Name="Iron Ore 62% Fe CFR {Jan 20}" />
+  <SYMBOL Code="TRG19" Name="Iron Ore 62% Fe CFR {Feb 19}" />
+  <SYMBOL Code="TRG20" Name="Iron Ore 62% Fe CFR {Feb 20}" />
+  <SYMBOL Code="TRH19" Name="Iron Ore 62% Fe CFR {Mar 19}" />
+  <SYMBOL Code="TRH20" Name="Iron Ore 62% Fe CFR {Mar 20}" />
+  <SYMBOL Code="TRJ18" Name="Iron Ore 62% Fe CFR {Apr 18}" />
+  <SYMBOL Code="TRJ19" Name="Iron Ore 62% Fe CFR {Apr 19}" />
+  <SYMBOL Code="TRJ20" Name="Iron Ore 62% Fe CFR {Apr 20}" />
+  <SYMBOL Code="TRK18" Name="Iron Ore 62% Fe CFR {May 18}" />
+  <SYMBOL Code="TRK19" Name="Iron Ore 62% Fe CFR {May 19}" />
+  <SYMBOL Code="TRK20" Name="Iron Ore 62% Fe CFR {May 20}" />
+  <SYMBOL Code="TRM18" Name="Iron Ore 62% Fe CFR {Jun 18}" />
+  <SYMBOL Code="TRM19" Name="Iron Ore 62% Fe CFR {Jun 19}" />
+  <SYMBOL Code="TRM20" Name="Iron Ore 62% Fe CFR {Jun 20}" />
+  <SYMBOL Code="TRN18" Name="Iron Ore 62% Fe CFR {Jul 18}" />
+  <SYMBOL Code="TRN19" Name="Iron Ore 62% Fe CFR {Jul 19}" />
+  <SYMBOL Code="TRN20" Name="Iron Ore 62% Fe CFR {Jul 20}" />
+  <SYMBOL Code="TRQ18" Name="Iron Ore 62% Fe CFR {Aug 18}" />
+  <SYMBOL Code="TRQ19" Name="Iron Ore 62% Fe CFR {Aug 19}" />
+  <SYMBOL Code="TRQ20" Name="Iron Ore 62% Fe CFR {Aug 20}" />
+  <SYMBOL Code="TRU18" Name="Iron Ore 62% Fe CFR {Sep 18}" />
+  <SYMBOL Code="TRU19" Name="Iron Ore 62% Fe CFR {Sep 19}" />
+  <SYMBOL Code="TRU20" Name="Iron Ore 62% Fe CFR {Sep 20}" />
+  <SYMBOL Code="TRV18" Name="Iron Ore 62% Fe CFR {Oct 18}" />
+  <SYMBOL Code="TRV19" Name="Iron Ore 62% Fe CFR {Oct 19}" />
+  <SYMBOL Code="TRV20" Name="Iron Ore 62% Fe CFR {Oct 20}" />
+  <SYMBOL Code="TRX18" Name="Iron Ore 62% Fe CFR {Nov 18}" />
+  <SYMBOL Code="TRX19" Name="Iron Ore 62% Fe CFR {Nov 19}" />
+  <SYMBOL Code="TRX20" Name="Iron Ore 62% Fe CFR {Nov 20}" />
+  <SYMBOL Code="TRZ18" Name="Iron Ore 62% Fe CFR {Dec 18}" />
+  <SYMBOL Code="TRZ19" Name="Iron Ore 62% Fe CFR {Dec 19}" />
+  <SYMBOL Code="TRZ20" Name="Iron Ore 62% Fe CFR {Dec 20}" />
+  <SYMBOL Code="UX.C" Name="Uranium Continuation" />
+  <SYMBOL Code="UXF19" Name="Uranium {Jan 19}" />
+  <SYMBOL Code="UXF20" Name="Uranium {Jan 20}" />
+  <SYMBOL Code="UXG19" Name="Uranium {Feb 19}" />
+  <SYMBOL Code="UXG20" Name="Uranium {Feb 20}" />
+  <SYMBOL Code="UXH19" Name="Uranium {Mar 19}" />
+  <SYMBOL Code="UXH20" Name="Uranium {Mar 20}" />
+  <SYMBOL Code="UXJ18" Name="Uranium {Apr 18}" />
+  <SYMBOL Code="UXJ19" Name="Uranium {Apr 19}" />
+  <SYMBOL Code="UXK18" Name="Uranium {May 18}" />
+  <SYMBOL Code="UXK19" Name="Uranium {May 19}" />
+  <SYMBOL Code="UXM18" Name="Uranium {Jun 18}" />
+  <SYMBOL Code="UXM19" Name="Uranium {Jun 19}" />
+  <SYMBOL Code="UXN18" Name="Uranium {Jul 18}" />
+  <SYMBOL Code="UXN19" Name="Uranium {Jul 19}" />
+  <SYMBOL Code="UXQ18" Name="Uranium {Aug 18}" />
+  <SYMBOL Code="UXQ19" Name="Uranium {Aug 19}" />
+  <SYMBOL Code="UXU18" Name="Uranium {Sep 18}" />
+  <SYMBOL Code="UXU19" Name="Uranium {Sep 19}" />
+  <SYMBOL Code="UXV18" Name="Uranium {Oct 18}" />
+  <SYMBOL Code="UXV19" Name="Uranium {Oct 19}" />
+  <SYMBOL Code="UXX18" Name="Uranium {Nov 18}" />
+  <SYMBOL Code="UXX19" Name="Uranium {Nov 19}" />
+  <SYMBOL Code="UXZ18" Name="Uranium {Dec 18}" />
+  <SYMBOL Code="UXZ19" Name="Uranium {Dec 19}" />
+  <SYMBOL Code="VE" Name="Crude Oil VIX" />
+  <SYMBOL Code="WS.C" Name="Crude Oil WTI (F) Continuation" />
+  <SYMBOL Code="WSF19" Name="Crude Oil WTI (F) {Jan 19}" />
+  <SYMBOL Code="WSF20" Name="Crude Oil WTI (F) {Jan 20}" />
+  <SYMBOL Code="WSF21" Name="Crude Oil WTI (F) {Jan 21}" />
+  <SYMBOL Code="WSF22" Name="Crude Oil WTI (F) {Jan 22}" />
+  <SYMBOL Code="WSF23" Name="Crude Oil WTI (F) {Jan 23}" />
+  <SYMBOL Code="WSG19" Name="Crude Oil WTI (F) {Feb 19}" />
+  <SYMBOL Code="WSG20" Name="Crude Oil WTI (F) {Feb 20}" />
+  <SYMBOL Code="WSG21" Name="Crude Oil WTI (F) {Feb 21}" />
+  <SYMBOL Code="WSG22" Name="Crude Oil WTI (F) {Feb 22}" />
+  <SYMBOL Code="WSG23" Name="Crude Oil WTI (F) {Feb 23}" />
+  <SYMBOL Code="WSH19" Name="Crude Oil WTI (F) {Mar 19}" />
+  <SYMBOL Code="WSH20" Name="Crude Oil WTI (F) {Mar 20}" />
+  <SYMBOL Code="WSH21" Name="Crude Oil WTI (F) {Mar 21}" />
+  <SYMBOL Code="WSH22" Name="Crude Oil WTI (F) {Mar 22}" />
+  <SYMBOL Code="WSH23" Name="Crude Oil WTI (F) {Mar 23}" />
+  <SYMBOL Code="WSJ19" Name="Crude Oil WTI (F) {Apr 19}" />
+  <SYMBOL Code="WSJ20" Name="Crude Oil WTI (F) {Apr 20}" />
+  <SYMBOL Code="WSJ21" Name="Crude Oil WTI (F) {Apr 21}" />
+  <SYMBOL Code="WSJ22" Name="Crude Oil WTI (F) {Apr 22}" />
+  <SYMBOL Code="WSJ23" Name="Crude Oil WTI (F) {Apr 23}" />
+  <SYMBOL Code="WSK19" Name="Crude Oil WTI (F) {May 19}" />
+  <SYMBOL Code="WSK20" Name="Crude Oil WTI (F) {May 20}" />
+  <SYMBOL Code="WSK21" Name="Crude Oil WTI (F) {May 21}" />
+  <SYMBOL Code="WSK22" Name="Crude Oil WTI (F) {May 22}" />
+  <SYMBOL Code="WSK23" Name="Crude Oil WTI (F) {May 23}" />
+  <SYMBOL Code="WSM18" Name="Crude Oil WTI (F) {Jun 18}" />
+  <SYMBOL Code="WSM19" Name="Crude Oil WTI (F) {Jun 19}" />
+  <SYMBOL Code="WSM20" Name="Crude Oil WTI (F) {Jun 20}" />
+  <SYMBOL Code="WSM21" Name="Crude Oil WTI (F) {Jun 21}" />
+  <SYMBOL Code="WSM22" Name="Crude Oil WTI (F) {Jun 22}" />
+  <SYMBOL Code="WSM23" Name="Crude Oil WTI (F) {Jun 23}" />
+  <SYMBOL Code="WSM24" Name="Crude Oil WTI (F) {Jun 24}" />
+  <SYMBOL Code="WSM25" Name="Crude Oil WTI (F) {Jun 25}" />
+  <SYMBOL Code="WSM26" Name="Crude Oil WTI (F) {Jun 26}" />
+  <SYMBOL Code="WSN18" Name="Crude Oil WTI (F) {Jul 18}" />
+  <SYMBOL Code="WSN19" Name="Crude Oil WTI (F) {Jul 19}" />
+  <SYMBOL Code="WSN20" Name="Crude Oil WTI (F) {Jul 20}" />
+  <SYMBOL Code="WSN21" Name="Crude Oil WTI (F) {Jul 21}" />
+  <SYMBOL Code="WSN22" Name="Crude Oil WTI (F) {Jul 22}" />
+  <SYMBOL Code="WSN23" Name="Crude Oil WTI (F) {Jul 23}" />
+  <SYMBOL Code="WSQ18" Name="Crude Oil WTI (F) {Aug 18}" />
+  <SYMBOL Code="WSQ19" Name="Crude Oil WTI (F) {Aug 19}" />
+  <SYMBOL Code="WSQ20" Name="Crude Oil WTI (F) {Aug 20}" />
+  <SYMBOL Code="WSQ21" Name="Crude Oil WTI (F) {Aug 21}" />
+  <SYMBOL Code="WSQ22" Name="Crude Oil WTI (F) {Aug 22}" />
+  <SYMBOL Code="WSQ23" Name="Crude Oil WTI (F) {Aug 23}" />
+  <SYMBOL Code="WSU18" Name="Crude Oil WTI (F) {Sep 18}" />
+  <SYMBOL Code="WSU19" Name="Crude Oil WTI (F) {Sep 19}" />
+  <SYMBOL Code="WSU20" Name="Crude Oil WTI (F) {Sep 20}" />
+  <SYMBOL Code="WSU21" Name="Crude Oil WTI (F) {Sep 21}" />
+  <SYMBOL Code="WSU22" Name="Crude Oil WTI (F) {Sep 22}" />
+  <SYMBOL Code="WSU23" Name="Crude Oil WTI (F) {Sep 23}" />
+  <SYMBOL Code="WSV18" Name="Crude Oil WTI (F) {Oct 18}" />
+  <SYMBOL Code="WSV19" Name="Crude Oil WTI (F) {Oct 19}" />
+  <SYMBOL Code="WSV20" Name="Crude Oil WTI (F) {Oct 20}" />
+  <SYMBOL Code="WSV21" Name="Crude Oil WTI (F) {Oct 21}" />
+  <SYMBOL Code="WSV22" Name="Crude Oil WTI (F) {Oct 22}" />
+  <SYMBOL Code="WSV23" Name="Crude Oil WTI (F) {Oct 23}" />
+  <SYMBOL Code="WSX18" Name="Crude Oil WTI (F) {Nov 18}" />
+  <SYMBOL Code="WSX19" Name="Crude Oil WTI (F) {Nov 19}" />
+  <SYMBOL Code="WSX20" Name="Crude Oil WTI (F) {Nov 20}" />
+  <SYMBOL Code="WSX21" Name="Crude Oil WTI (F) {Nov 21}" />
+  <SYMBOL Code="WSX22" Name="Crude Oil WTI (F) {Nov 22}" />
+  <SYMBOL Code="WSX23" Name="Crude Oil WTI (F) {Nov 23}" />
+  <SYMBOL Code="WSZ18" Name="Crude Oil WTI (F) {Dec 18}" />
+  <SYMBOL Code="WSZ19" Name="Crude Oil WTI (F) {Dec 19}" />
+  <SYMBOL Code="WSZ20" Name="Crude Oil WTI (F) {Dec 20}" />
+  <SYMBOL Code="WSZ21" Name="Crude Oil WTI (F) {Dec 21}" />
+  <SYMBOL Code="WSZ22" Name="Crude Oil WTI (F) {Dec 22}" />
+  <SYMBOL Code="WSZ23" Name="Crude Oil WTI (F) {Dec 23}" />
+  <SYMBOL Code="WSZ24" Name="Crude Oil WTI (F) {Dec 24}" />
+  <SYMBOL Code="WSZ25" Name="Crude Oil WTI (F) {Dec 25}" />
+  <SYMBOL Code="WSZ26" Name="Crude Oil WTI (F) {Dec 26}" />
+</ArrayOfSYMBOL>

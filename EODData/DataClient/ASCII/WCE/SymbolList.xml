@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSYMBOL xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SYMBOL Code="RS" Name="Canola" />
+  <SYMBOL Code="RS.C" Name="Canola Continuation" />
+  <SYMBOL Code="RSF19" Name="Canola {Jan 19}" />
+  <SYMBOL Code="RSF20" Name="Canola {Jan 20}" />
+  <SYMBOL Code="RSH19" Name="Canola {Mar 19}" />
+  <SYMBOL Code="RSH20" Name="Canola {Mar 20}" />
+  <SYMBOL Code="RSK18" Name="Canola {May 18}" />
+  <SYMBOL Code="RSK19" Name="Canola {May 19}" />
+  <SYMBOL Code="RSK20" Name="Canola {May 20}" />
+  <SYMBOL Code="RSN18" Name="Canola {Jul 18}" />
+  <SYMBOL Code="RSN19" Name="Canola {Jul 19}" />
+  <SYMBOL Code="RSX18" Name="Canola {Nov 18}" />
+  <SYMBOL Code="RSX19" Name="Canola {Nov 19}" />
+</ArrayOfSYMBOL>

@@ -1,0 +1,10 @@
+#
+importDir: /Users/gsc/IdeaProjects/mythic-recorder-py/EODData/DataClient/ASCII
+#
+snsArn: arn:aws:sns:yourq
+#
+mySqlUserName: recorder
+mySqlPassWord: bogus
+mySqlDataBase: mythic_recorder_v1
+mySqlHostName: localhost
+#
